@@ -1,0 +1,39 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+mainClassName =  'name.neuhalfen.projects.crypto.contentencryption.example.Main'
+
+version = '1.0.0'
+
+def jarAttributes = ['Implementation-Title': 'Contentencryption Examples',
+         'Implementation-Version': version,
+         'Main-Class':  mainClassName ]
+jar {
+    manifest {
+        attributes jarAttributes
+    }
+}
+
+repositories {
+    mavenLocal()
+    jcenter()
+}
+
+dependencies {
+    compile 'org.bouncycastle:bcprov-jdk15on:1.56'
+    compile 'org.bouncycastle:bcpg-jdk15on:1.56'
+
+    compile 'name.neuhalfen.projects.crypto.bouncycastle.openpgp:bouncy-gpg:2.+'
+
+    compile 'org.slf4j:slf4j-api:1.7.22'
+    compile 'ch.qos.logback:logback-classic:1.2.1'
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.7'
+}
