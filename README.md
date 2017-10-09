@@ -23,7 +23,15 @@ Here are some example slides. The whole presentation (Keynote) can be found [her
 
 ![Disclaimer](README.inc/Neuhalfen_Content-Encryption.005.jpeg)
 
+![Value of data](README.inc/Neuhalfen_Content-Encryption.006.jpeg)
+
 ![Why?](README.inc/Neuhalfen_Content-Encryption.013.jpeg)
+
+![Why?](README.inc/Neuhalfen_Content-Encryption.014.jpeg)
+
+![Data classification](README.inc/Neuhalfen_Content-Encryption.030.jpeg)
+
+![Trust Anchors](README.inc/Neuhalfen_Content-Encryption.037.jpeg)
 
 ![Pattern 1/2](README.inc/Neuhalfen_Content-Encryption.125.jpeg)
 
@@ -33,15 +41,13 @@ Here are some example slides. The whole presentation (Keynote) can be found [her
 
 ![Transparent Encryption 2](README.inc/Neuhalfen_Content-Encryption.061.jpeg)
 
-
 ![Storing Keys](README.inc/Neuhalfen_Content-Encryption.074.jpeg)
-
 
 ![Algorithm Rollover](README.inc/Neuhalfen_Content-Encryption.083.jpeg)
 
+![Login](README.inc/Neuhalfen_Content-Encryption.075.jpeg)
 
 ![Data Integrity](README.inc/Neuhalfen_Content-Encryption.093.jpeg)
-
 
 ![Access Control](README.inc/Neuhalfen_Content-Encryption.110.jpeg)
 
