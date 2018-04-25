@@ -15,6 +15,13 @@ Content encryption and other cryptographic measures can help bring together tech
 You might even push _snooze_ on your alarm clock when the next _Heartbleed_ hits the news.
 
 
+Where
+-----
+* _coming_ 18. Gulaschprogrammiernacht (CCC Karlsruhe)
+* [German Perl Workshop 2018](http://act.yapc.eu/gpw2018/talk/7310)
+* [FrosCon 2017](https://programm.froscon.de/2017/events/1912.html) [recording](https://media.ccc.de/v/froscon2017-1912-practical_content_encryption)
+* [Java User Group Cologne 2017](https://www.xing.com/events/jugc-schlafen-inhaltsverschlusselung-1803807)
+
 Slides
 ==========
 
