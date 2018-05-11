@@ -56,7 +56,7 @@
       "width" : 964,
       "height" : 5
     },
-    "5862779C4EEB8052B3431E89606ED185" : {
+    "36F8306295236F98CA01E548225C19B4" : {
       "type" : "texture",
       "index" : 11,
       "assetRequest" : {
@@ -84,7 +84,7 @@
       "width" : 920,
       "height" : 180
     },
-    "FBB5DEA59905EE30EF2803B0A74DF992" : {
+    "9DC49DFBF5D7F4C9CAA4E48AA066AE4A" : {
       "type" : "texture",
       "index" : 0,
       "assetRequest" : {
@@ -126,20 +126,6 @@
       "width" : 498,
       "height" : 20
     },
-    "EB28A0036FA5298B2EF7C90775A6D9A3" : {
-      "type" : "texture",
-      "index" : 6,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/BE6BC223-2A7D-4CDA-81F3-DFDE34B527E3.pdf"
-      },
-      "width" : 22,
-      "height" : 20
-    },
     "83AEA38BA3C292661A3E888C70C8E1B8" : {
       "type" : "texture",
       "index" : 9,
@@ -154,7 +140,7 @@
       "width" : 189,
       "height" : 88
     },
-    "6C8F3A778165765BF2DFD5354BA3E050" : {
+    "B825626CCE3DD74615BE6BFFAAA47F16" : {
       "type" : "texture",
       "index" : 10,
       "assetRequest" : {
@@ -167,6 +153,20 @@
       },
       "width" : 1024,
       "height" : 768
+    },
+    "763F2C241DC1912BA77A29A23BE50E3F" : {
+      "type" : "texture",
+      "index" : 6,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/BE6BC223-2A7D-4CDA-81F3-DFDE34B527E3.pdf"
+      },
+      "width" : 26,
+      "height" : 20
     }
   },
   "events" : [
@@ -350,7 +350,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6C8F3A778165765BF2DFD5354BA3E050"
+                    "texture" : "B825626CCE3DD74615BE6BFFAAA47F16"
                   },
                   {
                     "animations" : [
@@ -431,7 +431,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "5862779C4EEB8052B3431E89606ED185"
+                    "texture" : "36F8306295236F98CA01E548225C19B4"
                   }
                 ]
               }
@@ -478,38 +478,29 @@
       ],
       "accessibility" : [
         {
+          "text" : "Trust Anchors",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 242.40000000000003,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "￼",
           "targetRectangle" : {
             "y" : 38,
             "x" : 964.57660043239594,
             "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Problem: You do not know when to start trusting \/ stop discussing",
-          "targetRectangle" : {
-            "y" : 175.24711608886719,
-            "x" : 36,
-            "width" : 947.25224000000037,
-            "height" : 67.760000467300415
-          }
-        },
-        {
-          "text" : "Solution: Define your trust anchors",
-          "targetRectangle" : {
-            "y" : 243.0071165561676,
-            "x" : 36,
-            "width" : 505.73504000000003,
-            "height" : 42
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
             "height" : 28
           }
         },
@@ -541,6 +532,24 @@
           }
         },
         {
+          "text" : "Problem: You do not know when to start trusting \/ stop discussing",
+          "targetRectangle" : {
+            "y" : 175.24711608886719,
+            "x" : 36,
+            "width" : 947.25224000000037,
+            "height" : 67.760000467300415
+          }
+        },
+        {
+          "text" : "Solution: Define your trust anchors",
+          "targetRectangle" : {
+            "y" : 243.0071165561676,
+            "x" : 36,
+            "width" : 505.73504000000003,
+            "height" : 42
+          }
+        },
+        {
           "text" : "*  Threat modelling not discussed here but it is really important!",
           "targetRectangle" : {
             "y" : 719.9071044921875,
@@ -550,20 +559,11 @@
           }
         },
         {
-          "text" : "Trust Anchors",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 242.40000000000003,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
             "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
             "height" : 28
           }
         }
@@ -799,7 +799,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
+                    "texture" : "9DC49DFBF5D7F4C9CAA4E48AA066AE4A"
                   }
                 ]
               }
@@ -1834,10 +1834,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 970.57660043239594,
+                    "pointX" : 972.57660043239594,
                     "pointY" : 44
                   },
-                  "width" : 22,
+                  "width" : 26,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -1906,10 +1906,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 14.423399567604065,
+                        "pointX" : 16.423399567604065,
                         "pointY" : 18
                       },
-                      "width" : 22,
+                      "width" : 26,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1943,7 +1943,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "EB28A0036FA5298B2EF7C90775A6D9A3"
+                    "texture" : "763F2C241DC1912BA77A29A23BE50E3F"
                   }
                 ]
               }

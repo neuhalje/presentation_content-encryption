@@ -28,6 +28,20 @@
       "width" : 509,
       "height" : 122
     },
+    "A78FADC8893450BA88C5D369D422399B" : {
+      "type" : "texture",
+      "index" : 8,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/D2146967-7E82-4D22-A9C3-97534E05DBD1.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
     "A6176F3CE0C6AD70EB14A9B86F52356A" : {
       "type" : "texture",
       "index" : 4,
@@ -41,6 +55,20 @@
       },
       "width" : 298,
       "height" : 297
+    },
+    "F326CF786598F597C452B95EBFB70171" : {
+      "type" : "texture",
+      "index" : 5,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/D2146967-7E82-4D22-A9C3-97534E05DBD1.pdf"
+      },
+      "width" : 26,
+      "height" : 20
     },
     "1EA1A98AD3503D5A2B9EC9DB85437551" : {
       "type" : "texture",
@@ -56,20 +84,6 @@
       "width" : 532,
       "height" : 6
     },
-    "3652491581F6A0D28EDF310FD789771E" : {
-      "type" : "texture",
-      "index" : 8,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/D2146967-7E82-4D22-A9C3-97534E05DBD1.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
     "E86E9829708F76D94D3EB55D651488D3" : {
       "type" : "texture",
       "index" : 6,
@@ -83,20 +97,6 @@
       },
       "width" : 293,
       "height" : 121
-    },
-    "3FC5AA80BA3EA28F18E1E77D76A778F4" : {
-      "type" : "texture",
-      "index" : 5,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/D2146967-7E82-4D22-A9C3-97534E05DBD1.pdf"
-      },
-      "width" : 26,
-      "height" : 20
     },
     "D551FD47612D2BA033F063D24CE1D63A" : {
       "type" : "texture",
@@ -389,7 +389,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "3652491581F6A0D28EDF310FD789771E"
+                    "texture" : "A78FADC8893450BA88C5D369D422399B"
                   }
                 ]
               }
@@ -410,24 +410,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 965.19220101833344,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Patterns",
-          "targetRectangle" : {
-            "y" : 411,
-            "x" : 468,
-            "width" : 241.8134765625,
-            "height" : 63
-          }
-        },
-        {
           "text" : "ic_action_lock_open.png",
           "targetRectangle" : {
             "y" : 63.507095336914062,
@@ -437,12 +419,12 @@
           }
         },
         {
-          "text" : "0x123456…",
+          "text" : "￼",
           "targetRectangle" : {
-            "y" : 189.28836059570312,
-            "x" : 639.43392987060543,
-            "width" : 111.80400000000009,
-            "height" : 28.40008544921875
+            "y" : 38,
+            "x" : 965.19220101833344,
+            "width" : 23.0390625,
+            "height" : 28
           }
         },
         {
@@ -461,6 +443,24 @@
             "x" : 198.08695983886719,
             "width" : 166.83197021484375,
             "height" : 166.83193969726562
+          }
+        },
+        {
+          "text" : "0x123456…",
+          "targetRectangle" : {
+            "y" : 189.28836059570312,
+            "x" : 639.43392987060543,
+            "width" : 111.80400000000009,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Patterns",
+          "targetRectangle" : {
+            "y" : 411,
+            "x" : 468,
+            "width" : 241.8134765625,
+            "height" : 63
           }
         },
         {
@@ -1655,7 +1655,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "3FC5AA80BA3EA28F18E1E77D76A778F4"
+                    "texture" : "F326CF786598F597C452B95EBFB70171"
                   }
                 ]
               }

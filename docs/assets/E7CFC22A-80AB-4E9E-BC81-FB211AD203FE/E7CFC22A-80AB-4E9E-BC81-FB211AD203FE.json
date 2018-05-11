@@ -1,5 +1,19 @@
 {
   "assets" : {
+    "23F557BF7AD21F2380C587763608C84D" : {
+      "type" : "texture",
+      "index" : 9,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/E7CFC22A-80AB-4E9E-BC81-FB211AD203FE.pdf"
+      },
+      "width" : 1024,
+      "height" : 40
+    },
     "F64151B7A09E23A6C7A1D022B01DAB50" : {
       "type" : "texture",
       "index" : 7,
@@ -14,9 +28,9 @@
       "width" : 386,
       "height" : 38
     },
-    "EC9B29E38BF256A79B691BCC190060AA" : {
+    "23171962EE6D82AA66BD34AEB602C0C3" : {
       "type" : "texture",
-      "index" : 11,
+      "index" : 4,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -25,22 +39,8 @@
       "url" : {
         "native" : "assets\/E7CFC22A-80AB-4E9E-BC81-FB211AD203FE.pdf"
       },
-      "width" : 26,
-      "height" : 20
-    },
-    "148B09FF48C4EEA1553F4CD76F5E89F5" : {
-      "type" : "texture",
-      "index" : 8,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/E7CFC22A-80AB-4E9E-BC81-FB211AD203FE.pdf"
-      },
-      "width" : 173,
-      "height" : 376
+      "width" : 97,
+      "height" : 98
     },
     "C0D78B79BD8C8A86930412C2AE097FA2" : {
       "type" : "texture",
@@ -54,6 +54,20 @@
         "native" : "assets\/E7CFC22A-80AB-4E9E-BC81-FB211AD203FE.pdf"
       },
       "width" : 498,
+      "height" : 20
+    },
+    "F579DCD6DB43D38E58D362CBE8EDE0F9" : {
+      "type" : "texture",
+      "index" : 11,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/E7CFC22A-80AB-4E9E-BC81-FB211AD203FE.pdf"
+      },
+      "width" : 26,
       "height" : 20
     },
     "448C6A2098FFBC5ACE0A852183B242BE" : {
@@ -196,6 +210,20 @@
       "width" : 466,
       "height" : 64
     },
+    "425054C6FD494B44D8828050A4DEBD38" : {
+      "type" : "texture",
+      "index" : 23,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/E7CFC22A-80AB-4E9E-BC81-FB211AD203FE.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
     "0EAF7B8F46D578E8BB437D67E8E48AD7" : {
       "type" : "texture",
       "index" : 16,
@@ -237,20 +265,6 @@
       },
       "width" : 99,
       "height" : 72
-    },
-    "2598C0CC85C9C565FA6C641137F63B26" : {
-      "type" : "texture",
-      "index" : 24,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/E7CFC22A-80AB-4E9E-BC81-FB211AD203FE.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
     },
     "88AF9EB308A4834817D7C240B39D4ABF" : {
       "type" : "texture",
@@ -294,9 +308,9 @@
       "width" : 87,
       "height" : 22
     },
-    "54364B788A6901D3206FA072701DC2C4" : {
+    "730A6A320AAF86C7A4983B2B12C66AD2" : {
       "type" : "texture",
-      "index" : 23,
+      "index" : 24,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -322,9 +336,9 @@
       "width" : 944,
       "height" : 99
     },
-    "23171962EE6D82AA66BD34AEB602C0C3" : {
+    "148B09FF48C4EEA1553F4CD76F5E89F5" : {
       "type" : "texture",
-      "index" : 4,
+      "index" : 8,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -333,22 +347,8 @@
       "url" : {
         "native" : "assets\/E7CFC22A-80AB-4E9E-BC81-FB211AD203FE.pdf"
       },
-      "width" : 97,
-      "height" : 98
-    },
-    "23F557BF7AD21F2380C587763608C84D" : {
-      "type" : "texture",
-      "index" : 9,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/E7CFC22A-80AB-4E9E-BC81-FB211AD203FE.pdf"
-      },
-      "width" : 1024,
-      "height" : 40
+      "width" : 173,
+      "height" : 376
     }
   },
   "events" : [
@@ -575,183 +575,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "+ rn.id + rn.ver ",
-          "targetRectangle" : {
-            "y" : 593.49627733230591,
-            "x" : 114.63299560546875,
-            "width" : 479.96666833114625,
-            "height" : 93.000000741714757
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 322.47122192382812,
-            "x" : 23.075439453125,
-            "width" : 94.666664123535156,
-            "height" : 94.666664123535156
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 420.64999389648438,
-            "x" : 722.35955810546875,
-            "width" : 94.666664123535156,
-            "height" : 94.666664123535156
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 129,
-            "x" : 943.63897705078125,
-            "width" : 48,
-            "height" : 48
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 318.35836791992188,
-            "x" : 722.35955810546875,
-            "width" : 94.666664123535156,
-            "height" : 94.666664123535156
-          }
-        },
-        {
-          "text" : "+",
-          "targetRectangle" : {
-            "y" : 318.34597682952881,
-            "x" : 809.376220703125,
-            "width" : 47.951999999999998,
-            "height" : 98
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 424.76284790039062,
-            "x" : 23.075439453125,
-            "width" : 94.666664123535156,
-            "height" : 94.666664123535156
-          }
-        },
-        {
-          "text" : "IV",
-          "targetRectangle" : {
-            "y" : 620.33157348632812,
-            "x" : 915.96412744140628,
-            "width" : 17.107999999999947,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "key_yellow_light.png",
-          "targetRectangle" : {
-            "y" : 602.6629638671875,
-            "x" : 730.35955810546875,
-            "width" : 94.666664123535156,
-            "height" : 94.666664123535156
-          }
-        },
-        {
-          "text" : "Important: Never use the same key\/IV to encrypt different data",
-          "targetRectangle" : {
-            "y" : 705.10623157024384,
-            "x" : 209.20801239776614,
-            "width" : 605.58399999999983,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "key_yellow_light.png",
-          "targetRectangle" : {
-            "y" : 105,
-            "x" : 925.87152099609375,
-            "width" : 48,
-            "height" : 48
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 596.77581787109375,
-            "x" : 23.075439453125,
-            "width" : 94.666664123535156,
-            "height" : 94.666664123535156
-          }
-        },
-        {
-          "text" : "Derive per record keys",
-          "targetRectangle" : {
-            "y" : 124.5,
-            "x" : 49.644313812255859,
-            "width" : 385.67999999999995,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
             "x" : 36,
             "width" : 498.60234439373016,
             "height" : 28
-          }
-        },
-        {
-          "text" : "+ r1.id + r1.ver ",
-          "targetRectangle" : {
-            "y" : 323.30456590652466,
-            "x" : 114.63299560546875,
-            "width" : 482.68666841220852,
-            "height" : 93.000000741714757
-          }
-        },
-        {
-          "text" : "IV",
-          "targetRectangle" : {
-            "y" : 455.63760375976562,
-            "x" : 916.08223046875003,
-            "width" : 17.107999999999947,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "+",
-          "targetRectangle" : {
-            "y" : 420.63760662078857,
-            "x" : 808.376220703125,
-            "width" : 47.951999999999998,
-            "height" : 98
-          }
-        },
-        {
-          "text" : "+",
-          "targetRectangle" : {
-            "y" : 585.33157634735107,
-            "x" : 808.25811767578125,
-            "width" : 47.951999999999998,
-            "height" : 98
           }
         },
         {
@@ -782,30 +611,12 @@
           }
         },
         {
-          "text" : "+ r2.id + r2.ver ",
+          "text" : "+",
           "targetRectangle" : {
-            "y" : 421.47811937332153,
-            "x" : 114.63299560546875,
-            "width" : 482.68666841220852,
-            "height" : 93.000000741714757
-          }
-        },
-        {
-          "text" : "IV",
-          "targetRectangle" : {
-            "y" : 353.34597492218018,
-            "x" : 916.08223046875003,
-            "width" : 17.107999999999947,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 129,
-            "x" : 909.63897705078125,
-            "width" : 48,
-            "height" : 48
+            "y" : 318.34597682952881,
+            "x" : 809.376220703125,
+            "width" : 47.951999999999998,
+            "height" : 98
           }
         },
         {
@@ -818,12 +629,201 @@
           }
         },
         {
+          "text" : "IV",
+          "targetRectangle" : {
+            "y" : 353.34597492218018,
+            "x" : 916.08223046875003,
+            "width" : 17.107999999999947,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 129,
+            "x" : 943.63897705078125,
+            "width" : 48,
+            "height" : 48
+          }
+        },
+        {
+          "text" : "IV",
+          "targetRectangle" : {
+            "y" : 620.33157348632812,
+            "x" : 915.96412744140628,
+            "width" : 17.107999999999947,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "IV",
+          "targetRectangle" : {
+            "y" : 455.63760375976562,
+            "x" : 916.08223046875003,
+            "width" : 17.107999999999947,
+            "height" : 28.40008544921875
+          }
+        },
+        {
           "text" : "Make sure that the master key has enough entropy for derived key and derived IV",
           "targetRectangle" : {
             "y" : 738.74996972084045,
             "x" : 115.18398474121096,
             "width" : 793.63200000000006,
             "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Derive per record keys",
+          "targetRectangle" : {
+            "y" : 124.5,
+            "x" : 49.644313812255859,
+            "width" : 385.67999999999995,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 596.77581787109375,
+            "x" : 23.075439453125,
+            "width" : 94.666664123535156,
+            "height" : 94.666664123535156
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 322.47122192382812,
+            "x" : 23.075439453125,
+            "width" : 94.666664123535156,
+            "height" : 94.666664123535156
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 105,
+            "x" : 925.87152099609375,
+            "width" : 48,
+            "height" : 48
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 424.76284790039062,
+            "x" : 23.075439453125,
+            "width" : 94.666664123535156,
+            "height" : 94.666664123535156
+          }
+        },
+        {
+          "text" : "+",
+          "targetRectangle" : {
+            "y" : 585.33157634735107,
+            "x" : 808.25811767578125,
+            "width" : 47.951999999999998,
+            "height" : 98
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "+",
+          "targetRectangle" : {
+            "y" : 420.63760662078857,
+            "x" : 808.376220703125,
+            "width" : 47.951999999999998,
+            "height" : 98
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 602.6629638671875,
+            "x" : 730.35955810546875,
+            "width" : 94.666664123535156,
+            "height" : 94.666664123535156
+          }
+        },
+        {
+          "text" : "+ r1.id + r1.ver ",
+          "targetRectangle" : {
+            "y" : 323.30456590652466,
+            "x" : 114.63299560546875,
+            "width" : 482.68666841220852,
+            "height" : 93.000000741714757
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 318.35836791992188,
+            "x" : 722.35955810546875,
+            "width" : 94.666664123535156,
+            "height" : 94.666664123535156
+          }
+        },
+        {
+          "text" : "+ r2.id + r2.ver ",
+          "targetRectangle" : {
+            "y" : 421.47811937332153,
+            "x" : 114.63299560546875,
+            "width" : 482.68666841220852,
+            "height" : 93.000000741714757
+          }
+        },
+        {
+          "text" : "+ rn.id + rn.ver ",
+          "targetRectangle" : {
+            "y" : 593.49627733230591,
+            "x" : 114.63299560546875,
+            "width" : 479.96666833114625,
+            "height" : 93.000000741714757
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 129,
+            "x" : 909.63897705078125,
+            "width" : 48,
+            "height" : 48
+          }
+        },
+        {
+          "text" : "Important: Never use the same key\/IV to encrypt different data",
+          "targetRectangle" : {
+            "y" : 705.10623157024384,
+            "x" : 209.20801239776614,
+            "width" : 605.58399999999983,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 420.64999389648438,
+            "x" : 722.35955810546875,
+            "width" : 94.666664123535156,
+            "height" : 94.666664123535156
           }
         }
       ],
@@ -3241,7 +3241,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "EC9B29E38BF256A79B691BCC190060AA"
+                    "texture" : "F579DCD6DB43D38E58D362CBE8EDE0F9"
                   }
                 ]
               }
@@ -5836,7 +5836,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "54364B788A6901D3206FA072701DC2C4"
+                    "texture" : "425054C6FD494B44D8828050A4DEBD38"
                   },
                   {
                     "animations" : [
@@ -5917,7 +5917,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "2598C0CC85C9C565FA6C641137F63B26"
+                    "texture" : "730A6A320AAF86C7A4983B2B12C66AD2"
                   }
                 ]
               }
@@ -5946,183 +5946,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "+ rn.id + rn.ver ",
-          "targetRectangle" : {
-            "y" : 593.49627733230591,
-            "x" : 114.63299560546875,
-            "width" : 479.96666833114625,
-            "height" : 93.000000741714757
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 322.47122192382812,
-            "x" : 23.075439453125,
-            "width" : 94.666664123535156,
-            "height" : 94.666664123535156
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 420.64999389648438,
-            "x" : 722.35955810546875,
-            "width" : 94.666664123535156,
-            "height" : 94.666664123535156
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 129,
-            "x" : 943.63897705078125,
-            "width" : 48,
-            "height" : 48
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 318.35836791992188,
-            "x" : 722.35955810546875,
-            "width" : 94.666664123535156,
-            "height" : 94.666664123535156
-          }
-        },
-        {
-          "text" : "+",
-          "targetRectangle" : {
-            "y" : 318.34597682952881,
-            "x" : 809.376220703125,
-            "width" : 47.951999999999998,
-            "height" : 98
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 424.76284790039062,
-            "x" : 23.075439453125,
-            "width" : 94.666664123535156,
-            "height" : 94.666664123535156
-          }
-        },
-        {
-          "text" : "IV",
-          "targetRectangle" : {
-            "y" : 620.33157348632812,
-            "x" : 915.96412744140628,
-            "width" : 17.107999999999947,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "key_yellow_light.png",
-          "targetRectangle" : {
-            "y" : 602.6629638671875,
-            "x" : 730.35955810546875,
-            "width" : 94.666664123535156,
-            "height" : 94.666664123535156
-          }
-        },
-        {
-          "text" : "Important: Never use the same key\/IV to encrypt different data",
-          "targetRectangle" : {
-            "y" : 705.10623157024384,
-            "x" : 209.20801239776614,
-            "width" : 605.58399999999983,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "key_yellow_light.png",
-          "targetRectangle" : {
-            "y" : 105,
-            "x" : 925.87152099609375,
-            "width" : 48,
-            "height" : 48
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 596.77581787109375,
-            "x" : 23.075439453125,
-            "width" : 94.666664123535156,
-            "height" : 94.666664123535156
-          }
-        },
-        {
-          "text" : "Derive per record keys",
-          "targetRectangle" : {
-            "y" : 124.5,
-            "x" : 49.644313812255859,
-            "width" : 385.67999999999995,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
             "x" : 36,
             "width" : 498.60234439373016,
             "height" : 28
-          }
-        },
-        {
-          "text" : "+ r1.id + r1.ver ",
-          "targetRectangle" : {
-            "y" : 323.30456590652466,
-            "x" : 114.63299560546875,
-            "width" : 482.68666841220852,
-            "height" : 93.000000741714757
-          }
-        },
-        {
-          "text" : "IV",
-          "targetRectangle" : {
-            "y" : 455.63760375976562,
-            "x" : 916.08223046875003,
-            "width" : 17.107999999999947,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "+",
-          "targetRectangle" : {
-            "y" : 420.63760662078857,
-            "x" : 808.376220703125,
-            "width" : 47.951999999999998,
-            "height" : 98
-          }
-        },
-        {
-          "text" : "+",
-          "targetRectangle" : {
-            "y" : 585.33157634735107,
-            "x" : 808.25811767578125,
-            "width" : 47.951999999999998,
-            "height" : 98
           }
         },
         {
@@ -6153,30 +5982,12 @@
           }
         },
         {
-          "text" : "+ r2.id + r2.ver ",
+          "text" : "+",
           "targetRectangle" : {
-            "y" : 421.47811937332153,
-            "x" : 114.63299560546875,
-            "width" : 482.68666841220852,
-            "height" : 93.000000741714757
-          }
-        },
-        {
-          "text" : "IV",
-          "targetRectangle" : {
-            "y" : 353.34597492218018,
-            "x" : 916.08223046875003,
-            "width" : 17.107999999999947,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 129,
-            "x" : 909.63897705078125,
-            "width" : 48,
-            "height" : 48
+            "y" : 318.34597682952881,
+            "x" : 809.376220703125,
+            "width" : 47.951999999999998,
+            "height" : 98
           }
         },
         {
@@ -6189,12 +6000,201 @@
           }
         },
         {
+          "text" : "IV",
+          "targetRectangle" : {
+            "y" : 353.34597492218018,
+            "x" : 916.08223046875003,
+            "width" : 17.107999999999947,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 129,
+            "x" : 943.63897705078125,
+            "width" : 48,
+            "height" : 48
+          }
+        },
+        {
+          "text" : "IV",
+          "targetRectangle" : {
+            "y" : 620.33157348632812,
+            "x" : 915.96412744140628,
+            "width" : 17.107999999999947,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "IV",
+          "targetRectangle" : {
+            "y" : 455.63760375976562,
+            "x" : 916.08223046875003,
+            "width" : 17.107999999999947,
+            "height" : 28.40008544921875
+          }
+        },
+        {
           "text" : "Make sure that the master key has enough entropy for derived key and derived IV",
           "targetRectangle" : {
             "y" : 738.74996972084045,
             "x" : 115.18398474121096,
             "width" : 793.63200000000006,
             "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Derive per record keys",
+          "targetRectangle" : {
+            "y" : 124.5,
+            "x" : 49.644313812255859,
+            "width" : 385.67999999999995,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 596.77581787109375,
+            "x" : 23.075439453125,
+            "width" : 94.666664123535156,
+            "height" : 94.666664123535156
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 322.47122192382812,
+            "x" : 23.075439453125,
+            "width" : 94.666664123535156,
+            "height" : 94.666664123535156
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 105,
+            "x" : 925.87152099609375,
+            "width" : 48,
+            "height" : 48
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 424.76284790039062,
+            "x" : 23.075439453125,
+            "width" : 94.666664123535156,
+            "height" : 94.666664123535156
+          }
+        },
+        {
+          "text" : "+",
+          "targetRectangle" : {
+            "y" : 585.33157634735107,
+            "x" : 808.25811767578125,
+            "width" : 47.951999999999998,
+            "height" : 98
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "+",
+          "targetRectangle" : {
+            "y" : 420.63760662078857,
+            "x" : 808.376220703125,
+            "width" : 47.951999999999998,
+            "height" : 98
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 602.6629638671875,
+            "x" : 730.35955810546875,
+            "width" : 94.666664123535156,
+            "height" : 94.666664123535156
+          }
+        },
+        {
+          "text" : "+ r1.id + r1.ver ",
+          "targetRectangle" : {
+            "y" : 323.30456590652466,
+            "x" : 114.63299560546875,
+            "width" : 482.68666841220852,
+            "height" : 93.000000741714757
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 318.35836791992188,
+            "x" : 722.35955810546875,
+            "width" : 94.666664123535156,
+            "height" : 94.666664123535156
+          }
+        },
+        {
+          "text" : "+ r2.id + r2.ver ",
+          "targetRectangle" : {
+            "y" : 421.47811937332153,
+            "x" : 114.63299560546875,
+            "width" : 482.68666841220852,
+            "height" : 93.000000741714757
+          }
+        },
+        {
+          "text" : "+ rn.id + rn.ver ",
+          "targetRectangle" : {
+            "y" : 593.49627733230591,
+            "x" : 114.63299560546875,
+            "width" : 479.96666833114625,
+            "height" : 93.000000741714757
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 129,
+            "x" : 909.63897705078125,
+            "width" : 48,
+            "height" : 48
+          }
+        },
+        {
+          "text" : "Important: Never use the same key\/IV to encrypt different data",
+          "targetRectangle" : {
+            "y" : 705.10623157024384,
+            "x" : 209.20801239776614,
+            "width" : 605.58399999999983,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 420.64999389648438,
+            "x" : 722.35955810546875,
+            "width" : 94.666664123535156,
+            "height" : 94.666664123535156
           }
         }
       ],
@@ -8612,7 +8612,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "EC9B29E38BF256A79B691BCC190060AA"
+                    "texture" : "F579DCD6DB43D38E58D362CBE8EDE0F9"
                   }
                 ]
               }

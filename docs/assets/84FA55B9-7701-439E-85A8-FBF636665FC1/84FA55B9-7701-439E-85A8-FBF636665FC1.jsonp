@@ -2,37 +2,9 @@ local_slide( {
   "name" : "84FA55B9-7701-439E-85A8-FBF636665FC1",
   "json" : {
     "assets" : {
-      "8C4F727C497133C043DB83CB79A42778" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/84FA55B9-7701-439E-85A8-FBF636665FC1.pdf"
-        },
-        "width" : 26,
-        "height" : 20
-      },
       "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
         "index" : 0,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/84FA55B9-7701-439E-85A8-FBF636665FC1.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
-      "DA39D3E43380DC649B85615EB9C37EE0" : {
-        "type" : "texture",
-        "index" : 9,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -100,7 +72,7 @@ local_slide( {
         "width" : 399,
         "height" : 103
       },
-      "640D5297D59088D46FE63A28D36F2264" : {
+      "F924724A151718F485223EE8776F562F" : {
         "type" : "texture",
         "index" : 1,
         "assetRequest" : {
@@ -128,9 +100,9 @@ local_slide( {
         "width" : 553,
         "height" : 235
       },
-      "E151ECBDDA0D45DF15B22E7D524CB1CE" : {
+      "388D4E7592E2B1AD4A6D0F37738CEB64" : {
         "type" : "texture",
-        "index" : 10,
+        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -139,8 +111,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/84FA55B9-7701-439E-85A8-FBF636665FC1.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 26,
+        "height" : 20
       },
       "C0D78B79BD8C8A86930412C2AE097FA2" : {
         "type" : "texture",
@@ -155,6 +127,34 @@ local_slide( {
         },
         "width" : 498,
         "height" : 20
+      },
+      "D5583AF1BA6380A5F33FD8E43CE7B35E" : {
+        "type" : "texture",
+        "index" : 9,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/84FA55B9-7701-439E-85A8-FBF636665FC1.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
+      "6D5B0D4B5603343D8B9CE3DC6107AEC0" : {
+        "type" : "texture",
+        "index" : 10,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/84FA55B9-7701-439E-85A8-FBF636665FC1.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       }
     },
     "events" : [
@@ -338,7 +338,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "DA39D3E43380DC649B85615EB9C37EE0"
+                      "texture" : "D5583AF1BA6380A5F33FD8E43CE7B35E"
                     },
                     {
                       "animations" : [
@@ -419,7 +419,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "E151ECBDDA0D45DF15B22E7D524CB1CE"
+                      "texture" : "6D5B0D4B5603343D8B9CE3DC6107AEC0"
                     }
                   ]
                 }
@@ -448,33 +448,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "and my",
-            "targetRectangle" : {
-              "y" : 284.51718139648438,
-              "x" : 857.17919921875,
-              "width" : 121.75400000000002,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
             "text" : "password is ",
             "targetRectangle" : {
               "y" : 335.92108047008514,
@@ -484,48 +457,12 @@ local_slide( {
             }
           },
           {
-            "text" : "User login",
+            "text" : "Scott",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 176.83200000000002,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "tiger",
-            "targetRectangle" : {
-              "y" : 344.54322814941406,
-              "x" : 910.62794827270511,
-              "width" : 49.223999999999933,
+              "y" : 298.64573669433594,
+              "x" : 784.35533425903316,
+              "width" : 52.948000000000093,
               "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "https:\/\/www.owasp.org\/index.php\/Password_Storage_Cheat_Sheet",
-            "targetRectangle" : {
-              "y" : 298.99999904632568,
-              "x" : 32.559436798095703,
-              "width" : 549.67800000000011,
-              "height" : 120
-            }
-          },
-          {
-            "text" : "Also: OAUTH, Kerberos, …",
-            "targetRectangle" : {
-              "y" : 492.99999904632568,
-              "x" : 32.559436798095703,
-              "width" : 416.33000000000004,
-              "height" : 46
             }
           },
           {
@@ -547,6 +484,69 @@ local_slide( {
             }
           },
           {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "tiger",
+            "targetRectangle" : {
+              "y" : 344.54322814941406,
+              "x" : 910.62794827270511,
+              "width" : 49.223999999999933,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "and my",
+            "targetRectangle" : {
+              "y" : 284.51718139648438,
+              "x" : 857.17919921875,
+              "width" : 121.75400000000002,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "https:\/\/www.owasp.org\/index.php\/Password_Storage_Cheat_Sheet",
+            "targetRectangle" : {
+              "y" : 298.99999904632568,
+              "x" : 32.559436798095703,
+              "width" : 549.67800000000011,
+              "height" : 120
+            }
+          },
+          {
+            "text" : "Also: OAUTH, Kerberos, …",
+            "targetRectangle" : {
+              "y" : 492.99999904632568,
+              "x" : 32.559436798095703,
+              "width" : 416.33000000000004,
+              "height" : 46
+            }
+          },
+          {
             "text" : "I’m ",
             "targetRectangle" : {
               "y" : 285.11328125,
@@ -556,12 +556,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Scott",
+            "text" : "User login",
             "targetRectangle" : {
-              "y" : 298.64573669433594,
-              "x" : 784.35533425903316,
-              "width" : 52.948000000000093,
-              "height" : 28.40008544921875
+              "y" : 125,
+              "x" : 36,
+              "width" : 176.83200000000002,
+              "height" : 48.400146484375
             }
           }
         ],
@@ -1005,7 +1005,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "640D5297D59088D46FE63A28D36F2264"
+                      "texture" : "F924724A151718F485223EE8776F562F"
                     }
                   ]
                 }
@@ -1753,7 +1753,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "8C4F727C497133C043DB83CB79A42778"
+                      "texture" : "388D4E7592E2B1AD4A6D0F37738CEB64"
                     }
                   ]
                 }

@@ -2,9 +2,9 @@ local_slide( {
   "name" : "A697A35D-A1C5-4B04-8653-772C7B7EECE5",
   "json" : {
     "assets" : {
-      "52AA9B1CECDF0D0C5DE4699893B20C28" : {
+      "34DE0CF6A5E5E49FF370300D9B532A3B" : {
         "type" : "texture",
-        "index" : 13,
+        "index" : 15,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -13,8 +13,22 @@ local_slide( {
         "url" : {
           "native" : "assets\/A697A35D-A1C5-4B04-8653-772C7B7EECE5.pdf"
         },
-        "width" : 101,
-        "height" : 40
+        "width" : 1024,
+        "height" : 768
+      },
+      "08EF5E915EB102BCF375F277E2A04E80" : {
+        "type" : "texture",
+        "index" : 9,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/A697A35D-A1C5-4B04-8653-772C7B7EECE5.pdf"
+        },
+        "width" : 26,
+        "height" : 20
       },
       "640D5297D59088D46FE63A28D36F2264" : {
         "type" : "texture",
@@ -30,20 +44,6 @@ local_slide( {
         "width" : 964,
         "height" : 5
       },
-      "D10FA8551DDBC3C7EAB2DB71618988D0" : {
-        "type" : "texture",
-        "index" : 9,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/A697A35D-A1C5-4B04-8653-772C7B7EECE5.pdf"
-        },
-        "width" : 25,
-        "height" : 20
-      },
       "23D1FAC746CE0D1FA3CDE54CEF58EEEF" : {
         "type" : "texture",
         "index" : 4,
@@ -57,20 +57,6 @@ local_slide( {
         },
         "width" : 296,
         "height" : 385
-      },
-      "D7D9D6162D9B0EBCED6856A765AB3B57" : {
-        "type" : "texture",
-        "index" : 6,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/A697A35D-A1C5-4B04-8653-772C7B7EECE5.pdf"
-        },
-        "width" : 294,
-        "height" : 383
       },
       "4D94F671ACDE1418DEAACB92A694FDCA" : {
         "type" : "texture",
@@ -100,6 +86,20 @@ local_slide( {
         "width" : 293,
         "height" : 383
       },
+      "85620CAC7318FA0837010ED584B89843" : {
+        "type" : "texture",
+        "index" : 16,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/A697A35D-A1C5-4B04-8653-772C7B7EECE5.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "0EC3DD6BDC5483CFB673EEB3B3D676BD" : {
         "type" : "texture",
         "index" : 12,
@@ -114,9 +114,9 @@ local_slide( {
         "width" : 176,
         "height" : 40
       },
-      "4A0F50F7CF4501553287DDC0E54FD79F" : {
+      "D7D9D6162D9B0EBCED6856A765AB3B57" : {
         "type" : "texture",
-        "index" : 16,
+        "index" : 6,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -125,8 +125,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/A697A35D-A1C5-4B04-8653-772C7B7EECE5.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 294,
+        "height" : 383
       },
       "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
@@ -142,20 +142,6 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "448C6A2098FFBC5ACE0A852183B242BE" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/A697A35D-A1C5-4B04-8653-772C7B7EECE5.pdf"
-        },
-        "width" : 209,
-        "height" : 20
-      },
       "C0D78B79BD8C8A86930412C2AE097FA2" : {
         "type" : "texture",
         "index" : 7,
@@ -168,6 +154,20 @@ local_slide( {
           "native" : "assets\/A697A35D-A1C5-4B04-8653-772C7B7EECE5.pdf"
         },
         "width" : 498,
+        "height" : 20
+      },
+      "448C6A2098FFBC5ACE0A852183B242BE" : {
+        "type" : "texture",
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/A697A35D-A1C5-4B04-8653-772C7B7EECE5.pdf"
+        },
+        "width" : 209,
         "height" : 20
       },
       "21A66DE04A3AE8BFE5B1450C102D6302" : {
@@ -212,20 +212,6 @@ local_slide( {
         "width" : 284,
         "height" : 67
       },
-      "0D0371C62581658BE74E44327D6682D2" : {
-        "type" : "texture",
-        "index" : 15,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/A697A35D-A1C5-4B04-8653-772C7B7EECE5.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
       "5E7102E93ED166CBEF77C6CAB80274A8" : {
         "type" : "texture",
         "index" : 3,
@@ -239,6 +225,20 @@ local_slide( {
         },
         "width" : 438,
         "height" : 37
+      },
+      "52AA9B1CECDF0D0C5DE4699893B20C28" : {
+        "type" : "texture",
+        "index" : 13,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/A697A35D-A1C5-4B04-8653-772C7B7EECE5.pdf"
+        },
+        "width" : 101,
+        "height" : 40
       }
     },
     "events" : [
@@ -1556,21 +1556,39 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "R",
+            "targetRectangle" : {
+              "y" : 425.16480255126953,
+              "x" : 166.63891979980468,
+              "width" : 27.26400000000001,
+              "height" : 64.2001953125
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "ic_action_lock_open.png",
+            "targetRectangle" : {
+              "y" : 149.34818840026855,
+              "x" : 726.5468578338623,
+              "width" : 26.257915496826172,
+              "height" : 26.257915496826172
+            }
+          },
+          {
             "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
               "y" : 143.11218452453613,
               "x" : 845.92815399169922,
               "width" : 37.958965301513672,
               "height" : 37.958965301513672
-            }
-          },
-          {
-            "text" : "ic_action_lock_open.png",
-            "targetRectangle" : {
-              "y" : 147.18172264099121,
-              "x" : 957.87101554870605,
-              "width" : 26.257915496826172,
-              "height" : 26.257915496826172
             }
           },
           {
@@ -1592,12 +1610,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Move data between parties",
+            "text" : "ic_action_lock_open.png",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 439.24799999999999,
-              "height" : 48.400146484375
+              "y" : 147.18172264099121,
+              "x" : 957.87101554870605,
+              "width" : 26.257915496826172,
+              "height" : 26.257915496826172
             }
           },
           {
@@ -1619,30 +1637,12 @@ local_slide( {
             }
           },
           {
-            "text" : "R",
-            "targetRectangle" : {
-              "y" : 425.16480255126953,
-              "x" : 166.63891979980468,
-              "width" : 27.26400000000001,
-              "height" : 64.2001953125
-            }
-          },
-          {
-            "text" : "Sender",
+            "text" : "Recipient",
             "targetRectangle" : {
               "y" : 641.72860705852509,
-              "x" : 245.55198919773102,
-              "width" : 68.375999999999976,
+              "x" : 884.4439891576767,
+              "width" : 88.591999999999985,
               "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
             }
           },
           {
@@ -1655,21 +1655,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Recipient",
+            "text" : "Move data between parties",
             "targetRectangle" : {
-              "y" : 641.72860705852509,
-              "x" : 884.4439891576767,
-              "width" : 88.591999999999985,
-              "height" : 28.40008544921875
+              "y" : 125,
+              "x" : 36,
+              "width" : 439.24799999999999,
+              "height" : 48.400146484375
             }
           },
           {
-            "text" : "ic_action_lock_open.png",
+            "text" : "Sender",
             "targetRectangle" : {
-              "y" : 149.34818840026855,
-              "x" : 726.5468578338623,
-              "width" : 26.257915496826172,
-              "height" : 26.257915496826172
+              "y" : 641.72860705852509,
+              "x" : 245.55198919773102,
+              "width" : 68.375999999999976,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -3659,10 +3659,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -3731,10 +3731,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -3768,7 +3768,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "D10FA8551DDBC3C7EAB2DB71618988D0"
+                      "texture" : "08EF5E915EB102BCF375F277E2A04E80"
                     }
                   ]
                 }
@@ -5042,7 +5042,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "0D0371C62581658BE74E44327D6682D2"
+                      "texture" : "34DE0CF6A5E5E49FF370300D9B532A3B"
                     },
                     {
                       "animations" : [
@@ -5123,7 +5123,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "4A0F50F7CF4501553287DDC0E54FD79F"
+                      "texture" : "85620CAC7318FA0837010ED584B89843"
                     }
                   ]
                 }
@@ -5144,21 +5144,39 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "R",
+            "targetRectangle" : {
+              "y" : 425.16480255126953,
+              "x" : 166.63891979980468,
+              "width" : 27.26400000000001,
+              "height" : 64.2001953125
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "ic_action_lock_open.png",
+            "targetRectangle" : {
+              "y" : 149.34818840026855,
+              "x" : 726.5468578338623,
+              "width" : 26.257915496826172,
+              "height" : 26.257915496826172
+            }
+          },
+          {
             "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
               "y" : 143.11218452453613,
               "x" : 845.92815399169922,
               "width" : 37.958965301513672,
               "height" : 37.958965301513672
-            }
-          },
-          {
-            "text" : "ic_action_lock_open.png",
-            "targetRectangle" : {
-              "y" : 147.18172264099121,
-              "x" : 957.87101554870605,
-              "width" : 26.257915496826172,
-              "height" : 26.257915496826172
             }
           },
           {
@@ -5180,12 +5198,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Move data between parties",
+            "text" : "ic_action_lock_open.png",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 439.24799999999999,
-              "height" : 48.400146484375
+              "y" : 147.18172264099121,
+              "x" : 957.87101554870605,
+              "width" : 26.257915496826172,
+              "height" : 26.257915496826172
             }
           },
           {
@@ -5207,30 +5225,12 @@ local_slide( {
             }
           },
           {
-            "text" : "R",
-            "targetRectangle" : {
-              "y" : 425.16480255126953,
-              "x" : 166.63891979980468,
-              "width" : 27.26400000000001,
-              "height" : 64.2001953125
-            }
-          },
-          {
-            "text" : "Sender",
+            "text" : "Recipient",
             "targetRectangle" : {
               "y" : 641.72860705852509,
-              "x" : 245.55198919773102,
-              "width" : 68.375999999999976,
+              "x" : 884.4439891576767,
+              "width" : 88.591999999999985,
               "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
             }
           },
           {
@@ -5243,21 +5243,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Recipient",
+            "text" : "Move data between parties",
             "targetRectangle" : {
-              "y" : 641.72860705852509,
-              "x" : 884.4439891576767,
-              "width" : 88.591999999999985,
-              "height" : 28.40008544921875
+              "y" : 125,
+              "x" : 36,
+              "width" : 439.24799999999999,
+              "height" : 48.400146484375
             }
           },
           {
-            "text" : "ic_action_lock_open.png",
+            "text" : "Sender",
             "targetRectangle" : {
-              "y" : 149.34818840026855,
-              "x" : 726.5468578338623,
-              "width" : 26.257915496826172,
-              "height" : 26.257915496826172
+              "y" : 641.72860705852509,
+              "x" : 245.55198919773102,
+              "width" : 68.375999999999976,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -7247,10 +7247,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -7319,10 +7319,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -7356,7 +7356,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "D10FA8551DDBC3C7EAB2DB71618988D0"
+                      "texture" : "08EF5E915EB102BCF375F277E2A04E80"
                     }
                   ]
                 }

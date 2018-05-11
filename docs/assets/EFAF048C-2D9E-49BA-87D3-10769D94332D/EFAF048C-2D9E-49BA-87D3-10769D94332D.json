@@ -373,24 +373,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 976.09613084793091,
-            "width" : 11.51953125,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Summary",
-          "targetRectangle" : {
-            "y" : 55,
-            "x" : 260,
-            "width" : 518.94030000000009,
-            "height" : 164.02050323486327
-          }
-        },
-        {
           "text" : "Regulations apply - whatever you do!",
           "targetRectangle" : {
             "y" : 244,
@@ -433,6 +415,24 @@
             "x" : 26.710945129394531,
             "width" : 887.45471999999972,
             "height" : 63
+          }
+        },
+        {
+          "text" : "Summary",
+          "targetRectangle" : {
+            "y" : 55,
+            "x" : 260,
+            "width" : 518.94030000000009,
+            "height" : 164.02050323486327
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 976.09613084793091,
+            "width" : 11.51953125,
+            "height" : 28
           }
         }
       ],
@@ -1758,24 +1758,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 976.09613084793091,
-            "width" : 11.51953125,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Summary",
-          "targetRectangle" : {
-            "y" : 55,
-            "x" : 260,
-            "width" : 518.94030000000009,
-            "height" : 164.02050323486327
-          }
-        },
-        {
           "text" : "Regulations apply - whatever you do!",
           "targetRectangle" : {
             "y" : 244,
@@ -1818,6 +1800,24 @@
             "x" : 26.710945129394531,
             "width" : 887.45471999999972,
             "height" : 63
+          }
+        },
+        {
+          "text" : "Summary",
+          "targetRectangle" : {
+            "y" : 55,
+            "x" : 260,
+            "width" : 518.94030000000009,
+            "height" : 164.02050323486327
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 976.09613084793091,
+            "width" : 11.51953125,
+            "height" : 28
           }
         }
       ],

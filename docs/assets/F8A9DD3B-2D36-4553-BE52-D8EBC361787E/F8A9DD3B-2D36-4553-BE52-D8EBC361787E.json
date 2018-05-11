@@ -424,20 +424,11 @@
       ],
       "accessibility" : [
         {
-          "text" : "Blowfish",
+          "text" : "DES",
           "targetRectangle" : {
             "y" : 100.73469543457031,
-            "x" : 877.9550267028809,
-            "width" : 32.089999999999918,
-            "height" : 10.000030517578125
-          }
-        },
-        {
-          "text" : "RSA-2048",
-          "targetRectangle" : {
-            "y" : 142.24983215332031,
-            "x" : 857.20365707397457,
-            "width" : 31.160000000000082,
+            "x" : 853.05512451171876,
+            "width" : 12.019999999999982,
             "height" : 10.000030517578125
           }
         },
@@ -447,78 +438,6 @@
             "y" : 100.73469543457031,
             "x" : 923.01990600585941,
             "width" : 11.829999999999927,
-            "height" : 10.000030517578125
-          }
-        },
-        {
-          "text" : "?? Post quantum ??",
-          "targetRectangle" : {
-            "y" : 142.24983215332031,
-            "x" : 909.58346908569342,
-            "width" : 66.139999999999873,
-            "height" : 10.000030517578125
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "MD5",
-          "targetRectangle" : {
-            "y" : 121.49226379394531,
-            "x" : 842.51073120117189,
-            "width" : 13.539999999999964,
-            "height" : 10.000030517578125
-          }
-        },
-        {
-          "text" : "SHA-256",
-          "targetRectangle" : {
-            "y" : 121.49226379394531,
-            "x" : 915.69183090209958,
-            "width" : 27.440000000000055,
-            "height" : 10.000030517578125
-          }
-        },
-        {
-          "text" : "Problem: Algorithms must be changed and data migrated",
-          "targetRectangle" : {
-            "y" : 175.24711608886719,
-            "x" : 36,
-            "width" : 836.11440000000016,
-            "height" : 67.760000467300415
-          }
-        },
-        {
-          "text" : "Solution: Design for online data migration",
-          "targetRectangle" : {
-            "y" : 243.0071165561676,
-            "x" : 36,
-            "width" : 610.24151999999992,
-            "height" : 42
-          }
-        },
-        {
-          "text" : "Algorithm rollover",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 334.17599999999999,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "SHA-1",
-          "targetRectangle" : {
-            "y" : 121.49226379394531,
-            "x" : 874.21566390991211,
-            "width" : 20,
             "height" : 10.000030517578125
           }
         },
@@ -541,11 +460,92 @@
           }
         },
         {
-          "text" : "DES",
+          "text" : "Problem: Algorithms must be changed and data migrated",
+          "targetRectangle" : {
+            "y" : 175.24711608886719,
+            "x" : 36,
+            "width" : 836.11440000000016,
+            "height" : 67.760000467300415
+          }
+        },
+        {
+          "text" : "Solution: Design for online data migration",
+          "targetRectangle" : {
+            "y" : 243.0071165561676,
+            "x" : 36,
+            "width" : 610.24151999999992,
+            "height" : 42
+          }
+        },
+        {
+          "text" : "MD5",
+          "targetRectangle" : {
+            "y" : 121.49226379394531,
+            "x" : 842.51073120117189,
+            "width" : 13.539999999999964,
+            "height" : 10.000030517578125
+          }
+        },
+        {
+          "text" : "SHA-256",
+          "targetRectangle" : {
+            "y" : 121.49226379394531,
+            "x" : 915.69183090209958,
+            "width" : 27.440000000000055,
+            "height" : 10.000030517578125
+          }
+        },
+        {
+          "text" : "Algorithm rollover",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 334.17599999999999,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "Blowfish",
           "targetRectangle" : {
             "y" : 100.73469543457031,
-            "x" : 853.05512451171876,
-            "width" : 12.019999999999982,
+            "x" : 877.9550267028809,
+            "width" : 32.089999999999918,
+            "height" : 10.000030517578125
+          }
+        },
+        {
+          "text" : "RSA-2048",
+          "targetRectangle" : {
+            "y" : 142.24983215332031,
+            "x" : 857.20365707397457,
+            "width" : 31.160000000000082,
+            "height" : 10.000030517578125
+          }
+        },
+        {
+          "text" : "SHA-1",
+          "targetRectangle" : {
+            "y" : 121.49226379394531,
+            "x" : 874.21566390991211,
+            "width" : 20,
+            "height" : 10.000030517578125
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "?? Post quantum ??",
+          "targetRectangle" : {
+            "y" : 142.24983215332031,
+            "x" : 909.58346908569342,
+            "width" : 66.139999999999873,
             "height" : 10.000030517578125
           }
         }

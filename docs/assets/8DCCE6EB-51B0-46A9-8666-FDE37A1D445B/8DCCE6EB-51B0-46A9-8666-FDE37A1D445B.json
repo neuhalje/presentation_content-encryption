@@ -1,19 +1,5 @@
 {
   "assets" : {
-    "08EF5E915EB102BCF375F277E2A04E80" : {
-      "type" : "texture",
-      "index" : 9,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/8DCCE6EB-51B0-46A9-8666-FDE37A1D445B.pdf"
-      },
-      "width" : 26,
-      "height" : 20
-    },
     "C0D78B79BD8C8A86930412C2AE097FA2" : {
       "type" : "texture",
       "index" : 7,
@@ -56,20 +42,6 @@
       "width" : 252,
       "height" : 279
     },
-    "86FC25E9604ECA490ED81AA5B3FBAE2B" : {
-      "type" : "texture",
-      "index" : 21,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/8DCCE6EB-51B0-46A9-8666-FDE37A1D445B.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
     "448C6A2098FFBC5ACE0A852183B242BE" : {
       "type" : "texture",
       "index" : 2,
@@ -100,7 +72,7 @@
     },
     "5E7102E93ED166CBEF77C6CAB80274A8" : {
       "type" : "texture",
-      "index" : 3,
+      "index" : 20,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -125,6 +97,20 @@
       },
       "width" : 1024,
       "height" : 39
+    },
+    "FDFA23B97638827CB12A2EA3D2D4BE76" : {
+      "type" : "texture",
+      "index" : 21,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/8DCCE6EB-51B0-46A9-8666-FDE37A1D445B.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     },
     "FBB5DEA59905EE30EF2803B0A74DF992" : {
       "type" : "texture",
@@ -167,6 +153,34 @@
       },
       "width" : 964,
       "height" : 5
+    },
+    "85620CAC7318FA0837010ED584B89843" : {
+      "type" : "texture",
+      "index" : 3,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/8DCCE6EB-51B0-46A9-8666-FDE37A1D445B.pdf"
+      },
+      "width" : 438,
+      "height" : 37
+    },
+    "54CB1E65EAC849DDFD45B0C3D9ABDF60" : {
+      "type" : "texture",
+      "index" : 9,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/8DCCE6EB-51B0-46A9-8666-FDE37A1D445B.pdf"
+      },
+      "width" : 26,
+      "height" : 20
     },
     "173BEA919AD46D5B477C66E0D2A2CD3A" : {
       "type" : "texture",
@@ -266,20 +280,6 @@
       "width" : 288,
       "height" : 27
     },
-    "3E6A0286AD537108515D0CDE84F6A4D6" : {
-      "type" : "texture",
-      "index" : 20,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/8DCCE6EB-51B0-46A9-8666-FDE37A1D445B.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
     "0EC3DD6BDC5483CFB673EEB3B3D676BD" : {
       "type" : "texture",
       "index" : 12,
@@ -307,6 +307,20 @@
       },
       "width" : 296,
       "height" : 385
+    },
+    "B4196044EA8920E677D3D651FC4FFB35" : {
+      "type" : "texture",
+      "index" : 22,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/8DCCE6EB-51B0-46A9-8666-FDE37A1D445B.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     }
   },
   "events" : [
@@ -2454,111 +2468,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "Decrypt with private key",
-          "targetRectangle" : {
-            "y" : 680.78082293272018,
-            "x" : 700,
-            "width" : 286.82399999999996,
-            "height" : 33
-          }
-        },
-        {
-          "text" : "Move data between parties",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 439.24799999999999,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Epk(R)",
-          "targetRectangle" : {
-            "y" : 414.16480255126953,
-            "x" : 128.56827277565003,
-            "width" : 114.9013343925476,
-            "height" : 64.200195861805696
-          }
-        },
-        {
-          "text" : "Store & Forward",
-          "targetRectangle" : {
-            "y" : 641.72860705852509,
-            "x" : 480.90998768806458,
-            "width" : 163.65999999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "No secrets on Sender \/ Store & Forward server",
-          "targetRectangle" : {
-            "y" : 737.19992089271545,
-            "x" : 281.1819847412109,
-            "width" : 461.63600000000002,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "R",
-          "targetRectangle" : {
-            "y" : 425.16480255126953,
-            "x" : 166.63891979980468,
-            "width" : 27.26400000000001,
-            "height" : 64.2001953125
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 143.11218452453613,
-            "x" : 845.92815399169922,
-            "width" : 37.958965301513672,
-            "height" : 37.958965301513672
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 466.82276916503906,
-            "x" : 180.43648910522461,
-            "width" : 129.12568664550781,
-            "height" : 129.12568664550781
-          }
-        },
-        {
-          "text" : "Encrypt with public key",
-          "targetRectangle" : {
-            "y" : 680.78082293272018,
-            "x" : 33.805740356445312,
-            "width" : 273.38399999999996,
-            "height" : 33
-          }
-        },
-        {
           "text" : "Jens Neuhalfen",
           "targetRectangle" : {
             "y" : 40,
             "x" : 700.49374979734421,
             "width" : 208.70625025033951,
             "height" : 28
-          }
-        },
-        {
-          "text" : "Sender",
-          "targetRectangle" : {
-            "y" : 641.72860705852509,
-            "x" : 245.55198919773102,
-            "width" : 68.375999999999976,
-            "height" : 28.40008544921875
           }
         },
         {
@@ -2571,21 +2486,39 @@
           }
         },
         {
-          "text" : "ic_action_lock_open.png",
+          "text" : "Epk(R)",
           "targetRectangle" : {
-            "y" : 466.82276916503906,
-            "x" : 180.43648910522461,
-            "width" : 129.12568664550781,
-            "height" : 129.12568664550781
+            "y" : 414.16480255126953,
+            "x" : 128.56827277565003,
+            "width" : 114.9013343925476,
+            "height" : 64.200195861805696
           }
         },
         {
-          "text" : "R",
+          "text" : "Sender",
           "targetRectangle" : {
-            "y" : 425.16480255126953,
-            "x" : 827.51454922485357,
-            "width" : 27.26400000000001,
-            "height" : 64.2001953125
+            "y" : 641.72860705852509,
+            "x" : 245.55198919773102,
+            "width" : 68.375999999999976,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 143.11218452453613,
+            "x" : 845.92815399169922,
+            "width" : 37.958965301513672,
+            "height" : 37.958965301513672
+          }
+        },
+        {
+          "text" : "No secrets on Sender \/ Store & Forward server",
+          "targetRectangle" : {
+            "y" : 737.19992089271545,
+            "x" : 281.1819847412109,
+            "width" : 461.63600000000002,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -2598,21 +2531,39 @@
           }
         },
         {
-          "text" : "ic_action_lock_open.png",
+          "text" : "Move data between parties",
           "targetRectangle" : {
-            "y" : 149.34818840026855,
-            "x" : 726.5468578338623,
-            "width" : 26.257915496826172,
-            "height" : 26.257915496826172
+            "y" : 125,
+            "x" : 36,
+            "width" : 439.24799999999999,
+            "height" : 48.400146484375
           }
         },
         {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "Encrypt with public key",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
+            "y" : 680.78082293272018,
+            "x" : 33.805740356445312,
+            "width" : 273.38399999999996,
+            "height" : 33
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 466.82276916503906,
+            "x" : 180.43648910522461,
+            "width" : 129.12568664550781,
+            "height" : 129.12568664550781
+          }
+        },
+        {
+          "text" : "R",
+          "targetRectangle" : {
+            "y" : 425.16480255126953,
+            "x" : 166.63891979980468,
+            "width" : 27.26400000000001,
+            "height" : 64.2001953125
           }
         },
         {
@@ -2634,12 +2585,75 @@
           }
         },
         {
+          "text" : "R",
+          "targetRectangle" : {
+            "y" : 425.16480255126953,
+            "x" : 827.51454922485357,
+            "width" : 27.26400000000001,
+            "height" : 64.2001953125
+          }
+        },
+        {
+          "text" : "Store & Forward",
+          "targetRectangle" : {
+            "y" : 641.72860705852509,
+            "x" : 480.90998768806458,
+            "width" : 163.65999999999997,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 149.34818840026855,
+            "x" : 726.5468578338623,
+            "width" : 26.257915496826172,
+            "height" : 26.257915496826172
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 466.82276916503906,
+            "x" : 180.43648910522461,
+            "width" : 129.12568664550781,
+            "height" : 129.12568664550781
+          }
+        },
+        {
           "text" : "ic_action_lock_open.png",
           "targetRectangle" : {
             "y" : 466.82276916503906,
             "x" : 841.31211853027344,
             "width" : 129.12568664550781,
             "height" : 129.12568664550781
+          }
+        },
+        {
+          "text" : "Decrypt with private key",
+          "targetRectangle" : {
+            "y" : 680.78082293272018,
+            "x" : 700,
+            "width" : 286.82399999999996,
+            "height" : 33
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
           }
         }
       ],
@@ -3456,7 +3470,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "5E7102E93ED166CBEF77C6CAB80274A8"
+                    "texture" : "85620CAC7318FA0837010ED584B89843"
                   }
                 ]
               }
@@ -4729,7 +4743,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "08EF5E915EB102BCF375F277E2A04E80"
+                    "texture" : "54CB1E65EAC849DDFD45B0C3D9ABDF60"
                   }
                 ]
               }
@@ -6980,7 +6994,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "3E6A0286AD537108515D0CDE84F6A4D6"
+                    "texture" : "FDFA23B97638827CB12A2EA3D2D4BE76"
                   },
                   {
                     "animations" : [
@@ -7061,7 +7075,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "86FC25E9604ECA490ED81AA5B3FBAE2B"
+                    "texture" : "B4196044EA8920E677D3D651FC4FFB35"
                   }
                 ]
               }
@@ -7090,111 +7104,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "Decrypt with private key",
-          "targetRectangle" : {
-            "y" : 680.78082293272018,
-            "x" : 700,
-            "width" : 286.82399999999996,
-            "height" : 33
-          }
-        },
-        {
-          "text" : "Move data between parties",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 439.24799999999999,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Epk(R)",
-          "targetRectangle" : {
-            "y" : 414.16480255126953,
-            "x" : 128.56827277565003,
-            "width" : 114.9013343925476,
-            "height" : 64.200195861805696
-          }
-        },
-        {
-          "text" : "Store & Forward",
-          "targetRectangle" : {
-            "y" : 641.72860705852509,
-            "x" : 480.90998768806458,
-            "width" : 163.65999999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "No secrets on Sender \/ Store & Forward server",
-          "targetRectangle" : {
-            "y" : 737.19992089271545,
-            "x" : 281.1819847412109,
-            "width" : 461.63600000000002,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "R",
-          "targetRectangle" : {
-            "y" : 425.16480255126953,
-            "x" : 166.63891979980468,
-            "width" : 27.26400000000001,
-            "height" : 64.2001953125
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 143.11218452453613,
-            "x" : 845.92815399169922,
-            "width" : 37.958965301513672,
-            "height" : 37.958965301513672
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 466.82276916503906,
-            "x" : 180.43648910522461,
-            "width" : 129.12568664550781,
-            "height" : 129.12568664550781
-          }
-        },
-        {
-          "text" : "Encrypt with public key",
-          "targetRectangle" : {
-            "y" : 680.78082293272018,
-            "x" : 33.805740356445312,
-            "width" : 273.38399999999996,
-            "height" : 33
-          }
-        },
-        {
           "text" : "Jens Neuhalfen",
           "targetRectangle" : {
             "y" : 40,
             "x" : 700.49374979734421,
             "width" : 208.70625025033951,
             "height" : 28
-          }
-        },
-        {
-          "text" : "Sender",
-          "targetRectangle" : {
-            "y" : 641.72860705852509,
-            "x" : 245.55198919773102,
-            "width" : 68.375999999999976,
-            "height" : 28.40008544921875
           }
         },
         {
@@ -7207,21 +7122,39 @@
           }
         },
         {
-          "text" : "ic_action_lock_open.png",
+          "text" : "Epk(R)",
           "targetRectangle" : {
-            "y" : 466.82276916503906,
-            "x" : 180.43648910522461,
-            "width" : 129.12568664550781,
-            "height" : 129.12568664550781
+            "y" : 414.16480255126953,
+            "x" : 128.56827277565003,
+            "width" : 114.9013343925476,
+            "height" : 64.200195861805696
           }
         },
         {
-          "text" : "R",
+          "text" : "Sender",
           "targetRectangle" : {
-            "y" : 425.16480255126953,
-            "x" : 827.51454922485357,
-            "width" : 27.26400000000001,
-            "height" : 64.2001953125
+            "y" : 641.72860705852509,
+            "x" : 245.55198919773102,
+            "width" : 68.375999999999976,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 143.11218452453613,
+            "x" : 845.92815399169922,
+            "width" : 37.958965301513672,
+            "height" : 37.958965301513672
+          }
+        },
+        {
+          "text" : "No secrets on Sender \/ Store & Forward server",
+          "targetRectangle" : {
+            "y" : 737.19992089271545,
+            "x" : 281.1819847412109,
+            "width" : 461.63600000000002,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -7234,21 +7167,39 @@
           }
         },
         {
-          "text" : "ic_action_lock_open.png",
+          "text" : "Move data between parties",
           "targetRectangle" : {
-            "y" : 149.34818840026855,
-            "x" : 726.5468578338623,
-            "width" : 26.257915496826172,
-            "height" : 26.257915496826172
+            "y" : 125,
+            "x" : 36,
+            "width" : 439.24799999999999,
+            "height" : 48.400146484375
           }
         },
         {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "Encrypt with public key",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
+            "y" : 680.78082293272018,
+            "x" : 33.805740356445312,
+            "width" : 273.38399999999996,
+            "height" : 33
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 466.82276916503906,
+            "x" : 180.43648910522461,
+            "width" : 129.12568664550781,
+            "height" : 129.12568664550781
+          }
+        },
+        {
+          "text" : "R",
+          "targetRectangle" : {
+            "y" : 425.16480255126953,
+            "x" : 166.63891979980468,
+            "width" : 27.26400000000001,
+            "height" : 64.2001953125
           }
         },
         {
@@ -7270,12 +7221,75 @@
           }
         },
         {
+          "text" : "R",
+          "targetRectangle" : {
+            "y" : 425.16480255126953,
+            "x" : 827.51454922485357,
+            "width" : 27.26400000000001,
+            "height" : 64.2001953125
+          }
+        },
+        {
+          "text" : "Store & Forward",
+          "targetRectangle" : {
+            "y" : 641.72860705852509,
+            "x" : 480.90998768806458,
+            "width" : 163.65999999999997,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 149.34818840026855,
+            "x" : 726.5468578338623,
+            "width" : 26.257915496826172,
+            "height" : 26.257915496826172
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 466.82276916503906,
+            "x" : 180.43648910522461,
+            "width" : 129.12568664550781,
+            "height" : 129.12568664550781
+          }
+        },
+        {
           "text" : "ic_action_lock_open.png",
           "targetRectangle" : {
             "y" : 466.82276916503906,
             "x" : 841.31211853027344,
             "width" : 129.12568664550781,
             "height" : 129.12568664550781
+          }
+        },
+        {
+          "text" : "Decrypt with private key",
+          "targetRectangle" : {
+            "y" : 680.78082293272018,
+            "x" : 700,
+            "width" : 286.82399999999996,
+            "height" : 33
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
           }
         }
       ],
@@ -9365,7 +9379,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "08EF5E915EB102BCF375F277E2A04E80"
+                    "texture" : "54CB1E65EAC849DDFD45B0C3D9ABDF60"
                   }
                 ]
               }

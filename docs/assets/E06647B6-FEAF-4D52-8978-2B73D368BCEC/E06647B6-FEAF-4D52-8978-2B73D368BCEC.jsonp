@@ -16,6 +16,20 @@ local_slide( {
         "width" : 607,
         "height" : 204
       },
+      "640D5297D59088D46FE63A28D36F2264" : {
+        "type" : "texture",
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/E06647B6-FEAF-4D52-8978-2B73D368BCEC.pdf"
+        },
+        "width" : 964,
+        "height" : 5
+      },
       "99EBF72959F32545135D3FBC13B3881A" : {
         "type" : "texture",
         "index" : 7,
@@ -169,20 +183,6 @@ local_slide( {
         },
         "width" : 1024,
         "height" : 768
-      },
-      "E67DFDF7CF3A4D69E473CBCD3E9B9EBC" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/E06647B6-FEAF-4D52-8978-2B73D368BCEC.pdf"
-        },
-        "width" : 964,
-        "height" : 5
       },
       "998B2001A9D41220D4C9645A6DE06515" : {
         "type" : "texture",
@@ -508,24 +508,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "before",
             "targetRectangle" : {
               "y" : 184.08494639396667,
@@ -535,48 +517,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Jens Neuhalfen",
+            "text" : "after",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
+              "y" : 345.71444773674011,
+              "x" : 54.518945693969727,
+              "width" : 201.69600000000003,
+              "height" : 131
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
-            }
-          },
-          {
-            "text" : "https:\/\/www.bloomberg.com\/news\/articles\/2015-04-15\/adultery-website-ashleymadison-seeks-ipo-as-demand-booms",
-            "targetRectangle" : {
-              "y" : 610.19409251213074,
-              "x" : 40.560024261474609,
-              "width" : 941.88000000000022,
-              "height" : 78
-            }
-          },
-          {
-            "text" : "https:\/\/www.wired.com\/2015\/08\/happened-hackers-posted-stolen-ashley-madison-data\/",
-            "targetRectangle" : {
-              "y" : 688.19409251213074,
-              "x" : 40.560024261474609,
-              "width" : 818.90000000000032,
-              "height" : 51
-            }
-          },
-          {
-            "text" : "https:\/\/en.wikipedia.org\/wiki\/Ashley_Madison",
-            "targetRectangle" : {
-              "y" : 739.19409251213074,
-              "x" : 40.560024261474609,
-              "width" : 424.31999999999999,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "wikipedia.png",
-            "targetRectangle" : {
-              "y" : 563.54498291015625,
-              "x" : 404.48104858398438,
-              "width" : 604,
-              "height" : 42.563758850097656
             }
           },
           {
@@ -607,12 +562,57 @@ local_slide( {
             }
           },
           {
-            "text" : "after",
+            "text" : "https:\/\/www.bloomberg.com\/news\/articles\/2015-04-15\/adultery-website-ashleymadison-seeks-ipo-as-demand-booms",
             "targetRectangle" : {
-              "y" : 345.71444773674011,
-              "x" : 54.518945693969727,
-              "width" : 201.69600000000003,
-              "height" : 131
+              "y" : 610.19409251213074,
+              "x" : 40.560024261474609,
+              "width" : 941.88000000000022,
+              "height" : 78
+            }
+          },
+          {
+            "text" : "https:\/\/www.wired.com\/2015\/08\/happened-hackers-posted-stolen-ashley-madison-data\/",
+            "targetRectangle" : {
+              "y" : 688.19409251213074,
+              "x" : 40.560024261474609,
+              "width" : 818.90000000000032,
+              "height" : 51
+            }
+          },
+          {
+            "text" : "https:\/\/en.wikipedia.org\/wiki\/Ashley_Madison",
+            "targetRectangle" : {
+              "y" : 739.19409251213074,
+              "x" : 40.560024261474609,
+              "width" : 424.31999999999999,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "wikipedia.png",
+            "targetRectangle" : {
+              "y" : 563.54498291015625,
+              "x" : 404.48104858398438,
+              "width" : 604,
+              "height" : 42.563758850097656
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
             }
           }
         ],
@@ -1056,7 +1056,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "E67DFDF7CF3A4D69E473CBCD3E9B9EBC"
+                      "texture" : "640D5297D59088D46FE63A28D36F2264"
                     }
                   ]
                 }

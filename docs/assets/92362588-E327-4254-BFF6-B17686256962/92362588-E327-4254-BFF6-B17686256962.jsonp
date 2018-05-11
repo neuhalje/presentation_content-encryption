@@ -2,6 +2,20 @@ local_slide( {
   "name" : "92362588-E327-4254-BFF6-B17686256962",
   "json" : {
     "assets" : {
+      "730A6A320AAF86C7A4983B2B12C66AD2" : {
+        "type" : "texture",
+        "index" : 7,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/92362588-E327-4254-BFF6-B17686256962.pdf"
+        },
+        "width" : 1024,
+        "height" : 40
+      },
       "640D5297D59088D46FE63A28D36F2264" : {
         "type" : "texture",
         "index" : 1,
@@ -16,35 +30,7 @@ local_slide( {
         "width" : 964,
         "height" : 5
       },
-      "A3F7A36D66D6ABA605E5FA821DFB780E" : {
-        "type" : "texture",
-        "index" : 7,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/92362588-E327-4254-BFF6-B17686256962.pdf"
-        },
-        "width" : 1024,
-        "height" : 40
-      },
-      "33E6EA3D259ACDDCF821070C8897EA02" : {
-        "type" : "texture",
-        "index" : 10,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/92362588-E327-4254-BFF6-B17686256962.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
-      "F579DCD6DB43D38E58D362CBE8EDE0F9" : {
+      "CF7DFDFDB4F5DF8A0C4F6218A5F9381B" : {
         "type" : "texture",
         "index" : 5,
         "assetRequest" : {
@@ -55,7 +41,7 @@ local_slide( {
         "url" : {
           "native" : "assets\/92362588-E327-4254-BFF6-B17686256962.pdf"
         },
-        "width" : 26,
+        "width" : 22,
         "height" : 20
       },
       "ADD28DE2A668CF59463062C1BB8346A7" : {
@@ -114,9 +100,9 @@ local_slide( {
         "width" : 1028,
         "height" : 39
       },
-      "C0D78B79BD8C8A86930412C2AE097FA2" : {
+      "425054C6FD494B44D8828050A4DEBD38" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 11,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -125,8 +111,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/92362588-E327-4254-BFF6-B17686256962.pdf"
         },
-        "width" : 498,
-        "height" : 20
+        "width" : 1024,
+        "height" : 768
       },
       "4B0A6DC9AAB004E945983791987F0DCB" : {
         "type" : "texture",
@@ -142,6 +128,34 @@ local_slide( {
         "width" : 179,
         "height" : 72
       },
+      "C0D78B79BD8C8A86930412C2AE097FA2" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/92362588-E327-4254-BFF6-B17686256962.pdf"
+        },
+        "width" : 498,
+        "height" : 20
+      },
+      "3B196E29049A9E0BDC2AAB3A053495FD" : {
+        "type" : "texture",
+        "index" : 10,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/92362588-E327-4254-BFF6-B17686256962.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "7C8BF577F493ECF7E5D42CE014FDBEE2" : {
         "type" : "texture",
         "index" : 3,
@@ -155,20 +169,6 @@ local_slide( {
         },
         "width" : 487,
         "height" : 42
-      },
-      "54364B788A6901D3206FA072701DC2C4" : {
-        "type" : "texture",
-        "index" : 11,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/92362588-E327-4254-BFF6-B17686256962.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       }
     },
     "events" : [
@@ -352,7 +352,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "33E6EA3D259ACDDCF821070C8897EA02"
+                      "texture" : "3B196E29049A9E0BDC2AAB3A053495FD"
                     },
                     {
                       "animations" : [
@@ -433,7 +433,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "54364B788A6901D3206FA072701DC2C4"
+                      "texture" : "425054C6FD494B44D8828050A4DEBD38"
                     }
                   ]
                 }
@@ -471,12 +471,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : " ",
+            "text" : "Jens Neuhalfen",
             "targetRectangle" : {
-              "y" : 717.50000029802322,
-              "x" : 587.02001953125,
-              "width" : 5,
-              "height" : 27
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
             }
           },
           {
@@ -507,66 +507,12 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
+            "text" : " ",
             "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "key_purple_light.png",
-            "targetRectangle" : {
-              "y" : 129,
-              "x" : 909.63897705078125,
-              "width" : 48,
-              "height" : 48
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 129,
-              "x" : 943.63897705078125,
-              "width" : 48,
-              "height" : 48
-            }
-          },
-          {
-            "text" : "Make sure that the master key has enough entropy for derived key and derived salt",
-            "targetRectangle" : {
-              "y" : 738.74996972084045,
-              "x" : 103.56398474121096,
-              "width" : 816.87199999999984,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "SolutionS for deriving key(s)",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 487.72799999999995,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
+              "y" : 717.50000029802322,
+              "x" : 587.02001953125,
+              "width" : 5,
+              "height" : 27
             }
           },
           {
@@ -693,6 +639,60 @@ local_slide( {
               "x" : 54.900001143287227,
               "width" : 440.71171874999999,
               "height" : 23
+            }
+          },
+          {
+            "text" : "key_purple_light.png",
+            "targetRectangle" : {
+              "y" : 129,
+              "x" : 909.63897705078125,
+              "width" : 48,
+              "height" : 48
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 129,
+              "x" : 943.63897705078125,
+              "width" : 48,
+              "height" : 48
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Make sure that the master key has enough entropy for derived key and derived salt",
+            "targetRectangle" : {
+              "y" : 738.74996972084045,
+              "x" : 103.56398474121096,
+              "width" : 816.87199999999984,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "SolutionS for deriving key(s)",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 487.72799999999995,
+              "height" : 48.400146484375
             }
           }
         ],
@@ -1775,10 +1775,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.57660043239594,
+                      "pointX" : 970.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 22,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1847,10 +1847,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.423399567604065,
+                          "pointX" : 14.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 22,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1884,7 +1884,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "F579DCD6DB43D38E58D362CBE8EDE0F9"
+                      "texture" : "CF7DFDFDB4F5DF8A0C4F6218A5F9381B"
                     }
                   ]
                 }
@@ -2425,7 +2425,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A3F7A36D66D6ABA605E5FA821DFB780E"
+                      "texture" : "730A6A320AAF86C7A4983B2B12C66AD2"
                     }
                   ]
                 }

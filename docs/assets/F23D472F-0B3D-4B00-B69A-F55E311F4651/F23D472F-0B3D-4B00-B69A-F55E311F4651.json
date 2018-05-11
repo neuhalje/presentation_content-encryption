@@ -466,6 +466,24 @@
       ],
       "accessibility" : [
         {
+          "text" : "said no-one ever",
+          "targetRectangle" : {
+            "y" : 617.3333740234375,
+            "x" : 670.12,
+            "width" : 317.88,
+            "height" : 60.00018310546875
+          }
+        },
+        {
+          "text" : "I am  not a lawyer!",
+          "targetRectangle" : {
+            "y" : 700.74996972084045,
+            "x" : 421.68598474121097,
+            "width" : 180.62799999999993,
+            "height" : 28.40008544921875
+          }
+        },
+        {
           "text" : "I am  not a cryptographer!",
           "targetRectangle" : {
             "y" : 79.199936151504517,
@@ -475,9 +493,36 @@
           }
         },
         {
+          "text" : "I am  not a cryptographer!",
+          "targetRectangle" : {
+            "y" : 737.19992089271545,
+            "x" : 383.50798474121098,
+            "width" : 256.98399999999992,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 976.09613084793091,
+            "width" : 11.51953125,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "This talk made me a cryptography and\/or legal expert",
+          "targetRectangle" : {
+            "y" : 233,
+            "x" : 74,
+            "width" : 710.54599999999994,
+            "height" : 282.52017436505048
+          }
+        },
+        {
           "text" : "I am  not a lawyer!",
           "targetRectangle" : {
-            "y" : 700.74996972084045,
+            "y" : 114.7999575138092,
             "x" : 421.68598474121097,
             "width" : 180.62799999999993,
             "height" : 28.40008544921875
@@ -493,57 +538,12 @@
           }
         },
         {
-          "text" : "said no-one ever",
-          "targetRectangle" : {
-            "y" : 617.3333740234375,
-            "x" : 670.12,
-            "width" : 317.88,
-            "height" : 60.00018310546875
-          }
-        },
-        {
-          "text" : "This talk made me a cryptography and\/or legal expert",
-          "targetRectangle" : {
-            "y" : 233,
-            "x" : 74,
-            "width" : 710.54599999999994,
-            "height" : 282.52017436505048
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
             "x" : 36,
             "width" : 498.60234439373016,
             "height" : 28
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 976.09613084793091,
-            "width" : 11.51953125,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "I am  not a lawyer!",
-          "targetRectangle" : {
-            "y" : 114.7999575138092,
-            "x" : 421.68598474121097,
-            "width" : 180.62799999999993,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "I am  not a cryptographer!",
-          "targetRectangle" : {
-            "y" : 737.19992089271545,
-            "x" : 383.50798474121098,
-            "width" : 256.98399999999992,
-            "height" : 28.40008544921875
           }
         }
       ],

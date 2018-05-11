@@ -28,9 +28,9 @@
       "width" : 964,
       "height" : 5
     },
-    "34AF1E0165BCF3CFD6269790758E9CF1" : {
+    "88D8A052A4D1D86DE1A6E9C25B01992D" : {
       "type" : "texture",
-      "index" : 14,
+      "index" : 9,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -39,8 +39,8 @@
       "url" : {
         "native" : "assets\/641389D2-49C9-4F9B-9BDD-B77D57248A11.pdf"
       },
-      "width" : 1024,
-      "height" : 768
+      "width" : 26,
+      "height" : 20
     },
     "3063D4AAC075F54D930B62B09885185D" : {
       "type" : "texture",
@@ -70,9 +70,9 @@
       "width" : 207,
       "height" : 205
     },
-    "51964BCC5B8D354A6D2D23F9400EF523" : {
+    "4638809D98B9CB8B296E5F7AC2AFE1FB" : {
       "type" : "texture",
-      "index" : 3,
+      "index" : 13,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -81,8 +81,8 @@
       "url" : {
         "native" : "assets\/641389D2-49C9-4F9B-9BDD-B77D57248A11.pdf"
       },
-      "width" : 498,
-      "height" : 20
+      "width" : 1024,
+      "height" : 768
     },
     "4F80F1A6F0984F4CE72EC86673769AF7" : {
       "type" : "texture",
@@ -100,7 +100,7 @@
     },
     "27DEF4FFF7C9078BD10DE79DF6D57C43" : {
       "type" : "texture",
-      "index" : 13,
+      "index" : 12,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -170,7 +170,7 @@
     },
     "C0D78B79BD8C8A86930412C2AE097FA2" : {
       "type" : "texture",
-      "index" : 12,
+      "index" : 3,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -195,20 +195,6 @@
       },
       "width" : 971,
       "height" : 522
-    },
-    "0DF42BBE4DCF49C05768628DBFCC1273" : {
-      "type" : "texture",
-      "index" : 9,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/641389D2-49C9-4F9B-9BDD-B77D57248A11.pdf"
-      },
-      "width" : 22,
-      "height" : 20
     }
   },
   "events" : [
@@ -427,57 +413,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "IV*",
+          "text" : "￼",
           "targetRectangle" : {
-            "y" : 293.99999809265137,
-            "x" : 648.26602527236935,
-            "width" : 27.468000000000075,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
             "height" : 28
           }
         },
         {
-          "text" : "ic_action_key.png",
+          "text" : "ic_action_lock_open.png",
           "targetRectangle" : {
-            "y" : 110.26065444946289,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
-          }
-        },
-        {
-          "text" : "Secure small key(s)",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 332.16000000000003,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 974.13269996643066,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 159.24909973144531,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
+            "y" : 522.40460205078125,
+            "x" : -18.618316650390625,
+            "width" : 258.25137329101562,
+            "height" : 258.25137329101562
           }
         },
         {
@@ -490,12 +440,12 @@
           }
         },
         {
-          "text" : "ic_action_lock_open.png",
+          "text" : "ic_action_key.png",
           "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 879.53139686584473,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
+            "y" : 260.62432861328125,
+            "x" : 398.59762573242188,
+            "width" : 96,
+            "height" : 96
           }
         },
         {
@@ -517,6 +467,24 @@
           }
         },
         {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 142.08479309082031,
+            "x" : 974.13269996643066,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
           "text" : "R",
           "targetRectangle" : {
             "y" : 392.90115356445312,
@@ -526,21 +494,39 @@
           }
         },
         {
+          "text" : "(*)  IV - Initialisation Vector. Used in many cryptographic operations. Like a salt. Must be random, might be public.",
+          "targetRectangle" : {
+            "y" : 745.24023371934891,
+            "x" : 11.823999881744385,
+            "width" : 927.41399999999976,
+            "height" : 25
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 110.26065444946289,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
+          }
+        },
+        {
+          "text" : "Secure small key(s)",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 332.16000000000003,
+            "height" : 48.400146484375
+          }
+        },
+        {
           "text" : "IV",
           "targetRectangle" : {
             "y" : 670.00000095367432,
             "x" : 917.00822009658816,
             "width" : 17.107999999999947,
             "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 260.62432861328125,
-            "x" : 398.59762573242188,
-            "width" : 96,
-            "height" : 96
           }
         },
         {
@@ -562,30 +548,30 @@
           }
         },
         {
-          "text" : "(*)  IV - Initialisation Vector. Used in many cryptographic operations. Like a salt. Must be random, might be public.",
+          "text" : "ic_action_key.png",
           "targetRectangle" : {
-            "y" : 745.24023371934891,
-            "x" : 11.823999881744385,
-            "width" : 927.41399999999976,
-            "height" : 25
+            "y" : 159.24909973144531,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
           }
         },
         {
-          "text" : "￼",
+          "text" : "IV*",
           "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
+            "y" : 293.99999809265137,
+            "x" : 648.26602527236935,
+            "width" : 27.468000000000075,
+            "height" : 28.40008544921875
           }
         },
         {
           "text" : "ic_action_lock_open.png",
           "targetRectangle" : {
-            "y" : 522.40460205078125,
-            "x" : -18.618316650390625,
-            "width" : 258.25137329101562,
-            "height" : 258.25137329101562
+            "y" : 142.08479309082031,
+            "x" : 879.53139686584473,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
           }
         }
       ],
@@ -1402,7 +1388,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "51964BCC5B8D354A6D2D23F9400EF523"
+                    "texture" : "C0D78B79BD8C8A86930412C2AE097FA2"
                   }
                 ]
               }
@@ -2468,10 +2454,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 970.57660043239594,
+                    "pointX" : 972.57660043239594,
                     "pointY" : 44
                   },
-                  "width" : 22,
+                  "width" : 26,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -2540,10 +2526,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 14.423399567604065,
+                        "pointX" : 16.423399567604065,
                         "pointY" : 18
                       },
-                      "width" : 22,
+                      "width" : 26,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -2577,7 +2563,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "0DF42BBE4DCF49C05768628DBFCC1273"
+                    "texture" : "88D8A052A4D1D86DE1A6E9C25B01992D"
                   }
                 ]
               }
@@ -3164,57 +3150,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "IV*",
+          "text" : "￼",
           "targetRectangle" : {
-            "y" : 293.99999809265137,
-            "x" : 648.26602527236935,
-            "width" : 27.468000000000075,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
             "height" : 28
           }
         },
         {
-          "text" : "ic_action_key.png",
+          "text" : "ic_action_lock_open.png",
           "targetRectangle" : {
-            "y" : 110.26065444946289,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
-          }
-        },
-        {
-          "text" : "Secure small key(s)",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 332.16000000000003,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 974.13269996643066,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 159.24909973144531,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
+            "y" : 522.40460205078125,
+            "x" : -18.618316650390625,
+            "width" : 258.25137329101562,
+            "height" : 258.25137329101562
           }
         },
         {
@@ -3227,12 +3177,12 @@
           }
         },
         {
-          "text" : "ic_action_lock_open.png",
+          "text" : "ic_action_key.png",
           "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 879.53139686584473,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
+            "y" : 260.62432861328125,
+            "x" : 398.59762573242188,
+            "width" : 96,
+            "height" : 96
           }
         },
         {
@@ -3254,6 +3204,24 @@
           }
         },
         {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 142.08479309082031,
+            "x" : 974.13269996643066,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
           "text" : "R",
           "targetRectangle" : {
             "y" : 392.90115356445312,
@@ -3263,21 +3231,39 @@
           }
         },
         {
+          "text" : "(*)  IV - Initialisation Vector. Used in many cryptographic operations. Like a salt. Must be random, might be public.",
+          "targetRectangle" : {
+            "y" : 745.24023371934891,
+            "x" : 11.823999881744385,
+            "width" : 927.41399999999976,
+            "height" : 25
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 110.26065444946289,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
+          }
+        },
+        {
+          "text" : "Secure small key(s)",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 332.16000000000003,
+            "height" : 48.400146484375
+          }
+        },
+        {
           "text" : "IV",
           "targetRectangle" : {
             "y" : 670.00000095367432,
             "x" : 917.00822009658816,
             "width" : 17.107999999999947,
             "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 260.62432861328125,
-            "x" : 398.59762573242188,
-            "width" : 96,
-            "height" : 96
           }
         },
         {
@@ -3299,30 +3285,30 @@
           }
         },
         {
-          "text" : "(*)  IV - Initialisation Vector. Used in many cryptographic operations. Like a salt. Must be random, might be public.",
+          "text" : "ic_action_key.png",
           "targetRectangle" : {
-            "y" : 745.24023371934891,
-            "x" : 11.823999881744385,
-            "width" : 927.41399999999976,
-            "height" : 25
+            "y" : 159.24909973144531,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
           }
         },
         {
-          "text" : "￼",
+          "text" : "IV*",
           "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
+            "y" : 293.99999809265137,
+            "x" : 648.26602527236935,
+            "width" : 27.468000000000075,
+            "height" : 28.40008544921875
           }
         },
         {
           "text" : "ic_action_lock_open.png",
           "targetRectangle" : {
-            "y" : 522.40460205078125,
-            "x" : -18.618316650390625,
-            "width" : 258.25137329101562,
-            "height" : 258.25137329101562
+            "y" : 142.08479309082031,
+            "x" : 879.53139686584473,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
           }
         }
       ],
@@ -5205,10 +5191,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 970.57660043239594,
+                    "pointX" : 972.57660043239594,
                     "pointY" : 44
                   },
-                  "width" : 22,
+                  "width" : 26,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -5277,10 +5263,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 14.423399567604065,
+                        "pointX" : 16.423399567604065,
                         "pointY" : 18
                       },
-                      "width" : 22,
+                      "width" : 26,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -5314,7 +5300,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "0DF42BBE4DCF49C05768628DBFCC1273"
+                    "texture" : "88D8A052A4D1D86DE1A6E9C25B01992D"
                   }
                 ]
               }
@@ -5947,7 +5933,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "34AF1E0165BCF3CFD6269790758E9CF1"
+                    "texture" : "4638809D98B9CB8B296E5F7AC2AFE1FB"
                   }
                 ]
               }
@@ -5968,57 +5954,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "IV*",
+          "text" : "￼",
           "targetRectangle" : {
-            "y" : 293.99999809265137,
-            "x" : 648.26602527236935,
-            "width" : 27.468000000000075,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
             "height" : 28
           }
         },
         {
-          "text" : "ic_action_key.png",
+          "text" : "ic_action_lock_open.png",
           "targetRectangle" : {
-            "y" : 110.26065444946289,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
-          }
-        },
-        {
-          "text" : "Secure small key(s)",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 332.16000000000003,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 974.13269996643066,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 159.24909973144531,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
+            "y" : 522.40460205078125,
+            "x" : -18.618316650390625,
+            "width" : 258.25137329101562,
+            "height" : 258.25137329101562
           }
         },
         {
@@ -6031,12 +5981,12 @@
           }
         },
         {
-          "text" : "ic_action_lock_open.png",
+          "text" : "ic_action_key.png",
           "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 879.53139686584473,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
+            "y" : 260.62432861328125,
+            "x" : 398.59762573242188,
+            "width" : 96,
+            "height" : 96
           }
         },
         {
@@ -6058,6 +6008,24 @@
           }
         },
         {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 142.08479309082031,
+            "x" : 974.13269996643066,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
           "text" : "R",
           "targetRectangle" : {
             "y" : 392.90115356445312,
@@ -6067,21 +6035,39 @@
           }
         },
         {
+          "text" : "(*)  IV - Initialisation Vector. Used in many cryptographic operations. Like a salt. Must be random, might be public.",
+          "targetRectangle" : {
+            "y" : 745.24023371934891,
+            "x" : 11.823999881744385,
+            "width" : 927.41399999999976,
+            "height" : 25
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 110.26065444946289,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
+          }
+        },
+        {
+          "text" : "Secure small key(s)",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 332.16000000000003,
+            "height" : 48.400146484375
+          }
+        },
+        {
           "text" : "IV",
           "targetRectangle" : {
             "y" : 670.00000095367432,
             "x" : 917.00822009658816,
             "width" : 17.107999999999947,
             "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 260.62432861328125,
-            "x" : 398.59762573242188,
-            "width" : 96,
-            "height" : 96
           }
         },
         {
@@ -6103,30 +6089,30 @@
           }
         },
         {
-          "text" : "(*)  IV - Initialisation Vector. Used in many cryptographic operations. Like a salt. Must be random, might be public.",
+          "text" : "ic_action_key.png",
           "targetRectangle" : {
-            "y" : 745.24023371934891,
-            "x" : 11.823999881744385,
-            "width" : 927.41399999999976,
-            "height" : 25
+            "y" : 159.24909973144531,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
           }
         },
         {
-          "text" : "￼",
+          "text" : "IV*",
           "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
+            "y" : 293.99999809265137,
+            "x" : 648.26602527236935,
+            "width" : 27.468000000000075,
+            "height" : 28.40008544921875
           }
         },
         {
           "text" : "ic_action_lock_open.png",
           "targetRectangle" : {
-            "y" : 522.40460205078125,
-            "x" : -18.618316650390625,
-            "width" : 258.25137329101562,
-            "height" : 258.25137329101562
+            "y" : 142.08479309082031,
+            "x" : 879.53139686584473,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
           }
         }
       ],
@@ -8009,10 +7995,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 970.57660043239594,
+                    "pointX" : 972.57660043239594,
                     "pointY" : 44
                   },
-                  "width" : 22,
+                  "width" : 26,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -8081,10 +8067,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 14.423399567604065,
+                        "pointX" : 16.423399567604065,
                         "pointY" : 18
                       },
-                      "width" : 22,
+                      "width" : 26,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -8118,7 +8104,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "0DF42BBE4DCF49C05768628DBFCC1273"
+                    "texture" : "88D8A052A4D1D86DE1A6E9C25B01992D"
                   }
                 ]
               }

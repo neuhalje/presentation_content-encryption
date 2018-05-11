@@ -16,6 +16,20 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
+      "A78FADC8893450BA88C5D369D422399B" : {
+        "type" : "texture",
+        "index" : 8,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/598DF65A-2973-4E9A-B468-893617CD72E3.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "02BF9A73E35DC416A18997B5DF53C305" : {
         "type" : "texture",
         "index" : 4,
@@ -44,20 +58,6 @@ local_slide( {
         "width" : 209,
         "height" : 20
       },
-      "3652491581F6A0D28EDF310FD789771E" : {
-        "type" : "texture",
-        "index" : 8,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/598DF65A-2973-4E9A-B468-893617CD72E3.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
       "640D5297D59088D46FE63A28D36F2264" : {
         "type" : "texture",
         "index" : 1,
@@ -85,6 +85,20 @@ local_slide( {
         },
         "width" : 998,
         "height" : 372
+      },
+      "F860363142CC3AF7AB83A49DBAA91576" : {
+        "type" : "texture",
+        "index" : 9,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/598DF65A-2973-4E9A-B468-893617CD72E3.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       },
       "005A4D275C88C1DB4EA93196B3A261AA" : {
         "type" : "texture",
@@ -127,20 +141,6 @@ local_slide( {
         },
         "width" : 348,
         "height" : 273
-      },
-      "F860363142CC3AF7AB83A49DBAA91576" : {
-        "type" : "texture",
-        "index" : 9,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/598DF65A-2973-4E9A-B468-893617CD72E3.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       }
     },
     "events" : [
@@ -324,7 +324,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "3652491581F6A0D28EDF310FD789771E"
+                      "texture" : "A78FADC8893450BA88C5D369D422399B"
                     },
                     {
                       "animations" : [
@@ -426,15 +426,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "User login: Migrate passwords",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
-            }
-          },
-          {
             "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
@@ -450,6 +441,15 @@ local_slide( {
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
+            }
+          },
+          {
+            "text" : "User login: Migrate passwords",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
             }
           }
         ],

@@ -1,5 +1,19 @@
 {
   "assets" : {
+    "E7B7F1C00C372B29123AE395A50EFB4D" : {
+      "type" : "texture",
+      "index" : 12,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/58253601-ABB7-44F4-BECA-CE046B440F65.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
     "640D5297D59088D46FE63A28D36F2264" : {
       "type" : "texture",
       "index" : 1,
@@ -16,7 +30,7 @@
     },
     "DF2953299E528967E675DF06E6AB9A5D" : {
       "type" : "texture",
-      "index" : 12,
+      "index" : 6,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -42,9 +56,9 @@
       "width" : 855,
       "height" : 61
     },
-    "4704A2C7CAF7650FE5A76E0834166E4D" : {
+    "80DEAA210B39E5E846120D8A7CA3457C" : {
       "type" : "texture",
-      "index" : 14,
+      "index" : 3,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -53,22 +67,8 @@
       "url" : {
         "native" : "assets\/58253601-ABB7-44F4-BECA-CE046B440F65.pdf"
       },
-      "width" : 1024,
-      "height" : 768
-    },
-    "2300324FFE33F9ADDCF218D89012428F" : {
-      "type" : "texture",
-      "index" : 5,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/58253601-ABB7-44F4-BECA-CE046B440F65.pdf"
-      },
-      "width" : 26,
-      "height" : 20
+      "width" : 221,
+      "height" : 37
     },
     "751252E02E233346071D1C29C27A0E73" : {
       "type" : "texture",
@@ -83,20 +83,6 @@
       },
       "width" : 680,
       "height" : 62
-    },
-    "80DEAA210B39E5E846120D8A7CA3457C" : {
-      "type" : "texture",
-      "index" : 3,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/58253601-ABB7-44F4-BECA-CE046B440F65.pdf"
-      },
-      "width" : 221,
-      "height" : 37
     },
     "8E067AB9D34F18DC66C3449E410953DA" : {
       "type" : "texture",
@@ -154,9 +140,9 @@
       "width" : 209,
       "height" : 20
     },
-    "0C131E3FE47040E4976470CD7E95EAE9" : {
+    "2E1A389E85A63071F3BDDC0A0713283C" : {
       "type" : "texture",
-      "index" : 6,
+      "index" : 13,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -165,8 +151,8 @@
       "url" : {
         "native" : "assets\/58253601-ABB7-44F4-BECA-CE046B440F65.pdf"
       },
-      "width" : 721,
-      "height" : 103
+      "width" : 1024,
+      "height" : 768
     },
     "C0D78B79BD8C8A86930412C2AE097FA2" : {
       "type" : "texture",
@@ -196,9 +182,9 @@
       "width" : 433,
       "height" : 60
     },
-    "64DC93AF9EEC352D562A1541A65C2113" : {
+    "802A439374B9BF0818026D4B95878CD2" : {
       "type" : "texture",
-      "index" : 13,
+      "index" : 5,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -207,8 +193,8 @@
       "url" : {
         "native" : "assets\/58253601-ABB7-44F4-BECA-CE046B440F65.pdf"
       },
-      "width" : 1024,
-      "height" : 768
+      "width" : 25,
+      "height" : 20
     }
   },
   "events" : [
@@ -427,21 +413,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "=>",
+          "text" : "==",
           "targetRectangle" : {
-            "y" : 373.65264999866486,
-            "x" : 56.566341400146484,
+            "y" : 122.65264892578125,
+            "x" : 853.88079833984375,
             "width" : 45.288000000000011,
             "height" : 46
-          }
-        },
-        {
-          "text" : "Lorem ipsum …",
-          "targetRectangle" : {
-            "y" : 327.95260608196259,
-            "x" : 332.3819899559021,
-            "width" : 154.53199999999998,
-            "height" : 28.40008544921875
           }
         },
         {
@@ -454,10 +431,136 @@
           }
         },
         {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Collisions [A != B but sha256(A) == sha256(B)] are\\u2028mathematically possible, but practically not relevant",
+          "targetRectangle" : {
+            "y" : 660.47210693359375,
+            "x" : 140.21699523925781,
+            "width" : 814.12600000000032,
+            "height" : 92
+          }
+        },
+        {
           "text" : "==",
           "targetRectangle" : {
-            "y" : 122.65264892578125,
-            "x" : 853.88079833984375,
+            "y" : 317.65264892578125,
+            "x" : 518.73980712890625,
+            "width" : 45.288000000000011,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "4c53e9c9…",
+          "targetRectangle" : {
+            "y" : 441.57595813274384,
+            "x" : 595.61306309700012,
+            "width" : 113.23199999999997,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Lorem ipsum …",
+          "targetRectangle" : {
+            "y" : 383.95260798931122,
+            "x" : 333.25206518173218,
+            "width" : 154.53199999999998,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 141.26483345031738,
+            "x" : 809.53539276123047,
+            "width" : 37.958965301513672,
+            "height" : 37.958965301513672
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "sha256(                     )",
+          "targetRectangle" : {
+            "y" : 373.65264976024628,
+            "x" : 575.54101181030273,
+            "width" : 323.91800000000001,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Lorem ipsum …",
+          "targetRectangle" : {
+            "y" : 380.95260798931122,
+            "x" : 718.38200902938843,
+            "width" : 154.53199999999993,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Lorem ipsum …",
+          "targetRectangle" : {
+            "y" : 327.95260608196259,
+            "x" : 332.3819899559021,
+            "width" : 154.53199999999998,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "=>",
+          "targetRectangle" : {
+            "y" : 373.65264999866486,
+            "x" : 56.566341400146484,
+            "width" : 45.288000000000011,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Problem: Securely compare two data items ",
+          "targetRectangle" : {
+            "y" : 175.24711608886719,
+            "x" : 36,
+            "width" : 630.01048000000014,
+            "height" : 67.760000467300415
+          }
+        },
+        {
+          "text" : "Solution: Normalise & hash data, compare hashes",
+          "targetRectangle" : {
+            "y" : 243.0071165561676,
+            "x" : 36,
+            "width" : 719.18975999999998,
+            "height" : 42
+          }
+        },
+        {
+          "text" : "==",
+          "targetRectangle" : {
+            "y" : 433.7239990234375,
+            "x" : 517.82079696655273,
             "width" : 45.288000000000011,
             "height" : 46
           }
@@ -469,15 +572,6 @@
             "x" : 518.73980331420898,
             "width" : 45.288000000000011,
             "height" : 46
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
           }
         },
         {
@@ -508,12 +602,12 @@
           }
         },
         {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "Compare Data",
           "targetRectangle" : {
-            "y" : 40,
+            "y" : 125,
             "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
+            "width" : 220.70400000000001,
+            "height" : 48.400146484375
           }
         },
         {
@@ -528,118 +622,10 @@
         {
           "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 141.26483345031738,
-            "x" : 809.53539276123047,
-            "width" : 37.958965301513672,
-            "height" : 37.958965301513672
-          }
-        },
-        {
-          "text" : "Problem: Securely compare two data items ",
-          "targetRectangle" : {
-            "y" : 175.24711608886719,
-            "x" : 36,
-            "width" : 630.01048000000014,
-            "height" : 67.760000467300415
-          }
-        },
-        {
-          "text" : "Solution: Normalise & hash data, compare hashes",
-          "targetRectangle" : {
-            "y" : 243.0071165561676,
-            "x" : 36,
-            "width" : 719.18975999999998,
-            "height" : 42
-          }
-        },
-        {
-          "text" : "4c53e9c9…",
-          "targetRectangle" : {
-            "y" : 441.57595813274384,
-            "x" : 595.61306309700012,
-            "width" : 113.23199999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Lorem ipsum …",
-          "targetRectangle" : {
-            "y" : 383.95260798931122,
-            "x" : 333.25206518173218,
-            "width" : 154.53199999999998,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "==",
-          "targetRectangle" : {
-            "y" : 317.65264892578125,
-            "x" : 518.73980712890625,
-            "width" : 45.288000000000011,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Collisions [A != B but sha256(A) == sha256(B)] are\\u2028mathematically possible, but practically not relevant",
-          "targetRectangle" : {
-            "y" : 660.47210693359375,
-            "x" : 140.21699523925781,
-            "width" : 814.12600000000032,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "sha256(                     )",
-          "targetRectangle" : {
-            "y" : 373.65264976024628,
-            "x" : 575.54101181030273,
-            "width" : 323.91800000000001,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Compare Data",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 220.70400000000001,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
             "y" : 142.79307746887207,
             "x" : 939.53539276123047,
             "width" : 37.958965301513672,
             "height" : 37.958965301513672
-          }
-        },
-        {
-          "text" : "==",
-          "targetRectangle" : {
-            "y" : 433.7239990234375,
-            "x" : 517.82079696655273,
-            "width" : 45.288000000000011,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Lorem ipsum …",
-          "targetRectangle" : {
-            "y" : 380.95260798931122,
-            "x" : 718.38200902938843,
-            "width" : 154.53199999999993,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
           }
         }
       ],
@@ -1721,10 +1707,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.57660043239594,
+                    "pointX" : 972.07660043239594,
                     "pointY" : 44
                   },
-                  "width" : 26,
+                  "width" : 25,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -1793,10 +1779,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 16.423399567604065,
+                        "pointX" : 15.923399567604065,
                         "pointY" : 18
                       },
-                      "width" : 26,
+                      "width" : 25,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1830,7 +1816,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "2300324FFE33F9ADDCF218D89012428F"
+                    "texture" : "802A439374B9BF0818026D4B95878CD2"
                   }
                 ]
               }
@@ -2017,7 +2003,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "0C131E3FE47040E4976470CD7E95EAE9"
+                    "texture" : "DF2953299E528967E675DF06E6AB9A5D"
                   }
                 ]
               }
@@ -3149,21 +3135,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "=>",
+          "text" : "==",
           "targetRectangle" : {
-            "y" : 373.65264999866486,
-            "x" : 56.566341400146484,
+            "y" : 122.65264892578125,
+            "x" : 853.88079833984375,
             "width" : 45.288000000000011,
             "height" : 46
-          }
-        },
-        {
-          "text" : "Lorem ipsum …",
-          "targetRectangle" : {
-            "y" : 327.95260608196259,
-            "x" : 332.3819899559021,
-            "width" : 154.53199999999998,
-            "height" : 28.40008544921875
           }
         },
         {
@@ -3176,10 +3153,136 @@
           }
         },
         {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Collisions [A != B but sha256(A) == sha256(B)] are\\u2028mathematically possible, but practically not relevant",
+          "targetRectangle" : {
+            "y" : 660.47210693359375,
+            "x" : 140.21699523925781,
+            "width" : 814.12600000000032,
+            "height" : 92
+          }
+        },
+        {
           "text" : "==",
           "targetRectangle" : {
-            "y" : 122.65264892578125,
-            "x" : 853.88079833984375,
+            "y" : 317.65264892578125,
+            "x" : 518.73980712890625,
+            "width" : 45.288000000000011,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "4c53e9c9…",
+          "targetRectangle" : {
+            "y" : 441.57595813274384,
+            "x" : 595.61306309700012,
+            "width" : 113.23199999999997,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Lorem ipsum …",
+          "targetRectangle" : {
+            "y" : 383.95260798931122,
+            "x" : 333.25206518173218,
+            "width" : 154.53199999999998,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 141.26483345031738,
+            "x" : 809.53539276123047,
+            "width" : 37.958965301513672,
+            "height" : 37.958965301513672
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "sha256(                     )",
+          "targetRectangle" : {
+            "y" : 373.65264976024628,
+            "x" : 575.54101181030273,
+            "width" : 323.91800000000001,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Lorem ipsum …",
+          "targetRectangle" : {
+            "y" : 380.95260798931122,
+            "x" : 718.38200902938843,
+            "width" : 154.53199999999993,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Lorem ipsum …",
+          "targetRectangle" : {
+            "y" : 327.95260608196259,
+            "x" : 332.3819899559021,
+            "width" : 154.53199999999998,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "=>",
+          "targetRectangle" : {
+            "y" : 373.65264999866486,
+            "x" : 56.566341400146484,
+            "width" : 45.288000000000011,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Problem: Securely compare two data items ",
+          "targetRectangle" : {
+            "y" : 175.24711608886719,
+            "x" : 36,
+            "width" : 630.01048000000014,
+            "height" : 67.760000467300415
+          }
+        },
+        {
+          "text" : "Solution: Normalise & hash data, compare hashes",
+          "targetRectangle" : {
+            "y" : 243.0071165561676,
+            "x" : 36,
+            "width" : 719.18975999999998,
+            "height" : 42
+          }
+        },
+        {
+          "text" : "==",
+          "targetRectangle" : {
+            "y" : 433.7239990234375,
+            "x" : 517.82079696655273,
             "width" : 45.288000000000011,
             "height" : 46
           }
@@ -3191,15 +3294,6 @@
             "x" : 518.73980331420898,
             "width" : 45.288000000000011,
             "height" : 46
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
           }
         },
         {
@@ -3230,12 +3324,12 @@
           }
         },
         {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "Compare Data",
           "targetRectangle" : {
-            "y" : 40,
+            "y" : 125,
             "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
+            "width" : 220.70400000000001,
+            "height" : 48.400146484375
           }
         },
         {
@@ -3250,118 +3344,10 @@
         {
           "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 141.26483345031738,
-            "x" : 809.53539276123047,
-            "width" : 37.958965301513672,
-            "height" : 37.958965301513672
-          }
-        },
-        {
-          "text" : "Problem: Securely compare two data items ",
-          "targetRectangle" : {
-            "y" : 175.24711608886719,
-            "x" : 36,
-            "width" : 630.01048000000014,
-            "height" : 67.760000467300415
-          }
-        },
-        {
-          "text" : "Solution: Normalise & hash data, compare hashes",
-          "targetRectangle" : {
-            "y" : 243.0071165561676,
-            "x" : 36,
-            "width" : 719.18975999999998,
-            "height" : 42
-          }
-        },
-        {
-          "text" : "4c53e9c9…",
-          "targetRectangle" : {
-            "y" : 441.57595813274384,
-            "x" : 595.61306309700012,
-            "width" : 113.23199999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Lorem ipsum …",
-          "targetRectangle" : {
-            "y" : 383.95260798931122,
-            "x" : 333.25206518173218,
-            "width" : 154.53199999999998,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "==",
-          "targetRectangle" : {
-            "y" : 317.65264892578125,
-            "x" : 518.73980712890625,
-            "width" : 45.288000000000011,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Collisions [A != B but sha256(A) == sha256(B)] are\\u2028mathematically possible, but practically not relevant",
-          "targetRectangle" : {
-            "y" : 660.47210693359375,
-            "x" : 140.21699523925781,
-            "width" : 814.12600000000032,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "sha256(                     )",
-          "targetRectangle" : {
-            "y" : 373.65264976024628,
-            "x" : 575.54101181030273,
-            "width" : 323.91800000000001,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Compare Data",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 220.70400000000001,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
             "y" : 142.79307746887207,
             "x" : 939.53539276123047,
             "width" : 37.958965301513672,
             "height" : 37.958965301513672
-          }
-        },
-        {
-          "text" : "==",
-          "targetRectangle" : {
-            "y" : 433.7239990234375,
-            "x" : 517.82079696655273,
-            "width" : 45.288000000000011,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Lorem ipsum …",
-          "targetRectangle" : {
-            "y" : 380.95260798931122,
-            "x" : 718.38200902938843,
-            "width" : 154.53199999999993,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
           }
         }
       ],
@@ -4443,10 +4429,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.57660043239594,
+                    "pointX" : 972.07660043239594,
                     "pointY" : 44
                   },
-                  "width" : 26,
+                  "width" : 25,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -4515,10 +4501,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 16.423399567604065,
+                        "pointX" : 15.923399567604065,
                         "pointY" : 18
                       },
-                      "width" : 26,
+                      "width" : 25,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -4552,7 +4538,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "2300324FFE33F9ADDCF218D89012428F"
+                    "texture" : "802A439374B9BF0818026D4B95878CD2"
                   }
                 ]
               }
@@ -5871,21 +5857,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "=>",
+          "text" : "==",
           "targetRectangle" : {
-            "y" : 373.65264999866486,
-            "x" : 56.566341400146484,
+            "y" : 122.65264892578125,
+            "x" : 853.88079833984375,
             "width" : 45.288000000000011,
             "height" : 46
-          }
-        },
-        {
-          "text" : "Lorem ipsum …",
-          "targetRectangle" : {
-            "y" : 327.95260608196259,
-            "x" : 332.3819899559021,
-            "width" : 154.53199999999998,
-            "height" : 28.40008544921875
           }
         },
         {
@@ -5898,10 +5875,136 @@
           }
         },
         {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Collisions [A != B but sha256(A) == sha256(B)] are\\u2028mathematically possible, but practically not relevant",
+          "targetRectangle" : {
+            "y" : 660.47210693359375,
+            "x" : 140.21699523925781,
+            "width" : 814.12600000000032,
+            "height" : 92
+          }
+        },
+        {
           "text" : "==",
           "targetRectangle" : {
-            "y" : 122.65264892578125,
-            "x" : 853.88079833984375,
+            "y" : 317.65264892578125,
+            "x" : 518.73980712890625,
+            "width" : 45.288000000000011,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "4c53e9c9…",
+          "targetRectangle" : {
+            "y" : 441.57595813274384,
+            "x" : 595.61306309700012,
+            "width" : 113.23199999999997,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Lorem ipsum …",
+          "targetRectangle" : {
+            "y" : 383.95260798931122,
+            "x" : 333.25206518173218,
+            "width" : 154.53199999999998,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 141.26483345031738,
+            "x" : 809.53539276123047,
+            "width" : 37.958965301513672,
+            "height" : 37.958965301513672
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "sha256(                     )",
+          "targetRectangle" : {
+            "y" : 373.65264976024628,
+            "x" : 575.54101181030273,
+            "width" : 323.91800000000001,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Lorem ipsum …",
+          "targetRectangle" : {
+            "y" : 380.95260798931122,
+            "x" : 718.38200902938843,
+            "width" : 154.53199999999993,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Lorem ipsum …",
+          "targetRectangle" : {
+            "y" : 327.95260608196259,
+            "x" : 332.3819899559021,
+            "width" : 154.53199999999998,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "=>",
+          "targetRectangle" : {
+            "y" : 373.65264999866486,
+            "x" : 56.566341400146484,
+            "width" : 45.288000000000011,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Problem: Securely compare two data items ",
+          "targetRectangle" : {
+            "y" : 175.24711608886719,
+            "x" : 36,
+            "width" : 630.01048000000014,
+            "height" : 67.760000467300415
+          }
+        },
+        {
+          "text" : "Solution: Normalise & hash data, compare hashes",
+          "targetRectangle" : {
+            "y" : 243.0071165561676,
+            "x" : 36,
+            "width" : 719.18975999999998,
+            "height" : 42
+          }
+        },
+        {
+          "text" : "==",
+          "targetRectangle" : {
+            "y" : 433.7239990234375,
+            "x" : 517.82079696655273,
             "width" : 45.288000000000011,
             "height" : 46
           }
@@ -5913,15 +6016,6 @@
             "x" : 518.73980331420898,
             "width" : 45.288000000000011,
             "height" : 46
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
           }
         },
         {
@@ -5952,12 +6046,12 @@
           }
         },
         {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "Compare Data",
           "targetRectangle" : {
-            "y" : 40,
+            "y" : 125,
             "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
+            "width" : 220.70400000000001,
+            "height" : 48.400146484375
           }
         },
         {
@@ -5972,118 +6066,10 @@
         {
           "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 141.26483345031738,
-            "x" : 809.53539276123047,
-            "width" : 37.958965301513672,
-            "height" : 37.958965301513672
-          }
-        },
-        {
-          "text" : "Problem: Securely compare two data items ",
-          "targetRectangle" : {
-            "y" : 175.24711608886719,
-            "x" : 36,
-            "width" : 630.01048000000014,
-            "height" : 67.760000467300415
-          }
-        },
-        {
-          "text" : "Solution: Normalise & hash data, compare hashes",
-          "targetRectangle" : {
-            "y" : 243.0071165561676,
-            "x" : 36,
-            "width" : 719.18975999999998,
-            "height" : 42
-          }
-        },
-        {
-          "text" : "4c53e9c9…",
-          "targetRectangle" : {
-            "y" : 441.57595813274384,
-            "x" : 595.61306309700012,
-            "width" : 113.23199999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Lorem ipsum …",
-          "targetRectangle" : {
-            "y" : 383.95260798931122,
-            "x" : 333.25206518173218,
-            "width" : 154.53199999999998,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "==",
-          "targetRectangle" : {
-            "y" : 317.65264892578125,
-            "x" : 518.73980712890625,
-            "width" : 45.288000000000011,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Collisions [A != B but sha256(A) == sha256(B)] are\\u2028mathematically possible, but practically not relevant",
-          "targetRectangle" : {
-            "y" : 660.47210693359375,
-            "x" : 140.21699523925781,
-            "width" : 814.12600000000032,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "sha256(                     )",
-          "targetRectangle" : {
-            "y" : 373.65264976024628,
-            "x" : 575.54101181030273,
-            "width" : 323.91800000000001,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Compare Data",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 220.70400000000001,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
             "y" : 142.79307746887207,
             "x" : 939.53539276123047,
             "width" : 37.958965301513672,
             "height" : 37.958965301513672
-          }
-        },
-        {
-          "text" : "==",
-          "targetRectangle" : {
-            "y" : 433.7239990234375,
-            "x" : 517.82079696655273,
-            "width" : 45.288000000000011,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Lorem ipsum …",
-          "targetRectangle" : {
-            "y" : 380.95260798931122,
-            "x" : 718.38200902938843,
-            "width" : 154.53199999999993,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
           }
         }
       ],
@@ -7165,10 +7151,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.57660043239594,
+                    "pointX" : 972.07660043239594,
                     "pointY" : 44
                   },
-                  "width" : 26,
+                  "width" : 25,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -7237,10 +7223,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 16.423399567604065,
+                        "pointX" : 15.923399567604065,
                         "pointY" : 18
                       },
-                      "width" : 26,
+                      "width" : 25,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -7274,7 +7260,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "2300324FFE33F9ADDCF218D89012428F"
+                    "texture" : "802A439374B9BF0818026D4B95878CD2"
                   }
                 ]
               }
@@ -8558,7 +8544,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "64DC93AF9EEC352D562A1541A65C2113"
+                    "texture" : "E7B7F1C00C372B29123AE395A50EFB4D"
                   },
                   {
                     "animations" : [
@@ -8639,7 +8625,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "4704A2C7CAF7650FE5A76E0834166E4D"
+                    "texture" : "2E1A389E85A63071F3BDDC0A0713283C"
                   }
                 ]
               }
@@ -8660,21 +8646,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "=>",
+          "text" : "==",
           "targetRectangle" : {
-            "y" : 373.65264999866486,
-            "x" : 56.566341400146484,
+            "y" : 122.65264892578125,
+            "x" : 853.88079833984375,
             "width" : 45.288000000000011,
             "height" : 46
-          }
-        },
-        {
-          "text" : "Lorem ipsum …",
-          "targetRectangle" : {
-            "y" : 327.95260608196259,
-            "x" : 332.3819899559021,
-            "width" : 154.53199999999998,
-            "height" : 28.40008544921875
           }
         },
         {
@@ -8687,10 +8664,136 @@
           }
         },
         {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Collisions [A != B but sha256(A) == sha256(B)] are\\u2028mathematically possible, but practically not relevant",
+          "targetRectangle" : {
+            "y" : 660.47210693359375,
+            "x" : 140.21699523925781,
+            "width" : 814.12600000000032,
+            "height" : 92
+          }
+        },
+        {
           "text" : "==",
           "targetRectangle" : {
-            "y" : 122.65264892578125,
-            "x" : 853.88079833984375,
+            "y" : 317.65264892578125,
+            "x" : 518.73980712890625,
+            "width" : 45.288000000000011,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "4c53e9c9…",
+          "targetRectangle" : {
+            "y" : 441.57595813274384,
+            "x" : 595.61306309700012,
+            "width" : 113.23199999999997,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Lorem ipsum …",
+          "targetRectangle" : {
+            "y" : 383.95260798931122,
+            "x" : 333.25206518173218,
+            "width" : 154.53199999999998,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 141.26483345031738,
+            "x" : 809.53539276123047,
+            "width" : 37.958965301513672,
+            "height" : 37.958965301513672
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "sha256(                     )",
+          "targetRectangle" : {
+            "y" : 373.65264976024628,
+            "x" : 575.54101181030273,
+            "width" : 323.91800000000001,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Lorem ipsum …",
+          "targetRectangle" : {
+            "y" : 380.95260798931122,
+            "x" : 718.38200902938843,
+            "width" : 154.53199999999993,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Lorem ipsum …",
+          "targetRectangle" : {
+            "y" : 327.95260608196259,
+            "x" : 332.3819899559021,
+            "width" : 154.53199999999998,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "=>",
+          "targetRectangle" : {
+            "y" : 373.65264999866486,
+            "x" : 56.566341400146484,
+            "width" : 45.288000000000011,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Problem: Securely compare two data items ",
+          "targetRectangle" : {
+            "y" : 175.24711608886719,
+            "x" : 36,
+            "width" : 630.01048000000014,
+            "height" : 67.760000467300415
+          }
+        },
+        {
+          "text" : "Solution: Normalise & hash data, compare hashes",
+          "targetRectangle" : {
+            "y" : 243.0071165561676,
+            "x" : 36,
+            "width" : 719.18975999999998,
+            "height" : 42
+          }
+        },
+        {
+          "text" : "==",
+          "targetRectangle" : {
+            "y" : 433.7239990234375,
+            "x" : 517.82079696655273,
             "width" : 45.288000000000011,
             "height" : 46
           }
@@ -8702,15 +8805,6 @@
             "x" : 518.73980331420898,
             "width" : 45.288000000000011,
             "height" : 46
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
           }
         },
         {
@@ -8741,12 +8835,12 @@
           }
         },
         {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "Compare Data",
           "targetRectangle" : {
-            "y" : 40,
+            "y" : 125,
             "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
+            "width" : 220.70400000000001,
+            "height" : 48.400146484375
           }
         },
         {
@@ -8761,118 +8855,10 @@
         {
           "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 141.26483345031738,
-            "x" : 809.53539276123047,
-            "width" : 37.958965301513672,
-            "height" : 37.958965301513672
-          }
-        },
-        {
-          "text" : "Problem: Securely compare two data items ",
-          "targetRectangle" : {
-            "y" : 175.24711608886719,
-            "x" : 36,
-            "width" : 630.01048000000014,
-            "height" : 67.760000467300415
-          }
-        },
-        {
-          "text" : "Solution: Normalise & hash data, compare hashes",
-          "targetRectangle" : {
-            "y" : 243.0071165561676,
-            "x" : 36,
-            "width" : 719.18975999999998,
-            "height" : 42
-          }
-        },
-        {
-          "text" : "4c53e9c9…",
-          "targetRectangle" : {
-            "y" : 441.57595813274384,
-            "x" : 595.61306309700012,
-            "width" : 113.23199999999997,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Lorem ipsum …",
-          "targetRectangle" : {
-            "y" : 383.95260798931122,
-            "x" : 333.25206518173218,
-            "width" : 154.53199999999998,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "==",
-          "targetRectangle" : {
-            "y" : 317.65264892578125,
-            "x" : 518.73980712890625,
-            "width" : 45.288000000000011,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Collisions [A != B but sha256(A) == sha256(B)] are\\u2028mathematically possible, but practically not relevant",
-          "targetRectangle" : {
-            "y" : 660.47210693359375,
-            "x" : 140.21699523925781,
-            "width" : 814.12600000000032,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "sha256(                     )",
-          "targetRectangle" : {
-            "y" : 373.65264976024628,
-            "x" : 575.54101181030273,
-            "width" : 323.91800000000001,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Compare Data",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 220.70400000000001,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
             "y" : 142.79307746887207,
             "x" : 939.53539276123047,
             "width" : 37.958965301513672,
             "height" : 37.958965301513672
-          }
-        },
-        {
-          "text" : "==",
-          "targetRectangle" : {
-            "y" : 433.7239990234375,
-            "x" : 517.82079696655273,
-            "width" : 45.288000000000011,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Lorem ipsum …",
-          "targetRectangle" : {
-            "y" : 380.95260798931122,
-            "x" : 718.38200902938843,
-            "width" : 154.53199999999993,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
           }
         }
       ],
@@ -9955,10 +9941,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.57660043239594,
+                    "pointX" : 972.07660043239594,
                     "pointY" : 44
                   },
-                  "width" : 26,
+                  "width" : 25,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -10027,10 +10013,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 16.423399567604065,
+                        "pointX" : 15.923399567604065,
                         "pointY" : 18
                       },
-                      "width" : 26,
+                      "width" : 25,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -10064,7 +10050,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "2300324FFE33F9ADDCF218D89012428F"
+                    "texture" : "802A439374B9BF0818026D4B95878CD2"
                   }
                 ]
               }

@@ -2,20 +2,6 @@ local_slide( {
   "name" : "7E1FAB1E-3626-4B09-A1BE-0395E1022231",
   "json" : {
     "assets" : {
-      "75E7C34500CAEDB845F2A57BED2D613E" : {
-        "type" : "texture",
-        "index" : 15,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/7E1FAB1E-3626-4B09-A1BE-0395E1022231.pdf"
-        },
-        "width" : 553,
-        "height" : 48
-      },
       "2A817A9A051CBA8BA0365D2ABA205986" : {
         "type" : "texture",
         "index" : 3,
@@ -100,7 +86,7 @@ local_slide( {
         "width" : 52,
         "height" : 50
       },
-      "D221E86460E136644270C16A59BCF423" : {
+      "82A4F738D8062D4272BF2CAA094D368F" : {
         "type" : "texture",
         "index" : 16,
         "assetRequest" : {
@@ -156,9 +142,9 @@ local_slide( {
         "width" : 498,
         "height" : 20
       },
-      "F1A68A9A3B25E7278FBB74CC2BCCBD9C" : {
+      "B47A9D6E9A922CD5E766C84E04E66FC7" : {
         "type" : "texture",
-        "index" : 17,
+        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -167,8 +153,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/7E1FAB1E-3626-4B09-A1BE-0395E1022231.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 25,
+        "height" : 20
       },
       "4B8CDAC6E90B65860BAAD3117E21F02F" : {
         "type" : "texture",
@@ -226,9 +212,9 @@ local_slide( {
         "width" : 275,
         "height" : 111
       },
-      "763F2C241DC1912BA77A29A23BE50E3F" : {
+      "75E7C34500CAEDB845F2A57BED2D613E" : {
         "type" : "texture",
-        "index" : 5,
+        "index" : 15,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -237,8 +223,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/7E1FAB1E-3626-4B09-A1BE-0395E1022231.pdf"
         },
-        "width" : 26,
-        "height" : 20
+        "width" : 553,
+        "height" : 48
       },
       "D3541F0805EA612283076B0FC1EA05AF" : {
         "type" : "texture",
@@ -253,6 +239,20 @@ local_slide( {
         },
         "width" : 277,
         "height" : 138
+      },
+      "10A9A7DA30B3869BA692415845AB4BF9" : {
+        "type" : "texture",
+        "index" : 17,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/7E1FAB1E-3626-4B09-A1BE-0395E1022231.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       }
     },
     "events" : [
@@ -1136,6 +1136,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Trust Anchors",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 242.40000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
             "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
@@ -1160,15 +1169,6 @@ local_slide( {
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "Trust Anchors",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 242.40000000000003,
-              "height" : 48.400146484375
             }
           }
         ],
@@ -2250,10 +2250,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.57660043239594,
+                      "pointX" : 972.07660043239594,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 25,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -2322,10 +2322,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.423399567604065,
+                          "pointX" : 15.923399567604065,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 25,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -2359,7 +2359,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "763F2C241DC1912BA77A29A23BE50E3F"
+                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
                     }
                   ]
                 }
@@ -6481,6 +6481,24 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Trust Anchors",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 242.40000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "You trust your trust anchor(s) — they are secure by definition",
             "targetRectangle" : {
               "y" : 505.2977294921875,
@@ -6499,15 +6517,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -6523,15 +6532,6 @@ local_slide( {
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "Trust Anchors",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 242.40000000000003,
-              "height" : 48.400146484375
             }
           }
         ],
@@ -7613,10 +7613,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.57660043239594,
+                      "pointX" : 972.07660043239594,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 25,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -7685,10 +7685,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.423399567604065,
+                          "pointX" : 15.923399567604065,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 25,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -7722,7 +7722,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "763F2C241DC1912BA77A29A23BE50E3F"
+                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
                     }
                   ]
                 }
@@ -11083,6 +11083,24 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Trust Anchors",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 242.40000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "You trust your trust anchor(s) — they are secure by definition",
             "targetRectangle" : {
               "y" : 505.2977294921875,
@@ -11110,15 +11128,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -11134,15 +11143,6 @@ local_slide( {
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "Trust Anchors",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 242.40000000000003,
-              "height" : 48.400146484375
             }
           }
         ],
@@ -12224,10 +12224,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.57660043239594,
+                      "pointX" : 972.07660043239594,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 25,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -12296,10 +12296,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.423399567604065,
+                          "pointX" : 15.923399567604065,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 25,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -12333,7 +12333,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "763F2C241DC1912BA77A29A23BE50E3F"
+                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
                     }
                   ]
                 }
@@ -15695,6 +15695,24 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Trust Anchors",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 242.40000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "You trust your trust anchor(s) — they are secure by definition",
             "targetRectangle" : {
               "y" : 505.2977294921875,
@@ -15722,15 +15740,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -15746,15 +15755,6 @@ local_slide( {
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "Trust Anchors",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 242.40000000000003,
-              "height" : 48.400146484375
             }
           }
         ],
@@ -16836,10 +16836,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.57660043239594,
+                      "pointX" : 972.07660043239594,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 25,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -16908,10 +16908,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.423399567604065,
+                          "pointX" : 15.923399567604065,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 25,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -16945,7 +16945,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "763F2C241DC1912BA77A29A23BE50E3F"
+                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
                     }
                   ]
                 }
@@ -20307,6 +20307,24 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Trust Anchors",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 242.40000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "You trust your trust anchor(s) — they are secure by definition",
             "targetRectangle" : {
               "y" : 505.2977294921875,
@@ -20334,15 +20352,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -20358,15 +20367,6 @@ local_slide( {
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "Trust Anchors",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 242.40000000000003,
-              "height" : 48.400146484375
             }
           }
         ],
@@ -21448,10 +21448,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.57660043239594,
+                      "pointX" : 972.07660043239594,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 25,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -21520,10 +21520,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.423399567604065,
+                          "pointX" : 15.923399567604065,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 25,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -21557,7 +21557,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "763F2C241DC1912BA77A29A23BE50E3F"
+                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
                     }
                   ]
                 }
@@ -24884,7 +24884,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "D221E86460E136644270C16A59BCF423"
+                      "texture" : "82A4F738D8062D4272BF2CAA094D368F"
                     },
                     {
                       "animations" : [
@@ -24965,7 +24965,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "F1A68A9A3B25E7278FBB74CC2BCCBD9C"
+                      "texture" : "10A9A7DA30B3869BA692415845AB4BF9"
                     }
                   ]
                 }
@@ -24985,6 +24985,24 @@ local_slide( {
 
         ],
         "accessibility" : [
+          {
+            "text" : "Trust Anchors",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 242.40000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
           {
             "text" : "You trust your trust anchor(s) — they are secure by definition",
             "targetRectangle" : {
@@ -25013,15 +25031,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -25037,15 +25046,6 @@ local_slide( {
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "Trust Anchors",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 242.40000000000003,
-              "height" : 48.400146484375
             }
           }
         ],
@@ -26128,10 +26128,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.57660043239594,
+                      "pointX" : 972.07660043239594,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 25,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -26200,10 +26200,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.423399567604065,
+                          "pointX" : 15.923399567604065,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 25,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -26237,7 +26237,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "763F2C241DC1912BA77A29A23BE50E3F"
+                      "texture" : "B47A9D6E9A922CD5E766C84E04E66FC7"
                     }
                   ]
                 }

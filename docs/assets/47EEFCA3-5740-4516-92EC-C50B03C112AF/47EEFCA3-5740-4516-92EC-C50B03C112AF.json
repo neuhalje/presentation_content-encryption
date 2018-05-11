@@ -84,6 +84,20 @@
       "width" : 440,
       "height" : 91
     },
+    "DFC1610B4A216873EB9AAF7F7DE0953B" : {
+      "type" : "texture",
+      "index" : 15,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/47EEFCA3-5740-4516-92EC-C50B03C112AF.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
     "45A3CD692D994BC48E128F15FFF0E6E7" : {
       "type" : "texture",
       "index" : 4,
@@ -209,20 +223,6 @@
       },
       "width" : 1024,
       "height" : 39
-    },
-    "F394165AF96787759D92B8116D24CA2F" : {
-      "type" : "texture",
-      "index" : 15,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/47EEFCA3-5740-4516-92EC-C50B03C112AF.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
     },
     "7B3D9598AA8AC334CE12587644279480" : {
       "type" : "texture",
@@ -455,6 +455,24 @@
       ],
       "accessibility" : [
         {
+          "text" : "Access control",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 260.16000000000003,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "Alice’s long term secret key\\u2028encrypted with her password. ",
+          "targetRectangle" : {
+            "y" : 608.21905517578125,
+            "x" : 29.627808570861816,
+            "width" : 470.42400000000004,
+            "height" : 92
+          }
+        },
+        {
           "text" : "ic_action_key.png",
           "targetRectangle" : {
             "y" : 225.67639255523682,
@@ -464,12 +482,102 @@
           }
         },
         {
-          "text" : "Access control",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
-            "y" : 125,
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 114.89883232116699,
+            "x" : 889.9456729888916,
+            "width" : 19.855163060696555,
+            "height" : 19.855163060696555
+          }
+        },
+        {
+          "text" : "***** ",
+          "targetRectangle" : {
+            "y" : 345.27819716930389,
+            "x" : 98.416000366210938,
+            "width" : 85.680000000000007,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 129.31600570678711,
+            "x" : 905.28068542480469,
+            "width" : 19.85516357421875,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "Alice",
+          "targetRectangle" : {
+            "y" : 279.66976916790009,
+            "x" : 87.355026245117188,
+            "width" : 82.348000000000013,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "  (3)",
+          "targetRectangle" : {
+            "y" : 197.27819907665253,
+            "x" : 547.99493408203125,
+            "width" : 58.649999999999977,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "(1)",
+          "targetRectangle" : {
+            "y" : 183.63909995555878,
+            "x" : 193.17500305175781,
+            "width" : 41.650000000000006,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "  (2)",
+          "targetRectangle" : {
+            "y" : 468.61676025390625,
+            "x" : 317.41600799560547,
+            "width" : 58.649999999999977,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 153.45940399169922,
+            "x" : 965.67934417724609,
+            "width" : 19.855165481567383,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
             "x" : 36,
-            "width" : 260.16000000000003,
-            "height" : 48.400146484375
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Alice",
+          "targetRectangle" : {
+            "y" : 292.61373889446259,
+            "x" : 439.35504150390625,
+            "width" : 82.347999999999956,
+            "height" : 46
           }
         },
         {
@@ -500,21 +608,12 @@
           }
         },
         {
-          "text" : "Alice",
+          "text" : "Decouple password and longterm key to allow easy password changes",
           "targetRectangle" : {
-            "y" : 279.66976916790009,
-            "x" : 87.355026245117188,
-            "width" : 82.348000000000013,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "  (3)",
-          "targetRectangle" : {
-            "y" : 197.27819907665253,
-            "x" : 547.99493408203125,
-            "width" : 58.649999999999977,
-            "height" : 46
+            "y" : 736.48226952552795,
+            "x" : 161.83998481963476,
+            "width" : 698.32000000000016,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -527,111 +626,12 @@
           }
         },
         {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 114.89883232116699,
-            "x" : 889.9456729888916,
-            "width" : 19.855163060696555,
-            "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "(1)",
-          "targetRectangle" : {
-            "y" : 183.63909995555878,
-            "x" : 193.17500305175781,
-            "width" : 41.650000000000006,
-            "height" : 46
-          }
-        },
-        {
           "text" : "ic_action_key.png",
           "targetRectangle" : {
             "y" : 481.55639672279358,
             "x" : 241.02902221679688,
             "width" : 64,
             "height" : 64
-          }
-        },
-        {
-          "text" : "Alice",
-          "targetRectangle" : {
-            "y" : 292.61373889446259,
-            "x" : 439.35504150390625,
-            "width" : 82.347999999999956,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Alice’s long term secret key\\u2028encrypted with her password. ",
-          "targetRectangle" : {
-            "y" : 608.21905517578125,
-            "x" : 29.627808570861816,
-            "width" : 470.42400000000004,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "***** ",
-          "targetRectangle" : {
-            "y" : 345.27819716930389,
-            "x" : 98.416000366210938,
-            "width" : 85.680000000000007,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 129.31600570678711,
-            "x" : 905.28068542480469,
-            "width" : 19.85516357421875,
-            "height" : 19.85516357421875
-          }
-        },
-        {
-          "text" : "Decouple password and longterm key to allow easy password changes",
-          "targetRectangle" : {
-            "y" : 736.48226952552795,
-            "x" : 161.83998481963476,
-            "width" : 698.32000000000016,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "  (2)",
-          "targetRectangle" : {
-            "y" : 468.61676025390625,
-            "x" : 317.41600799560547,
-            "width" : 58.649999999999977,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 153.45940399169922,
-            "x" : 965.67934417724609,
-            "width" : 19.855165481567383,
-            "height" : 19.85516357421875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
           }
         },
         {
@@ -4338,15 +4338,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 225.67639255523682,
-            "x" : 507.02902221679688,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
           "text" : "Access control",
           "targetRectangle" : {
             "y" : 125,
@@ -4356,30 +4347,30 @@
           }
         },
         {
-          "text" : "Alice",
+          "text" : "Alice’s long term secret key\\u2028encrypted with her password. ",
           "targetRectangle" : {
-            "y" : 279.66976916790009,
-            "x" : 87.355026245117188,
-            "width" : 82.348000000000013,
-            "height" : 46
+            "y" : 608.21905517578125,
+            "x" : 29.627808570861816,
+            "width" : 470.42400000000004,
+            "height" : 92
           }
         },
         {
-          "text" : "  (3)",
+          "text" : "ic_action_key.png",
           "targetRectangle" : {
-            "y" : 197.27819907665253,
-            "x" : 547.99493408203125,
-            "width" : 58.649999999999977,
-            "height" : 46
+            "y" : 225.67639255523682,
+            "x" : 507.02902221679688,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
-          "text" : "*****",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
-            "y" : 559.99999916553497,
-            "x" : 289.41000366210938,
-            "width" : 77.180000000000007,
-            "height" : 46
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
           }
         },
         {
@@ -4389,51 +4380,6 @@
             "x" : 889.9456729888916,
             "width" : 19.855163060696555,
             "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "(1)",
-          "targetRectangle" : {
-            "y" : 183.63909995555878,
-            "x" : 193.17500305175781,
-            "width" : 41.650000000000006,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 481.55639672279358,
-            "x" : 241.02902221679688,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "Alice",
-          "targetRectangle" : {
-            "y" : 292.61373889446259,
-            "x" : 439.35504150390625,
-            "width" : 82.347999999999956,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Alice’s long term secret key\\u2028encrypted with her password. ",
-          "targetRectangle" : {
-            "y" : 608.21905517578125,
-            "x" : 29.627808570861816,
-            "width" : 470.42400000000004,
-            "height" : 92
           }
         },
         {
@@ -4455,12 +4401,30 @@
           }
         },
         {
-          "text" : "Decouple password and longterm key to allow easy password changes",
+          "text" : "Alice",
           "targetRectangle" : {
-            "y" : 736.48226952552795,
-            "x" : 161.83998481963476,
-            "width" : 698.32000000000016,
-            "height" : 28.40008544921875
+            "y" : 279.66976916790009,
+            "x" : 87.355026245117188,
+            "width" : 82.348000000000013,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "  (3)",
+          "targetRectangle" : {
+            "y" : 197.27819907665253,
+            "x" : 547.99493408203125,
+            "width" : 58.649999999999977,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "(1)",
+          "targetRectangle" : {
+            "y" : 183.63909995555878,
+            "x" : 193.17500305175781,
+            "width" : 41.650000000000006,
+            "height" : 46
           }
         },
         {
@@ -4482,12 +4446,48 @@
           }
         },
         {
-          "text" : "Jens Neuhalfen",
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
+            "x" : 36,
+            "width" : 498.60234439373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Alice",
+          "targetRectangle" : {
+            "y" : 292.61373889446259,
+            "x" : 439.35504150390625,
+            "width" : 82.347999999999956,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Decouple password and longterm key to allow easy password changes",
+          "targetRectangle" : {
+            "y" : 736.48226952552795,
+            "x" : 161.83998481963476,
+            "width" : 698.32000000000016,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "*****",
+          "targetRectangle" : {
+            "y" : 559.99999916553497,
+            "x" : 289.41000366210938,
+            "width" : 77.180000000000007,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 481.55639672279358,
+            "x" : 241.02902221679688,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -8195,15 +8195,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 225.67639255523682,
-            "x" : 507.02902221679688,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
           "text" : "Access control",
           "targetRectangle" : {
             "y" : 125,
@@ -8213,48 +8204,30 @@
           }
         },
         {
-          "text" : "Alice enters her password",
+          "text" : "Alice’s long term secret key\\u2028encrypted with her password. ",
           "targetRectangle" : {
-            "y" : 370.37496948242188,
-            "x" : 509.47448825836182,
-            "width" : 403.06999999999994,
-            "height" : 59
+            "y" : 608.21905517578125,
+            "x" : 29.627808570861816,
+            "width" : 470.42400000000004,
+            "height" : 92
           }
         },
         {
-          "text" : "Application decrypts\\u2028her strong long-term key",
+          "text" : "ic_action_key.png",
           "targetRectangle" : {
-            "y" : 429.37496948242188,
-            "x" : 509.47448825836182,
-            "width" : 385.93400000000008,
-            "height" : 105
+            "y" : 225.67639255523682,
+            "x" : 507.02902221679688,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
-          "text" : "Alice",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
-            "y" : 279.66976916790009,
-            "x" : 87.355026245117188,
-            "width" : 82.348000000000013,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "  (3)",
-          "targetRectangle" : {
-            "y" : 197.27819907665253,
-            "x" : 547.99493408203125,
-            "width" : 58.649999999999977,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "*****",
-          "targetRectangle" : {
-            "y" : 559.99999916553497,
-            "x" : 289.41000366210938,
-            "width" : 77.180000000000007,
-            "height" : 46
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
           }
         },
         {
@@ -8264,51 +8237,6 @@
             "x" : 889.9456729888916,
             "width" : 19.855163060696555,
             "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "(1)",
-          "targetRectangle" : {
-            "y" : 183.63909995555878,
-            "x" : 193.17500305175781,
-            "width" : 41.650000000000006,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 481.55639672279358,
-            "x" : 241.02902221679688,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "Alice",
-          "targetRectangle" : {
-            "y" : 292.61373889446259,
-            "x" : 439.35504150390625,
-            "width" : 82.347999999999956,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Alice’s long term secret key\\u2028encrypted with her password. ",
-          "targetRectangle" : {
-            "y" : 608.21905517578125,
-            "x" : 29.627808570861816,
-            "width" : 470.42400000000004,
-            "height" : 92
           }
         },
         {
@@ -8330,12 +8258,30 @@
           }
         },
         {
-          "text" : "Decouple password and longterm key to allow easy password changes",
+          "text" : "Alice",
           "targetRectangle" : {
-            "y" : 736.48226952552795,
-            "x" : 161.83998481963476,
-            "width" : 698.32000000000016,
-            "height" : 28.40008544921875
+            "y" : 279.66976916790009,
+            "x" : 87.355026245117188,
+            "width" : 82.348000000000013,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "  (3)",
+          "targetRectangle" : {
+            "y" : 197.27819907665253,
+            "x" : 547.99493408203125,
+            "width" : 58.649999999999977,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "(1)",
+          "targetRectangle" : {
+            "y" : 183.63909995555878,
+            "x" : 193.17500305175781,
+            "width" : 41.650000000000006,
+            "height" : 46
           }
         },
         {
@@ -8357,12 +8303,66 @@
           }
         },
         {
-          "text" : "Jens Neuhalfen",
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
+            "x" : 36,
+            "width" : 498.60234439373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Alice",
+          "targetRectangle" : {
+            "y" : 292.61373889446259,
+            "x" : 439.35504150390625,
+            "width" : 82.347999999999956,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Alice enters her password",
+          "targetRectangle" : {
+            "y" : 370.37496948242188,
+            "x" : 509.47448825836182,
+            "width" : 403.06999999999994,
+            "height" : 59
+          }
+        },
+        {
+          "text" : "Application decrypts\\u2028her strong long-term key",
+          "targetRectangle" : {
+            "y" : 429.37496948242188,
+            "x" : 509.47448825836182,
+            "width" : 385.93400000000008,
+            "height" : 105
+          }
+        },
+        {
+          "text" : "Decouple password and longterm key to allow easy password changes",
+          "targetRectangle" : {
+            "y" : 736.48226952552795,
+            "x" : 161.83998481963476,
+            "width" : 698.32000000000016,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "*****",
+          "targetRectangle" : {
+            "y" : 559.99999916553497,
+            "x" : 289.41000366210938,
+            "width" : 77.180000000000007,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 481.55639672279358,
+            "x" : 241.02902221679688,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -11381,7 +11381,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "F394165AF96787759D92B8116D24CA2F"
+                    "texture" : "DFC1610B4A216873EB9AAF7F7DE0953B"
                   },
                   {
                     "animations" : [
@@ -11483,6 +11483,24 @@
       ],
       "accessibility" : [
         {
+          "text" : "Access control",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 260.16000000000003,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "Alice’s long term secret key\\u2028encrypted with her password. ",
+          "targetRectangle" : {
+            "y" : 608.21905517578125,
+            "x" : 29.627808570861816,
+            "width" : 470.42400000000004,
+            "height" : 92
+          }
+        },
+        {
           "text" : "ic_action_key.png",
           "targetRectangle" : {
             "y" : 225.67639255523682,
@@ -11492,12 +11510,102 @@
           }
         },
         {
-          "text" : "Access control",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
-            "y" : 125,
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 114.89883232116699,
+            "x" : 889.9456729888916,
+            "width" : 19.855163060696555,
+            "height" : 19.855163060696555
+          }
+        },
+        {
+          "text" : "***** ",
+          "targetRectangle" : {
+            "y" : 345.27819716930389,
+            "x" : 98.416000366210938,
+            "width" : 85.680000000000007,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 129.31600570678711,
+            "x" : 905.28068542480469,
+            "width" : 19.85516357421875,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "Alice",
+          "targetRectangle" : {
+            "y" : 279.66976916790009,
+            "x" : 87.355026245117188,
+            "width" : 82.348000000000013,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "  (3)",
+          "targetRectangle" : {
+            "y" : 197.27819907665253,
+            "x" : 547.99493408203125,
+            "width" : 58.649999999999977,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "(1)",
+          "targetRectangle" : {
+            "y" : 183.63909995555878,
+            "x" : 193.17500305175781,
+            "width" : 41.650000000000006,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "  (2)",
+          "targetRectangle" : {
+            "y" : 468.61676025390625,
+            "x" : 317.41600799560547,
+            "width" : 58.649999999999977,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 153.45940399169922,
+            "x" : 965.67934417724609,
+            "width" : 19.855165481567383,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
             "x" : 36,
-            "width" : 260.16000000000003,
-            "height" : 48.400146484375
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Alice",
+          "targetRectangle" : {
+            "y" : 292.61373889446259,
+            "x" : 439.35504150390625,
+            "width" : 82.347999999999956,
+            "height" : 46
           }
         },
         {
@@ -11528,21 +11636,12 @@
           }
         },
         {
-          "text" : "Alice",
+          "text" : "Decouple password and longterm key to allow easy password changes",
           "targetRectangle" : {
-            "y" : 279.66976916790009,
-            "x" : 87.355026245117188,
-            "width" : 82.348000000000013,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "  (3)",
-          "targetRectangle" : {
-            "y" : 197.27819907665253,
-            "x" : 547.99493408203125,
-            "width" : 58.649999999999977,
-            "height" : 46
+            "y" : 736.48226952552795,
+            "x" : 161.83998481963476,
+            "width" : 698.32000000000016,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -11555,111 +11654,12 @@
           }
         },
         {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 114.89883232116699,
-            "x" : 889.9456729888916,
-            "width" : 19.855163060696555,
-            "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "(1)",
-          "targetRectangle" : {
-            "y" : 183.63909995555878,
-            "x" : 193.17500305175781,
-            "width" : 41.650000000000006,
-            "height" : 46
-          }
-        },
-        {
           "text" : "ic_action_key.png",
           "targetRectangle" : {
             "y" : 481.55639672279358,
             "x" : 241.02902221679688,
             "width" : 64,
             "height" : 64
-          }
-        },
-        {
-          "text" : "Alice",
-          "targetRectangle" : {
-            "y" : 292.61373889446259,
-            "x" : 439.35504150390625,
-            "width" : 82.347999999999956,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Alice’s long term secret key\\u2028encrypted with her password. ",
-          "targetRectangle" : {
-            "y" : 608.21905517578125,
-            "x" : 29.627808570861816,
-            "width" : 470.42400000000004,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "***** ",
-          "targetRectangle" : {
-            "y" : 345.27819716930389,
-            "x" : 98.416000366210938,
-            "width" : 85.680000000000007,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 129.31600570678711,
-            "x" : 905.28068542480469,
-            "width" : 19.85516357421875,
-            "height" : 19.85516357421875
-          }
-        },
-        {
-          "text" : "Decouple password and longterm key to allow easy password changes",
-          "targetRectangle" : {
-            "y" : 736.48226952552795,
-            "x" : 161.83998481963476,
-            "width" : 698.32000000000016,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "  (2)",
-          "targetRectangle" : {
-            "y" : 468.61676025390625,
-            "x" : 317.41600799560547,
-            "width" : 58.649999999999977,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 153.45940399169922,
-            "x" : 965.67934417724609,
-            "width" : 19.855165481567383,
-            "height" : 19.85516357421875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
           }
         },
         {

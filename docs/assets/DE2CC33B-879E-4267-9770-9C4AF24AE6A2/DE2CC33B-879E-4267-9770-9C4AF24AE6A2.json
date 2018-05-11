@@ -1,20 +1,6 @@
 {
   "assets" : {
-    "FBB5DEA59905EE30EF2803B0A74DF992" : {
-      "type" : "texture",
-      "index" : 0,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/DE2CC33B-879E-4267-9770-9C4AF24AE6A2.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
-    "65712FFBE287B6691EDE83D3F32F1298" : {
+    "E26519227629C712C157571F906AD853" : {
       "type" : "texture",
       "index" : 6,
       "assetRequest" : {
@@ -25,10 +11,10 @@
       "url" : {
         "native" : "assets\/DE2CC33B-879E-4267-9770-9C4AF24AE6A2.pdf"
       },
-      "width" : 22,
+      "width" : 26,
       "height" : 20
     },
-    "EA6786F000CD45C8225C177080BE964F" : {
+    "01D807CF8724614F5E561C07786B37D7" : {
       "type" : "texture",
       "index" : 7,
       "assetRequest" : {
@@ -98,7 +84,21 @@
       "width" : 964,
       "height" : 5
     },
-    "9E1B430CB725A82F67C67CCDF08D9C4C" : {
+    "691F020171AEE3C5C51B720279AB7269" : {
+      "type" : "texture",
+      "index" : 0,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/DE2CC33B-879E-4267-9770-9C4AF24AE6A2.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
+    "8FB32B32A1892CBBD858F9C7FDA6E20F" : {
       "type" : "texture",
       "index" : 8,
       "assetRequest" : {
@@ -308,7 +308,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "EA6786F000CD45C8225C177080BE964F"
+                    "texture" : "01D807CF8724614F5E561C07786B37D7"
                   },
                   {
                     "animations" : [
@@ -389,7 +389,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "9E1B430CB725A82F67C67CCDF08D9C4C"
+                    "texture" : "8FB32B32A1892CBBD858F9C7FDA6E20F"
                   }
                 ]
               }
@@ -409,6 +409,42 @@
 
       ],
       "accessibility" : [
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 267.07207489013672,
+            "x" : 958.27167129516602,
+            "width" : 52.460819244384766,
+            "height" : 52.460807800292969
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
         {
           "text" : "0 - Regulations & initial risk assessment",
           "targetRectangle" : {
@@ -446,48 +482,12 @@
           }
         },
         {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
           "text" : "?",
           "targetRectangle" : {
             "y" : 202.5444278717041,
             "x" : 951.21670059967039,
             "width" : 7.1040000000000418,
             "height" : 20.160058593749994
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 267.07207489013672,
-            "x" : 958.27167129516602,
-            "width" : 52.460819244384766,
-            "height" : 52.460807800292969
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
           }
         }
       ],
@@ -722,7 +722,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
+                    "texture" : "691F020171AEE3C5C51B720279AB7269"
                   }
                 ]
               }
@@ -1751,10 +1751,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 970.57660043239594,
+                    "pointX" : 972.57660043239594,
                     "pointY" : 44
                   },
-                  "width" : 22,
+                  "width" : 26,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -1823,10 +1823,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 14.423399567604065,
+                        "pointX" : 16.423399567604065,
                         "pointY" : 18
                       },
-                      "width" : 22,
+                      "width" : 26,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1860,7 +1860,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "65712FFBE287B6691EDE83D3F32F1298"
+                    "texture" : "E26519227629C712C157571F906AD853"
                   }
                 ]
               }

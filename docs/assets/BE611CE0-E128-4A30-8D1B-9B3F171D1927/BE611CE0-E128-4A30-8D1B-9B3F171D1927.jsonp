@@ -2,6 +2,20 @@ local_slide( {
   "name" : "BE611CE0-E128-4A30-8D1B-9B3F171D1927",
   "json" : {
     "assets" : {
+      "553E8E1308C93C75A42BC85BF64D8211" : {
+        "type" : "texture",
+        "index" : 15,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/BE611CE0-E128-4A30-8D1B-9B3F171D1927.pdf"
+        },
+        "width" : 1028,
+        "height" : 40
+      },
       "393F70B5C7F2C655B7BE2BCFA9B642C7" : {
         "type" : "texture",
         "index" : 3,
@@ -29,20 +43,6 @@ local_slide( {
         },
         "width" : 964,
         "height" : 5
-      },
-      "F847EF35CB5FB25A6AF99942E55B965D" : {
-        "type" : "texture",
-        "index" : 16,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/BE611CE0-E128-4A30-8D1B-9B3F171D1927.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       },
       "335538A85C908205E37652DFB677E9A4" : {
         "type" : "texture",
@@ -72,6 +72,34 @@ local_slide( {
         "width" : 173,
         "height" : 38
       },
+      "1C02E3F822094D7BF4FC3AA0B4F2277D" : {
+        "type" : "texture",
+        "index" : 6,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/BE611CE0-E128-4A30-8D1B-9B3F171D1927.pdf"
+        },
+        "width" : 26,
+        "height" : 20
+      },
+      "91DCCDBE42EAFAC1934B6EFA14125E27" : {
+        "type" : "texture",
+        "index" : 17,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/BE611CE0-E128-4A30-8D1B-9B3F171D1927.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "DDA485BEE52C4330CFAD6C8E51AA641B" : {
         "type" : "texture",
         "index" : 4,
@@ -85,20 +113,6 @@ local_slide( {
         },
         "width" : 371,
         "height" : 37
-      },
-      "CCFC3C2EBE38C733458B5B0C53F087C1" : {
-        "type" : "texture",
-        "index" : 6,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/BE611CE0-E128-4A30-8D1B-9B3F171D1927.pdf"
-        },
-        "width" : 26,
-        "height" : 20
       },
       "F674CCBC35C13366417957362157F9CC" : {
         "type" : "texture",
@@ -198,9 +212,9 @@ local_slide( {
         "width" : 70,
         "height" : 82
       },
-      "8E8AB9B740A059F401F8533325BB4396" : {
+      "AB1B7A26E1729F4AF2CAE38DD640338A" : {
         "type" : "texture",
-        "index" : 15,
+        "index" : 16,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -422,7 +436,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "8E8AB9B740A059F401F8533325BB4396"
+                      "texture" : "AB1B7A26E1729F4AF2CAE38DD640338A"
                     },
                     {
                       "animations" : [
@@ -503,7 +517,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "F847EF35CB5FB25A6AF99942E55B965D"
+                      "texture" : "91DCCDBE42EAFAC1934B6EFA14125E27"
                     }
                   ]
                 }
@@ -524,84 +538,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "From password to key",
+            "text" : " ",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 370.27199999999988,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "{",
-            "targetRectangle" : {
-              "y" : 361.1201171875,
-              "x" : -9.7570762634277344,
-              "width" : 546,
-              "height" : 92.000000000000057
-            }
-          },
-          {
-            "text" : "ic_action_key.png",
-            "targetRectangle" : {
-              "y" : 219.77774047851562,
-              "x" : 709.3525390625,
-              "width" : 128,
-              "height" : 128
-            }
-          },
-          {
-            "text" : "**********",
-            "targetRectangle" : {
-              "y" : 240.27774107456207,
-              "x" : 118.251220703125,
-              "width" : 312.95999999999998,
-              "height" : 87
-            }
-          },
-          {
-            "text" : "aw92SDAVglkqusabvgw38",
-            "targetRectangle" : {
-              "y" : 492.33319091796875,
-              "x" : 146.1140755841468,
-              "width" : 440.06361328125013,
-              "height" : 66.160000801086426
-            }
-          },
-          {
-            "text" : "128 bit ",
-            "targetRectangle" : {
-              "y" : 558.49319171905518,
-              "x" : 181.11407249057993,
-              "width" : 115.72681999999998,
-              "height" : 72.160000801086426
-            }
-          },
-          {
-            "text" : "3o8uGsdA",
-            "targetRectangle" : {
-              "y" : 630.6531925201416,
-              "x" : 146.1140755841468,
-              "width" : 167.64328124999997,
-              "height" : 66.160000801086426
-            }
-          },
-          {
-            "text" : "8 chars, 48 bit (cracked in hours to days) ",
-            "targetRectangle" : {
-              "y" : 696.81319332122803,
-              "x" : 181.11407249057993,
-              "width" : 614.35144000000003,
-              "height" : 72.160000801086426
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
+              "y" : 717.50000029802322,
+              "x" : 587.02001953125,
+              "width" : 5,
+              "height" : 27
             }
           },
           {
@@ -614,39 +556,75 @@ local_slide( {
             }
           },
           {
+            "text" : "**********",
+            "targetRectangle" : {
+              "y" : 240.27774107456207,
+              "x" : 118.251220703125,
+              "width" : 312.95999999999998,
+              "height" : 87
+            }
+          },
+          {
+            "text" : "ic_action_key.png",
+            "targetRectangle" : {
+              "y" : 219.77774047851562,
+              "x" : 709.3525390625,
+              "width" : 128,
+              "height" : 128
+            }
+          },
+          {
+            "text" : "aw92SDAVglkqusabvgw38",
+            "targetRectangle" : {
+              "y" : 478.33319091796875,
+              "x" : 146.1140755841468,
+              "width" : 440.06361328125013,
+              "height" : 66.160000801086426
+            }
+          },
+          {
+            "text" : "128 bit ",
+            "targetRectangle" : {
+              "y" : 544.49319171905518,
+              "x" : 181.11407249057993,
+              "width" : 115.72681999999998,
+              "height" : 72.160000801086426
+            }
+          },
+          {
+            "text" : "3o8uGsdA",
+            "targetRectangle" : {
+              "y" : 616.6531925201416,
+              "x" : 146.1140755841468,
+              "width" : 167.64328124999997,
+              "height" : 66.160000801086426
+            }
+          },
+          {
+            "text" : "8 chars, 48 bit (cracked in hours to days) ",
+            "targetRectangle" : {
+              "y" : 682.81319332122803,
+              "x" : 181.11407249057993,
+              "width" : 614.35144000000003,
+              "height" : 72.160000801086426
+            }
+          },
+          {
+            "text" : "Create you personal passwords using a password manager!",
+            "targetRectangle" : {
+              "y" : 736.64938342571259,
+              "x" : 218.755977082014,
+              "width" : 586.48800000000028,
+              "height" : 28.40008544921875
+            }
+          },
+          {
             "text" : "password",
             "targetRectangle" : {
               "y" : 337.64993286132812,
               "x" : 186.21249389648438,
               "width" : 150.48400000000004,
               "height" : 46
-            }
-          },
-          {
-            "text" : "ic_action_key.png",
-            "targetRectangle" : {
-              "y" : 117.23238849639893,
-              "x" : 944.27485656738281,
-              "width" : 47.535213470458984,
-              "height" : 47.535213470458984
-            }
-          },
-          {
-            "text" : "**********",
-            "targetRectangle" : {
-              "y" : 121,
-              "x" : 738.7987060546875,
-              "width" : 140.83199999999999,
-              "height" : 40
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
             }
           },
           {
@@ -659,12 +637,57 @@ local_slide( {
             }
           },
           {
-            "text" : " ",
+            "text" : "From password to key",
             "targetRectangle" : {
-              "y" : 717.50000029802322,
-              "x" : 587.02001953125,
-              "width" : 5,
-              "height" : 27
+              "y" : 125,
+              "x" : 36,
+              "width" : 370.27199999999988,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "ic_action_key.png",
+            "targetRectangle" : {
+              "y" : 117.23238849639893,
+              "x" : 944.27485656738281,
+              "width" : 47.535213470458984,
+              "height" : 47.535213470458984
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "{",
+            "targetRectangle" : {
+              "y" : 347.1201171875,
+              "x" : -9.7570762634277344,
+              "width" : 546,
+              "height" : 92.000000000000057
+            }
+          },
+          {
+            "text" : "**********",
+            "targetRectangle" : {
+              "y" : 121,
+              "x" : 738.7987060546875,
+              "width" : 140.83199999999999,
+              "height" : 40
             }
           }
         ],
@@ -2037,7 +2060,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "CCFC3C2EBE38C733458B5B0C53F087C1"
+                      "texture" : "1C02E3F822094D7BF4FC3AA0B4F2277D"
                     }
                   ]
                 }
@@ -3230,7 +3253,7 @@ local_slide( {
                     "scale" : 1,
                     "position" : {
                       "pointX" : 452.24292373657227,
-                      "pointY" : 585.6201171875
+                      "pointY" : 571.6201171875
                     },
                     "width" : 932,
                     "sublayerTransform" : [
@@ -4913,6 +4936,245 @@ local_slide( {
                         }
                       },
                       "texture" : "61C7FF048F04A17849001F35869A7D8C"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "animations" : [
+
+              ],
+              "initialState" : {
+                "affineTransform" : [
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0
+                ],
+                "masksToBounds" : false,
+                "rotation" : 0,
+                "scale" : 1,
+                "position" : {
+                  "pointX" : 512,
+                  "pointY" : 384
+                },
+                "width" : 1024,
+                "sublayerTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "contentsRect" : {
+                  "y" : 0,
+                  "x" : 0,
+                  "width" : 1,
+                  "height" : 1
+                },
+                "opacity" : 1,
+                "edgeAntialiasingMask" : 251658240,
+                "height" : 768,
+                "hidden" : false,
+                "anchorPoint" : {
+                  "pointX" : 0.5,
+                  "pointY" : 0.5
+                }
+              },
+              "layers" : [
+                {
+                  "animations" : [
+
+                  ],
+                  "initialState" : {
+                    "affineTransform" : [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "masksToBounds" : false,
+                    "rotation" : 0,
+                    "scale" : 1,
+                    "position" : {
+                      "pointX" : 513.52994534373283,
+                      "pointY" : 752.64938342571259
+                    },
+                    "width" : 1028,
+                    "sublayerTransform" : [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "contentsRect" : {
+                      "y" : 0,
+                      "x" : 0,
+                      "width" : 1,
+                      "height" : 1
+                    },
+                    "opacity" : 1,
+                    "edgeAntialiasingMask" : 251658240,
+                    "height" : 40,
+                    "hidden" : false,
+                    "anchorPoint" : {
+                      "pointX" : 0.5,
+                      "pointY" : 0.5
+                    }
+                  },
+                  "layers" : [
+                    {
+                      "animations" : [
+
+                      ],
+                      "layers" : [
+
+                      ],
+                      "texturedRectangle" : {
+                        "singleTextureOpacity" : 1,
+                        "textXHeight" : 0,
+                        "shapePath" : {
+                          "lineWidth" : 1,
+                          "flatness" : 0.59999999999999998,
+                          "lineCapStyle" : 0,
+                          "elements" : [
+                            {
+                              "type" : "MoveToPoint",
+                              "points" : [
+                                [
+                                  1.5299453437328339,
+                                  1.6493834257125854
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddLine",
+                              "points" : [
+                                [
+                                  1026.4700545966625,
+                                  1.6493834257125854
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddLine",
+                              "points" : [
+                                [
+                                  1026.4700545966625,
+                                  38.049469113349915
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddLine",
+                              "points" : [
+                                [
+                                  1.5299453437328339,
+                                  38.049469113349915
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "CloseSubpath"
+                            },
+                            {
+                              "type" : "MoveToPoint",
+                              "points" : [
+                                [
+                                  1.5299453437328339,
+                                  1.6493834257125854
+                                ]
+                              ]
+                            }
+                          ],
+                          "windingRule" : 0,
+                          "lineJoinStyle" : 0,
+                          "miterLimit" : 10
+                        },
+                        "isBackgroundTexture" : true,
+                        "textBaseline" : 0,
+                        "isVerticalText" : false,
+                        "textureType" : 5
+                      },
+                      "initialState" : {
+                        "affineTransform" : [
+                          1,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0
+                        ],
+                        "masksToBounds" : false,
+                        "rotation" : 0,
+                        "scale" : 1,
+                        "position" : {
+                          "pointX" : 512.47005465626717,
+                          "pointY" : 18.350616574287415
+                        },
+                        "width" : 1028,
+                        "sublayerTransform" : [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1
+                        ],
+                        "contentsRect" : {
+                          "y" : 0,
+                          "x" : 0,
+                          "width" : 1,
+                          "height" : 1
+                        },
+                        "opacity" : 1,
+                        "edgeAntialiasingMask" : 0,
+                        "height" : 40,
+                        "hidden" : false,
+                        "anchorPoint" : {
+                          "pointX" : 0.5,
+                          "pointY" : 0.5
+                        }
+                      },
+                      "texture" : "553E8E1308C93C75A42BC85BF64D8211"
                     }
                   ]
                 }

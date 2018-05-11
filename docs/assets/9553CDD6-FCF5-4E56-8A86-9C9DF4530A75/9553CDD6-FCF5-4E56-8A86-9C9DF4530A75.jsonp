@@ -4,7 +4,7 @@ local_slide( {
     "assets" : {
       "FFDE75C2030C3AED5253EFEB16EA2BCD" : {
         "type" : "texture",
-        "index" : 8,
+        "index" : 9,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -18,7 +18,7 @@ local_slide( {
       },
       "0FEAE9DC886CB2233CD2A70473476819" : {
         "type" : "texture",
-        "index" : 5,
+        "index" : 6,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -30,9 +30,23 @@ local_slide( {
         "width" : 11,
         "height" : 20
       },
+      "B7BBB5C2302A83265EDB29A26123C234" : {
+        "type" : "texture",
+        "index" : 13,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/9553CDD6-FCF5-4E56-8A86-9C9DF4530A75.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "448113049747A092226CA1D89D0AF769" : {
         "type" : "texture",
-        "index" : 7,
+        "index" : 8,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -46,20 +60,6 @@ local_slide( {
       },
       "64B175C9E12AEB1AD8EB7091FCD8E021" : {
         "type" : "texture",
-        "index" : 11,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/9553CDD6-FCF5-4E56-8A86-9C9DF4530A75.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
-      "6EE27EF9CC6E54EAFBF5F417BA19C2B0" : {
-        "type" : "texture",
         "index" : 12,
         "assetRequest" : {
           "type" : "slide",
@@ -71,6 +71,20 @@ local_slide( {
         },
         "width" : 1024,
         "height" : 768
+      },
+      "0EA4A6EE5D36951B84D4726BAB75D81A" : {
+        "type" : "texture",
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/9553CDD6-FCF5-4E56-8A86-9C9DF4530A75.pdf"
+        },
+        "width" : 376,
+        "height" : 270
       },
       "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
@@ -100,23 +114,9 @@ local_slide( {
         "width" : 532,
         "height" : 6
       },
-      "85D7F14D8EFF210FB6B9700D5281F002" : {
-        "type" : "texture",
-        "index" : 10,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/9553CDD6-FCF5-4E56-8A86-9C9DF4530A75.pdf"
-        },
-        "width" : 688,
-        "height" : 295
-      },
       "FFA1105C9309A61B50E7C4D5B55A6328" : {
         "type" : "texture",
-        "index" : 9,
+        "index" : 10,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -130,7 +130,7 @@ local_slide( {
       },
       "514AF56B20B4E7EE727367B1B5563B3E" : {
         "type" : "texture",
-        "index" : 6,
+        "index" : 7,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -142,9 +142,23 @@ local_slide( {
         "width" : 277,
         "height" : 86
       },
+      "CB9B232954B1CDBF4870305A97E574D7" : {
+        "type" : "texture",
+        "index" : 11,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/9553CDD6-FCF5-4E56-8A86-9C9DF4530A75.pdf"
+        },
+        "width" : 689,
+        "height" : 294
+      },
       "02C76BB549AB8D32FAC48F72147DEA91" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -156,7 +170,7 @@ local_slide( {
         "width" : 434,
         "height" : 410
       },
-      "1F397012FA881E271F361A0C3AB97595" : {
+      "99808A644FA8478186B30B9EE2720463" : {
         "type" : "texture",
         "index" : 3,
         "assetRequest" : {
@@ -167,12 +181,12 @@ local_slide( {
         "url" : {
           "native" : "assets\/9553CDD6-FCF5-4E56-8A86-9C9DF4530A75.pdf"
         },
-        "width" : 478,
-        "height" : 42
+        "width" : 385,
+        "height" : 179
       },
-      "99808A644FA8478186B30B9EE2720463" : {
+      "1F397012FA881E271F361A0C3AB97595" : {
         "type" : "texture",
-        "index" : 2,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -181,8 +195,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/9553CDD6-FCF5-4E56-8A86-9C9DF4530A75.pdf"
         },
-        "width" : 385,
-        "height" : 179
+        "width" : 478,
+        "height" : 42
       }
     },
     "events" : [
@@ -447,7 +461,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "6EE27EF9CC6E54EAFBF5F417BA19C2B0"
+                      "texture" : "B7BBB5C2302A83265EDB29A26123C234"
                     }
                   ]
                 }
@@ -494,21 +508,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "limited edition!",
+            "text" : "pasted-image.tiff",
             "targetRectangle" : {
-              "y" : 35.130687430816053,
-              "x" : 310.41359720395144,
-              "width" : 675.83494710250761,
-              "height" : 223.45931719166958
-            }
-          },
-          {
-            "text" : "GPN 2018",
-            "targetRectangle" : {
-              "y" : 170.73225098600301,
-              "x" : 456.13698761439389,
-              "width" : 418.74166998675344,
-              "height" : 157.39964423760449
+              "y" : 605.50726318359375,
+              "x" : 220.98365020751953,
+              "width" : 84.992729187011719,
+              "height" : 84.99273681640625
             }
           },
           {
@@ -521,21 +526,12 @@ local_slide( {
             }
           },
           {
-            "text" : "ic_action_lock_closed.png",
+            "text" : "Jens Neuhalfen",
             "targetRectangle" : {
-              "y" : 223.86192321777344,
-              "x" : 243.48865127563477,
-              "width" : 237.23799133300781,
-              "height" : 237.23797607421875
-            }
-          },
-          {
-            "text" : "Content Encryption",
-            "targetRectangle" : {
-              "y" : 510,
-              "x" : 468,
-              "width" : 390.65999999999997,
-              "height" : 203.28025023460759
+              "y" : 717.99999958276749,
+              "x" : 796.7919921875,
+              "width" : 199.41599999999994,
+              "height" : 38
             }
           },
           {
@@ -548,12 +544,39 @@ local_slide( {
             }
           },
           {
-            "text" : "Jens Neuhalfen",
+            "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
-              "y" : 717.99999958276749,
-              "x" : 796.7919921875,
-              "width" : 199.41599999999994,
-              "height" : 38
+              "y" : 223.86192321777344,
+              "x" : 243.48865127563477,
+              "width" : 237.23799133300781,
+              "height" : 237.23797607421875
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 605.8472341299057,
+              "x" : 125.53681945800781,
+              "width" : 84.312789916992188,
+              "height" : 84.312797546386719
+            }
+          },
+          {
+            "text" : "limited edition!",
+            "targetRectangle" : {
+              "y" : 5.6731526407769906,
+              "x" : 44.243736364107676,
+              "width" : 675.83494710250761,
+              "height" : 223.45931719166958
+            }
+          },
+          {
+            "text" : "GPN 2018",
+            "targetRectangle" : {
+              "y" : 141.27471619596395,
+              "x" : 189.96712677455017,
+              "width" : 418.74166998675344,
+              "height" : 157.39964423760449
             }
           },
           {
@@ -566,21 +589,21 @@ local_slide( {
             }
           },
           {
-            "text" : "pasted-image.tiff",
+            "text" : "Content Encryption",
             "targetRectangle" : {
-              "y" : 605.50726318359375,
-              "x" : 220.98365020751953,
-              "width" : 84.992729187011719,
-              "height" : 84.99273681640625
+              "y" : 510,
+              "x" : 468,
+              "width" : 390.65999999999997,
+              "height" : 203.28025023460759
             }
           },
           {
             "text" : "pasted-image.tiff",
             "targetRectangle" : {
-              "y" : 605.8472341299057,
-              "x" : 125.53681945800781,
-              "width" : 84.312789916992188,
-              "height" : 84.312797546386719
+              "y" : 53.259300231933594,
+              "x" : 587.66796875,
+              "width" : 372.84625244140625,
+              "height" : 267.70004272460938
             }
           },
           {
@@ -1043,6 +1066,187 @@ local_slide( {
                         }
                       },
                       "texture" : "1EA1A98AD3503D5A2B9EC9DB85437551"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "animations" : [
+
+              ],
+              "initialState" : {
+                "affineTransform" : [
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0
+                ],
+                "masksToBounds" : false,
+                "rotation" : 0,
+                "scale" : 1,
+                "position" : {
+                  "pointX" : 512,
+                  "pointY" : 384
+                },
+                "width" : 1024,
+                "sublayerTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "contentsRect" : {
+                  "y" : 0,
+                  "x" : 0,
+                  "width" : 1,
+                  "height" : 1
+                },
+                "opacity" : 1,
+                "edgeAntialiasingMask" : 251658240,
+                "height" : 768,
+                "hidden" : false,
+                "anchorPoint" : {
+                  "pointX" : 0.5,
+                  "pointY" : 0.5
+                }
+              },
+              "layers" : [
+                {
+                  "animations" : [
+
+                  ],
+                  "initialState" : {
+                    "affineTransform" : [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "masksToBounds" : false,
+                    "rotation" : 0,
+                    "scale" : 1,
+                    "position" : {
+                      "pointX" : 775.66796875,
+                      "pointY" : 188.25930023193359
+                    },
+                    "width" : 376,
+                    "sublayerTransform" : [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "contentsRect" : {
+                      "y" : 0,
+                      "x" : 0,
+                      "width" : 1,
+                      "height" : 1
+                    },
+                    "opacity" : 1,
+                    "edgeAntialiasingMask" : 251658240,
+                    "height" : 270,
+                    "hidden" : false,
+                    "anchorPoint" : {
+                      "pointX" : 0.5,
+                      "pointY" : 0.5
+                    }
+                  },
+                  "layers" : [
+                    {
+                      "animations" : [
+
+                      ],
+                      "layers" : [
+
+                      ],
+                      "texturedRectangle" : {
+                        "isBackgroundTexture" : true,
+                        "singleTextureOpacity" : 1,
+                        "textureType" : 5,
+                        "textBaseline" : 0,
+                        "textXHeight" : 0,
+                        "isVerticalText" : false
+                      },
+                      "initialState" : {
+                        "affineTransform" : [
+                          1,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0
+                        ],
+                        "masksToBounds" : false,
+                        "rotation" : 0,
+                        "scale" : 1,
+                        "position" : {
+                          "pointX" : 186.33203125,
+                          "pointY" : 133.74069976806641
+                        },
+                        "width" : 376,
+                        "sublayerTransform" : [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1
+                        ],
+                        "contentsRect" : {
+                          "y" : 0,
+                          "x" : 0,
+                          "width" : 1,
+                          "height" : 1
+                        },
+                        "opacity" : 1,
+                        "edgeAntialiasingMask" : 0,
+                        "height" : 270,
+                        "hidden" : false,
+                        "anchorPoint" : {
+                          "pointX" : 0.5,
+                          "pointY" : 0.5
+                        }
+                      },
+                      "texture" : "0EA4A6EE5D36951B84D4726BAB75D81A"
                     }
                   ]
                 }
@@ -2604,10 +2808,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 631.66003601718808,
-                      "pointY" : 174.98592541171513
+                      "pointX" : 365.99017517734427,
+                      "pointY" : 145.02839062167607
                     },
-                    "width" : 688,
+                    "width" : 689,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -2634,7 +2838,7 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 295,
+                    "height" : 294,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
@@ -2651,8 +2855,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.12783219402565782,
-                        "textBaseline" : 0.91242289719325742,
+                        "textXHeight" : 0.12826699740669747,
+                        "textBaseline" : 0.91397013565296559,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -2676,10 +2880,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 369.33996398281198,
-                          "pointY" : 161.01407458828487
+                          "pointX" : 369.00982482265573,
+                          "pointY" : 160.97160937832393
                         },
-                        "width" : 688,
+                        "width" : 689,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -2706,14 +2910,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 295,
+                        "height" : 294,
                         "hidden" : false,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "85D7F14D8EFF210FB6B9700D5281F002"
+                      "texture" : "CB9B232954B1CDBF4870305A97E574D7"
                     }
                   ]
                 }

@@ -471,6 +471,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "theguardian.com_1.png",
             "targetRectangle" : {
               "y" : 362.99078974127769,
@@ -489,12 +498,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Screen Shot 2017-04-01 at 10.26.49.png",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 206.11703491210938,
-              "x" : 38.3262939453125,
-              "width" : 699.0111083984375,
-              "height" : 317.65652465820312
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
             }
           },
           {
@@ -516,39 +525,30 @@ local_slide( {
             }
           },
           {
-            "text" : "Ask the competition  Pt. 1 (B)",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 463.9679999999999,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Screen Shot 2017-04-01 at 10.26.49.png",
+            "targetRectangle" : {
+              "y" : 206.11703491210938,
+              "x" : 38.3262939453125,
+              "width" : 699.0111083984375,
+              "height" : 317.65652465820312
+            }
+          },
+          {
+            "text" : "Ask the competition  Pt. 1 (B)",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 463.9679999999999,
+              "height" : 48.400146484375
             }
           }
         ],

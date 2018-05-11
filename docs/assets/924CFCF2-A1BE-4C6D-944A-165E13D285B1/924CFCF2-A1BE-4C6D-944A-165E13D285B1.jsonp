@@ -580,6 +580,87 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "TLS",
+            "targetRectangle" : {
+              "y" : 507.25201416015625,
+              "x" : 750.48800000000006,
+              "width" : 31.023999999999887,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "What is Content Encryption?",
+            "targetRectangle" : {
+              "y" : 433.615234375,
+              "x" : 36,
+              "width" : 471.64800000000002,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Application",
+            "targetRectangle" : {
+              "y" : 383.259765625,
+              "x" : 710.55999999999995,
+              "width" : 110.88000000000011,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Client",
+            "targetRectangle" : {
+              "y" : 632.01953125,
+              "x" : 736.22199999999998,
+              "width" : 59.55600000000004,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Database",
+            "targetRectangle" : {
+              "y" : 135,
+              "x" : 723.34199999999998,
+              "width" : 85.316000000000031,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "What about TLS?",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 267.36000000000007,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "(*) 10s transit \/ 2 years storage",
+            "targetRectangle" : {
+              "y" : 745.24023371934891,
+              "x" : 11.823999881744385,
+              "width" : 250.64999999999992,
+              "height" : 25
+            }
+          },
+          {
             "text" : "Encrypt** data ‘itself’",
             "targetRectangle" : {
               "y" : 499.615234375,
@@ -616,30 +697,12 @@ local_slide( {
             }
           },
           {
-            "text" : "What about TLS?",
+            "text" : "(**)  Cryptographically protected - details later!",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 267.36000000000007,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "TLS",
-            "targetRectangle" : {
-              "y" : 507.25201416015625,
-              "x" : 750.48800000000006,
-              "width" : 31.023999999999887,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "TLS",
-            "targetRectangle" : {
-              "y" : 259.72468566894531,
-              "x" : 750.48800000000006,
-              "width" : 31.023999999999887,
-              "height" : 28.40008544921875
+              "y" : 745.24023371934891,
+              "x" : 321.82400512695312,
+              "width" : 387.32400000000007,
+              "height" : 25
             }
           },
           {
@@ -670,38 +733,11 @@ local_slide( {
             }
           },
           {
-            "text" : "What is Content Encryption?",
+            "text" : "TLS",
             "targetRectangle" : {
-              "y" : 433.615234375,
-              "x" : 36,
-              "width" : 471.64800000000002,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "(*) 10s transit \/ 2 years storage",
-            "targetRectangle" : {
-              "y" : 745.24023371934891,
-              "x" : 11.823999881744385,
-              "width" : 250.64999999999992,
-              "height" : 25
-            }
-          },
-          {
-            "text" : "Database",
-            "targetRectangle" : {
-              "y" : 135,
-              "x" : 723.34199999999998,
-              "width" : 85.316000000000031,
+              "y" : 259.72468566894531,
+              "x" : 750.48800000000006,
+              "width" : 31.023999999999887,
               "height" : 28.40008544921875
             }
           },
@@ -712,42 +748,6 @@ local_slide( {
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "(**)  Cryptographically protected - details later!",
-            "targetRectangle" : {
-              "y" : 745.24023371934891,
-              "x" : 321.82400512695312,
-              "width" : 387.32400000000007,
-              "height" : 25
-            }
-          },
-          {
-            "text" : "Application",
-            "targetRectangle" : {
-              "y" : 383.259765625,
-              "x" : 710.55999999999995,
-              "width" : 110.88000000000011,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Client",
-            "targetRectangle" : {
-              "y" : 632.01953125,
-              "x" : 736.22199999999998,
-              "width" : 59.55600000000004,
-              "height" : 28.40008544921875
             }
           }
         ],

@@ -28,7 +28,7 @@
       "width" : 162,
       "height" : 37
     },
-    "448C6A2098FFBC5ACE0A852183B242BE" : {
+    "B7BBB5C2302A83265EDB29A26123C234" : {
       "type" : "texture",
       "index" : 2,
       "assetRequest" : {
@@ -432,29 +432,11 @@
       ],
       "accessibility" : [
         {
-          "text" : "IMG_2328.JPG",
-          "targetRectangle" : {
-            "y" : 121,
-            "x" : 560,
-            "width" : 432,
-            "height" : 614
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 976.09613084793091,
-            "width" : 11.51953125,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
             "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
             "height" : 28
           }
         },
@@ -513,11 +495,29 @@
           }
         },
         {
-          "text" : "Jens Neuhalfen",
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "IMG_2328.JPG",
+          "targetRectangle" : {
+            "y" : 121,
+            "x" : 560,
+            "width" : 432,
+            "height" : 614
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 976.09613084793091,
+            "width" : 11.51953125,
             "height" : 28
           }
         }
@@ -1149,7 +1149,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "448C6A2098FFBC5ACE0A852183B242BE"
+                    "texture" : "B7BBB5C2302A83265EDB29A26123C234"
                   }
                 ]
               }

@@ -2,6 +2,20 @@ local_slide( {
   "name" : "4B7C5AAE-BF17-406C-B281-27A45EB9254B",
   "json" : {
     "assets" : {
+      "01D807CF8724614F5E561C07786B37D7" : {
+        "type" : "texture",
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/4B7C5AAE-BF17-406C-B281-27A45EB9254B.pdf"
+        },
+        "width" : 209,
+        "height" : 20
+      },
       "DD5574795D285B35A950523A9FA41DD3" : {
         "type" : "texture",
         "index" : 7,
@@ -86,9 +100,9 @@ local_slide( {
         "width" : 368,
         "height" : 37
       },
-      "061C39F5F30C18B474F2746409625A16" : {
+      "C1921AB0B66E7A41E7C316BB942EDEC9" : {
         "type" : "texture",
-        "index" : 14,
+        "index" : 10,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -97,8 +111,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/4B7C5AAE-BF17-406C-B281-27A45EB9254B.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 26,
+        "height" : 20
       },
       "A3AB49F0B0D6D9ED7CEDEF84AD86842B" : {
         "type" : "texture",
@@ -114,23 +128,9 @@ local_slide( {
         "width" : 1024,
         "height" : 40
       },
-      "E4C0023E4E82DA4708AE861A605CD6E2" : {
-        "type" : "texture",
-        "index" : 10,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/4B7C5AAE-BF17-406C-B281-27A45EB9254B.pdf"
-        },
-        "width" : 25,
-        "height" : 20
-      },
       "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
-        "index" : 12,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -141,20 +141,6 @@ local_slide( {
         },
         "width" : 1024,
         "height" : 768
-      },
-      "448C6A2098FFBC5ACE0A852183B242BE" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/4B7C5AAE-BF17-406C-B281-27A45EB9254B.pdf"
-        },
-        "width" : 209,
-        "height" : 20
       },
       "C0D78B79BD8C8A86930412C2AE097FA2" : {
         "type" : "texture",
@@ -170,9 +156,9 @@ local_slide( {
         "width" : 498,
         "height" : 20
       },
-      "8DB5D6DBF4FA358ADCC96467C12F11BF" : {
+      "448C6A2098FFBC5ACE0A852183B242BE" : {
         "type" : "texture",
-        "index" : 13,
+        "index" : 12,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -181,12 +167,12 @@ local_slide( {
         "url" : {
           "native" : "assets\/4B7C5AAE-BF17-406C-B281-27A45EB9254B.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 209,
+        "height" : 20
       },
-      "EA6786F000CD45C8225C177080BE964F" : {
+      "FA20C1F7224619443625047B61E7B6B5" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 14,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -211,6 +197,20 @@ local_slide( {
         },
         "width" : 1024,
         "height" : 40
+      },
+      "80799AA301C44C2CA23A1C68F6B0E45D" : {
+        "type" : "texture",
+        "index" : 13,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/4B7C5AAE-BF17-406C-B281-27A45EB9254B.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       }
     },
     "events" : [
@@ -438,24 +438,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Classify all data items with respect to regulations",
-            "targetRectangle" : {
-              "y" : 220,
-              "x" : 36,
-              "width" : 755.99000000000024,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "ic_action_lock_closed.png",
-            "targetRectangle" : {
-              "y" : 267.07207489013672,
-              "x" : 958.27167129516602,
-              "width" : 52.460819244384766,
-              "height" : 52.460807800292969
-            }
-          },
-          {
             "text" : "Classification depends on context!",
             "targetRectangle" : {
               "y" : 556.77539014816284,
@@ -474,12 +456,48 @@ local_slide( {
             }
           },
           {
+            "text" : "1 - Data classification",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 369.98399999999992,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "ic_action_lock_closed.png",
+            "targetRectangle" : {
+              "y" : 267.07207489013672,
+              "x" : 958.27167129516602,
+              "width" : 52.460819244384766,
+              "height" : 52.460807800292969
+            }
+          },
+          {
             "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Classify all data items with respect to regulations",
+            "targetRectangle" : {
+              "y" : 220,
+              "x" : 36,
+              "width" : 755.99000000000024,
+              "height" : 46
             }
           },
           {
@@ -492,29 +510,11 @@ local_slide( {
             }
           },
           {
-            "text" : "1 - Data classification",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 369.98399999999992,
-              "height" : 48.400146484375
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
               "height" : 28
             }
           }
@@ -749,7 +749,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "EA6786F000CD45C8225C177080BE964F"
+                      "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
                     }
                   ]
                 }
@@ -1145,7 +1145,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "448C6A2098FFBC5ACE0A852183B242BE"
+                      "texture" : "01D807CF8724614F5E561C07786B37D7"
                     }
                   ]
                 }
@@ -2624,10 +2624,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -2696,10 +2696,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -2733,7 +2733,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "E4C0023E4E82DA4708AE861A605CD6E2"
+                      "texture" : "C1921AB0B66E7A41E7C316BB942EDEC9"
                     }
                   ]
                 }
@@ -3104,7 +3104,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "8DB5D6DBF4FA358ADCC96467C12F11BF"
+                      "texture" : "80799AA301C44C2CA23A1C68F6B0E45D"
                     },
                     {
                       "animations" : [
@@ -3185,7 +3185,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "061C39F5F30C18B474F2746409625A16"
+                      "texture" : "FA20C1F7224619443625047B61E7B6B5"
                     }
                   ]
                 }
@@ -3215,24 +3215,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Classify all data items with respect to regulations",
-            "targetRectangle" : {
-              "y" : 220,
-              "x" : 36,
-              "width" : 755.99000000000024,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "ic_action_lock_closed.png",
-            "targetRectangle" : {
-              "y" : 267.07207489013672,
-              "x" : 958.27167129516602,
-              "width" : 52.460819244384766,
-              "height" : 52.460807800292969
-            }
-          },
-          {
             "text" : "Classification depends on context!",
             "targetRectangle" : {
               "y" : 556.77539014816284,
@@ -3251,12 +3233,48 @@ local_slide( {
             }
           },
           {
+            "text" : "1 - Data classification",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 369.98399999999992,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "ic_action_lock_closed.png",
+            "targetRectangle" : {
+              "y" : 267.07207489013672,
+              "x" : 958.27167129516602,
+              "width" : 52.460819244384766,
+              "height" : 52.460807800292969
+            }
+          },
+          {
             "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Classify all data items with respect to regulations",
+            "targetRectangle" : {
+              "y" : 220,
+              "x" : 36,
+              "width" : 755.99000000000024,
+              "height" : 46
             }
           },
           {
@@ -3269,29 +3287,11 @@ local_slide( {
             }
           },
           {
-            "text" : "1 - Data classification",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 369.98399999999992,
-              "height" : 48.400146484375
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
               "height" : 28
             }
           }
@@ -5402,10 +5402,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -5474,10 +5474,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -5511,7 +5511,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "E4C0023E4E82DA4708AE861A605CD6E2"
+                      "texture" : "C1921AB0B66E7A41E7C316BB942EDEC9"
                     }
                   ]
                 }

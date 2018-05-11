@@ -1,5 +1,19 @@
 {
   "assets" : {
+    "8F7DE250DD3B4CF95B9DBBDF982B0B70" : {
+      "type" : "texture",
+      "index" : 27,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/16A56A75-AF7C-48AD-B85A-7345D8C70A96.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
     "589FD7A1897B148315F063DB1CFA8973" : {
       "type" : "texture",
       "index" : 17,
@@ -167,20 +181,6 @@
       },
       "width" : 115,
       "height" : 47
-    },
-    "A99EC99BD707391350A06DB8BC4339AB" : {
-      "type" : "texture",
-      "index" : 27,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/16A56A75-AF7C-48AD-B85A-7345D8C70A96.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
     },
     "FBB5DEA59905EE30EF2803B0A74DF992" : {
       "type" : "texture",
@@ -609,12 +609,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Eve",
+          "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 281.46935927867889,
-            "x" : 309.23556518554688,
-            "width" : 59.771999999999991,
-            "height" : 46
+            "y" : 543.1875,
+            "x" : 88.373039245605469,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 202.32528686523438,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -623,51 +632,6 @@
             "y" : 473.288330078125,
             "x" : 334.7130392456055,
             "width" : 31.319999999999936,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 688.373046875,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 153.45940399169922,
-            "x" : 965.67934417724609,
-            "width" : 19.855165481567383,
-            "height" : 19.85516357421875
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 589.65899658203125,
-            "x" : 137.80303955078125,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "YES",
-          "targetRectangle" : {
-            "y" : 473.288330078125,
-            "x" : 99.421039245605471,
-            "width" : 41.903999999999996,
             "height" : 35.80010986328125
           }
         },
@@ -681,39 +645,21 @@
           }
         },
         {
-          "text" : "key_yellow_light.png",
+          "text" : "data key\\u2028encrypted with ",
           "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 305.23556518554688,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 335.4886474609375,
-            "width" : 64.000007629394531,
-            "height" : 64
+            "y" : 519.556396484375,
+            "x" : 448.54500579833984,
+            "width" : 242.45400000000006,
+            "height" : 92
           }
         },
         {
           "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 114.89883232116699,
-            "x" : 889.9456729888916,
-            "width" : 19.855163060696555,
-            "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 94.017044067382812,
-            "width" : 64,
-            "height" : 64
+            "y" : 642.4814453125,
+            "x" : 688.373046875,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
           }
         },
         {
@@ -726,12 +672,57 @@
           }
         },
         {
-          "text" : "key_holo_dark.png",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 88.373039245605469,
+            "y" : 642.4814453125,
+            "x" : 335.4886474609375,
+            "width" : 64.000007629394531,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 589.65899658203125,
+            "x" : 137.80303955078125,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 305.23556518554688,
             "width" : 64.000002731179848,
             "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "YES",
+          "targetRectangle" : {
+            "y" : 473.288330078125,
+            "x" : 99.421039245605471,
+            "width" : 41.903999999999996,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "Eve",
+          "targetRectangle" : {
+            "y" : 281.46935927867889,
+            "x" : 309.23556518554688,
+            "width" : 59.771999999999991,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 114.89883232116699,
+            "x" : 889.9456729888916,
+            "width" : 19.855163060696555,
+            "height" : 19.855163060696555
           }
         },
         {
@@ -741,6 +732,24 @@
             "x" : 448.54501342773438,
             "width" : 65.72199999999998,
             "height" : 46
+          }
+        },
+        {
+          "text" : "API",
+          "targetRectangle" : {
+            "y" : 426.288330078125,
+            "x" : 221.12103161621093,
+            "width" : 28.503999999999991,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 158.73831558227539,
+            "x" : 924.04947586059575,
+            "width" : 18.849999999999909,
+            "height" : 13.400039672851562
           }
         },
         {
@@ -762,30 +771,12 @@
           }
         },
         {
-          "text" : "Data",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 158.73831558227539,
-            "x" : 924.04947586059575,
-            "width" : 18.849999999999909,
-            "height" : 13.400039672851562
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 202.32528686523438,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 378.67284393310547,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
+            "y" : 153.45940399169922,
+            "x" : 965.67934417724609,
+            "width" : 19.855165481567383,
+            "height" : 19.85516357421875
           }
         },
         {
@@ -798,15 +789,6 @@
           }
         },
         {
-          "text" : "API",
-          "targetRectangle" : {
-            "y" : 426.288330078125,
-            "x" : 221.12103161621093,
-            "width" : 28.503999999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
           "text" : "ic_action_key.png",
           "targetRectangle" : {
             "y" : 535.10382080078125,
@@ -816,21 +798,30 @@
           }
         },
         {
-          "text" : "Bob",
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
-            "y" : 279.66976821422577,
-            "x" : 200.57328796386719,
-            "width" : 66.504000000000019,
-            "height" : 46
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
           }
         },
         {
-          "text" : "data key\\u2028encrypted with ",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 519.556396484375,
-            "x" : 448.54500579833984,
-            "width" : 242.45400000000006,
-            "height" : 92
+            "y" : 129.31600570678711,
+            "x" : 905.28068542480469,
+            "width" : 19.85516357421875,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 94.017044067382812,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -843,21 +834,30 @@
           }
         },
         {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 543.1875,
+            "x" : 378.67284393310547,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "Bob",
+          "targetRectangle" : {
+            "y" : 279.66976821422577,
+            "x" : 200.57328796386719,
+            "width" : 66.504000000000019,
+            "height" : 46
+          }
+        },
+        {
           "text" : "Data",
           "targetRectangle" : {
             "y" : 660.60382080078125,
             "x" : 208.38129348754882,
             "width" : 40.600000000000023,
             "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 129.31600570678711,
-            "x" : 905.28068542480469,
-            "width" : 19.85516357421875,
-            "height" : 19.85516357421875
           }
         }
       ],
@@ -5912,12 +5912,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Eve",
+          "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 281.46935927867889,
-            "x" : 309.23556518554688,
-            "width" : 59.771999999999991,
-            "height" : 46
+            "y" : 543.1875,
+            "x" : 88.373039245605469,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 202.32528686523438,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -5926,51 +5935,6 @@
             "y" : 473.288330078125,
             "x" : 334.7130392456055,
             "width" : 31.319999999999936,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 688.373046875,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 153.45940399169922,
-            "x" : 965.67934417724609,
-            "width" : 19.855165481567383,
-            "height" : 19.85516357421875
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 589.65899658203125,
-            "x" : 137.80303955078125,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "YES",
-          "targetRectangle" : {
-            "y" : 473.288330078125,
-            "x" : 99.421039245605471,
-            "width" : 41.903999999999996,
             "height" : 35.80010986328125
           }
         },
@@ -5984,39 +5948,21 @@
           }
         },
         {
-          "text" : "key_yellow_light.png",
+          "text" : "data key\\u2028encrypted with ",
           "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 305.23556518554688,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 335.4886474609375,
-            "width" : 64.000007629394531,
-            "height" : 64
+            "y" : 519.556396484375,
+            "x" : 448.54500579833984,
+            "width" : 242.45400000000006,
+            "height" : 92
           }
         },
         {
           "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 114.89883232116699,
-            "x" : 889.9456729888916,
-            "width" : 19.855163060696555,
-            "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 94.017044067382812,
-            "width" : 64,
-            "height" : 64
+            "y" : 642.4814453125,
+            "x" : 688.373046875,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
           }
         },
         {
@@ -6029,12 +5975,57 @@
           }
         },
         {
-          "text" : "key_holo_dark.png",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 88.373039245605469,
+            "y" : 642.4814453125,
+            "x" : 335.4886474609375,
+            "width" : 64.000007629394531,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 589.65899658203125,
+            "x" : 137.80303955078125,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 305.23556518554688,
             "width" : 64.000002731179848,
             "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "YES",
+          "targetRectangle" : {
+            "y" : 473.288330078125,
+            "x" : 99.421039245605471,
+            "width" : 41.903999999999996,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "Eve",
+          "targetRectangle" : {
+            "y" : 281.46935927867889,
+            "x" : 309.23556518554688,
+            "width" : 59.771999999999991,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 114.89883232116699,
+            "x" : 889.9456729888916,
+            "width" : 19.855163060696555,
+            "height" : 19.855163060696555
           }
         },
         {
@@ -6044,6 +6035,24 @@
             "x" : 448.54501342773438,
             "width" : 65.72199999999998,
             "height" : 46
+          }
+        },
+        {
+          "text" : "API",
+          "targetRectangle" : {
+            "y" : 426.288330078125,
+            "x" : 221.12103161621093,
+            "width" : 28.503999999999991,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 158.73831558227539,
+            "x" : 924.04947586059575,
+            "width" : 18.849999999999909,
+            "height" : 13.400039672851562
           }
         },
         {
@@ -6065,30 +6074,12 @@
           }
         },
         {
-          "text" : "Data",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 158.73831558227539,
-            "x" : 924.04947586059575,
-            "width" : 18.849999999999909,
-            "height" : 13.400039672851562
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 202.32528686523438,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 378.67284393310547,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
+            "y" : 153.45940399169922,
+            "x" : 965.67934417724609,
+            "width" : 19.855165481567383,
+            "height" : 19.85516357421875
           }
         },
         {
@@ -6101,15 +6092,6 @@
           }
         },
         {
-          "text" : "API",
-          "targetRectangle" : {
-            "y" : 426.288330078125,
-            "x" : 221.12103161621093,
-            "width" : 28.503999999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
           "text" : "ic_action_key.png",
           "targetRectangle" : {
             "y" : 535.10382080078125,
@@ -6119,21 +6101,30 @@
           }
         },
         {
-          "text" : "Bob",
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
-            "y" : 279.66976821422577,
-            "x" : 200.57328796386719,
-            "width" : 66.504000000000019,
-            "height" : 46
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
           }
         },
         {
-          "text" : "data key\\u2028encrypted with ",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 519.556396484375,
-            "x" : 448.54500579833984,
-            "width" : 242.45400000000006,
-            "height" : 92
+            "y" : 129.31600570678711,
+            "x" : 905.28068542480469,
+            "width" : 19.85516357421875,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 94.017044067382812,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -6146,21 +6137,30 @@
           }
         },
         {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 543.1875,
+            "x" : 378.67284393310547,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "Bob",
+          "targetRectangle" : {
+            "y" : 279.66976821422577,
+            "x" : 200.57328796386719,
+            "width" : 66.504000000000019,
+            "height" : 46
+          }
+        },
+        {
           "text" : "Data",
           "targetRectangle" : {
             "y" : 660.60382080078125,
             "x" : 208.38129348754882,
             "width" : 40.600000000000023,
             "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 129.31600570678711,
-            "x" : 905.28068542480469,
-            "width" : 19.85516357421875,
-            "height" : 19.85516357421875
           }
         }
       ],
@@ -11215,12 +11215,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Eve",
+          "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 281.46935927867889,
-            "x" : 309.23556518554688,
-            "width" : 59.771999999999991,
-            "height" : 46
+            "y" : 543.1875,
+            "x" : 88.373039245605469,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 202.32528686523438,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -11229,51 +11238,6 @@
             "y" : 473.288330078125,
             "x" : 334.7130392456055,
             "width" : 31.319999999999936,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 688.373046875,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 153.45940399169922,
-            "x" : 965.67934417724609,
-            "width" : 19.855165481567383,
-            "height" : 19.85516357421875
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 589.65899658203125,
-            "x" : 137.80303955078125,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "YES",
-          "targetRectangle" : {
-            "y" : 473.288330078125,
-            "x" : 99.421039245605471,
-            "width" : 41.903999999999996,
             "height" : 35.80010986328125
           }
         },
@@ -11287,39 +11251,21 @@
           }
         },
         {
-          "text" : "key_yellow_light.png",
+          "text" : "data key\\u2028encrypted with ",
           "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 305.23556518554688,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 335.4886474609375,
-            "width" : 64.000007629394531,
-            "height" : 64
+            "y" : 519.556396484375,
+            "x" : 448.54500579833984,
+            "width" : 242.45400000000006,
+            "height" : 92
           }
         },
         {
           "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 114.89883232116699,
-            "x" : 889.9456729888916,
-            "width" : 19.855163060696555,
-            "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 94.017044067382812,
-            "width" : 64,
-            "height" : 64
+            "y" : 642.4814453125,
+            "x" : 688.373046875,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
           }
         },
         {
@@ -11332,12 +11278,57 @@
           }
         },
         {
-          "text" : "key_holo_dark.png",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 88.373039245605469,
+            "y" : 642.4814453125,
+            "x" : 335.4886474609375,
+            "width" : 64.000007629394531,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 589.65899658203125,
+            "x" : 137.80303955078125,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 305.23556518554688,
             "width" : 64.000002731179848,
             "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "YES",
+          "targetRectangle" : {
+            "y" : 473.288330078125,
+            "x" : 99.421039245605471,
+            "width" : 41.903999999999996,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "Eve",
+          "targetRectangle" : {
+            "y" : 281.46935927867889,
+            "x" : 309.23556518554688,
+            "width" : 59.771999999999991,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 114.89883232116699,
+            "x" : 889.9456729888916,
+            "width" : 19.855163060696555,
+            "height" : 19.855163060696555
           }
         },
         {
@@ -11347,6 +11338,24 @@
             "x" : 448.54501342773438,
             "width" : 65.72199999999998,
             "height" : 46
+          }
+        },
+        {
+          "text" : "API",
+          "targetRectangle" : {
+            "y" : 426.288330078125,
+            "x" : 221.12103161621093,
+            "width" : 28.503999999999991,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 158.73831558227539,
+            "x" : 924.04947586059575,
+            "width" : 18.849999999999909,
+            "height" : 13.400039672851562
           }
         },
         {
@@ -11368,30 +11377,12 @@
           }
         },
         {
-          "text" : "Data",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 158.73831558227539,
-            "x" : 924.04947586059575,
-            "width" : 18.849999999999909,
-            "height" : 13.400039672851562
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 202.32528686523438,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 378.67284393310547,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
+            "y" : 153.45940399169922,
+            "x" : 965.67934417724609,
+            "width" : 19.855165481567383,
+            "height" : 19.85516357421875
           }
         },
         {
@@ -11404,15 +11395,6 @@
           }
         },
         {
-          "text" : "API",
-          "targetRectangle" : {
-            "y" : 426.288330078125,
-            "x" : 221.12103161621093,
-            "width" : 28.503999999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
           "text" : "ic_action_key.png",
           "targetRectangle" : {
             "y" : 535.10382080078125,
@@ -11422,21 +11404,30 @@
           }
         },
         {
-          "text" : "Bob",
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
-            "y" : 279.66976821422577,
-            "x" : 200.57328796386719,
-            "width" : 66.504000000000019,
-            "height" : 46
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
           }
         },
         {
-          "text" : "data key\\u2028encrypted with ",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 519.556396484375,
-            "x" : 448.54500579833984,
-            "width" : 242.45400000000006,
-            "height" : 92
+            "y" : 129.31600570678711,
+            "x" : 905.28068542480469,
+            "width" : 19.85516357421875,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 94.017044067382812,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -11449,21 +11440,30 @@
           }
         },
         {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 543.1875,
+            "x" : 378.67284393310547,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "Bob",
+          "targetRectangle" : {
+            "y" : 279.66976821422577,
+            "x" : 200.57328796386719,
+            "width" : 66.504000000000019,
+            "height" : 46
+          }
+        },
+        {
           "text" : "Data",
           "targetRectangle" : {
             "y" : 660.60382080078125,
             "x" : 208.38129348754882,
             "width" : 40.600000000000023,
             "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 129.31600570678711,
-            "x" : 905.28068542480469,
-            "width" : 19.85516357421875,
-            "height" : 19.85516357421875
           }
         }
       ],
@@ -16594,12 +16594,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Eve",
+          "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 281.46935927867889,
-            "x" : 309.23556518554688,
-            "width" : 59.771999999999991,
-            "height" : 46
+            "y" : 543.1875,
+            "x" : 88.373039245605469,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 202.32528686523438,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -16608,51 +16617,6 @@
             "y" : 473.288330078125,
             "x" : 334.7130392456055,
             "width" : 31.319999999999936,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 688.373046875,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 153.45940399169922,
-            "x" : 965.67934417724609,
-            "width" : 19.855165481567383,
-            "height" : 19.85516357421875
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 589.65899658203125,
-            "x" : 137.80303955078125,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "YES",
-          "targetRectangle" : {
-            "y" : 473.288330078125,
-            "x" : 99.421039245605471,
-            "width" : 41.903999999999996,
             "height" : 35.80010986328125
           }
         },
@@ -16666,39 +16630,21 @@
           }
         },
         {
-          "text" : "key_yellow_light.png",
+          "text" : "data key\\u2028encrypted with ",
           "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 305.23556518554688,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 335.4886474609375,
-            "width" : 64.000007629394531,
-            "height" : 64
+            "y" : 519.556396484375,
+            "x" : 448.54500579833984,
+            "width" : 242.45400000000006,
+            "height" : 92
           }
         },
         {
           "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 114.89883232116699,
-            "x" : 889.9456729888916,
-            "width" : 19.855163060696555,
-            "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 94.017044067382812,
-            "width" : 64,
-            "height" : 64
+            "y" : 642.4814453125,
+            "x" : 688.373046875,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
           }
         },
         {
@@ -16711,12 +16657,57 @@
           }
         },
         {
-          "text" : "key_holo_dark.png",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 88.373039245605469,
+            "y" : 642.4814453125,
+            "x" : 335.4886474609375,
+            "width" : 64.000007629394531,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 589.65899658203125,
+            "x" : 137.80303955078125,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 305.23556518554688,
             "width" : 64.000002731179848,
             "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "YES",
+          "targetRectangle" : {
+            "y" : 473.288330078125,
+            "x" : 99.421039245605471,
+            "width" : 41.903999999999996,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "Eve",
+          "targetRectangle" : {
+            "y" : 281.46935927867889,
+            "x" : 309.23556518554688,
+            "width" : 59.771999999999991,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 114.89883232116699,
+            "x" : 889.9456729888916,
+            "width" : 19.855163060696555,
+            "height" : 19.855163060696555
           }
         },
         {
@@ -16726,6 +16717,24 @@
             "x" : 448.54501342773438,
             "width" : 65.72199999999998,
             "height" : 46
+          }
+        },
+        {
+          "text" : "API",
+          "targetRectangle" : {
+            "y" : 426.288330078125,
+            "x" : 221.12103161621093,
+            "width" : 28.503999999999991,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 158.73831558227539,
+            "x" : 924.04947586059575,
+            "width" : 18.849999999999909,
+            "height" : 13.400039672851562
           }
         },
         {
@@ -16747,30 +16756,12 @@
           }
         },
         {
-          "text" : "Data",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 158.73831558227539,
-            "x" : 924.04947586059575,
-            "width" : 18.849999999999909,
-            "height" : 13.400039672851562
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 202.32528686523438,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 378.67284393310547,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
+            "y" : 153.45940399169922,
+            "x" : 965.67934417724609,
+            "width" : 19.855165481567383,
+            "height" : 19.85516357421875
           }
         },
         {
@@ -16783,15 +16774,6 @@
           }
         },
         {
-          "text" : "API",
-          "targetRectangle" : {
-            "y" : 426.288330078125,
-            "x" : 221.12103161621093,
-            "width" : 28.503999999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
           "text" : "ic_action_key.png",
           "targetRectangle" : {
             "y" : 535.10382080078125,
@@ -16801,21 +16783,30 @@
           }
         },
         {
-          "text" : "Bob",
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
-            "y" : 279.66976821422577,
-            "x" : 200.57328796386719,
-            "width" : 66.504000000000019,
-            "height" : 46
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
           }
         },
         {
-          "text" : "data key\\u2028encrypted with ",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 519.556396484375,
-            "x" : 448.54500579833984,
-            "width" : 242.45400000000006,
-            "height" : 92
+            "y" : 129.31600570678711,
+            "x" : 905.28068542480469,
+            "width" : 19.85516357421875,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 94.017044067382812,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -16828,21 +16819,30 @@
           }
         },
         {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 543.1875,
+            "x" : 378.67284393310547,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "Bob",
+          "targetRectangle" : {
+            "y" : 279.66976821422577,
+            "x" : 200.57328796386719,
+            "width" : 66.504000000000019,
+            "height" : 46
+          }
+        },
+        {
           "text" : "Data",
           "targetRectangle" : {
             "y" : 660.60382080078125,
             "x" : 208.38129348754882,
             "width" : 40.600000000000023,
             "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 129.31600570678711,
-            "x" : 905.28068542480469,
-            "width" : 19.85516357421875,
-            "height" : 19.85516357421875
           }
         }
       ],
@@ -22448,12 +22448,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Eve",
+          "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 281.46935927867889,
-            "x" : 309.23556518554688,
-            "width" : 59.771999999999991,
-            "height" : 46
+            "y" : 543.1875,
+            "x" : 88.373039245605469,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 202.32528686523438,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -22462,51 +22471,6 @@
             "y" : 473.288330078125,
             "x" : 334.7130392456055,
             "width" : 31.319999999999936,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 688.373046875,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 153.45940399169922,
-            "x" : 965.67934417724609,
-            "width" : 19.855165481567383,
-            "height" : 19.85516357421875
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 589.65899658203125,
-            "x" : 137.80303955078125,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "YES",
-          "targetRectangle" : {
-            "y" : 473.288330078125,
-            "x" : 99.421039245605471,
-            "width" : 41.903999999999996,
             "height" : 35.80010986328125
           }
         },
@@ -22520,39 +22484,21 @@
           }
         },
         {
-          "text" : "key_yellow_light.png",
+          "text" : "data key\\u2028encrypted with ",
           "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 305.23556518554688,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 335.4886474609375,
-            "width" : 64.000007629394531,
-            "height" : 64
+            "y" : 519.556396484375,
+            "x" : 448.54500579833984,
+            "width" : 242.45400000000006,
+            "height" : 92
           }
         },
         {
           "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 114.89883232116699,
-            "x" : 889.9456729888916,
-            "width" : 19.855163060696555,
-            "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 94.017044067382812,
-            "width" : 64,
-            "height" : 64
+            "y" : 642.4814453125,
+            "x" : 688.373046875,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
           }
         },
         {
@@ -22565,12 +22511,57 @@
           }
         },
         {
-          "text" : "key_holo_dark.png",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 88.373039245605469,
+            "y" : 642.4814453125,
+            "x" : 335.4886474609375,
+            "width" : 64.000007629394531,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 589.65899658203125,
+            "x" : 137.80303955078125,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 305.23556518554688,
             "width" : 64.000002731179848,
             "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "YES",
+          "targetRectangle" : {
+            "y" : 473.288330078125,
+            "x" : 99.421039245605471,
+            "width" : 41.903999999999996,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "Eve",
+          "targetRectangle" : {
+            "y" : 281.46935927867889,
+            "x" : 309.23556518554688,
+            "width" : 59.771999999999991,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 114.89883232116699,
+            "x" : 889.9456729888916,
+            "width" : 19.855163060696555,
+            "height" : 19.855163060696555
           }
         },
         {
@@ -22580,6 +22571,24 @@
             "x" : 448.54501342773438,
             "width" : 65.72199999999998,
             "height" : 46
+          }
+        },
+        {
+          "text" : "API",
+          "targetRectangle" : {
+            "y" : 426.288330078125,
+            "x" : 221.12103161621093,
+            "width" : 28.503999999999991,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 158.73831558227539,
+            "x" : 924.04947586059575,
+            "width" : 18.849999999999909,
+            "height" : 13.400039672851562
           }
         },
         {
@@ -22601,30 +22610,12 @@
           }
         },
         {
-          "text" : "Data",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 158.73831558227539,
-            "x" : 924.04947586059575,
-            "width" : 18.849999999999909,
-            "height" : 13.400039672851562
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 202.32528686523438,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 378.67284393310547,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
+            "y" : 153.45940399169922,
+            "x" : 965.67934417724609,
+            "width" : 19.855165481567383,
+            "height" : 19.85516357421875
           }
         },
         {
@@ -22637,15 +22628,6 @@
           }
         },
         {
-          "text" : "API",
-          "targetRectangle" : {
-            "y" : 426.288330078125,
-            "x" : 221.12103161621093,
-            "width" : 28.503999999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
           "text" : "ic_action_key.png",
           "targetRectangle" : {
             "y" : 535.10382080078125,
@@ -22655,21 +22637,30 @@
           }
         },
         {
-          "text" : "Bob",
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
-            "y" : 279.66976821422577,
-            "x" : 200.57328796386719,
-            "width" : 66.504000000000019,
-            "height" : 46
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
           }
         },
         {
-          "text" : "data key\\u2028encrypted with ",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 519.556396484375,
-            "x" : 448.54500579833984,
-            "width" : 242.45400000000006,
-            "height" : 92
+            "y" : 129.31600570678711,
+            "x" : 905.28068542480469,
+            "width" : 19.85516357421875,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 94.017044067382812,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -22682,21 +22673,30 @@
           }
         },
         {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 543.1875,
+            "x" : 378.67284393310547,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "Bob",
+          "targetRectangle" : {
+            "y" : 279.66976821422577,
+            "x" : 200.57328796386719,
+            "width" : 66.504000000000019,
+            "height" : 46
+          }
+        },
+        {
           "text" : "Data",
           "targetRectangle" : {
             "y" : 660.60382080078125,
             "x" : 208.38129348754882,
             "width" : 40.600000000000023,
             "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 129.31600570678711,
-            "x" : 905.28068542480469,
-            "width" : 19.85516357421875,
-            "height" : 19.85516357421875
           }
         }
       ],
@@ -28300,12 +28300,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Eve",
+          "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 281.46935927867889,
-            "x" : 309.23556518554688,
-            "width" : 59.771999999999991,
-            "height" : 46
+            "y" : 543.1875,
+            "x" : 88.373039245605469,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 202.32528686523438,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -28314,60 +28323,6 @@
             "y" : 473.288330078125,
             "x" : 334.7130392456055,
             "width" : 31.319999999999936,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 688.373046875,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 153.45940399169922,
-            "x" : 965.67934417724609,
-            "width" : 19.855165481567383,
-            "height" : 19.85516357421875
-          }
-        },
-        {
-          "text" : "Alice tries to read data",
-          "targetRectangle" : {
-            "y" : 97.638771057128906,
-            "x" : 458.39383029937744,
-            "width" : 351.18599999999992,
-            "height" : 59
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 589.65899658203125,
-            "x" : 137.80303955078125,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "YES",
-          "targetRectangle" : {
-            "y" : 473.288330078125,
-            "x" : 99.421039245605471,
-            "width" : 41.903999999999996,
             "height" : 35.80010986328125
           }
         },
@@ -28381,39 +28336,21 @@
           }
         },
         {
-          "text" : "key_yellow_light.png",
+          "text" : "data key\\u2028encrypted with ",
           "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 305.23556518554688,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 335.4886474609375,
-            "width" : 64.000007629394531,
-            "height" : 64
+            "y" : 519.556396484375,
+            "x" : 448.54500579833984,
+            "width" : 242.45400000000006,
+            "height" : 92
           }
         },
         {
           "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 114.89883232116699,
-            "x" : 889.9456729888916,
-            "width" : 19.855163060696555,
-            "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 94.017044067382812,
-            "width" : 64,
-            "height" : 64
+            "y" : 642.4814453125,
+            "x" : 688.373046875,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
           }
         },
         {
@@ -28426,12 +28363,57 @@
           }
         },
         {
-          "text" : "key_holo_dark.png",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 88.373039245605469,
+            "y" : 642.4814453125,
+            "x" : 335.4886474609375,
+            "width" : 64.000007629394531,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 589.65899658203125,
+            "x" : 137.80303955078125,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 305.23556518554688,
             "width" : 64.000002731179848,
             "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "YES",
+          "targetRectangle" : {
+            "y" : 473.288330078125,
+            "x" : 99.421039245605471,
+            "width" : 41.903999999999996,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "Eve",
+          "targetRectangle" : {
+            "y" : 281.46935927867889,
+            "x" : 309.23556518554688,
+            "width" : 59.771999999999991,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 114.89883232116699,
+            "x" : 889.9456729888916,
+            "width" : 19.855163060696555,
+            "height" : 19.855163060696555
           }
         },
         {
@@ -28441,6 +28423,24 @@
             "x" : 448.54501342773438,
             "width" : 65.72199999999998,
             "height" : 46
+          }
+        },
+        {
+          "text" : "API",
+          "targetRectangle" : {
+            "y" : 426.288330078125,
+            "x" : 221.12103161621093,
+            "width" : 28.503999999999991,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 158.73831558227539,
+            "x" : 924.04947586059575,
+            "width" : 18.849999999999909,
+            "height" : 13.400039672851562
           }
         },
         {
@@ -28462,30 +28462,12 @@
           }
         },
         {
-          "text" : "Data",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 158.73831558227539,
-            "x" : 924.04947586059575,
-            "width" : 18.849999999999909,
-            "height" : 13.400039672851562
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 202.32528686523438,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 378.67284393310547,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
+            "y" : 153.45940399169922,
+            "x" : 965.67934417724609,
+            "width" : 19.855165481567383,
+            "height" : 19.85516357421875
           }
         },
         {
@@ -28498,15 +28480,6 @@
           }
         },
         {
-          "text" : "API",
-          "targetRectangle" : {
-            "y" : 426.288330078125,
-            "x" : 221.12103161621093,
-            "width" : 28.503999999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
           "text" : "ic_action_key.png",
           "targetRectangle" : {
             "y" : 535.10382080078125,
@@ -28516,21 +28489,30 @@
           }
         },
         {
-          "text" : "Bob",
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
-            "y" : 279.66976821422577,
-            "x" : 200.57328796386719,
-            "width" : 66.504000000000019,
-            "height" : 46
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
           }
         },
         {
-          "text" : "data key\\u2028encrypted with ",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 519.556396484375,
-            "x" : 448.54500579833984,
-            "width" : 242.45400000000006,
-            "height" : 92
+            "y" : 129.31600570678711,
+            "x" : 905.28068542480469,
+            "width" : 19.85516357421875,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 94.017044067382812,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -28539,6 +28521,24 @@
             "y" : 279.66976821422577,
             "x" : 87.355026245117188,
             "width" : 82.348000000000013,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 543.1875,
+            "x" : 378.67284393310547,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "Bob",
+          "targetRectangle" : {
+            "y" : 279.66976821422577,
+            "x" : 200.57328796386719,
+            "width" : 66.504000000000019,
             "height" : 46
           }
         },
@@ -28552,12 +28552,12 @@
           }
         },
         {
-          "text" : "ic_action_lock_closed.png",
+          "text" : "Alice tries to read data",
           "targetRectangle" : {
-            "y" : 129.31600570678711,
-            "x" : 905.28068542480469,
-            "width" : 19.85516357421875,
-            "height" : 19.85516357421875
+            "y" : 97.638771057128906,
+            "x" : 458.39383029937744,
+            "width" : 351.18599999999992,
+            "height" : 59
           }
         }
       ],
@@ -34162,12 +34162,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Eve",
+          "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 281.46935927867889,
-            "x" : 309.23556518554688,
-            "width" : 59.771999999999991,
-            "height" : 46
+            "y" : 543.1875,
+            "x" : 88.373039245605469,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 202.32528686523438,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -34176,69 +34185,6 @@
             "y" : 473.288330078125,
             "x" : 334.7130392456055,
             "width" : 31.319999999999936,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 688.373046875,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 153.45940399169922,
-            "x" : 965.67934417724609,
-            "width" : 19.855165481567383,
-            "height" : 19.85516357421875
-          }
-        },
-        {
-          "text" : "Alice tries to read data",
-          "targetRectangle" : {
-            "y" : 97.638771057128906,
-            "x" : 458.39383029937744,
-            "width" : 351.18599999999992,
-            "height" : 59
-          }
-        },
-        {
-          "text" : "Application validates ACL",
-          "targetRectangle" : {
-            "y" : 156.63877105712891,
-            "x" : 458.39383029937744,
-            "width" : 399.97600000000011,
-            "height" : 59
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 589.65899658203125,
-            "x" : 137.80303955078125,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "YES",
-          "targetRectangle" : {
-            "y" : 473.288330078125,
-            "x" : 99.421039245605471,
-            "width" : 41.903999999999996,
             "height" : 35.80010986328125
           }
         },
@@ -34252,39 +34198,21 @@
           }
         },
         {
-          "text" : "key_yellow_light.png",
+          "text" : "data key\\u2028encrypted with ",
           "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 305.23556518554688,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 335.4886474609375,
-            "width" : 64.000007629394531,
-            "height" : 64
+            "y" : 519.556396484375,
+            "x" : 448.54500579833984,
+            "width" : 242.45400000000006,
+            "height" : 92
           }
         },
         {
           "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 114.89883232116699,
-            "x" : 889.9456729888916,
-            "width" : 19.855163060696555,
-            "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 94.017044067382812,
-            "width" : 64,
-            "height" : 64
+            "y" : 642.4814453125,
+            "x" : 688.373046875,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
           }
         },
         {
@@ -34297,12 +34225,57 @@
           }
         },
         {
-          "text" : "key_holo_dark.png",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 88.373039245605469,
+            "y" : 642.4814453125,
+            "x" : 335.4886474609375,
+            "width" : 64.000007629394531,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 589.65899658203125,
+            "x" : 137.80303955078125,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 305.23556518554688,
             "width" : 64.000002731179848,
             "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "YES",
+          "targetRectangle" : {
+            "y" : 473.288330078125,
+            "x" : 99.421039245605471,
+            "width" : 41.903999999999996,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "Eve",
+          "targetRectangle" : {
+            "y" : 281.46935927867889,
+            "x" : 309.23556518554688,
+            "width" : 59.771999999999991,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 114.89883232116699,
+            "x" : 889.9456729888916,
+            "width" : 19.855163060696555,
+            "height" : 19.855163060696555
           }
         },
         {
@@ -34312,6 +34285,24 @@
             "x" : 448.54501342773438,
             "width" : 65.72199999999998,
             "height" : 46
+          }
+        },
+        {
+          "text" : "API",
+          "targetRectangle" : {
+            "y" : 426.288330078125,
+            "x" : 221.12103161621093,
+            "width" : 28.503999999999991,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 158.73831558227539,
+            "x" : 924.04947586059575,
+            "width" : 18.849999999999909,
+            "height" : 13.400039672851562
           }
         },
         {
@@ -34333,30 +34324,12 @@
           }
         },
         {
-          "text" : "Data",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 158.73831558227539,
-            "x" : 924.04947586059575,
-            "width" : 18.849999999999909,
-            "height" : 13.400039672851562
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 202.32528686523438,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 378.67284393310547,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
+            "y" : 153.45940399169922,
+            "x" : 965.67934417724609,
+            "width" : 19.855165481567383,
+            "height" : 19.85516357421875
           }
         },
         {
@@ -34369,15 +34342,6 @@
           }
         },
         {
-          "text" : "API",
-          "targetRectangle" : {
-            "y" : 426.288330078125,
-            "x" : 221.12103161621093,
-            "width" : 28.503999999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
           "text" : "ic_action_key.png",
           "targetRectangle" : {
             "y" : 535.10382080078125,
@@ -34387,21 +34351,30 @@
           }
         },
         {
-          "text" : "Bob",
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
-            "y" : 279.66976821422577,
-            "x" : 200.57328796386719,
-            "width" : 66.504000000000019,
-            "height" : 46
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
           }
         },
         {
-          "text" : "data key\\u2028encrypted with ",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 519.556396484375,
-            "x" : 448.54500579833984,
-            "width" : 242.45400000000006,
-            "height" : 92
+            "y" : 129.31600570678711,
+            "x" : 905.28068542480469,
+            "width" : 19.85516357421875,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 94.017044067382812,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -34410,6 +34383,24 @@
             "y" : 279.66976821422577,
             "x" : 87.355026245117188,
             "width" : 82.348000000000013,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 543.1875,
+            "x" : 378.67284393310547,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "Bob",
+          "targetRectangle" : {
+            "y" : 279.66976821422577,
+            "x" : 200.57328796386719,
+            "width" : 66.504000000000019,
             "height" : 46
           }
         },
@@ -34423,12 +34414,21 @@
           }
         },
         {
-          "text" : "ic_action_lock_closed.png",
+          "text" : "Alice tries to read data",
           "targetRectangle" : {
-            "y" : 129.31600570678711,
-            "x" : 905.28068542480469,
-            "width" : 19.85516357421875,
-            "height" : 19.85516357421875
+            "y" : 97.638771057128906,
+            "x" : 458.39383029937744,
+            "width" : 351.18599999999992,
+            "height" : 59
+          }
+        },
+        {
+          "text" : "Application validates ACL",
+          "targetRectangle" : {
+            "y" : 156.63877105712891,
+            "x" : 458.39383029937744,
+            "width" : 399.97600000000011,
+            "height" : 59
           }
         }
       ],
@@ -39977,12 +39977,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Eve",
+          "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 281.46935927867889,
-            "x" : 309.23556518554688,
-            "width" : 59.771999999999991,
-            "height" : 46
+            "y" : 543.1875,
+            "x" : 88.373039245605469,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 202.32528686523438,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -39995,12 +40004,165 @@
           }
         },
         {
+          "text" : "encrypted with ",
+          "targetRectangle" : {
+            "y" : 652.10381972789764,
+            "x" : 423.54501342773438,
+            "width" : 258.97800000000007,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "data key\\u2028encrypted with ",
+          "targetRectangle" : {
+            "y" : 519.556396484375,
+            "x" : 448.54500579833984,
+            "width" : 242.45400000000006,
+            "height" : 92
+          }
+        },
+        {
           "text" : "key_holo_dark.png",
           "targetRectangle" : {
             "y" : 642.4814453125,
             "x" : 688.373046875,
             "width" : 64.000002731179848,
             "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 642.4814453125,
+            "x" : 335.4886474609375,
+            "width" : 64.000007629394531,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 589.65899658203125,
+            "x" : 137.80303955078125,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 305.23556518554688,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "YES",
+          "targetRectangle" : {
+            "y" : 473.288330078125,
+            "x" : 99.421039245605471,
+            "width" : 41.903999999999996,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "Eve",
+          "targetRectangle" : {
+            "y" : 281.46935927867889,
+            "x" : 309.23556518554688,
+            "width" : 59.771999999999991,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 114.89883232116699,
+            "x" : 889.9456729888916,
+            "width" : 19.855163060696555,
+            "height" : 19.855163060696555
+          }
+        },
+        {
+          "text" : "ACL",
+          "targetRectangle" : {
+            "y" : 468.21411025524139,
+            "x" : 448.54501342773438,
+            "width" : 65.72199999999998,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "API",
+          "targetRectangle" : {
+            "y" : 426.288330078125,
+            "x" : 221.12103161621093,
+            "width" : 28.503999999999991,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 158.73831558227539,
+            "x" : 924.04947586059575,
+            "width" : 18.849999999999909,
+            "height" : 13.400039672851562
+          }
+        },
+        {
+          "text" : "Your application",
+          "targetRectangle" : {
+            "y" : 707.60382097959518,
+            "x" : 581.17425537109375,
+            "width" : 179.27999999999997,
+            "height" : 33
+          }
+        },
+        {
+          "text" : "Access control",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 260.16000000000003,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 153.45940399169922,
+            "x" : 965.67934417724609,
+            "width" : 19.855165481567383,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "NO",
+          "targetRectangle" : {
+            "y" : 473.288330078125,
+            "x" : 219.71303924560547,
+            "width" : 31.319999999999993,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 535.10382080078125,
+            "x" : 688.37303924560547,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -40015,10 +40177,55 @@
         {
           "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 153.45940399169922,
-            "x" : 965.67934417724609,
-            "width" : 19.855165481567383,
+            "y" : 129.31600570678711,
+            "x" : 905.28068542480469,
+            "width" : 19.85516357421875,
             "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 94.017044067382812,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "Alice",
+          "targetRectangle" : {
+            "y" : 279.66976821422577,
+            "x" : 87.355026245117188,
+            "width" : 82.348000000000013,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 543.1875,
+            "x" : 378.67284393310547,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "Bob",
+          "targetRectangle" : {
+            "y" : 279.66976821422577,
+            "x" : 200.57328796386719,
+            "width" : 66.504000000000019,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 660.60382080078125,
+            "x" : 208.38129348754882,
+            "width" : 40.600000000000023,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -40046,213 +40253,6 @@
             "x" : 458.39383029937744,
             "width" : 353.02200000000016,
             "height" : 59
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 589.65899658203125,
-            "x" : 137.80303955078125,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "YES",
-          "targetRectangle" : {
-            "y" : 473.288330078125,
-            "x" : 99.421039245605471,
-            "width" : 41.903999999999996,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "encrypted with ",
-          "targetRectangle" : {
-            "y" : 652.10381972789764,
-            "x" : 423.54501342773438,
-            "width" : 258.97800000000007,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "key_yellow_light.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 305.23556518554688,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 335.4886474609375,
-            "width" : 64.000007629394531,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 114.89883232116699,
-            "x" : 889.9456729888916,
-            "width" : 19.855163060696555,
-            "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 94.017044067382812,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 88.373039245605469,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "ACL",
-          "targetRectangle" : {
-            "y" : 468.21411025524139,
-            "x" : 448.54501342773438,
-            "width" : 65.72199999999998,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Your application",
-          "targetRectangle" : {
-            "y" : 707.60382097959518,
-            "x" : 581.17425537109375,
-            "width" : 179.27999999999997,
-            "height" : 33
-          }
-        },
-        {
-          "text" : "Access control",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 260.16000000000003,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Data",
-          "targetRectangle" : {
-            "y" : 158.73831558227539,
-            "x" : 924.04947586059575,
-            "width" : 18.849999999999909,
-            "height" : 13.400039672851562
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 202.32528686523438,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 378.67284393310547,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "NO",
-          "targetRectangle" : {
-            "y" : 473.288330078125,
-            "x" : 219.71303924560547,
-            "width" : 31.319999999999993,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "API",
-          "targetRectangle" : {
-            "y" : 426.288330078125,
-            "x" : 221.12103161621093,
-            "width" : 28.503999999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 535.10382080078125,
-            "x" : 688.37303924560547,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "Bob",
-          "targetRectangle" : {
-            "y" : 279.66976821422577,
-            "x" : 200.57328796386719,
-            "width" : 66.504000000000019,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "data key\\u2028encrypted with ",
-          "targetRectangle" : {
-            "y" : 519.556396484375,
-            "x" : 448.54500579833984,
-            "width" : 242.45400000000006,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "Alice",
-          "targetRectangle" : {
-            "y" : 279.66976821422577,
-            "x" : 87.355026245117188,
-            "width" : 82.348000000000013,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Data",
-          "targetRectangle" : {
-            "y" : 660.60382080078125,
-            "x" : 208.38129348754882,
-            "width" : 40.600000000000023,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 129.31600570678711,
-            "x" : 905.28068542480469,
-            "width" : 19.85516357421875,
-            "height" : 19.85516357421875
           }
         }
       ],
@@ -45861,12 +45861,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Eve",
+          "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 281.46935927867889,
-            "x" : 309.23556518554688,
-            "width" : 59.771999999999991,
-            "height" : 46
+            "y" : 543.1875,
+            "x" : 88.373039245605469,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 202.32528686523438,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -45879,12 +45888,165 @@
           }
         },
         {
+          "text" : "encrypted with ",
+          "targetRectangle" : {
+            "y" : 652.10381972789764,
+            "x" : 423.54501342773438,
+            "width" : 258.97800000000007,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "data key\\u2028encrypted with ",
+          "targetRectangle" : {
+            "y" : 519.556396484375,
+            "x" : 448.54500579833984,
+            "width" : 242.45400000000006,
+            "height" : 92
+          }
+        },
+        {
           "text" : "key_holo_dark.png",
           "targetRectangle" : {
             "y" : 642.4814453125,
             "x" : 688.373046875,
             "width" : 64.000002731179848,
             "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 642.4814453125,
+            "x" : 335.4886474609375,
+            "width" : 64.000007629394531,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 589.65899658203125,
+            "x" : 137.80303955078125,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 305.23556518554688,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "YES",
+          "targetRectangle" : {
+            "y" : 473.288330078125,
+            "x" : 99.421039245605471,
+            "width" : 41.903999999999996,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "Eve",
+          "targetRectangle" : {
+            "y" : 281.46935927867889,
+            "x" : 309.23556518554688,
+            "width" : 59.771999999999991,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 114.89883232116699,
+            "x" : 889.9456729888916,
+            "width" : 19.855163060696555,
+            "height" : 19.855163060696555
+          }
+        },
+        {
+          "text" : "ACL",
+          "targetRectangle" : {
+            "y" : 468.21411025524139,
+            "x" : 448.54501342773438,
+            "width" : 65.72199999999998,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "API",
+          "targetRectangle" : {
+            "y" : 426.288330078125,
+            "x" : 221.12103161621093,
+            "width" : 28.503999999999991,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 158.73831558227539,
+            "x" : 924.04947586059575,
+            "width" : 18.849999999999909,
+            "height" : 13.400039672851562
+          }
+        },
+        {
+          "text" : "Your application",
+          "targetRectangle" : {
+            "y" : 707.60382097959518,
+            "x" : 581.17425537109375,
+            "width" : 179.27999999999997,
+            "height" : 33
+          }
+        },
+        {
+          "text" : "Access control",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 260.16000000000003,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 153.45940399169922,
+            "x" : 965.67934417724609,
+            "width" : 19.855165481567383,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "NO",
+          "targetRectangle" : {
+            "y" : 473.288330078125,
+            "x" : 219.71303924560547,
+            "width" : 31.319999999999993,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 535.10382080078125,
+            "x" : 688.37303924560547,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -45899,10 +46061,55 @@
         {
           "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 153.45940399169922,
-            "x" : 965.67934417724609,
-            "width" : 19.855165481567383,
+            "y" : 129.31600570678711,
+            "x" : 905.28068542480469,
+            "width" : 19.85516357421875,
             "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 94.017044067382812,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "Alice",
+          "targetRectangle" : {
+            "y" : 279.66976821422577,
+            "x" : 87.355026245117188,
+            "width" : 82.348000000000013,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 543.1875,
+            "x" : 378.67284393310547,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "Bob",
+          "targetRectangle" : {
+            "y" : 279.66976821422577,
+            "x" : 200.57328796386719,
+            "width" : 66.504000000000019,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 660.60382080078125,
+            "x" : 208.38129348754882,
+            "width" : 40.600000000000023,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -45939,213 +46146,6 @@
             "x" : 458.39383029937744,
             "width" : 448.52800000000002,
             "height" : 59
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 589.65899658203125,
-            "x" : 137.80303955078125,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "YES",
-          "targetRectangle" : {
-            "y" : 473.288330078125,
-            "x" : 99.421039245605471,
-            "width" : 41.903999999999996,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "encrypted with ",
-          "targetRectangle" : {
-            "y" : 652.10381972789764,
-            "x" : 423.54501342773438,
-            "width" : 258.97800000000007,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "key_yellow_light.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 305.23556518554688,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 335.4886474609375,
-            "width" : 64.000007629394531,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 114.89883232116699,
-            "x" : 889.9456729888916,
-            "width" : 19.855163060696555,
-            "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 94.017044067382812,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 88.373039245605469,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "ACL",
-          "targetRectangle" : {
-            "y" : 468.21411025524139,
-            "x" : 448.54501342773438,
-            "width" : 65.72199999999998,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Your application",
-          "targetRectangle" : {
-            "y" : 707.60382097959518,
-            "x" : 581.17425537109375,
-            "width" : 179.27999999999997,
-            "height" : 33
-          }
-        },
-        {
-          "text" : "Access control",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 260.16000000000003,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Data",
-          "targetRectangle" : {
-            "y" : 158.73831558227539,
-            "x" : 924.04947586059575,
-            "width" : 18.849999999999909,
-            "height" : 13.400039672851562
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 202.32528686523438,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 378.67284393310547,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "NO",
-          "targetRectangle" : {
-            "y" : 473.288330078125,
-            "x" : 219.71303924560547,
-            "width" : 31.319999999999993,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "API",
-          "targetRectangle" : {
-            "y" : 426.288330078125,
-            "x" : 221.12103161621093,
-            "width" : 28.503999999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 535.10382080078125,
-            "x" : 688.37303924560547,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "Bob",
-          "targetRectangle" : {
-            "y" : 279.66976821422577,
-            "x" : 200.57328796386719,
-            "width" : 66.504000000000019,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "data key\\u2028encrypted with ",
-          "targetRectangle" : {
-            "y" : 519.556396484375,
-            "x" : 448.54500579833984,
-            "width" : 242.45400000000006,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "Alice",
-          "targetRectangle" : {
-            "y" : 279.66976821422577,
-            "x" : 87.355026245117188,
-            "width" : 82.348000000000013,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Data",
-          "targetRectangle" : {
-            "y" : 660.60382080078125,
-            "x" : 208.38129348754882,
-            "width" : 40.600000000000023,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 129.31600570678711,
-            "x" : 905.28068542480469,
-            "width" : 19.85516357421875,
-            "height" : 19.85516357421875
           }
         }
       ],
@@ -51249,7 +51249,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "A99EC99BD707391350A06DB8BC4339AB"
+                    "texture" : "8F7DE250DD3B4CF95B9DBBDF982B0B70"
                   }
                 ]
               }
@@ -51270,12 +51270,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Eve",
+          "text" : "key_holo_dark.png",
           "targetRectangle" : {
-            "y" : 281.46935927867889,
-            "x" : 309.23556518554688,
-            "width" : 59.771999999999991,
-            "height" : 46
+            "y" : 543.1875,
+            "x" : 88.373039245605469,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 202.32528686523438,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -51288,12 +51297,165 @@
           }
         },
         {
+          "text" : "encrypted with ",
+          "targetRectangle" : {
+            "y" : 652.10381972789764,
+            "x" : 423.54501342773438,
+            "width" : 258.97800000000007,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "data key\\u2028encrypted with ",
+          "targetRectangle" : {
+            "y" : 519.556396484375,
+            "x" : 448.54500579833984,
+            "width" : 242.45400000000006,
+            "height" : 92
+          }
+        },
+        {
           "text" : "key_holo_dark.png",
           "targetRectangle" : {
             "y" : 642.4814453125,
             "x" : 688.373046875,
             "width" : 64.000002731179848,
             "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 642.4814453125,
+            "x" : 335.4886474609375,
+            "width" : 64.000007629394531,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 589.65899658203125,
+            "x" : 137.80303955078125,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 305.23556518554688,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "YES",
+          "targetRectangle" : {
+            "y" : 473.288330078125,
+            "x" : 99.421039245605471,
+            "width" : 41.903999999999996,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "Eve",
+          "targetRectangle" : {
+            "y" : 281.46935927867889,
+            "x" : 309.23556518554688,
+            "width" : 59.771999999999991,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 114.89883232116699,
+            "x" : 889.9456729888916,
+            "width" : 19.855163060696555,
+            "height" : 19.855163060696555
+          }
+        },
+        {
+          "text" : "ACL",
+          "targetRectangle" : {
+            "y" : 468.21411025524139,
+            "x" : 448.54501342773438,
+            "width" : 65.72199999999998,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "API",
+          "targetRectangle" : {
+            "y" : 426.288330078125,
+            "x" : 221.12103161621093,
+            "width" : 28.503999999999991,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 158.73831558227539,
+            "x" : 924.04947586059575,
+            "width" : 18.849999999999909,
+            "height" : 13.400039672851562
+          }
+        },
+        {
+          "text" : "Your application",
+          "targetRectangle" : {
+            "y" : 707.60382097959518,
+            "x" : 581.17425537109375,
+            "width" : 179.27999999999997,
+            "height" : 33
+          }
+        },
+        {
+          "text" : "Access control",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 260.16000000000003,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 153.45940399169922,
+            "x" : 965.67934417724609,
+            "width" : 19.855165481567383,
+            "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "NO",
+          "targetRectangle" : {
+            "y" : 473.288330078125,
+            "x" : 219.71303924560547,
+            "width" : 31.319999999999993,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 535.10382080078125,
+            "x" : 688.37303924560547,
+            "width" : 64,
+            "height" : 64
           }
         },
         {
@@ -51308,10 +51470,55 @@
         {
           "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 153.45940399169922,
-            "x" : 965.67934417724609,
-            "width" : 19.855165481567383,
+            "y" : 129.31600570678711,
+            "x" : 905.28068542480469,
+            "width" : 19.85516357421875,
             "height" : 19.85516357421875
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 318.24072265625,
+            "x" : 94.017044067382812,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "Alice",
+          "targetRectangle" : {
+            "y" : 279.66976821422577,
+            "x" : 87.355026245117188,
+            "width" : 82.348000000000013,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "key_holo_dark.png",
+          "targetRectangle" : {
+            "y" : 543.1875,
+            "x" : 378.67284393310547,
+            "width" : 64.000002731179848,
+            "height" : 64.000002731179848
+          }
+        },
+        {
+          "text" : "Bob",
+          "targetRectangle" : {
+            "y" : 279.66976821422577,
+            "x" : 200.57328796386719,
+            "width" : 66.504000000000019,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 660.60382080078125,
+            "x" : 208.38129348754882,
+            "width" : 40.600000000000023,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -51357,213 +51564,6 @@
             "x" : 458.39383029937744,
             "width" : 299.53999999999996,
             "height" : 46
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 589.65899658203125,
-            "x" : 137.80303955078125,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "YES",
-          "targetRectangle" : {
-            "y" : 473.288330078125,
-            "x" : 99.421039245605471,
-            "width" : 41.903999999999996,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "encrypted with ",
-          "targetRectangle" : {
-            "y" : 652.10381972789764,
-            "x" : 423.54501342773438,
-            "width" : 258.97800000000007,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "key_yellow_light.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 305.23556518554688,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 642.4814453125,
-            "x" : 335.4886474609375,
-            "width" : 64.000007629394531,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 114.89883232116699,
-            "x" : 889.9456729888916,
-            "width" : 19.855163060696555,
-            "height" : 19.855163060696555
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 94.017044067382812,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 88.373039245605469,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "ACL",
-          "targetRectangle" : {
-            "y" : 468.21411025524139,
-            "x" : 448.54501342773438,
-            "width" : 65.72199999999998,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Your application",
-          "targetRectangle" : {
-            "y" : 707.60382097959518,
-            "x" : 581.17425537109375,
-            "width" : 179.27999999999997,
-            "height" : 33
-          }
-        },
-        {
-          "text" : "Access control",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 260.16000000000003,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Data",
-          "targetRectangle" : {
-            "y" : 158.73831558227539,
-            "x" : 924.04947586059575,
-            "width" : 18.849999999999909,
-            "height" : 13.400039672851562
-          }
-        },
-        {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 318.24072265625,
-            "x" : 202.32528686523438,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_holo_dark.png",
-          "targetRectangle" : {
-            "y" : 543.1875,
-            "x" : 378.67284393310547,
-            "width" : 64.000002731179848,
-            "height" : 64.000002731179848
-          }
-        },
-        {
-          "text" : "NO",
-          "targetRectangle" : {
-            "y" : 473.288330078125,
-            "x" : 219.71303924560547,
-            "width" : 31.319999999999993,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "API",
-          "targetRectangle" : {
-            "y" : 426.288330078125,
-            "x" : 221.12103161621093,
-            "width" : 28.503999999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 535.10382080078125,
-            "x" : 688.37303924560547,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "Bob",
-          "targetRectangle" : {
-            "y" : 279.66976821422577,
-            "x" : 200.57328796386719,
-            "width" : 66.504000000000019,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "data key\\u2028encrypted with ",
-          "targetRectangle" : {
-            "y" : 519.556396484375,
-            "x" : 448.54500579833984,
-            "width" : 242.45400000000006,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "Alice",
-          "targetRectangle" : {
-            "y" : 279.66976821422577,
-            "x" : 87.355026245117188,
-            "width" : 82.348000000000013,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Data",
-          "targetRectangle" : {
-            "y" : 660.60382080078125,
-            "x" : 208.38129348754882,
-            "width" : 40.600000000000023,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 129.31600570678711,
-            "x" : 905.28068542480469,
-            "width" : 19.85516357421875,
-            "height" : 19.85516357421875
           }
         }
       ],

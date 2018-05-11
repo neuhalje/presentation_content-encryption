@@ -44,9 +44,9 @@ local_slide( {
         "width" : 161,
         "height" : 185
       },
-      "C243B6902E9BE3E3E639E5FE75BF0903" : {
+      "A6176F3CE0C6AD70EB14A9B86F52356A" : {
         "type" : "texture",
-        "index" : 5,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -55,12 +55,12 @@ local_slide( {
         "url" : {
           "native" : "assets\/34E86BFF-2A36-45B7-B6D5-B35DF8350BAD.pdf"
         },
-        "width" : 26,
-        "height" : 20
+        "width" : 298,
+        "height" : 297
       },
-      "B1F6BCC43FFCF18B13B748F1679932D9" : {
+      "6D5B0D4B5603343D8B9CE3DC6107AEC0" : {
         "type" : "texture",
-        "index" : 8,
+        "index" : 7,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -86,9 +86,9 @@ local_slide( {
         "width" : 532,
         "height" : 6
       },
-      "E151ECBDDA0D45DF15B22E7D524CB1CE" : {
+      "F924724A151718F485223EE8776F562F" : {
         "type" : "texture",
-        "index" : 7,
+        "index" : 8,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -114,9 +114,9 @@ local_slide( {
         "width" : 238,
         "height" : 42
       },
-      "A6176F3CE0C6AD70EB14A9B86F52356A" : {
+      "3F8CC71468E3A8C50B7A5EEBC9ED1959" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -125,8 +125,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/34E86BFF-2A36-45B7-B6D5-B35DF8350BAD.pdf"
         },
-        "width" : 298,
-        "height" : 297
+        "width" : 26,
+        "height" : 20
       }
     },
     "events" : [
@@ -310,7 +310,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "E151ECBDDA0D45DF15B22E7D524CB1CE"
+                      "texture" : "6D5B0D4B5603343D8B9CE3DC6107AEC0"
                     },
                     {
                       "animations" : [
@@ -391,7 +391,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B1F6BCC43FFCF18B13B748F1679932D9"
+                      "texture" : "F924724A151718F485223EE8776F562F"
                     }
                   ]
                 }
@@ -412,39 +412,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "*",
-            "targetRectangle" : {
-              "y" : 158.22045421600342,
-              "x" : 629.70428497314458,
-              "width" : 10.3599999999999,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Patterns",
-            "targetRectangle" : {
-              "y" : 411,
-              "x" : 468,
-              "width" : 241.8134765625,
-              "height" : 63
-            }
-          },
-          {
             "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
               "y" : 192.58404541015625,
               "x" : 198.08695983886719,
               "width" : 166.83197021484375,
               "height" : 166.83193969726562
-            }
-          },
-          {
-            "text" : "*",
-            "targetRectangle" : {
-              "y" : 158.22045421600342,
-              "x" : 595.75648147583013,
-              "width" : 10.3599999999999,
-              "height" : 28.40008544921875
             }
           },
           {
@@ -457,12 +430,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Password Verification",
+            "text" : "*",
             "targetRectangle" : {
-              "y" : 510,
-              "x" : 468,
-              "width" : 422.89200000000005,
-              "height" : 203.28025023460759
+              "y" : 158.22045421600342,
+              "x" : 629.70428497314458,
+              "width" : 10.3599999999999,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "*",
+            "targetRectangle" : {
+              "y" : 158.22045421600342,
+              "x" : 595.75648147583013,
+              "width" : 10.3599999999999,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -472,6 +454,24 @@ local_slide( {
               "x" : 67.081069946289062,
               "width" : 166.84375,
               "height" : 166.84375
+            }
+          },
+          {
+            "text" : "Patterns",
+            "targetRectangle" : {
+              "y" : 411,
+              "x" : 468,
+              "width" : 241.8134765625,
+              "height" : 63
+            }
+          },
+          {
+            "text" : "Password Verification",
+            "targetRectangle" : {
+              "y" : 510,
+              "x" : 468,
+              "width" : 422.89200000000005,
+              "height" : 203.28025023460759
             }
           }
         ],
@@ -1657,7 +1657,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C243B6902E9BE3E3E639E5FE75BF0903"
+                      "texture" : "3F8CC71468E3A8C50B7A5EEBC9ED1959"
                     }
                   ]
                 }

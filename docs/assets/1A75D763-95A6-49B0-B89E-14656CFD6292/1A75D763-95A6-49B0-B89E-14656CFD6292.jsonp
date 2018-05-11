@@ -2,9 +2,9 @@ local_slide( {
   "name" : "1A75D763-95A6-49B0-B89E-14656CFD6292",
   "json" : {
     "assets" : {
-      "640D5297D59088D46FE63A28D36F2264" : {
+      "393F70B5C7F2C655B7BE2BCFA9B642C7" : {
         "type" : "texture",
-        "index" : 1,
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -13,8 +13,22 @@ local_slide( {
         "url" : {
           "native" : "assets\/1A75D763-95A6-49B0-B89E-14656CFD6292.pdf"
         },
-        "width" : 964,
-        "height" : 5
+        "width" : 259,
+        "height" : 66
+      },
+      "887DD2FF0C2CE0C8A7E3B74C0F20BDFE" : {
+        "type" : "texture",
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1A75D763-95A6-49B0-B89E-14656CFD6292.pdf"
+        },
+        "width" : 209,
+        "height" : 20
       },
       "5D6225EF23FA2B43B14B658B8A448B57" : {
         "type" : "texture",
@@ -30,9 +44,9 @@ local_slide( {
         "width" : 1005,
         "height" : 459
       },
-      "F847EF35CB5FB25A6AF99942E55B965D" : {
+      "640D5297D59088D46FE63A28D36F2264" : {
         "type" : "texture",
-        "index" : 15,
+        "index" : 1,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -41,22 +55,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/1A75D763-95A6-49B0-B89E-14656CFD6292.pdf"
         },
-        "width" : 1024,
-        "height" : 768
-      },
-      "393F70B5C7F2C655B7BE2BCFA9B642C7" : {
-        "type" : "texture",
-        "index" : 3,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/1A75D763-95A6-49B0-B89E-14656CFD6292.pdf"
-        },
-        "width" : 259,
-        "height" : 66
+        "width" : 964,
+        "height" : 5
       },
       "98C26879A5C8BD3CBEC4100CA8B37CF3" : {
         "type" : "texture",
@@ -100,6 +100,20 @@ local_slide( {
         "width" : 371,
         "height" : 37
       },
+      "CCFC3C2EBE38C733458B5B0C53F087C1" : {
+        "type" : "texture",
+        "index" : 6,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1A75D763-95A6-49B0-B89E-14656CFD6292.pdf"
+        },
+        "width" : 26,
+        "height" : 20
+      },
       "F674CCBC35C13366417957362157F9CC" : {
         "type" : "texture",
         "index" : 10,
@@ -128,20 +142,6 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "8A79346F93F46C2045CAF304AB8B7416" : {
-        "type" : "texture",
-        "index" : 8,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/1A75D763-95A6-49B0-B89E-14656CFD6292.pdf"
-        },
-        "width" : 131,
-        "height" : 131
-      },
       "C0D78B79BD8C8A86930412C2AE097FA2" : {
         "type" : "texture",
         "index" : 5,
@@ -155,6 +155,20 @@ local_slide( {
         },
         "width" : 498,
         "height" : 20
+      },
+      "8A79346F93F46C2045CAF304AB8B7416" : {
+        "type" : "texture",
+        "index" : 8,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1A75D763-95A6-49B0-B89E-14656CFD6292.pdf"
+        },
+        "width" : 131,
+        "height" : 131
       },
       "A985BC1DE93F4AB8D118DB237608789E" : {
         "type" : "texture",
@@ -184,9 +198,9 @@ local_slide( {
         "width" : 209,
         "height" : 20
       },
-      "50C250EA782D2AA07CCCA532C6FB041D" : {
+      "91DCCDBE42EAFAC1934B6EFA14125E27" : {
         "type" : "texture",
-        "index" : 2,
+        "index" : 15,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -195,8 +209,22 @@ local_slide( {
         "url" : {
           "native" : "assets\/1A75D763-95A6-49B0-B89E-14656CFD6292.pdf"
         },
-        "width" : 209,
-        "height" : 20
+        "width" : 1024,
+        "height" : 768
+      },
+      "DF59CF1BDECA82AC8C454E312739E195" : {
+        "type" : "texture",
+        "index" : 16,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1A75D763-95A6-49B0-B89E-14656CFD6292.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       },
       "4F13CCE066B1C236E3C1F178D403739B" : {
         "type" : "texture",
@@ -211,34 +239,6 @@ local_slide( {
         },
         "width" : 315,
         "height" : 29
-      },
-      "F1F0BDAF28331B6FB9E9508DA5924C6D" : {
-        "type" : "texture",
-        "index" : 16,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/1A75D763-95A6-49B0-B89E-14656CFD6292.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
-      "98A87FC2628EAE06ED94999CE443DA32" : {
-        "type" : "texture",
-        "index" : 6,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/1A75D763-95A6-49B0-B89E-14656CFD6292.pdf"
-        },
-        "width" : 26,
-        "height" : 20
       }
     },
     "events" : [
@@ -457,60 +457,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "**********",
-            "targetRectangle" : {
-              "y" : 121,
-              "x" : 738.7987060546875,
-              "width" : 140.83199999999999,
-              "height" : 40
-            }
-          },
-          {
-            "text" : "password",
-            "targetRectangle" : {
-              "y" : 337.64993286132812,
-              "x" : 186.21249389648438,
-              "width" : 150.48400000000004,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "128 bit key",
-            "targetRectangle" : {
-              "y" : 337.64993286132812,
-              "x" : 701.1783447265625,
-              "width" : 173.23000000000002,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "(*)  a-zA-Z0-9  —> ~64 different values per character (2^6). A 128 bit passwords must be >= 21 characters long (128\/6)",
-            "targetRectangle" : {
-              "y" : 745.24023371934891,
-              "x" : 11.823999404907227,
-              "width" : 971.63999999999999,
-              "height" : 25
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "ic_action_key.png",
-            "targetRectangle" : {
-              "y" : 117.23238849639893,
-              "x" : 944.27485656738281,
-              "width" : 47.535213470458984,
-              "height" : 47.535213470458984
-            }
-          },
-          {
             "text" : "From password to key",
             "targetRectangle" : {
               "y" : 125,
@@ -520,12 +466,30 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
+            "text" : "Secure passwords are very long",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
+              "y" : 651.51411437988281,
+              "x" : 145.02489621734617,
+              "width" : 733.24800000000005,
+              "height" : 66
+            }
+          },
+          {
+            "text" : "**********",
+            "targetRectangle" : {
+              "y" : 240.27774107456207,
+              "x" : 118.251220703125,
+              "width" : 312.95999999999998,
+              "height" : 87
+            }
+          },
+          {
+            "text" : "**********",
+            "targetRectangle" : {
+              "y" : 121,
+              "x" : 738.7987060546875,
+              "width" : 140.83199999999999,
+              "height" : 40
             }
           },
           {
@@ -547,30 +511,12 @@ local_slide( {
             }
           },
           {
-            "text" : "{",
+            "text" : "(*)  a-zA-Z0-9  —> ~64 different values per character (2^6). A 128 bit passwords must be >= 21 characters long (128\/6)",
             "targetRectangle" : {
-              "y" : 361.1201171875,
-              "x" : -9.7570762634277344,
-              "width" : 546,
-              "height" : 92.000000000000057
-            }
-          },
-          {
-            "text" : "Secure passwords are very long",
-            "targetRectangle" : {
-              "y" : 651.51411437988281,
-              "x" : 145.02489621734617,
-              "width" : 733.24800000000005,
-              "height" : 66
-            }
-          },
-          {
-            "text" : "ic_action_key.png",
-            "targetRectangle" : {
-              "y" : 219.77774047851562,
-              "x" : 709.3525390625,
-              "width" : 128,
-              "height" : 128
+              "y" : 745.24023371934891,
+              "x" : 11.823999404907227,
+              "width" : 971.63999999999999,
+              "height" : 25
             }
           },
           {
@@ -583,12 +529,57 @@ local_slide( {
             }
           },
           {
-            "text" : "**********",
+            "text" : "password",
             "targetRectangle" : {
-              "y" : 240.27774107456207,
-              "x" : 118.251220703125,
-              "width" : 312.95999999999998,
-              "height" : 87
+              "y" : 337.64993286132812,
+              "x" : 186.21249389648438,
+              "width" : 150.48400000000004,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "128 bit key",
+            "targetRectangle" : {
+              "y" : 337.64993286132812,
+              "x" : 701.1783447265625,
+              "width" : 173.23000000000002,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "ic_action_key.png",
+            "targetRectangle" : {
+              "y" : 219.77774047851562,
+              "x" : 709.3525390625,
+              "width" : 128,
+              "height" : 128
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "{",
+            "targetRectangle" : {
+              "y" : 361.1201171875,
+              "x" : -9.7570762634277344,
+              "width" : 546,
+              "height" : 92.000000000000057
             }
           },
           {
@@ -598,6 +589,15 @@ local_slide( {
               "x" : 587.02001953125,
               "width" : 5,
               "height" : 27
+            }
+          },
+          {
+            "text" : "ic_action_key.png",
+            "targetRectangle" : {
+              "y" : 117.23238849639893,
+              "x" : 944.27485656738281,
+              "width" : 47.535213470458984,
+              "height" : 47.535213470458984
             }
           }
         ],
@@ -1227,7 +1227,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "50C250EA782D2AA07CCCA532C6FB041D"
+                      "texture" : "887DD2FF0C2CE0C8A7E3B74C0F20BDFE"
                     }
                   ]
                 }
@@ -1969,7 +1969,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "98A87FC2628EAE06ED94999CE443DA32"
+                      "texture" : "CCFC3C2EBE38C733458B5B0C53F087C1"
                     }
                   ]
                 }
@@ -3671,60 +3671,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "**********",
-            "targetRectangle" : {
-              "y" : 121,
-              "x" : 738.7987060546875,
-              "width" : 140.83199999999999,
-              "height" : 40
-            }
-          },
-          {
-            "text" : "password",
-            "targetRectangle" : {
-              "y" : 337.64993286132812,
-              "x" : 186.21249389648438,
-              "width" : 150.48400000000004,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "128 bit key",
-            "targetRectangle" : {
-              "y" : 337.64993286132812,
-              "x" : 701.1783447265625,
-              "width" : 173.23000000000002,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "(*)  a-zA-Z0-9  —> ~64 different values per character (2^6). A 128 bit passwords must be >= 21 characters long (128\/6)",
-            "targetRectangle" : {
-              "y" : 745.24023371934891,
-              "x" : 11.823999404907227,
-              "width" : 971.63999999999999,
-              "height" : 25
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "ic_action_key.png",
-            "targetRectangle" : {
-              "y" : 117.23238849639893,
-              "x" : 944.27485656738281,
-              "width" : 47.535213470458984,
-              "height" : 47.535213470458984
-            }
-          },
-          {
             "text" : "From password to key",
             "targetRectangle" : {
               "y" : 125,
@@ -3734,12 +3680,30 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
+            "text" : "Secure passwords are very long",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
+              "y" : 651.51411437988281,
+              "x" : 145.02489621734617,
+              "width" : 733.24800000000005,
+              "height" : 66
+            }
+          },
+          {
+            "text" : "**********",
+            "targetRectangle" : {
+              "y" : 240.27774107456207,
+              "x" : 118.251220703125,
+              "width" : 312.95999999999998,
+              "height" : 87
+            }
+          },
+          {
+            "text" : "**********",
+            "targetRectangle" : {
+              "y" : 121,
+              "x" : 738.7987060546875,
+              "width" : 140.83199999999999,
+              "height" : 40
             }
           },
           {
@@ -3761,30 +3725,12 @@ local_slide( {
             }
           },
           {
-            "text" : "{",
+            "text" : "(*)  a-zA-Z0-9  —> ~64 different values per character (2^6). A 128 bit passwords must be >= 21 characters long (128\/6)",
             "targetRectangle" : {
-              "y" : 361.1201171875,
-              "x" : -9.7570762634277344,
-              "width" : 546,
-              "height" : 92.000000000000057
-            }
-          },
-          {
-            "text" : "Secure passwords are very long",
-            "targetRectangle" : {
-              "y" : 651.51411437988281,
-              "x" : 145.02489621734617,
-              "width" : 733.24800000000005,
-              "height" : 66
-            }
-          },
-          {
-            "text" : "ic_action_key.png",
-            "targetRectangle" : {
-              "y" : 219.77774047851562,
-              "x" : 709.3525390625,
-              "width" : 128,
-              "height" : 128
+              "y" : 745.24023371934891,
+              "x" : 11.823999404907227,
+              "width" : 971.63999999999999,
+              "height" : 25
             }
           },
           {
@@ -3797,12 +3743,57 @@ local_slide( {
             }
           },
           {
-            "text" : "**********",
+            "text" : "password",
             "targetRectangle" : {
-              "y" : 240.27774107456207,
-              "x" : 118.251220703125,
-              "width" : 312.95999999999998,
-              "height" : 87
+              "y" : 337.64993286132812,
+              "x" : 186.21249389648438,
+              "width" : 150.48400000000004,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "128 bit key",
+            "targetRectangle" : {
+              "y" : 337.64993286132812,
+              "x" : 701.1783447265625,
+              "width" : 173.23000000000002,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "ic_action_key.png",
+            "targetRectangle" : {
+              "y" : 219.77774047851562,
+              "x" : 709.3525390625,
+              "width" : 128,
+              "height" : 128
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "{",
+            "targetRectangle" : {
+              "y" : 361.1201171875,
+              "x" : -9.7570762634277344,
+              "width" : 546,
+              "height" : 92.000000000000057
             }
           },
           {
@@ -3812,6 +3803,15 @@ local_slide( {
               "x" : 587.02001953125,
               "width" : 5,
               "height" : 27
+            }
+          },
+          {
+            "text" : "ic_action_key.png",
+            "targetRectangle" : {
+              "y" : 117.23238849639893,
+              "x" : 944.27485656738281,
+              "width" : 47.535213470458984,
+              "height" : 47.535213470458984
             }
           }
         ],
@@ -5183,7 +5183,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "98A87FC2628EAE06ED94999CE443DA32"
+                      "texture" : "CCFC3C2EBE38C733458B5B0C53F087C1"
                     }
                   ]
                 }
@@ -6850,7 +6850,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "F847EF35CB5FB25A6AF99942E55B965D"
+                      "texture" : "91DCCDBE42EAFAC1934B6EFA14125E27"
                     },
                     {
                       "animations" : [
@@ -6931,7 +6931,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "F1F0BDAF28331B6FB9E9508DA5924C6D"
+                      "texture" : "DF59CF1BDECA82AC8C454E312739E195"
                     }
                   ]
                 }
@@ -6952,60 +6952,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "**********",
-            "targetRectangle" : {
-              "y" : 121,
-              "x" : 738.7987060546875,
-              "width" : 140.83199999999999,
-              "height" : 40
-            }
-          },
-          {
-            "text" : "password",
-            "targetRectangle" : {
-              "y" : 337.64993286132812,
-              "x" : 186.21249389648438,
-              "width" : 150.48400000000004,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "128 bit key",
-            "targetRectangle" : {
-              "y" : 337.64993286132812,
-              "x" : 701.1783447265625,
-              "width" : 173.23000000000002,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "(*)  a-zA-Z0-9  —> ~64 different values per character (2^6). A 128 bit passwords must be >= 21 characters long (128\/6)",
-            "targetRectangle" : {
-              "y" : 745.24023371934891,
-              "x" : 11.823999404907227,
-              "width" : 971.63999999999999,
-              "height" : 25
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "ic_action_key.png",
-            "targetRectangle" : {
-              "y" : 117.23238849639893,
-              "x" : 944.27485656738281,
-              "width" : 47.535213470458984,
-              "height" : 47.535213470458984
-            }
-          },
-          {
             "text" : "From password to key",
             "targetRectangle" : {
               "y" : 125,
@@ -7015,12 +6961,30 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
+            "text" : "Secure passwords are very long",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
+              "y" : 651.51411437988281,
+              "x" : 145.02489621734617,
+              "width" : 733.24800000000005,
+              "height" : 66
+            }
+          },
+          {
+            "text" : "**********",
+            "targetRectangle" : {
+              "y" : 240.27774107456207,
+              "x" : 118.251220703125,
+              "width" : 312.95999999999998,
+              "height" : 87
+            }
+          },
+          {
+            "text" : "**********",
+            "targetRectangle" : {
+              "y" : 121,
+              "x" : 738.7987060546875,
+              "width" : 140.83199999999999,
+              "height" : 40
             }
           },
           {
@@ -7042,30 +7006,12 @@ local_slide( {
             }
           },
           {
-            "text" : "{",
+            "text" : "(*)  a-zA-Z0-9  —> ~64 different values per character (2^6). A 128 bit passwords must be >= 21 characters long (128\/6)",
             "targetRectangle" : {
-              "y" : 361.1201171875,
-              "x" : -9.7570762634277344,
-              "width" : 546,
-              "height" : 92.000000000000057
-            }
-          },
-          {
-            "text" : "Secure passwords are very long",
-            "targetRectangle" : {
-              "y" : 651.51411437988281,
-              "x" : 145.02489621734617,
-              "width" : 733.24800000000005,
-              "height" : 66
-            }
-          },
-          {
-            "text" : "ic_action_key.png",
-            "targetRectangle" : {
-              "y" : 219.77774047851562,
-              "x" : 709.3525390625,
-              "width" : 128,
-              "height" : 128
+              "y" : 745.24023371934891,
+              "x" : 11.823999404907227,
+              "width" : 971.63999999999999,
+              "height" : 25
             }
           },
           {
@@ -7078,12 +7024,57 @@ local_slide( {
             }
           },
           {
-            "text" : "**********",
+            "text" : "password",
             "targetRectangle" : {
-              "y" : 240.27774107456207,
-              "x" : 118.251220703125,
-              "width" : 312.95999999999998,
-              "height" : 87
+              "y" : 337.64993286132812,
+              "x" : 186.21249389648438,
+              "width" : 150.48400000000004,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "128 bit key",
+            "targetRectangle" : {
+              "y" : 337.64993286132812,
+              "x" : 701.1783447265625,
+              "width" : 173.23000000000002,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "ic_action_key.png",
+            "targetRectangle" : {
+              "y" : 219.77774047851562,
+              "x" : 709.3525390625,
+              "width" : 128,
+              "height" : 128
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "{",
+            "targetRectangle" : {
+              "y" : 361.1201171875,
+              "x" : -9.7570762634277344,
+              "width" : 546,
+              "height" : 92.000000000000057
             }
           },
           {
@@ -7093,6 +7084,15 @@ local_slide( {
               "x" : 587.02001953125,
               "width" : 5,
               "height" : 27
+            }
+          },
+          {
+            "text" : "ic_action_key.png",
+            "targetRectangle" : {
+              "y" : 117.23238849639893,
+              "x" : 944.27485656738281,
+              "width" : 47.535213470458984,
+              "height" : 47.535213470458984
             }
           }
         ],
@@ -8465,7 +8465,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "98A87FC2628EAE06ED94999CE443DA32"
+                      "texture" : "CCFC3C2EBE38C733458B5B0C53F087C1"
                     }
                   ]
                 }

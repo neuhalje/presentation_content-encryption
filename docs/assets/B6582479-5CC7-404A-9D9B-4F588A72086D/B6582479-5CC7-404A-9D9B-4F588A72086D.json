@@ -480,20 +480,11 @@
       ],
       "accessibility" : [
         {
-          "text" : "Your data",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 158.49600000000004,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
             "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
             "height" : 28
           }
         },
@@ -507,12 +498,21 @@
           }
         },
         {
-          "text" : "Jens Neuhalfen",
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
+            "x" : 36,
+            "width" : 498.60234439373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Your data",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 158.49600000000004,
+            "height" : 48.400146484375
           }
         }
       ],

@@ -575,69 +575,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "DONE",
-            "targetRectangle" : {
-              "y" : 412.77926635742188,
-              "x" : 829.85813632702832,
-              "width" : 46.648000000000025,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Already\\u2028migrated?",
-            "targetRectangle" : {
-              "y" : 380.03024291992188,
-              "x" : 20.483707427978516,
-              "width" : 169.524,
-              "height" : 92
-            }
-          },
-          {
-            "text" : "Store new Hash",
-            "targetRectangle" : {
-              "y" : 600.0283203125,
-              "x" : 777.69833270263678,
-              "width" : 150.976,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "USER",
-            "targetRectangle" : {
-              "y" : 218.81204223632812,
-              "x" : 313.84067517089841,
-              "width" : 45.58400000000006,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "User login: Migrate passwords",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Hash the hash with\\u2028New Algorithm",
-            "targetRectangle" : {
-              "y" : 586.0283203125,
-              "x" : 153.10648675537109,
-              "width" : 190.98800000000003,
-              "height" : 56.720068697930401
-            }
-          },
-          {
             "text" : "YES",
             "targetRectangle" : {
               "y" : 360.99999892711639,
@@ -665,12 +602,48 @@ local_slide( {
             }
           },
           {
-            "text" : "Job",
+            "text" : "User login: Migrate passwords",
             "targetRectangle" : {
-              "y" : 228.78024291992188,
-              "x" : 228.51049360413364,
-              "width" : 33.179999999999978,
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Store new Hash",
+            "targetRectangle" : {
+              "y" : 600.0283203125,
+              "x" : 777.69833270263678,
+              "width" : 150.976,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Hash the hash with\\u2028New Algorithm",
+            "targetRectangle" : {
+              "y" : 586.0283203125,
+              "x" : 153.10648675537109,
+              "width" : 190.98800000000003,
+              "height" : 56.720068697930401
+            }
+          },
+          {
+            "text" : "Already\\u2028migrated?",
+            "targetRectangle" : {
+              "y" : 380.03024291992188,
+              "x" : 20.483707427978516,
+              "width" : 169.524,
+              "height" : 92
             }
           },
           {
@@ -680,6 +653,33 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "USER",
+            "targetRectangle" : {
+              "y" : 218.81204223632812,
+              "x" : 313.84067517089841,
+              "width" : 45.58400000000006,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Job",
+            "targetRectangle" : {
+              "y" : 228.78024291992188,
+              "x" : 228.51049360413364,
+              "width" : 33.179999999999978,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "DONE",
+            "targetRectangle" : {
+              "y" : 412.77926635742188,
+              "x" : 829.85813632702832,
+              "width" : 46.648000000000025,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -6292,78 +6292,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "DONE",
-            "targetRectangle" : {
-              "y" : 412.77926635742188,
-              "x" : 829.85813632702832,
-              "width" : 46.648000000000025,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Already\\u2028migrated?",
-            "targetRectangle" : {
-              "y" : 380.03024291992188,
-              "x" : 20.483707427978516,
-              "width" : 169.524,
-              "height" : 92
-            }
-          },
-          {
-            "text" : "Offline migrate passwords \\u2028to new hashing schemes\\u2028without user interaction",
-            "targetRectangle" : {
-              "y" : 191.53268241882324,
-              "x" : 573.10211277008057,
-              "width" : 451.346,
-              "height" : 138
-            }
-          },
-          {
-            "text" : "Store new Hash",
-            "targetRectangle" : {
-              "y" : 600.0283203125,
-              "x" : 777.69833270263678,
-              "width" : 150.976,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "USER",
-            "targetRectangle" : {
-              "y" : 218.81204223632812,
-              "x" : 313.84067517089841,
-              "width" : 45.58400000000006,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "User login: Migrate passwords",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Hash the hash with\\u2028New Algorithm",
-            "targetRectangle" : {
-              "y" : 586.0283203125,
-              "x" : 153.10648675537109,
-              "width" : 190.98800000000003,
-              "height" : 56.720068697930401
-            }
-          },
-          {
             "text" : "YES",
             "targetRectangle" : {
               "y" : 360.99999892711639,
@@ -6391,12 +6319,57 @@ local_slide( {
             }
           },
           {
-            "text" : "Job",
+            "text" : "Offline migrate passwords \\u2028to new hashing schemes\\u2028without user interaction",
             "targetRectangle" : {
-              "y" : 228.78024291992188,
-              "x" : 228.51049360413364,
-              "width" : 33.179999999999978,
+              "y" : 191.53268241882324,
+              "x" : 573.10211277008057,
+              "width" : 451.346,
+              "height" : 138
+            }
+          },
+          {
+            "text" : "User login: Migrate passwords",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Store new Hash",
+            "targetRectangle" : {
+              "y" : 600.0283203125,
+              "x" : 777.69833270263678,
+              "width" : 150.976,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Hash the hash with\\u2028New Algorithm",
+            "targetRectangle" : {
+              "y" : 586.0283203125,
+              "x" : 153.10648675537109,
+              "width" : 190.98800000000003,
+              "height" : 56.720068697930401
+            }
+          },
+          {
+            "text" : "Already\\u2028migrated?",
+            "targetRectangle" : {
+              "y" : 380.03024291992188,
+              "x" : 20.483707427978516,
+              "width" : 169.524,
+              "height" : 92
             }
           },
           {
@@ -6406,6 +6379,33 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "USER",
+            "targetRectangle" : {
+              "y" : 218.81204223632812,
+              "x" : 313.84067517089841,
+              "width" : 45.58400000000006,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Job",
+            "targetRectangle" : {
+              "y" : 228.78024291992188,
+              "x" : 228.51049360413364,
+              "width" : 33.179999999999978,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "DONE",
+            "targetRectangle" : {
+              "y" : 412.77926635742188,
+              "x" : 829.85813632702832,
+              "width" : 46.648000000000025,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -12076,78 +12076,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "DONE",
-            "targetRectangle" : {
-              "y" : 412.77926635742188,
-              "x" : 829.85813632702832,
-              "width" : 46.648000000000025,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Already\\u2028migrated?",
-            "targetRectangle" : {
-              "y" : 380.03024291992188,
-              "x" : 20.483707427978516,
-              "width" : 169.524,
-              "height" : 92
-            }
-          },
-          {
-            "text" : "Offline migrate passwords \\u2028to new hashing schemes\\u2028without user interaction",
-            "targetRectangle" : {
-              "y" : 191.53268241882324,
-              "x" : 573.10211277008057,
-              "width" : 451.346,
-              "height" : 138
-            }
-          },
-          {
-            "text" : "Store new Hash",
-            "targetRectangle" : {
-              "y" : 600.0283203125,
-              "x" : 777.69833270263678,
-              "width" : 150.976,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "USER",
-            "targetRectangle" : {
-              "y" : 218.81204223632812,
-              "x" : 313.84067517089841,
-              "width" : 45.58400000000006,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "User login: Migrate passwords",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Hash the hash with\\u2028New Algorithm",
-            "targetRectangle" : {
-              "y" : 586.0283203125,
-              "x" : 153.10648675537109,
-              "width" : 190.98800000000003,
-              "height" : 56.720068697930401
-            }
-          },
-          {
             "text" : "YES",
             "targetRectangle" : {
               "y" : 360.99999892711639,
@@ -12175,12 +12103,57 @@ local_slide( {
             }
           },
           {
-            "text" : "Job",
+            "text" : "Offline migrate passwords \\u2028to new hashing schemes\\u2028without user interaction",
             "targetRectangle" : {
-              "y" : 228.78024291992188,
-              "x" : 228.51049360413364,
-              "width" : 33.179999999999978,
+              "y" : 191.53268241882324,
+              "x" : 573.10211277008057,
+              "width" : 451.346,
+              "height" : 138
+            }
+          },
+          {
+            "text" : "User login: Migrate passwords",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Store new Hash",
+            "targetRectangle" : {
+              "y" : 600.0283203125,
+              "x" : 777.69833270263678,
+              "width" : 150.976,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Hash the hash with\\u2028New Algorithm",
+            "targetRectangle" : {
+              "y" : 586.0283203125,
+              "x" : 153.10648675537109,
+              "width" : 190.98800000000003,
+              "height" : 56.720068697930401
+            }
+          },
+          {
+            "text" : "Already\\u2028migrated?",
+            "targetRectangle" : {
+              "y" : 380.03024291992188,
+              "x" : 20.483707427978516,
+              "width" : 169.524,
+              "height" : 92
             }
           },
           {
@@ -12190,6 +12163,33 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "USER",
+            "targetRectangle" : {
+              "y" : 218.81204223632812,
+              "x" : 313.84067517089841,
+              "width" : 45.58400000000006,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Job",
+            "targetRectangle" : {
+              "y" : 228.78024291992188,
+              "x" : 228.51049360413364,
+              "width" : 33.179999999999978,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "DONE",
+            "targetRectangle" : {
+              "y" : 412.77926635742188,
+              "x" : 829.85813632702832,
+              "width" : 46.648000000000025,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -17860,78 +17860,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "DONE",
-            "targetRectangle" : {
-              "y" : 412.77926635742188,
-              "x" : 829.85813632702832,
-              "width" : 46.648000000000025,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Already\\u2028migrated?",
-            "targetRectangle" : {
-              "y" : 380.03024291992188,
-              "x" : 20.483707427978516,
-              "width" : 169.524,
-              "height" : 92
-            }
-          },
-          {
-            "text" : "Offline migrate passwords \\u2028to new hashing schemes\\u2028without user interaction",
-            "targetRectangle" : {
-              "y" : 191.53268241882324,
-              "x" : 573.10211277008057,
-              "width" : 451.346,
-              "height" : 138
-            }
-          },
-          {
-            "text" : "Store new Hash",
-            "targetRectangle" : {
-              "y" : 600.0283203125,
-              "x" : 777.69833270263678,
-              "width" : 150.976,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "USER",
-            "targetRectangle" : {
-              "y" : 218.81204223632812,
-              "x" : 313.84067517089841,
-              "width" : 45.58400000000006,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "User login: Migrate passwords",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Hash the hash with\\u2028New Algorithm",
-            "targetRectangle" : {
-              "y" : 586.0283203125,
-              "x" : 153.10648675537109,
-              "width" : 190.98800000000003,
-              "height" : 56.720068697930401
-            }
-          },
-          {
             "text" : "YES",
             "targetRectangle" : {
               "y" : 360.99999892711639,
@@ -17959,12 +17887,57 @@ local_slide( {
             }
           },
           {
-            "text" : "Job",
+            "text" : "Offline migrate passwords \\u2028to new hashing schemes\\u2028without user interaction",
             "targetRectangle" : {
-              "y" : 228.78024291992188,
-              "x" : 228.51049360413364,
-              "width" : 33.179999999999978,
+              "y" : 191.53268241882324,
+              "x" : 573.10211277008057,
+              "width" : 451.346,
+              "height" : 138
+            }
+          },
+          {
+            "text" : "User login: Migrate passwords",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Store new Hash",
+            "targetRectangle" : {
+              "y" : 600.0283203125,
+              "x" : 777.69833270263678,
+              "width" : 150.976,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Hash the hash with\\u2028New Algorithm",
+            "targetRectangle" : {
+              "y" : 586.0283203125,
+              "x" : 153.10648675537109,
+              "width" : 190.98800000000003,
+              "height" : 56.720068697930401
+            }
+          },
+          {
+            "text" : "Already\\u2028migrated?",
+            "targetRectangle" : {
+              "y" : 380.03024291992188,
+              "x" : 20.483707427978516,
+              "width" : 169.524,
+              "height" : 92
             }
           },
           {
@@ -17974,6 +17947,33 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "USER",
+            "targetRectangle" : {
+              "y" : 218.81204223632812,
+              "x" : 313.84067517089841,
+              "width" : 45.58400000000006,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Job",
+            "targetRectangle" : {
+              "y" : 228.78024291992188,
+              "x" : 228.51049360413364,
+              "width" : 33.179999999999978,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "DONE",
+            "targetRectangle" : {
+              "y" : 412.77926635742188,
+              "x" : 829.85813632702832,
+              "width" : 46.648000000000025,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -23644,78 +23644,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "DONE",
-            "targetRectangle" : {
-              "y" : 412.77926635742188,
-              "x" : 829.85813632702832,
-              "width" : 46.648000000000025,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Already\\u2028migrated?",
-            "targetRectangle" : {
-              "y" : 380.03024291992188,
-              "x" : 20.483707427978516,
-              "width" : 169.524,
-              "height" : 92
-            }
-          },
-          {
-            "text" : "Offline migrate passwords \\u2028to new hashing schemes\\u2028without user interaction",
-            "targetRectangle" : {
-              "y" : 191.53268241882324,
-              "x" : 573.10211277008057,
-              "width" : 451.346,
-              "height" : 138
-            }
-          },
-          {
-            "text" : "Store new Hash",
-            "targetRectangle" : {
-              "y" : 600.0283203125,
-              "x" : 777.69833270263678,
-              "width" : 150.976,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "USER",
-            "targetRectangle" : {
-              "y" : 218.81204223632812,
-              "x" : 313.84067517089841,
-              "width" : 45.58400000000006,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "User login: Migrate passwords",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Hash the hash with\\u2028New Algorithm",
-            "targetRectangle" : {
-              "y" : 586.0283203125,
-              "x" : 153.10648675537109,
-              "width" : 190.98800000000003,
-              "height" : 56.720068697930401
-            }
-          },
-          {
             "text" : "YES",
             "targetRectangle" : {
               "y" : 360.99999892711639,
@@ -23743,12 +23671,57 @@ local_slide( {
             }
           },
           {
-            "text" : "Job",
+            "text" : "Offline migrate passwords \\u2028to new hashing schemes\\u2028without user interaction",
             "targetRectangle" : {
-              "y" : 228.78024291992188,
-              "x" : 228.51049360413364,
-              "width" : 33.179999999999978,
+              "y" : 191.53268241882324,
+              "x" : 573.10211277008057,
+              "width" : 451.346,
+              "height" : 138
+            }
+          },
+          {
+            "text" : "User login: Migrate passwords",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Store new Hash",
+            "targetRectangle" : {
+              "y" : 600.0283203125,
+              "x" : 777.69833270263678,
+              "width" : 150.976,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Hash the hash with\\u2028New Algorithm",
+            "targetRectangle" : {
+              "y" : 586.0283203125,
+              "x" : 153.10648675537109,
+              "width" : 190.98800000000003,
+              "height" : 56.720068697930401
+            }
+          },
+          {
+            "text" : "Already\\u2028migrated?",
+            "targetRectangle" : {
+              "y" : 380.03024291992188,
+              "x" : 20.483707427978516,
+              "width" : 169.524,
+              "height" : 92
             }
           },
           {
@@ -23758,6 +23731,33 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "USER",
+            "targetRectangle" : {
+              "y" : 218.81204223632812,
+              "x" : 313.84067517089841,
+              "width" : 45.58400000000006,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Job",
+            "targetRectangle" : {
+              "y" : 228.78024291992188,
+              "x" : 228.51049360413364,
+              "width" : 33.179999999999978,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "DONE",
+            "targetRectangle" : {
+              "y" : 412.77926635742188,
+              "x" : 829.85813632702832,
+              "width" : 46.648000000000025,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -29641,78 +29641,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "DONE",
-            "targetRectangle" : {
-              "y" : 412.77926635742188,
-              "x" : 829.85813632702832,
-              "width" : 46.648000000000025,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Already\\u2028migrated?",
-            "targetRectangle" : {
-              "y" : 380.03024291992188,
-              "x" : 20.483707427978516,
-              "width" : 169.524,
-              "height" : 92
-            }
-          },
-          {
-            "text" : "Offline migrate passwords \\u2028to new hashing schemes\\u2028without user interaction",
-            "targetRectangle" : {
-              "y" : 191.53268241882324,
-              "x" : 573.10211277008057,
-              "width" : 451.346,
-              "height" : 138
-            }
-          },
-          {
-            "text" : "Store new Hash",
-            "targetRectangle" : {
-              "y" : 600.0283203125,
-              "x" : 777.69833270263678,
-              "width" : 150.976,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "USER",
-            "targetRectangle" : {
-              "y" : 218.81204223632812,
-              "x" : 313.84067517089841,
-              "width" : 45.58400000000006,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "User login: Migrate passwords",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Hash the hash with\\u2028New Algorithm",
-            "targetRectangle" : {
-              "y" : 586.0283203125,
-              "x" : 153.10648675537109,
-              "width" : 190.98800000000003,
-              "height" : 56.720068697930401
-            }
-          },
-          {
             "text" : "YES",
             "targetRectangle" : {
               "y" : 360.99999892711639,
@@ -29740,12 +29668,57 @@ local_slide( {
             }
           },
           {
-            "text" : "Job",
+            "text" : "Offline migrate passwords \\u2028to new hashing schemes\\u2028without user interaction",
             "targetRectangle" : {
-              "y" : 228.78024291992188,
-              "x" : 228.51049360413364,
-              "width" : 33.179999999999978,
+              "y" : 191.53268241882324,
+              "x" : 573.10211277008057,
+              "width" : 451.346,
+              "height" : 138
+            }
+          },
+          {
+            "text" : "User login: Migrate passwords",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Store new Hash",
+            "targetRectangle" : {
+              "y" : 600.0283203125,
+              "x" : 777.69833270263678,
+              "width" : 150.976,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Hash the hash with\\u2028New Algorithm",
+            "targetRectangle" : {
+              "y" : 586.0283203125,
+              "x" : 153.10648675537109,
+              "width" : 190.98800000000003,
+              "height" : 56.720068697930401
+            }
+          },
+          {
+            "text" : "Already\\u2028migrated?",
+            "targetRectangle" : {
+              "y" : 380.03024291992188,
+              "x" : 20.483707427978516,
+              "width" : 169.524,
+              "height" : 92
             }
           },
           {
@@ -29755,6 +29728,33 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "USER",
+            "targetRectangle" : {
+              "y" : 218.81204223632812,
+              "x" : 313.84067517089841,
+              "width" : 45.58400000000006,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Job",
+            "targetRectangle" : {
+              "y" : 228.78024291992188,
+              "x" : 228.51049360413364,
+              "width" : 33.179999999999978,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "DONE",
+            "targetRectangle" : {
+              "y" : 412.77926635742188,
+              "x" : 829.85813632702832,
+              "width" : 46.648000000000025,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -35336,78 +35336,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "DONE",
-            "targetRectangle" : {
-              "y" : 412.77926635742188,
-              "x" : 829.85813632702832,
-              "width" : 46.648000000000025,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Already\\u2028migrated?",
-            "targetRectangle" : {
-              "y" : 380.03024291992188,
-              "x" : 20.483707427978516,
-              "width" : 169.524,
-              "height" : 92
-            }
-          },
-          {
-            "text" : "Offline migrate passwords \\u2028to new hashing schemes\\u2028without user interaction",
-            "targetRectangle" : {
-              "y" : 191.53268241882324,
-              "x" : 573.10211277008057,
-              "width" : 451.346,
-              "height" : 138
-            }
-          },
-          {
-            "text" : "Store new Hash",
-            "targetRectangle" : {
-              "y" : 600.0283203125,
-              "x" : 777.69833270263678,
-              "width" : 150.976,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "USER",
-            "targetRectangle" : {
-              "y" : 218.81204223632812,
-              "x" : 313.84067517089841,
-              "width" : 45.58400000000006,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "User login: Migrate passwords",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Hash the hash with\\u2028New Algorithm",
-            "targetRectangle" : {
-              "y" : 586.0283203125,
-              "x" : 153.10648675537109,
-              "width" : 190.98800000000003,
-              "height" : 56.720068697930401
-            }
-          },
-          {
             "text" : "YES",
             "targetRectangle" : {
               "y" : 360.99999892711639,
@@ -35435,12 +35363,57 @@ local_slide( {
             }
           },
           {
-            "text" : "Job",
+            "text" : "Offline migrate passwords \\u2028to new hashing schemes\\u2028without user interaction",
             "targetRectangle" : {
-              "y" : 228.78024291992188,
-              "x" : 228.51049360413364,
-              "width" : 33.179999999999978,
+              "y" : 191.53268241882324,
+              "x" : 573.10211277008057,
+              "width" : 451.346,
+              "height" : 138
+            }
+          },
+          {
+            "text" : "User login: Migrate passwords",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Store new Hash",
+            "targetRectangle" : {
+              "y" : 600.0283203125,
+              "x" : 777.69833270263678,
+              "width" : 150.976,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Hash the hash with\\u2028New Algorithm",
+            "targetRectangle" : {
+              "y" : 586.0283203125,
+              "x" : 153.10648675537109,
+              "width" : 190.98800000000003,
+              "height" : 56.720068697930401
+            }
+          },
+          {
+            "text" : "Already\\u2028migrated?",
+            "targetRectangle" : {
+              "y" : 380.03024291992188,
+              "x" : 20.483707427978516,
+              "width" : 169.524,
+              "height" : 92
             }
           },
           {
@@ -35450,6 +35423,33 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "USER",
+            "targetRectangle" : {
+              "y" : 218.81204223632812,
+              "x" : 313.84067517089841,
+              "width" : 45.58400000000006,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Job",
+            "targetRectangle" : {
+              "y" : 228.78024291992188,
+              "x" : 228.51049360413364,
+              "width" : 33.179999999999978,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "DONE",
+            "targetRectangle" : {
+              "y" : 412.77926635742188,
+              "x" : 829.85813632702832,
+              "width" : 46.648000000000025,
+              "height" : 28.40008544921875
             }
           }
         ],

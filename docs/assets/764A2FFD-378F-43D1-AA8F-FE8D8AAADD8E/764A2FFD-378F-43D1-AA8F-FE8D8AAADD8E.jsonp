@@ -44,34 +44,6 @@ local_slide( {
         "width" : 1024,
         "height" : 40
       },
-      "33E6EA3D259ACDDCF821070C8897EA02" : {
-        "type" : "texture",
-        "index" : 12,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/764A2FFD-378F-43D1-AA8F-FE8D8AAADD8E.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
-      "CF7DFDFDB4F5DF8A0C4F6218A5F9381B" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/764A2FFD-378F-43D1-AA8F-FE8D8AAADD8E.pdf"
-        },
-        "width" : 22,
-        "height" : 20
-      },
       "F74250AF614E6F003E879D3C97B39D04" : {
         "type" : "texture",
         "index" : 10,
@@ -85,6 +57,20 @@ local_slide( {
         },
         "width" : 979,
         "height" : 30
+      },
+      "184569601F2AF3C947A43DEE190BC214" : {
+        "type" : "texture",
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/764A2FFD-378F-43D1-AA8F-FE8D8AAADD8E.pdf"
+        },
+        "width" : 26,
+        "height" : 20
       },
       "0352FDDC1D3F29339E1AD29D5ECFBDE4" : {
         "type" : "texture",
@@ -100,9 +86,23 @@ local_slide( {
         "width" : 1028,
         "height" : 39
       },
-      "FBB5DEA59905EE30EF2803B0A74DF992" : {
+      "C0D78B79BD8C8A86930412C2AE097FA2" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/764A2FFD-378F-43D1-AA8F-FE8D8AAADD8E.pdf"
+        },
+        "width" : 498,
+        "height" : 20
+      },
+      "527C13966997B1BBA011704543A77BBF" : {
+        "type" : "texture",
+        "index" : 11,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -128,9 +128,9 @@ local_slide( {
         "width" : 209,
         "height" : 20
       },
-      "C0D78B79BD8C8A86930412C2AE097FA2" : {
+      "425054C6FD494B44D8828050A4DEBD38" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -139,8 +139,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/764A2FFD-378F-43D1-AA8F-FE8D8AAADD8E.pdf"
         },
-        "width" : 498,
-        "height" : 20
+        "width" : 1024,
+        "height" : 768
       },
       "4B0A6DC9AAB004E945983791987F0DCB" : {
         "type" : "texture",
@@ -156,9 +156,9 @@ local_slide( {
         "width" : 179,
         "height" : 72
       },
-      "766D7D0C83A61610AEF883BD3CC57A66" : {
+      "3B196E29049A9E0BDC2AAB3A053495FD" : {
         "type" : "texture",
-        "index" : 11,
+        "index" : 12,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -366,7 +366,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "766D7D0C83A61610AEF883BD3CC57A66"
+                      "texture" : "527C13966997B1BBA011704543A77BBF"
                     },
                     {
                       "animations" : [
@@ -447,7 +447,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "33E6EA3D259ACDDCF821070C8897EA02"
+                      "texture" : "3B196E29049A9E0BDC2AAB3A053495FD"
                     }
                   ]
                 }
@@ -476,28 +476,10 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : " ",
+            "text" : "ic_action_key.png",
             "targetRectangle" : {
-              "y" : 717.50000029802322,
-              "x" : 587.02001953125,
-              "width" : 5,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Never reuse keys!",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 298.416,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "key_purple_light.png",
-            "targetRectangle" : {
-              "y" : 129,
-              "x" : 909.63897705078125,
+              "y" : 117.5,
+              "x" : 813.23663330078125,
               "width" : 48,
               "height" : 48
             }
@@ -509,6 +491,15 @@ local_slide( {
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Never reuse keys!",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 298.416,
+              "height" : 48.400146484375
             }
           },
           {
@@ -539,21 +530,30 @@ local_slide( {
             }
           },
           {
+            "text" : " ",
+            "targetRectangle" : {
+              "y" : 717.50000029802322,
+              "x" : 587.02001953125,
+              "width" : 5,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Make sure that the master key has enough entropy for derived key and derived salt",
+            "targetRectangle" : {
+              "y" : 738.74996972084045,
+              "x" : 103.56398474121096,
+              "width" : 816.87199999999984,
+              "height" : 28.40008544921875
+            }
+          },
+          {
             "text" : " (*)  This is because of the way CTR\/GCM\/CBC\/… work. See e.g Appendix B of  NIST Sp. Pub. 800-38A",
             "targetRectangle" : {
               "y" : 649.47222876548767,
               "x" : 15.254772186279297,
               "width" : 976.08000000000004,
               "height" : 29
-            }
-          },
-          {
-            "text" : "ic_action_key.png",
-            "targetRectangle" : {
-              "y" : 117.5,
-              "x" : 813.23663330078125,
-              "width" : 48,
-              "height" : 48
             }
           },
           {
@@ -584,12 +584,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Make sure that the master key has enough entropy for derived key and derived salt",
+            "text" : "key_holo_dark.png",
             "targetRectangle" : {
-              "y" : 738.74996972084045,
-              "x" : 103.56398474121096,
-              "width" : 816.87199999999984,
-              "height" : 28.40008544921875
+              "y" : 129,
+              "x" : 943.63897705078125,
+              "width" : 48,
+              "height" : 48
+            }
+          },
+          {
+            "text" : "key_purple_light.png",
+            "targetRectangle" : {
+              "y" : 129,
+              "x" : 909.63897705078125,
+              "width" : 48,
+              "height" : 48
             }
           },
           {
@@ -599,15 +608,6 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 129,
-              "x" : 943.63897705078125,
-              "width" : 48,
-              "height" : 48
             }
           }
         ],
@@ -842,7 +842,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
+                      "texture" : "425054C6FD494B44D8828050A4DEBD38"
                     }
                   ]
                 }
@@ -1690,10 +1690,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 970.57660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 22,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1762,10 +1762,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 14.423399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 22,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1799,7 +1799,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "CF7DFDFDB4F5DF8A0C4F6218A5F9381B"
+                      "texture" : "184569601F2AF3C947A43DEE190BC214"
                     }
                   ]
                 }

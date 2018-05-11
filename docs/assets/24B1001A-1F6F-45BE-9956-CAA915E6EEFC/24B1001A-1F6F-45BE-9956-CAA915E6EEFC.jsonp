@@ -412,65 +412,11 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 481.77774047851562,
-              "x" : 691.83749389648438,
-              "width" : 196,
-              "height" : 216
-            }
-          },
-          {
-            "text" : "Block ciphers and the IV",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 406.12799999999993,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Original",
+            "text" : "CBC (or other)",
             "targetRectangle" : {
               "y" : 707.25000029802322,
-              "x" : 196.21250915527344,
-              "width" : 74.899999999999977,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "ECB",
-            "targetRectangle" : {
-              "y" : 707.25000029802322,
-              "x" : 491.989990234375,
-              "width" : 39.019999999999982,
-              "height" : 27
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 481.77774047851562,
-              "x" : 136.16250610351562,
-              "width" : 196,
-              "height" : 216
-            }
-          },
-          {
-            "text" : "https:\/\/en.wikipedia.org\/wiki\/Block_cipher_mode_of_operation",
-            "targetRectangle" : {
-              "y" : 743.50000029802322,
-              "x" : 419.92999267578125,
-              "width" : 584.1400000000001,
+              "x" : 723.15750122070312,
+              "width" : 132.36000000000001,
               "height" : 27
             }
           },
@@ -493,12 +439,66 @@ local_slide( {
             }
           },
           {
-            "text" : "CBC (or other)",
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 481.77774047851562,
+              "x" : 136.16250610351562,
+              "width" : 196,
+              "height" : 216
+            }
+          },
+          {
+            "text" : "https:\/\/en.wikipedia.org\/wiki\/Block_cipher_mode_of_operation",
+            "targetRectangle" : {
+              "y" : 743.50000029802322,
+              "x" : 419.92999267578125,
+              "width" : 584.1400000000001,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "ECB",
             "targetRectangle" : {
               "y" : 707.25000029802322,
-              "x" : 723.15750122070312,
-              "width" : 132.36000000000001,
+              "x" : 491.989990234375,
+              "width" : 39.019999999999982,
               "height" : 27
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 481.77774047851562,
+              "x" : 691.83749389648438,
+              "width" : 196,
+              "height" : 216
+            }
+          },
+          {
+            "text" : "Original",
+            "targetRectangle" : {
+              "y" : 707.25000029802322,
+              "x" : 196.21250915527344,
+              "width" : 74.899999999999977,
+              "height" : 27
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Block ciphers and the IV",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 406.12799999999993,
+              "height" : 48.400146484375
             }
           }
         ],

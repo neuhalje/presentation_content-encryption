@@ -14,9 +14,9 @@
       "width" : 134,
       "height" : 69
     },
-    "40C15ED18DEA75C47C57574ACF5990EC" : {
+    "0EEFD08ED0669092C024C3852CB40217" : {
       "type" : "texture",
-      "index" : 8,
+      "index" : 16,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -25,8 +25,8 @@
       "url" : {
         "native" : "assets\/ACC82D5B-99D3-4EB7-8C49-EF34F694F609.pdf"
       },
-      "width" : 252,
-      "height" : 280
+      "width" : 1024,
+      "height" : 768
     },
     "640D5297D59088D46FE63A28D36F2264" : {
       "type" : "texture",
@@ -84,9 +84,9 @@
       "width" : 107,
       "height" : 105
     },
-    "51964BCC5B8D354A6D2D23F9400EF523" : {
+    "40C15ED18DEA75C47C57574ACF5990EC" : {
       "type" : "texture",
-      "index" : 17,
+      "index" : 8,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -95,8 +95,8 @@
       "url" : {
         "native" : "assets\/ACC82D5B-99D3-4EB7-8C49-EF34F694F609.pdf"
       },
-      "width" : 1024,
-      "height" : 768
+      "width" : 252,
+      "height" : 280
     },
     "BE8FD689B97A32B667356BB5A576DB96" : {
       "type" : "texture",
@@ -154,6 +154,20 @@
       "width" : 1024,
       "height" : 768
     },
+    "448C6A2098FFBC5ACE0A852183B242BE" : {
+      "type" : "texture",
+      "index" : 2,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/ACC82D5B-99D3-4EB7-8C49-EF34F694F609.pdf"
+      },
+      "width" : 209,
+      "height" : 20
+    },
     "C0D78B79BD8C8A86930412C2AE097FA2" : {
       "type" : "texture",
       "index" : 4,
@@ -166,20 +180,6 @@
         "native" : "assets\/ACC82D5B-99D3-4EB7-8C49-EF34F694F609.pdf"
       },
       "width" : 498,
-      "height" : 20
-    },
-    "448C6A2098FFBC5ACE0A852183B242BE" : {
-      "type" : "texture",
-      "index" : 15,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/ACC82D5B-99D3-4EB7-8C49-EF34F694F609.pdf"
-      },
-      "width" : 209,
       "height" : 20
     },
     "4C205D9273A6CC37535E970687663BF3" : {
@@ -196,34 +196,6 @@
       "width" : 259,
       "height" : 155
     },
-    "F4BC9A792A235A465CE79900EE47A6F9" : {
-      "type" : "texture",
-      "index" : 13,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/ACC82D5B-99D3-4EB7-8C49-EF34F694F609.pdf"
-      },
-      "width" : 26,
-      "height" : 20
-    },
-    "549AE1E33E22B90017CFC754D12313DC" : {
-      "type" : "texture",
-      "index" : 2,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/ACC82D5B-99D3-4EB7-8C49-EF34F694F609.pdf"
-      },
-      "width" : 209,
-      "height" : 20
-    },
     "D78087FAE88BCE5A6EFD4BFC38D8D7DF" : {
       "type" : "texture",
       "index" : 11,
@@ -238,9 +210,9 @@
       "width" : 107,
       "height" : 105
     },
-    "14A05C92B76BB393CB90483775A751F3" : {
+    "0238E2544099FF886017D01421AEBD54" : {
       "type" : "texture",
-      "index" : 16,
+      "index" : 15,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -251,6 +223,20 @@
       },
       "width" : 1024,
       "height" : 768
+    },
+    "0DF42BBE4DCF49C05768628DBFCC1273" : {
+      "type" : "texture",
+      "index" : 13,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/ACC82D5B-99D3-4EB7-8C49-EF34F694F609.pdf"
+      },
+      "width" : 22,
+      "height" : 20
     }
   },
   "events" : [
@@ -750,12 +736,120 @@
       ],
       "accessibility" : [
         {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 459.63334655761719,
+            "x" : 823.43650817871094,
+            "width" : 129.12568664550781,
+            "height" : 129.12568664550781
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 459.63334655761719,
+            "x" : 189.3121337890625,
+            "width" : 129.12568664550781,
+            "height" : 129.12568664550781
+          }
+        },
+        {
+          "text" : "En-\/decrypt Data ‘R’ (record) with key ‘K’.",
+          "targetRectangle" : {
+            "y" : 683.52734375,
+            "x" : 36,
+            "width" : 634.64400000000001,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 110.26065444946289,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 142.08479309082031,
+            "x" : 974.13269996643066,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
+          }
+        },
+        {
+          "text" : "E(R)",
+          "targetRectangle" : {
+            "y" : 417.97537994384766,
+            "x" : 784.88222534179693,
+            "width" : 79.360000000000014,
+            "height" : 64.2001953125
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 574.68783569335938,
+            "x" : 453.59762573242188,
+            "width" : 48,
+            "height" : 48
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 159.24909973144531,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
+          }
+        },
+        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
             "x" : 36,
             "width" : 498.60234439373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 142.08479309082031,
+            "x" : 879.53139686584473,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 679.52734375,
+            "x" : 668.59765625,
+            "width" : 48,
+            "height" : 48
           }
         },
         {
@@ -777,51 +871,6 @@
           }
         },
         {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 679.52734375,
-            "x" : 668.59765625,
-            "width" : 48,
-            "height" : 48
-          }
-        },
-        {
-          "text" : "ic_action_lock_open.png",
-          "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 879.53139686584473,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
-          }
-        },
-        {
-          "text" : "En-\/decrypt Data ‘R’ (record) with key ‘K’.",
-          "targetRectangle" : {
-            "y" : 683.52734375,
-            "x" : 36,
-            "width" : 634.64400000000001,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "ic_action_lock_open.png",
-          "targetRectangle" : {
-            "y" : 459.63334655761719,
-            "x" : 189.3121337890625,
-            "width" : 129.12568664550781,
-            "height" : 129.12568664550781
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 974.13269996643066,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
-          }
-        },
-        {
           "text" : "Secure multiple data records",
           "targetRectangle" : {
             "y" : 125,
@@ -837,69 +886,6 @@
             "x" : 419.4400007724762,
             "width" : 101.12000054168698,
             "height" : 64.200195861805696
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 459.63334655761719,
-            "x" : 823.43650817871094,
-            "width" : 129.12568664550781,
-            "height" : 129.12568664550781
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 110.26065444946289,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "E(R)",
-          "targetRectangle" : {
-            "y" : 417.97537994384766,
-            "x" : 784.88222534179693,
-            "width" : 79.360000000000014,
-            "height" : 64.2001953125
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 159.24909973144531,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 574.68783569335938,
-            "x" : 453.59762573242188,
-            "width" : 48,
-            "height" : 48
           }
         }
       ],
@@ -1529,7 +1515,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "549AE1E33E22B90017CFC754D12313DC"
+                    "texture" : "448C6A2098FFBC5ACE0A852183B242BE"
                   }
                 ]
               }
@@ -3516,10 +3502,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.57660043239594,
+                    "pointX" : 970.57660043239594,
                     "pointY" : 44
                   },
-                  "width" : 26,
+                  "width" : 22,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -3588,10 +3574,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 16.423399567604065,
+                        "pointX" : 14.423399567604065,
                         "pointY" : 18
                       },
-                      "width" : 26,
+                      "width" : 22,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -3625,7 +3611,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "F4BC9A792A235A465CE79900EE47A6F9"
+                    "texture" : "0DF42BBE4DCF49C05768628DBFCC1273"
                   }
                 ]
               }
@@ -4030,12 +4016,129 @@
       ],
       "accessibility" : [
         {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 459.63334655761719,
+            "x" : 823.43650817871094,
+            "width" : 129.12568664550781,
+            "height" : 129.12568664550781
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 459.63334655761719,
+            "x" : 189.3121337890625,
+            "width" : 129.12568664550781,
+            "height" : 129.12568664550781
+          }
+        },
+        {
+          "text" : "En-\/decrypt Data ‘R’ (record) with key ‘K’.",
+          "targetRectangle" : {
+            "y" : 683.52734375,
+            "x" : 36,
+            "width" : 634.64400000000001,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 110.26065444946289,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
+          }
+        },
+        {
+          "text" : "Ek(R)",
+          "targetRectangle" : {
+            "y" : 347.1796875,
+            "x" : 479.03503175588042,
+            "width" : 97.536000541686974,
+            "height" : 64.200195861805696
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 142.08479309082031,
+            "x" : 974.13269996643066,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
+          }
+        },
+        {
+          "text" : "E(R)",
+          "targetRectangle" : {
+            "y" : 417.97537994384766,
+            "x" : 784.88222534179693,
+            "width" : 79.360000000000014,
+            "height" : 64.2001953125
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 574.68783569335938,
+            "x" : 453.59762573242188,
+            "width" : 48,
+            "height" : 48
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 159.24909973144531,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
+          }
+        },
+        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
             "x" : 36,
             "width" : 498.60234439373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 142.08479309082031,
+            "x" : 879.53139686584473,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 679.52734375,
+            "x" : 668.59765625,
+            "width" : 48,
+            "height" : 48
           }
         },
         {
@@ -4057,51 +4160,6 @@
           }
         },
         {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 679.52734375,
-            "x" : 668.59765625,
-            "width" : 48,
-            "height" : 48
-          }
-        },
-        {
-          "text" : "ic_action_lock_open.png",
-          "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 879.53139686584473,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
-          }
-        },
-        {
-          "text" : "En-\/decrypt Data ‘R’ (record) with key ‘K’.",
-          "targetRectangle" : {
-            "y" : 683.52734375,
-            "x" : 36,
-            "width" : 634.64400000000001,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "ic_action_lock_open.png",
-          "targetRectangle" : {
-            "y" : 459.63334655761719,
-            "x" : 189.3121337890625,
-            "width" : 129.12568664550781,
-            "height" : 129.12568664550781
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 974.13269996643066,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
-          }
-        },
-        {
           "text" : "Secure multiple data records",
           "targetRectangle" : {
             "y" : 125,
@@ -4116,78 +4174,6 @@
             "y" : 451.16357338428497,
             "x" : 419.4400007724762,
             "width" : 101.12000054168698,
-            "height" : 64.200195861805696
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 459.63334655761719,
-            "x" : 823.43650817871094,
-            "width" : 129.12568664550781,
-            "height" : 129.12568664550781
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 110.26065444946289,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "E(R)",
-          "targetRectangle" : {
-            "y" : 417.97537994384766,
-            "x" : 784.88222534179693,
-            "width" : 79.360000000000014,
-            "height" : 64.2001953125
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 159.24909973144531,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 574.68783569335938,
-            "x" : 453.59762573242188,
-            "width" : 48,
-            "height" : 48
-          }
-        },
-        {
-          "text" : "Ek(R)",
-          "targetRectangle" : {
-            "y" : 347.1796875,
-            "x" : 479.03503175588042,
-            "width" : 97.536000541686974,
             "height" : 64.200195861805696
           }
         }
@@ -6805,10 +6791,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.57660043239594,
+                    "pointX" : 970.57660043239594,
                     "pointY" : 44
                   },
-                  "width" : 26,
+                  "width" : 22,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -6877,10 +6863,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 16.423399567604065,
+                        "pointX" : 14.423399567604065,
                         "pointY" : 18
                       },
-                      "width" : 26,
+                      "width" : 22,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -6914,7 +6900,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "F4BC9A792A235A465CE79900EE47A6F9"
+                    "texture" : "0DF42BBE4DCF49C05768628DBFCC1273"
                   }
                 ]
               }
@@ -7524,12 +7510,129 @@
       ],
       "accessibility" : [
         {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 459.63334655761719,
+            "x" : 823.43650817871094,
+            "width" : 129.12568664550781,
+            "height" : 129.12568664550781
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 459.63334655761719,
+            "x" : 189.3121337890625,
+            "width" : 129.12568664550781,
+            "height" : 129.12568664550781
+          }
+        },
+        {
+          "text" : "En-\/decrypt Data ‘R’ (record) with key ‘K’.",
+          "targetRectangle" : {
+            "y" : 683.52734375,
+            "x" : 36,
+            "width" : 634.64400000000001,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 110.26065444946289,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
+          }
+        },
+        {
+          "text" : "Ek(R)",
+          "targetRectangle" : {
+            "y" : 347.1796875,
+            "x" : 479.03503175588042,
+            "width" : 97.536000541686974,
+            "height" : 64.200195861805696
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 142.08479309082031,
+            "x" : 974.13269996643066,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
+          }
+        },
+        {
+          "text" : "E(R)",
+          "targetRectangle" : {
+            "y" : 417.97537994384766,
+            "x" : 784.88222534179693,
+            "width" : 79.360000000000014,
+            "height" : 64.2001953125
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 574.68783569335938,
+            "x" : 453.59762573242188,
+            "width" : 48,
+            "height" : 48
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 159.24909973144531,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
+          }
+        },
+        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
             "x" : 36,
             "width" : 498.60234439373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 142.08479309082031,
+            "x" : 879.53139686584473,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 679.52734375,
+            "x" : 668.59765625,
+            "width" : 48,
+            "height" : 48
           }
         },
         {
@@ -7551,51 +7654,6 @@
           }
         },
         {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 679.52734375,
-            "x" : 668.59765625,
-            "width" : 48,
-            "height" : 48
-          }
-        },
-        {
-          "text" : "ic_action_lock_open.png",
-          "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 879.53139686584473,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
-          }
-        },
-        {
-          "text" : "En-\/decrypt Data ‘R’ (record) with key ‘K’.",
-          "targetRectangle" : {
-            "y" : 683.52734375,
-            "x" : 36,
-            "width" : 634.64400000000001,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "ic_action_lock_open.png",
-          "targetRectangle" : {
-            "y" : 459.63334655761719,
-            "x" : 189.3121337890625,
-            "width" : 129.12568664550781,
-            "height" : 129.12568664550781
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 974.13269996643066,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
-          }
-        },
-        {
           "text" : "Secure multiple data records",
           "targetRectangle" : {
             "y" : 125,
@@ -7610,78 +7668,6 @@
             "y" : 451.16357338428497,
             "x" : 419.4400007724762,
             "width" : 101.12000054168698,
-            "height" : 64.200195861805696
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 459.63334655761719,
-            "x" : 823.43650817871094,
-            "width" : 129.12568664550781,
-            "height" : 129.12568664550781
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 110.26065444946289,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "E(R)",
-          "targetRectangle" : {
-            "y" : 417.97537994384766,
-            "x" : 784.88222534179693,
-            "width" : 79.360000000000014,
-            "height" : 64.2001953125
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 159.24909973144531,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 574.68783569335938,
-            "x" : 453.59762573242188,
-            "width" : 48,
-            "height" : 48
-          }
-        },
-        {
-          "text" : "Ek(R)",
-          "targetRectangle" : {
-            "y" : 347.1796875,
-            "x" : 479.03503175588042,
-            "width" : 97.536000541686974,
             "height" : 64.200195861805696
           }
         }
@@ -10299,10 +10285,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.57660043239594,
+                    "pointX" : 970.57660043239594,
                     "pointY" : 44
                   },
-                  "width" : 26,
+                  "width" : 22,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -10371,10 +10357,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 16.423399567604065,
+                        "pointX" : 14.423399567604065,
                         "pointY" : 18
                       },
-                      "width" : 26,
+                      "width" : 22,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -10408,7 +10394,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "F4BC9A792A235A465CE79900EE47A6F9"
+                    "texture" : "0DF42BBE4DCF49C05768628DBFCC1273"
                   }
                 ]
               }
@@ -10778,7 +10764,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "14A05C92B76BB393CB90483775A751F3"
+                    "texture" : "0238E2544099FF886017D01421AEBD54"
                   },
                   {
                     "animations" : [
@@ -10859,7 +10845,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "51964BCC5B8D354A6D2D23F9400EF523"
+                    "texture" : "0EEFD08ED0669092C024C3852CB40217"
                   }
                 ]
               }
@@ -10880,12 +10866,129 @@
       ],
       "accessibility" : [
         {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 459.63334655761719,
+            "x" : 823.43650817871094,
+            "width" : 129.12568664550781,
+            "height" : 129.12568664550781
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 459.63334655761719,
+            "x" : 189.3121337890625,
+            "width" : 129.12568664550781,
+            "height" : 129.12568664550781
+          }
+        },
+        {
+          "text" : "En-\/decrypt Data ‘R’ (record) with key ‘K’.",
+          "targetRectangle" : {
+            "y" : 683.52734375,
+            "x" : 36,
+            "width" : 634.64400000000001,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 110.26065444946289,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
+          }
+        },
+        {
+          "text" : "Ek(R)",
+          "targetRectangle" : {
+            "y" : 347.1796875,
+            "x" : 479.03503175588042,
+            "width" : 97.536000541686974,
+            "height" : 64.200195861805696
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 142.08479309082031,
+            "x" : 974.13269996643066,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
+          }
+        },
+        {
+          "text" : "E(R)",
+          "targetRectangle" : {
+            "y" : 417.97537994384766,
+            "x" : 784.88222534179693,
+            "width" : 79.360000000000014,
+            "height" : 64.2001953125
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 574.68783569335938,
+            "x" : 453.59762573242188,
+            "width" : 48,
+            "height" : 48
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 159.24909973144531,
+            "x" : 918.95860314369202,
+            "width" : 7.1608390808105469,
+            "height" : 7.1608390808105469
+          }
+        },
+        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
             "x" : 36,
             "width" : 498.60234439373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 142.08479309082031,
+            "x" : 879.53139686584473,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 679.52734375,
+            "x" : 668.59765625,
+            "width" : 48,
+            "height" : 48
           }
         },
         {
@@ -10907,51 +11010,6 @@
           }
         },
         {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 679.52734375,
-            "x" : 668.59765625,
-            "width" : 48,
-            "height" : 48
-          }
-        },
-        {
-          "text" : "ic_action_lock_open.png",
-          "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 879.53139686584473,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
-          }
-        },
-        {
-          "text" : "En-\/decrypt Data ‘R’ (record) with key ‘K’.",
-          "targetRectangle" : {
-            "y" : 683.52734375,
-            "x" : 36,
-            "width" : 634.64400000000001,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "ic_action_lock_open.png",
-          "targetRectangle" : {
-            "y" : 459.63334655761719,
-            "x" : 189.3121337890625,
-            "width" : 129.12568664550781,
-            "height" : 129.12568664550781
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 974.13269996643066,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
-          }
-        },
-        {
           "text" : "Secure multiple data records",
           "targetRectangle" : {
             "y" : 125,
@@ -10966,78 +11024,6 @@
             "y" : 451.16357338428497,
             "x" : 419.4400007724762,
             "width" : 101.12000054168698,
-            "height" : 64.200195861805696
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 459.63334655761719,
-            "x" : 823.43650817871094,
-            "width" : 129.12568664550781,
-            "height" : 129.12568664550781
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 110.26065444946289,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "E(R)",
-          "targetRectangle" : {
-            "y" : 417.97537994384766,
-            "x" : 784.88222534179693,
-            "width" : 79.360000000000014,
-            "height" : 64.2001953125
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 159.24909973144531,
-            "x" : 918.95860314369202,
-            "width" : 7.1608390808105469,
-            "height" : 7.1608390808105469
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 574.68783569335938,
-            "x" : 453.59762573242188,
-            "width" : 48,
-            "height" : 48
-          }
-        },
-        {
-          "text" : "Ek(R)",
-          "targetRectangle" : {
-            "y" : 347.1796875,
-            "x" : 479.03503175588042,
-            "width" : 97.536000541686974,
             "height" : 64.200195861805696
           }
         }
@@ -13651,10 +13637,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.57660043239594,
+                    "pointX" : 970.57660043239594,
                     "pointY" : 44
                   },
-                  "width" : 26,
+                  "width" : 22,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -13723,10 +13709,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 16.423399567604065,
+                        "pointX" : 14.423399567604065,
                         "pointY" : 18
                       },
-                      "width" : 26,
+                      "width" : 22,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -13760,7 +13746,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "F4BC9A792A235A465CE79900EE47A6F9"
+                    "texture" : "0DF42BBE4DCF49C05768628DBFCC1273"
                   }
                 ]
               }

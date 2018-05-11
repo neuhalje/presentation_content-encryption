@@ -2,9 +2,9 @@ local_slide( {
   "name" : "B97CFE9F-B128-4485-AE8D-D3226CF51B32",
   "json" : {
     "assets" : {
-      "FBB5DEA59905EE30EF2803B0A74DF992" : {
+      "A6176F3CE0C6AD70EB14A9B86F52356A" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -13,8 +13,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/B97CFE9F-B128-4485-AE8D-D3226CF51B32.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 298,
+        "height" : 297
       },
       "C3FBCA0BCEC8B9DAD24D5844E29A3C89" : {
         "type" : "texture",
@@ -30,9 +30,9 @@ local_slide( {
         "width" : 516,
         "height" : 77
       },
-      "865114B479321761EECC88AD99A0CB16" : {
+      "91AF01C4937F95D7AADE95B0A56E8A2B" : {
         "type" : "texture",
-        "index" : 8,
+        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -41,8 +41,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/B97CFE9F-B128-4485-AE8D-D3226CF51B32.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 22,
+        "height" : 20
       },
       "1EA1A98AD3503D5A2B9EC9DB85437551" : {
         "type" : "texture",
@@ -58,9 +58,9 @@ local_slide( {
         "width" : 532,
         "height" : 6
       },
-      "5862779C4EEB8052B3431E89606ED185" : {
+      "63A52A8A028687ADD56F71207C816542" : {
         "type" : "texture",
-        "index" : 7,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -72,9 +72,9 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "1B1F225D2C80C91489A3C83A069CB7D4" : {
+      "9DC49DFBF5D7F4C9CAA4E48AA066AE4A" : {
         "type" : "texture",
-        "index" : 5,
+        "index" : 8,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -83,8 +83,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/B97CFE9F-B128-4485-AE8D-D3226CF51B32.pdf"
         },
-        "width" : 26,
-        "height" : 20
+        "width" : 1024,
+        "height" : 768
       },
       "712BF3DA1E6121B525EA4DC387845605" : {
         "type" : "texture",
@@ -114,9 +114,9 @@ local_slide( {
         "width" : 238,
         "height" : 42
       },
-      "A6176F3CE0C6AD70EB14A9B86F52356A" : {
+      "36F8306295236F98CA01E548225C19B4" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 7,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -125,8 +125,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/B97CFE9F-B128-4485-AE8D-D3226CF51B32.pdf"
         },
-        "width" : 298,
-        "height" : 297
+        "width" : 1024,
+        "height" : 768
       }
     },
     "events" : [
@@ -310,7 +310,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5862779C4EEB8052B3431E89606ED185"
+                      "texture" : "36F8306295236F98CA01E548225C19B4"
                     },
                     {
                       "animations" : [
@@ -391,7 +391,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "865114B479321761EECC88AD99A0CB16"
+                      "texture" : "9DC49DFBF5D7F4C9CAA4E48AA066AE4A"
                     }
                   ]
                 }
@@ -412,15 +412,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "ic_action_lock_open.png",
-            "targetRectangle" : {
-              "y" : 63.507095336914062,
-              "x" : 67.081069946289062,
-              "width" : 166.84375,
-              "height" : 166.84375
-            }
-          },
-          {
             "text" : "Trust Anchors",
             "targetRectangle" : {
               "y" : 510,
@@ -436,6 +427,15 @@ local_slide( {
               "x" : 468,
               "width" : 241.8134765625,
               "height" : 63
+            }
+          },
+          {
+            "text" : "ic_action_lock_open.png",
+            "targetRectangle" : {
+              "y" : 63.507095336914062,
+              "x" : 67.081069946289062,
+              "width" : 166.84375,
+              "height" : 166.84375
             }
           },
           {
@@ -688,7 +688,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
+                      "texture" : "63A52A8A028687ADD56F71207C816542"
                     }
                   ]
                 }
@@ -1530,10 +1530,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 973.19220101833344,
+                      "pointX" : 971.19220101833344,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 22,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1602,10 +1602,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.807798981666565,
+                          "pointX" : 14.807798981666565,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 22,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1639,7 +1639,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "1B1F225D2C80C91489A3C83A069CB7D4"
+                      "texture" : "91AF01C4937F95D7AADE95B0A56E8A2B"
                     }
                   ]
                 }

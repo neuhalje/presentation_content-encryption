@@ -16,20 +16,6 @@ local_slide( {
         "width" : 103,
         "height" : 103
       },
-      "83622918D6C75ED5F2F4EA76B96CF921" : {
-        "type" : "texture",
-        "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/7BF2D208-3567-43A8-9C24-9241907F528C.pdf"
-        },
-        "width" : 26,
-        "height" : 20
-      },
       "640D5297D59088D46FE63A28D36F2264" : {
         "type" : "texture",
         "index" : 1,
@@ -43,20 +29,6 @@ local_slide( {
         },
         "width" : 964,
         "height" : 5
-      },
-      "FA46855C9F40D1C29BBCDBF05EB3F3B0" : {
-        "type" : "texture",
-        "index" : 11,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/7BF2D208-3567-43A8-9C24-9241907F528C.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       },
       "B0B7DE707843027E5C5D5A8745D979FA" : {
         "type" : "texture",
@@ -100,20 +72,6 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "C0D78B79BD8C8A86930412C2AE097FA2" : {
-        "type" : "texture",
-        "index" : 3,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/7BF2D208-3567-43A8-9C24-9241907F528C.pdf"
-        },
-        "width" : 498,
-        "height" : 20
-      },
       "448C6A2098FFBC5ACE0A852183B242BE" : {
         "type" : "texture",
         "index" : 2,
@@ -126,6 +84,34 @@ local_slide( {
           "native" : "assets\/7BF2D208-3567-43A8-9C24-9241907F528C.pdf"
         },
         "width" : 209,
+        "height" : 20
+      },
+      "A17781C2F9711F3457CF2C7A0C7885B3" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/7BF2D208-3567-43A8-9C24-9241907F528C.pdf"
+        },
+        "width" : 26,
+        "height" : 20
+      },
+      "C0D78B79BD8C8A86930412C2AE097FA2" : {
+        "type" : "texture",
+        "index" : 3,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/7BF2D208-3567-43A8-9C24-9241907F528C.pdf"
+        },
+        "width" : 498,
         "height" : 20
       },
       "C8622B37A6C050632B8E856EC88B5F95" : {
@@ -142,6 +128,34 @@ local_slide( {
         "width" : 495,
         "height" : 38
       },
+      "455F1EFFAA089B761311D968C553A75E" : {
+        "type" : "texture",
+        "index" : 12,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/7BF2D208-3567-43A8-9C24-9241907F528C.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
+      "3B70A7E89B06AA73D037CEF173C8D94C" : {
+        "type" : "texture",
+        "index" : 11,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/7BF2D208-3567-43A8-9C24-9241907F528C.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "7004722E530728D6C35638DAEECD1209" : {
         "type" : "texture",
         "index" : 8,
@@ -155,20 +169,6 @@ local_slide( {
         },
         "width" : 352,
         "height" : 145
-      },
-      "89795F2F0D3674A7E128CE8F113422EB" : {
-        "type" : "texture",
-        "index" : 12,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/7BF2D208-3567-43A8-9C24-9241907F528C.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       },
       "AC3815DC0D9A8D54CF44B7E21777C078" : {
         "type" : "texture",
@@ -409,33 +409,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "(*) https:\/\/www.ndr.de\/nachrichten\/netzwelt\/Snowden-NSA-spioniert-Wirtschaft-aus,snowden235.html ",
-            "targetRectangle" : {
-              "y" : 722.68749982118607,
-              "x" : 23.76854133605957,
-              "width" : 899.21300000000053,
-              "height" : 26
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "These are just a few examples",
             "targetRectangle" : {
               "y" : 604.15484511852264,
@@ -445,21 +418,21 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
             "text" : "Hacker hordes attack through the front door, loud and noisy",
             "targetRectangle" : {
               "y" : 132.7148289680481,
               "x" : 31.581243515014648,
               "width" : 213.99299999999994,
               "height" : 168
+            }
+          },
+          {
+            "text" : "(*) https:\/\/www.ndr.de\/nachrichten\/netzwelt\/Snowden-NSA-spioniert-Wirtschaft-aus,snowden235.html ",
+            "targetRectangle" : {
+              "y" : 722.68749982118607,
+              "x" : 23.76854133605957,
+              "width" : 899.21300000000053,
+              "height" : 26
             }
           },
           {
@@ -481,12 +454,39 @@ local_slide( {
             }
           },
           {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Sneaky, sneaky spies (*)",
             "targetRectangle" : {
               "y" : 405.72503237356636,
               "x" : 741.61839485168457,
               "width" : 220.93700000000001,
               "height" : 84
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
             }
           }
         ],
@@ -1490,7 +1490,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "83622918D6C75ED5F2F4EA76B96CF921"
+                      "texture" : "A17781C2F9711F3457CF2C7A0C7885B3"
                     }
                   ]
                 }
@@ -2917,33 +2917,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "(*) https:\/\/www.ndr.de\/nachrichten\/netzwelt\/Snowden-NSA-spioniert-Wirtschaft-aus,snowden235.html ",
-            "targetRectangle" : {
-              "y" : 722.68749982118607,
-              "x" : 23.76854133605957,
-              "width" : 899.21300000000053,
-              "height" : 26
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "These are just a few examples",
             "targetRectangle" : {
               "y" : 604.15484511852264,
@@ -2953,21 +2926,21 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
             "text" : "Hacker hordes attack through the front door, loud and noisy",
             "targetRectangle" : {
               "y" : 132.7148289680481,
               "x" : 31.581243515014648,
               "width" : 213.99299999999994,
               "height" : 168
+            }
+          },
+          {
+            "text" : "(*) https:\/\/www.ndr.de\/nachrichten\/netzwelt\/Snowden-NSA-spioniert-Wirtschaft-aus,snowden235.html ",
+            "targetRectangle" : {
+              "y" : 722.68749982118607,
+              "x" : 23.76854133605957,
+              "width" : 899.21300000000053,
+              "height" : 26
             }
           },
           {
@@ -2989,12 +2962,39 @@ local_slide( {
             }
           },
           {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Sneaky, sneaky spies (*)",
             "targetRectangle" : {
               "y" : 405.72503237356636,
               "x" : 741.61839485168457,
               "width" : 220.93700000000001,
               "height" : 84
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
             }
           }
         ],
@@ -3998,7 +3998,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "83622918D6C75ED5F2F4EA76B96CF921"
+                      "texture" : "A17781C2F9711F3457CF2C7A0C7885B3"
                     }
                   ]
                 }
@@ -5425,33 +5425,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "(*) https:\/\/www.ndr.de\/nachrichten\/netzwelt\/Snowden-NSA-spioniert-Wirtschaft-aus,snowden235.html ",
-            "targetRectangle" : {
-              "y" : 722.68749982118607,
-              "x" : 23.76854133605957,
-              "width" : 899.21300000000053,
-              "height" : 26
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "These are just a few examples",
             "targetRectangle" : {
               "y" : 604.15484511852264,
@@ -5461,21 +5434,21 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
             "text" : "Hacker hordes attack through the front door, loud and noisy",
             "targetRectangle" : {
               "y" : 132.7148289680481,
               "x" : 31.581243515014648,
               "width" : 213.99299999999994,
               "height" : 168
+            }
+          },
+          {
+            "text" : "(*) https:\/\/www.ndr.de\/nachrichten\/netzwelt\/Snowden-NSA-spioniert-Wirtschaft-aus,snowden235.html ",
+            "targetRectangle" : {
+              "y" : 722.68749982118607,
+              "x" : 23.76854133605957,
+              "width" : 899.21300000000053,
+              "height" : 26
             }
           },
           {
@@ -5497,12 +5470,39 @@ local_slide( {
             }
           },
           {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Sneaky, sneaky spies (*)",
             "targetRectangle" : {
               "y" : 405.72503237356636,
               "x" : 741.61839485168457,
               "width" : 220.93700000000001,
               "height" : 84
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
             }
           }
         ],
@@ -6506,7 +6506,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "83622918D6C75ED5F2F4EA76B96CF921"
+                      "texture" : "A17781C2F9711F3457CF2C7A0C7885B3"
                     }
                   ]
                 }
@@ -7933,33 +7933,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "(*) https:\/\/www.ndr.de\/nachrichten\/netzwelt\/Snowden-NSA-spioniert-Wirtschaft-aus,snowden235.html ",
-            "targetRectangle" : {
-              "y" : 722.68749982118607,
-              "x" : 23.76854133605957,
-              "width" : 899.21300000000053,
-              "height" : 26
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "These are just a few examples",
             "targetRectangle" : {
               "y" : 604.15484511852264,
@@ -7969,21 +7942,21 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
             "text" : "Hacker hordes attack through the front door, loud and noisy",
             "targetRectangle" : {
               "y" : 132.7148289680481,
               "x" : 31.581243515014648,
               "width" : 213.99299999999994,
               "height" : 168
+            }
+          },
+          {
+            "text" : "(*) https:\/\/www.ndr.de\/nachrichten\/netzwelt\/Snowden-NSA-spioniert-Wirtschaft-aus,snowden235.html ",
+            "targetRectangle" : {
+              "y" : 722.68749982118607,
+              "x" : 23.76854133605957,
+              "width" : 899.21300000000053,
+              "height" : 26
             }
           },
           {
@@ -8005,12 +7978,39 @@ local_slide( {
             }
           },
           {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Sneaky, sneaky spies (*)",
             "targetRectangle" : {
               "y" : 405.72503237356636,
               "x" : 741.61839485168457,
               "width" : 220.93700000000001,
               "height" : 84
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
             }
           }
         ],
@@ -9014,7 +9014,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "83622918D6C75ED5F2F4EA76B96CF921"
+                      "texture" : "A17781C2F9711F3457CF2C7A0C7885B3"
                     }
                   ]
                 }
@@ -10398,7 +10398,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "FA46855C9F40D1C29BBCDBF05EB3F3B0"
+                      "texture" : "3B70A7E89B06AA73D037CEF173C8D94C"
                     },
                     {
                       "animations" : [
@@ -10479,7 +10479,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "89795F2F0D3674A7E128CE8F113422EB"
+                      "texture" : "455F1EFFAA089B761311D968C553A75E"
                     }
                   ]
                 }
@@ -10508,33 +10508,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "(*) https:\/\/www.ndr.de\/nachrichten\/netzwelt\/Snowden-NSA-spioniert-Wirtschaft-aus,snowden235.html ",
-            "targetRectangle" : {
-              "y" : 722.68749982118607,
-              "x" : 23.76854133605957,
-              "width" : 899.21300000000053,
-              "height" : 26
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "These are just a few examples",
             "targetRectangle" : {
               "y" : 604.15484511852264,
@@ -10544,21 +10517,21 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
             "text" : "Hacker hordes attack through the front door, loud and noisy",
             "targetRectangle" : {
               "y" : 132.7148289680481,
               "x" : 31.581243515014648,
               "width" : 213.99299999999994,
               "height" : 168
+            }
+          },
+          {
+            "text" : "(*) https:\/\/www.ndr.de\/nachrichten\/netzwelt\/Snowden-NSA-spioniert-Wirtschaft-aus,snowden235.html ",
+            "targetRectangle" : {
+              "y" : 722.68749982118607,
+              "x" : 23.76854133605957,
+              "width" : 899.21300000000053,
+              "height" : 26
             }
           },
           {
@@ -10580,12 +10553,39 @@ local_slide( {
             }
           },
           {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Sneaky, sneaky spies (*)",
             "targetRectangle" : {
               "y" : 405.72503237356636,
               "x" : 741.61839485168457,
               "width" : 220.93700000000001,
               "height" : 84
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
             }
           }
         ],
@@ -11590,7 +11590,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "83622918D6C75ED5F2F4EA76B96CF921"
+                      "texture" : "A17781C2F9711F3457CF2C7A0C7885B3"
                     }
                   ]
                 }

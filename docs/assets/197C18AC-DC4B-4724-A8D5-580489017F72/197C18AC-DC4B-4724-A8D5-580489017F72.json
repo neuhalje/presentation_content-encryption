@@ -42,9 +42,9 @@
       "width" : 964,
       "height" : 5
     },
-    "D46FBA1ACB99B2EF52DF8B331464F018" : {
+    "02A73BCBCFD1601D2FC49062D83DF4AD" : {
       "type" : "texture",
-      "index" : 10,
+      "index" : 11,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -53,8 +53,8 @@
       "url" : {
         "native" : "assets\/197C18AC-DC4B-4724-A8D5-580489017F72.pdf"
       },
-      "width" : 134,
-      "height" : 69
+      "width" : 1024,
+      "height" : 768
     },
     "3E1960DFAAB64E9E471B2F60D892262D" : {
       "type" : "texture",
@@ -70,9 +70,23 @@
       "width" : 493,
       "height" : 37
     },
-    "FC96510ABCC1EA7573DD957EBFBC5FFB" : {
+    "D46FBA1ACB99B2EF52DF8B331464F018" : {
       "type" : "texture",
-      "index" : 11,
+      "index" : 10,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/197C18AC-DC4B-4724-A8D5-580489017F72.pdf"
+      },
+      "width" : 134,
+      "height" : 69
+    },
+    "DCE5A3F956F704CE48B7C675FEEC943F" : {
+      "type" : "texture",
+      "index" : 12,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -140,6 +154,20 @@
       "width" : 498,
       "height" : 20
     },
+    "F4BC9A792A235A465CE79900EE47A6F9" : {
+      "type" : "texture",
+      "index" : 8,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/197C18AC-DC4B-4724-A8D5-580489017F72.pdf"
+      },
+      "width" : 26,
+      "height" : 20
+    },
     "1AE7AF57BA2E1833A5A74A0C0E32E4D2" : {
       "type" : "texture",
       "index" : 6,
@@ -153,34 +181,6 @@
       },
       "width" : 624,
       "height" : 38
-    },
-    "549AE1E33E22B90017CFC754D12313DC" : {
-      "type" : "texture",
-      "index" : 12,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/197C18AC-DC4B-4724-A8D5-580489017F72.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
-    "D3748433CAC6E6C28FD1DB478F55FF66" : {
-      "type" : "texture",
-      "index" : 8,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/197C18AC-DC4B-4724-A8D5-580489017F72.pdf"
-      },
-      "width" : 26,
-      "height" : 20
     }
   },
   "events" : [
@@ -364,7 +364,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "FC96510ABCC1EA7573DD957EBFBC5FFB"
+                    "texture" : "02A73BCBCFD1601D2FC49062D83DF4AD"
                   },
                   {
                     "animations" : [
@@ -445,7 +445,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "549AE1E33E22B90017CFC754D12313DC"
+                    "texture" : "DCE5A3F956F704CE48B7C675FEEC943F"
                   }
                 ]
               }
@@ -466,12 +466,102 @@
       ],
       "accessibility" : [
         {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 142.08479309082031,
+            "x" : 879.53139686584473,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
+          }
+        },
+        {
+          "text" : "R",
+          "targetRectangle" : {
+            "y" : 418.59644317626953,
+            "x" : 175.51456448364257,
+            "width" : 27.26400000000001,
+            "height" : 64.2001953125
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 460.25440979003906,
+            "x" : 189.3121337890625,
+            "width" : 129.12568664550781,
+            "height" : 129.12568664550781
+          }
+        },
+        {
+          "text" : "Problem: Multiple records are read and written by the same application.",
+          "targetRectangle" : {
+            "y" : 185.24711608886719,
+            "x" : 36,
+            "width" : 945.62159999999972,
+            "height" : 62.519999265670776
+          }
+        },
+        {
+          "text" : "Solution: Use symmetric encryption to protect the records.  ",
+          "targetRectangle" : {
+            "y" : 247.76711535453796,
+            "x" : 36,
+            "width" : 783.74351999999976,
+            "height" : 39
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
           "text" : "ic_action_key.png",
           "targetRectangle" : {
             "y" : 110.26065444946289,
             "x" : 918.95860314369202,
             "width" : 7.1608390808105469,
             "height" : 7.1608390808105469
+          }
+        },
+        {
+          "text" : "Reading and writing  plaintext record ‘R’",
+          "targetRectangle" : {
+            "y" : 683.52734375,
+            "x" : 36,
+            "width" : 625.22600000000011,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 142.08479309082031,
+            "x" : 974.13269996643066,
+            "width" : 19.263505935668945,
+            "height" : 19.263505935668945
           }
         },
         {
@@ -493,102 +583,12 @@
           }
         },
         {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 974.13269996643066,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "ic_action_lock_open.png",
-          "targetRectangle" : {
-            "y" : 142.08479309082031,
-            "x" : 879.53139686584473,
-            "width" : 19.263505935668945,
-            "height" : 19.263505935668945
-          }
-        },
-        {
-          "text" : "ic_action_lock_open.png",
-          "targetRectangle" : {
-            "y" : 460.25440979003906,
-            "x" : 189.3121337890625,
-            "width" : 129.12568664550781,
-            "height" : 129.12568664550781
-          }
-        },
-        {
-          "text" : "Reading and writing  plaintext record ‘R’",
-          "targetRectangle" : {
-            "y" : 683.52734375,
-            "x" : 36,
-            "width" : 625.22600000000011,
-            "height" : 46
-          }
-        },
-        {
           "text" : "Secure multiple data records",
           "targetRectangle" : {
             "y" : 125,
             "x" : 36,
             "width" : 492.52799999999979,
             "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "R",
-          "targetRectangle" : {
-            "y" : 418.59644317626953,
-            "x" : 175.51456448364257,
-            "width" : 27.26400000000001,
-            "height" : 64.2001953125
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Problem: Multiple records are read and written by the same application.",
-          "targetRectangle" : {
-            "y" : 185.24711608886719,
-            "x" : 36,
-            "width" : 945.62159999999972,
-            "height" : 62.519999265670776
-          }
-        },
-        {
-          "text" : "Solution: Use symmetric encryption to protect the records.  ",
-          "targetRectangle" : {
-            "y" : 247.76711535453796,
-            "x" : 36,
-            "width" : 783.74351999999976,
-            "height" : 39
           }
         }
       ],
@@ -2329,7 +2329,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "D3748433CAC6E6C28FD1DB478F55FF66"
+                    "texture" : "F4BC9A792A235A465CE79900EE47A6F9"
                   }
                 ]
               }

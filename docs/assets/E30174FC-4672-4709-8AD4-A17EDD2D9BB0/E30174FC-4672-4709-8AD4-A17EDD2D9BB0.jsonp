@@ -668,15 +668,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 976.09613084793091,
-              "width" : 11.51953125,
-              "height" : 28
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
@@ -692,6 +683,15 @@ local_slide( {
               "x" : 36,
               "width" : 158.49600000000004,
               "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 976.09613084793091,
+              "width" : 11.51953125,
+              "height" : 28
             }
           },
           {
@@ -4469,15 +4469,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 976.09613084793091,
-              "width" : 11.51953125,
-              "height" : 28
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
@@ -4496,11 +4487,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
+              "y" : 38,
+              "x" : 976.09613084793091,
+              "width" : 11.51953125,
               "height" : 28
             }
           },
@@ -4511,6 +4502,15 @@ local_slide( {
               "x" : 83.279998779296875,
               "width" : 154.65600000000001,
               "height" : 66
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
             }
           }
         ],
@@ -8279,15 +8279,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 976.09613084793091,
-              "width" : 11.51953125,
-              "height" : 28
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
@@ -8306,11 +8297,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
+              "y" : 38,
+              "x" : 976.09613084793091,
+              "width" : 11.51953125,
               "height" : 28
             }
           },
@@ -8321,6 +8312,15 @@ local_slide( {
               "x" : 83.279998779296875,
               "width" : 154.65600000000001,
               "height" : 66
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
             }
           },
           {
@@ -12761,12 +12761,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "￼",
+            "text" : "Store but not use",
             "targetRectangle" : {
-              "y" : 38,
-              "x" : 976.09613084793091,
-              "width" : 11.51953125,
-              "height" : 28
+              "y" : 463.99999952316284,
+              "x" : 353.8599853515625,
+              "width" : 374.49600000000009,
+              "height" : 66
             }
           },
           {
@@ -12788,20 +12788,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Store but not use",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 463.99999952316284,
-              "x" : 353.8599853515625,
-              "width" : 374.49600000000009,
-              "height" : 66
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
+              "y" : 38,
+              "x" : 976.09613084793091,
+              "width" : 11.51953125,
               "height" : 28
             }
           },
@@ -12812,6 +12803,15 @@ local_slide( {
               "x" : 83.279998779296875,
               "width" : 154.65600000000001,
               "height" : 66
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
             }
           },
           {
@@ -17064,12 +17064,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "￼",
+            "text" : "Store but not use",
             "targetRectangle" : {
-              "y" : 38,
-              "x" : 976.09613084793091,
-              "width" : 11.51953125,
-              "height" : 28
+              "y" : 463.99999952316284,
+              "x" : 353.8599853515625,
+              "width" : 374.49600000000009,
+              "height" : 66
             }
           },
           {
@@ -17091,29 +17091,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Delete",
+            "text" : "￼",
             "targetRectangle" : {
-              "y" : 463.99999952316284,
-              "x" : 865.280029296875,
-              "width" : 147.31200000000001,
-              "height" : 66
-            }
-          },
-          {
-            "text" : "Store but not use",
-            "targetRectangle" : {
-              "y" : 463.99999952316284,
-              "x" : 353.8599853515625,
-              "width" : 374.49600000000009,
-              "height" : 66
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
+              "y" : 38,
+              "x" : 976.09613084793091,
+              "width" : 11.51953125,
               "height" : 28
             }
           },
@@ -17124,6 +17106,24 @@ local_slide( {
               "x" : 83.279998779296875,
               "width" : 154.65600000000001,
               "height" : 66
+            }
+          },
+          {
+            "text" : "Delete",
+            "targetRectangle" : {
+              "y" : 463.99999952316284,
+              "x" : 865.280029296875,
+              "width" : 147.31200000000001,
+              "height" : 66
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
             }
           },
           {
@@ -23086,15 +23086,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 976.09613084793091,
-              "width" : 11.51953125,
-              "height" : 28
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
@@ -23110,6 +23101,15 @@ local_slide( {
               "x" : 36,
               "width" : 158.49600000000004,
               "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 976.09613084793091,
+              "width" : 11.51953125,
+              "height" : 28
             }
           },
           {

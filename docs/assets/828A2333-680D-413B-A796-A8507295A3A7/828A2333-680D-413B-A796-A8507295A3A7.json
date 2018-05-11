@@ -1,8 +1,8 @@
 {
   "assets" : {
-    "510F787CAE55EFA7D329333800CC4314" : {
+    "42F77708ED4E17D6C7069C7C632C5FB8" : {
       "type" : "texture",
-      "index" : 12,
+      "index" : 13,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -56,20 +56,6 @@
       "width" : 158,
       "height" : 66
     },
-    "EFA108337EDBC0A26661B4B2F1A1B0F9" : {
-      "type" : "texture",
-      "index" : 3,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/828A2333-680D-413B-A796-A8507295A3A7.pdf"
-      },
-      "width" : 915,
-      "height" : 364
-    },
     "889FAD3D4B09BFC2B2D4AEA6C3986565" : {
       "type" : "texture",
       "index" : 8,
@@ -111,6 +97,20 @@
       },
       "width" : 128,
       "height" : 67
+    },
+    "98726777EF0CDFAAF33A1F4B21A4A92D" : {
+      "type" : "texture",
+      "index" : 12,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/828A2333-680D-413B-A796-A8507295A3A7.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     },
     "C60ADC9BB69C293B8A4C520FBE4A3FA4" : {
       "type" : "texture",
@@ -154,6 +154,20 @@
       "width" : 209,
       "height" : 20
     },
+    "46BEF1CB325AF539FE5776CCE9A0B80D" : {
+      "type" : "texture",
+      "index" : 3,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/828A2333-680D-413B-A796-A8507295A3A7.pdf"
+      },
+      "width" : 915,
+      "height" : 364
+    },
     "C0D78B79BD8C8A86930412C2AE097FA2" : {
       "type" : "texture",
       "index" : 4,
@@ -167,20 +181,6 @@
       },
       "width" : 498,
       "height" : 20
-    },
-    "008C65159CDE0402BE3A182C8F3C8747" : {
-      "type" : "texture",
-      "index" : 13,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/828A2333-680D-413B-A796-A8507295A3A7.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
     },
     "559992BFCDA581BABBC2BAA2ECC72FC3" : {
       "type" : "texture",
@@ -378,7 +378,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "510F787CAE55EFA7D329333800CC4314"
+                    "texture" : "98726777EF0CDFAAF33A1F4B21A4A92D"
                   },
                   {
                     "animations" : [
@@ -459,7 +459,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "008C65159CDE0402BE3A182C8F3C8747"
+                    "texture" : "42F77708ED4E17D6C7069C7C632C5FB8"
                   }
                 ]
               }
@@ -480,12 +480,39 @@
       ],
       "accessibility" : [
         {
-          "text" : "Jens Neuhalfen",
+          "text" : "ic_action_tick.png",
+          "targetRectangle" : {
+            "y" : 124.78334522247314,
+            "x" : 959.30970001220703,
+            "width" : 51.466655731201172,
+            "height" : 51.466655731201172
+          }
+        },
+        {
+          "text" : "0x123456…",
+          "targetRectangle" : {
+            "y" : 347.28836059570312,
+            "x" : 433.96192987060545,
+            "width" : 143.74800000000005,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
+            "x" : 36,
+            "width" : 498.60234439373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Data Integrity & association",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 462.19199999999995,
+            "height" : 48.400146484375
           }
         },
         {
@@ -516,39 +543,12 @@
           }
         },
         {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
             "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
             "height" : 28
-          }
-        },
-        {
-          "text" : "Data Integrity & association",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 462.19199999999995,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "ic_action_tick.png",
-          "targetRectangle" : {
-            "y" : 124.78334522247314,
-            "x" : 959.30970001220703,
-            "width" : 51.466655731201172,
-            "height" : 51.466655731201172
-          }
-        },
-        {
-          "text" : "0x123456…",
-          "targetRectangle" : {
-            "y" : 347.28836059570312,
-            "x" : 433.96192987060545,
-            "width" : 143.74800000000005,
-            "height" : 35.80010986328125
           }
         }
       ],
@@ -1360,7 +1360,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "EFA108337EDBC0A26661B4B2F1A1B0F9"
+                    "texture" : "46BEF1CB325AF539FE5776CCE9A0B80D"
                   }
                 ]
               }

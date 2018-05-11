@@ -1,5 +1,19 @@
 {
   "assets" : {
+    "42F77708ED4E17D6C7069C7C632C5FB8" : {
+      "type" : "texture",
+      "index" : 16,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/E50E56C5-86CE-42B1-9488-5B55BB4F5063.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
     "ABBBAFC19850371DB36AB572D3E5E6A9" : {
       "type" : "texture",
       "index" : 8,
@@ -195,20 +209,6 @@
       },
       "width" : 498,
       "height" : 20
-    },
-    "008C65159CDE0402BE3A182C8F3C8747" : {
-      "type" : "texture",
-      "index" : 16,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/E50E56C5-86CE-42B1-9488-5B55BB4F5063.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
     },
     "BE73DF693C518107227A1F9D19350F43" : {
       "type" : "texture",
@@ -1179,33 +1179,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Problem: Protected data can be “replayed”.\\u2028 Solution: Cryptographically bind data to context.",
-          "targetRectangle" : {
-            "y" : 171.759521484375,
-            "x" : 36,
-            "width" : 777.13800000000003,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "0xabcdef…",
-          "targetRectangle" : {
-            "y" : 521.28836059570312,
-            "x" : 448.3299298706055,
-            "width" : 150.01199999999994,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "0xabcdef…",
-          "targetRectangle" : {
-            "y" : 521.39874267578125,
-            "x" : 448.32996038818362,
-            "width" : 150.01199999999994,
-            "height" : 35.80010986328125
-          }
-        },
-        {
           "text" : "Jens Neuhalfen",
           "targetRectangle" : {
             "y" : 40,
@@ -1215,30 +1188,12 @@
           }
         },
         {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "ic_action_tick.png",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Data Integrity & association",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 462.19199999999995,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "0x123456…",
-          "targetRectangle" : {
-            "y" : 125.25,
-            "x" : 864.45169110107418,
-            "width" : 111.80400000000009,
-            "height" : 28.40008544921875
+            "y" : 124.78334522247314,
+            "x" : 959.30970001220703,
+            "width" : 51.466655731201172,
+            "height" : 51.466655731201172
           }
         },
         {
@@ -1251,6 +1206,15 @@
           }
         },
         {
+          "text" : "Data Integrity & association",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 462.19199999999995,
+            "height" : 48.400146484375
+          }
+        },
+        {
           "text" : "* including the username in the hash\/hmac",
           "targetRectangle" : {
             "y" : 705.52734375,
@@ -1260,12 +1224,48 @@
           }
         },
         {
-          "text" : "ic_action_tick.png",
+          "text" : "Problem: Protected data can be “replayed”.\\u2028 Solution: Cryptographically bind data to context.",
           "targetRectangle" : {
-            "y" : 124.78334522247314,
-            "x" : 959.30970001220703,
-            "width" : 51.466655731201172,
-            "height" : 51.466655731201172
+            "y" : 171.759521484375,
+            "x" : 36,
+            "width" : 777.13800000000003,
+            "height" : 92
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "0xabcdef…",
+          "targetRectangle" : {
+            "y" : 521.28836059570312,
+            "x" : 448.3299298706055,
+            "width" : 150.01199999999994,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "0x123456…",
+          "targetRectangle" : {
+            "y" : 125.25,
+            "x" : 864.45169110107418,
+            "width" : 111.80400000000009,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "0xabcdef…",
+          "targetRectangle" : {
+            "y" : 521.39874267578125,
+            "x" : 448.32996038818362,
+            "width" : 150.01199999999994,
+            "height" : 35.80010986328125
           }
         }
       ],
@@ -4789,33 +4789,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Problem: Protected data can be “replayed”.\\u2028 Solution: Cryptographically bind data to context.",
-          "targetRectangle" : {
-            "y" : 171.759521484375,
-            "x" : 36,
-            "width" : 777.13800000000003,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "0xabcdef…",
-          "targetRectangle" : {
-            "y" : 521.28836059570312,
-            "x" : 448.3299298706055,
-            "width" : 150.01199999999994,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "0xabcdef…",
-          "targetRectangle" : {
-            "y" : 521.39874267578125,
-            "x" : 448.32996038818362,
-            "width" : 150.01199999999994,
-            "height" : 35.80010986328125
-          }
-        },
-        {
           "text" : "Jens Neuhalfen",
           "targetRectangle" : {
             "y" : 40,
@@ -4825,30 +4798,12 @@
           }
         },
         {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "ic_action_tick.png",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Data Integrity & association",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 462.19199999999995,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "0x123456…",
-          "targetRectangle" : {
-            "y" : 125.25,
-            "x" : 864.45169110107418,
-            "width" : 111.80400000000009,
-            "height" : 28.40008544921875
+            "y" : 124.78334522247314,
+            "x" : 959.30970001220703,
+            "width" : 51.466655731201172,
+            "height" : 51.466655731201172
           }
         },
         {
@@ -4861,6 +4816,15 @@
           }
         },
         {
+          "text" : "Data Integrity & association",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 462.19199999999995,
+            "height" : 48.400146484375
+          }
+        },
+        {
           "text" : "* including the username in the hash\/hmac",
           "targetRectangle" : {
             "y" : 705.52734375,
@@ -4870,12 +4834,48 @@
           }
         },
         {
-          "text" : "ic_action_tick.png",
+          "text" : "Problem: Protected data can be “replayed”.\\u2028 Solution: Cryptographically bind data to context.",
           "targetRectangle" : {
-            "y" : 124.78334522247314,
-            "x" : 959.30970001220703,
-            "width" : 51.466655731201172,
-            "height" : 51.466655731201172
+            "y" : 171.759521484375,
+            "x" : 36,
+            "width" : 777.13800000000003,
+            "height" : 92
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "0xabcdef…",
+          "targetRectangle" : {
+            "y" : 521.28836059570312,
+            "x" : 448.3299298706055,
+            "width" : 150.01199999999994,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "0x123456…",
+          "targetRectangle" : {
+            "y" : 125.25,
+            "x" : 864.45169110107418,
+            "width" : 111.80400000000009,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "0xabcdef…",
+          "targetRectangle" : {
+            "y" : 521.39874267578125,
+            "x" : 448.32996038818362,
+            "width" : 150.01199999999994,
+            "height" : 35.80010986328125
           }
         }
       ],
@@ -8306,7 +8306,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "008C65159CDE0402BE3A182C8F3C8747"
+                    "texture" : "42F77708ED4E17D6C7069C7C632C5FB8"
                   },
                   {
                     "animations" : [
@@ -8408,84 +8408,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "Problem: Protected data can be “replayed”.\\u2028 Solution: Cryptographically bind data to context.",
-          "targetRectangle" : {
-            "y" : 171.759521484375,
-            "x" : 36,
-            "width" : 777.13800000000003,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "0xabcdef…",
-          "targetRectangle" : {
-            "y" : 521.28836059570312,
-            "x" : 448.3299298706055,
-            "width" : 150.01199999999994,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "0xabcdef…",
-          "targetRectangle" : {
-            "y" : 521.39874267578125,
-            "x" : 448.32996038818362,
-            "width" : 150.01199999999994,
-            "height" : 35.80010986328125
-          }
-        },
-        {
           "text" : "Jens Neuhalfen",
           "targetRectangle" : {
             "y" : 40,
             "x" : 700.49374979734421,
             "width" : 208.70625025033951,
             "height" : 28
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Data Integrity & association",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 462.19199999999995,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "0x123456…",
-          "targetRectangle" : {
-            "y" : 125.25,
-            "x" : 864.45169110107418,
-            "width" : 111.80400000000009,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "0x123456…",
-          "targetRectangle" : {
-            "y" : 400.28836059570312,
-            "x" : 451.46192987060545,
-            "width" : 143.74800000000005,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "* including the username in the hash\/hmac",
-          "targetRectangle" : {
-            "y" : 705.52734375,
-            "x" : 36,
-            "width" : 667.69200000000012,
-            "height" : 46
           }
         },
         {
@@ -8498,12 +8426,84 @@
           }
         },
         {
+          "text" : "0x123456…",
+          "targetRectangle" : {
+            "y" : 400.28836059570312,
+            "x" : 451.46192987060545,
+            "width" : 143.74800000000005,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "Data Integrity & association",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 462.19199999999995,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "* including the username in the hash\/hmac",
+          "targetRectangle" : {
+            "y" : 705.52734375,
+            "x" : 36,
+            "width" : 667.69200000000012,
+            "height" : 46
+          }
+        },
+        {
           "text" : "Integrity protection binds User to Secret",
           "targetRectangle" : {
             "y" : 621.9104015827179,
             "x" : 177.51993751525879,
             "width" : 691.63199999999983,
             "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "Problem: Protected data can be “replayed”.\\u2028 Solution: Cryptographically bind data to context.",
+          "targetRectangle" : {
+            "y" : 171.759521484375,
+            "x" : 36,
+            "width" : 777.13800000000003,
+            "height" : 92
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "0xabcdef…",
+          "targetRectangle" : {
+            "y" : 521.28836059570312,
+            "x" : 448.3299298706055,
+            "width" : 150.01199999999994,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "0x123456…",
+          "targetRectangle" : {
+            "y" : 125.25,
+            "x" : 864.45169110107418,
+            "width" : 111.80400000000009,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "0xabcdef…",
+          "targetRectangle" : {
+            "y" : 521.39874267578125,
+            "x" : 448.32996038818362,
+            "width" : 150.01199999999994,
+            "height" : 35.80010986328125
           }
         }
       ],

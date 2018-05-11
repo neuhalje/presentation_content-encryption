@@ -1,19 +1,5 @@
 {
   "assets" : {
-    "FA4A7816CD24EBD57E6D466C95BF929E" : {
-      "type" : "texture",
-      "index" : 5,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/560CA66A-8BFF-4C9A-A8E5-C1D2B7C7749F.pdf"
-      },
-      "width" : 37,
-      "height" : 20
-    },
     "FBB5DEA59905EE30EF2803B0A74DF992" : {
       "type" : "texture",
       "index" : 0,
@@ -27,6 +13,20 @@
       },
       "width" : 1024,
       "height" : 768
+    },
+    "D551FD47612D2BA033F063D24CE1D63A" : {
+      "type" : "texture",
+      "index" : 3,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/560CA66A-8BFF-4C9A-A8E5-C1D2B7C7749F.pdf"
+      },
+      "width" : 238,
+      "height" : 42
     },
     "EEC48285B228DD0B5919E66CFEB8F3B3" : {
       "type" : "texture",
@@ -70,6 +70,20 @@
       "width" : 532,
       "height" : 6
     },
+    "E4A6EEE0EE26900FB62FEABF736AB294" : {
+      "type" : "texture",
+      "index" : 5,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/560CA66A-8BFF-4C9A-A8E5-C1D2B7C7749F.pdf"
+      },
+      "width" : 37,
+      "height" : 20
+    },
     "2461A24D95C6CE87EEAACB6AEF0131A3" : {
       "type" : "texture",
       "index" : 2,
@@ -83,20 +97,6 @@
       },
       "width" : 340,
       "height" : 179
-    },
-    "9C01127D73BB4B4DA066E6872D8FCC60" : {
-      "type" : "texture",
-      "index" : 8,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/560CA66A-8BFF-4C9A-A8E5-C1D2B7C7749F.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
     },
     "6FBC2ED23ABBD36C320D9A3B55EEBA70" : {
       "type" : "texture",
@@ -112,9 +112,9 @@
       "width" : 370,
       "height" : 105
     },
-    "D551FD47612D2BA033F063D24CE1D63A" : {
+    "FC5C81F2DDA9A46E8D63E5987B0A0CE8" : {
       "type" : "texture",
-      "index" : 3,
+      "index" : 8,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -123,8 +123,8 @@
       "url" : {
         "native" : "assets\/560CA66A-8BFF-4C9A-A8E5-C1D2B7C7749F.pdf"
       },
-      "width" : 238,
-      "height" : 42
+      "width" : 1024,
+      "height" : 768
     }
   },
   "events" : [
@@ -389,7 +389,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "9C01127D73BB4B4DA066E6872D8FCC60"
+                    "texture" : "FC5C81F2DDA9A46E8D63E5987B0A0CE8"
                   }
                 ]
               }
@@ -412,6 +412,33 @@
         {
           "text" : "ic_action_tick.png",
           "targetRectangle" : {
+            "y" : 150.6666259765625,
+            "x" : 550,
+            "width" : 32,
+            "height" : 32
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 192.58404541015625,
+            "x" : 198.08695983886719,
+            "width" : 166.83197021484375,
+            "height" : 166.83193969726562
+          }
+        },
+        {
+          "text" : "Crypto Checklist",
+          "targetRectangle" : {
+            "y" : 510,
+            "x" : 468,
+            "width" : 341.49599999999987,
+            "height" : 203.28025023460759
+          }
+        },
+        {
+          "text" : "ic_action_tick.png",
+          "targetRectangle" : {
             "y" : 212.6666259765625,
             "x" : 550,
             "width" : 32,
@@ -419,21 +446,12 @@
           }
         },
         {
-          "text" : "ic_action_tick.png",
+          "text" : "￼",
           "targetRectangle" : {
-            "y" : 180.6666259765625,
-            "x" : 550,
-            "width" : 32,
-            "height" : 32
-          }
-        },
-        {
-          "text" : "Patterns",
-          "targetRectangle" : {
-            "y" : 411,
-            "x" : 468,
-            "width" : 241.8134765625,
-            "height" : 63
+            "y" : 38,
+            "x" : 953.67266762256622,
+            "width" : 34.55859375,
+            "height" : 28
           }
         },
         {
@@ -464,39 +482,21 @@
           }
         },
         {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 192.58404541015625,
-            "x" : 198.08695983886719,
-            "width" : 166.83197021484375,
-            "height" : 166.83193969726562
-          }
-        },
-        {
           "text" : "ic_action_tick.png",
           "targetRectangle" : {
-            "y" : 150.6666259765625,
+            "y" : 180.6666259765625,
             "x" : 550,
             "width" : 32,
             "height" : 32
           }
         },
         {
-          "text" : "￼",
+          "text" : "Patterns",
           "targetRectangle" : {
-            "y" : 38,
-            "x" : 953.67266762256622,
-            "width" : 34.55859375,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Crypto Checklist",
-          "targetRectangle" : {
-            "y" : 510,
+            "y" : 411,
             "x" : 468,
-            "width" : 341.49599999999987,
-            "height" : 203.28025023460759
+            "width" : 241.8134765625,
+            "height" : 63
           }
         },
         {
@@ -1691,7 +1691,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "FA4A7816CD24EBD57E6D466C95BF929E"
+                    "texture" : "E4A6EEE0EE26900FB62FEABF736AB294"
                   }
                 ]
               }

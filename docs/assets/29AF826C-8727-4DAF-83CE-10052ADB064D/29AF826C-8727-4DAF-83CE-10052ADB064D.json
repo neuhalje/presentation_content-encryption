@@ -70,7 +70,7 @@
       "width" : 1003,
       "height" : 106
     },
-    "F14974F830BEE43A57B8A098F3E8DC37" : {
+    "0677DA90B964FA096748AFABEA549DC4" : {
       "type" : "texture",
       "index" : 10,
       "assetRequest" : {
@@ -126,6 +126,20 @@
       "width" : 209,
       "height" : 20
     },
+    "C0D78B79BD8C8A86930412C2AE097FA2" : {
+      "type" : "texture",
+      "index" : 3,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/29AF826C-8727-4DAF-83CE-10052ADB064D.pdf"
+      },
+      "width" : 498,
+      "height" : 20
+    },
     "3318DB30B052B0862AD39A3C6BFEA85B" : {
       "type" : "texture",
       "index" : 11,
@@ -139,20 +153,6 @@
       },
       "width" : 1024,
       "height" : 768
-    },
-    "998B2001A9D41220D4C9645A6DE06515" : {
-      "type" : "texture",
-      "index" : 3,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/29AF826C-8727-4DAF-83CE-10052ADB064D.pdf"
-      },
-      "width" : 498,
-      "height" : 20
     },
     "FC196BD778DA37E4EAD21785BA957146" : {
       "type" : "texture",
@@ -350,7 +350,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "F14974F830BEE43A57B8A098F3E8DC37"
+                    "texture" : "0677DA90B964FA096748AFABEA549DC4"
                   },
                   {
                     "animations" : [
@@ -469,12 +469,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "tw2.png",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
+            "y" : 353.39682006835938,
+            "x" : 181.5,
+            "width" : 661,
+            "height" : 129
           }
         },
         {
@@ -487,21 +487,21 @@
           }
         },
         {
-          "text" : "tw2.png",
+          "text" : "￼",
           "targetRectangle" : {
-            "y" : 353.39682006835938,
-            "x" : 181.5,
-            "width" : 661,
-            "height" : 129
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
           }
         },
         {
-          "text" : "tw3.png",
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
-            "y" : 488.24386596679688,
-            "x" : 179.5,
-            "width" : 665,
-            "height" : 126
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
           }
         },
         {
@@ -514,21 +514,21 @@
           }
         },
         {
+          "text" : "tw3.png",
+          "targetRectangle" : {
+            "y" : 488.24386596679688,
+            "x" : 179.5,
+            "width" : 665,
+            "height" : 126
+          }
+        },
+        {
           "text" : "tw1.png",
           "targetRectangle" : {
             "y" : 195.45024108886719,
             "x" : 182.5,
             "width" : 661,
             "height" : 154.19906616210938
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
           }
         },
         {
@@ -1364,7 +1364,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "998B2001A9D41220D4C9645A6DE06515"
+                    "texture" : "C0D78B79BD8C8A86930412C2AE097FA2"
                   }
                 ]
               }

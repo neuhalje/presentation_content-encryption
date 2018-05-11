@@ -2,6 +2,20 @@ local_slide( {
   "name" : "801DAE16-D9B5-448D-AF8A-B8D98135F94E",
   "json" : {
     "assets" : {
+      "E7B7F1C00C372B29123AE395A50EFB4D" : {
+        "type" : "texture",
+        "index" : 14,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/801DAE16-D9B5-448D-AF8A-B8D98135F94E.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "640D5297D59088D46FE63A28D36F2264" : {
         "type" : "texture",
         "index" : 1,
@@ -58,6 +72,20 @@ local_slide( {
         "width" : 721,
         "height" : 103
       },
+      "8EAED6A2F9F0569DC8CB1101394798E3" : {
+        "type" : "texture",
+        "index" : 6,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/801DAE16-D9B5-448D-AF8A-B8D98135F94E.pdf"
+        },
+        "width" : 26,
+        "height" : 20
+      },
       "B08B75062F800E401393A418BBC19416" : {
         "type" : "texture",
         "index" : 3,
@@ -99,6 +127,20 @@ local_slide( {
         },
         "width" : 244,
         "height" : 65
+      },
+      "832B6D222673AC9B39611AE3EF809126" : {
+        "type" : "texture",
+        "index" : 13,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/801DAE16-D9B5-448D-AF8A-B8D98135F94E.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       },
       "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
@@ -142,7 +184,7 @@ local_slide( {
         "width" : 498,
         "height" : 20
       },
-      "96EBAB6D9AD9FE759706316D5A75B3F5" : {
+      "DAE78CB1003906258477AEF3F537D051" : {
         "type" : "texture",
         "index" : 12,
         "assetRequest" : {
@@ -153,22 +195,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/801DAE16-D9B5-448D-AF8A-B8D98135F94E.pdf"
         },
-        "width" : 1024,
-        "height" : 768
-      },
-      "64DC93AF9EEC352D562A1541A65C2113" : {
-        "type" : "texture",
-        "index" : 13,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/801DAE16-D9B5-448D-AF8A-B8D98135F94E.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
+        "width" : 1028,
+        "height" : 40
       },
       "706EF5C2DF11A78E59E131BC8F84822C" : {
         "type" : "texture",
@@ -183,20 +211,6 @@ local_slide( {
         },
         "width" : 13,
         "height" : 13
-      },
-      "802A439374B9BF0818026D4B95878CD2" : {
-        "type" : "texture",
-        "index" : 6,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/801DAE16-D9B5-448D-AF8A-B8D98135F94E.pdf"
-        },
-        "width" : 25,
-        "height" : 20
       }
     },
     "events" : [
@@ -380,7 +394,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "96EBAB6D9AD9FE759706316D5A75B3F5"
+                      "texture" : "832B6D222673AC9B39611AE3EF809126"
                     },
                     {
                       "animations" : [
@@ -461,7 +475,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "64DC93AF9EEC352D562A1541A65C2113"
+                      "texture" : "E7B7F1C00C372B29123AE395A50EFB4D"
                     }
                   ]
                 }
@@ -482,12 +496,75 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "ic_action_lock_closed.png",
+            "targetRectangle" : {
+              "y" : 142.79307746887207,
+              "x" : 939.53539276123047,
+              "width" : 37.958965301513672,
+              "height" : 37.958965301513672
+            }
+          },
+          {
+            "text" : "H160, J500 E326",
+            "targetRectangle" : {
+              "y" : 405.09173572063446,
+              "x" : 632.62215375900269,
+              "width" : 140.98000000000002,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Compare Data",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 220.70400000000001,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "?",
+            "targetRectangle" : {
+              "y" : 122.65264892578125,
+              "x" : 968.88079833984375,
+              "width" : 18.563999999999965,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "J. Edgar Hoover",
+            "targetRectangle" : {
+              "y" : 402.49438464641571,
+              "x" : 110.17397809028625,
+              "width" : 150.94800000000004,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
               "x" : 964.57660043239594,
               "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "*",
+            "targetRectangle" : {
+              "y" : 386.59619140625,
+              "x" : 605,
+              "width" : 11.08400033032899,
+              "height" : 46
             }
           },
           {
@@ -527,33 +604,6 @@ local_slide( {
             }
           },
           {
-            "text" : "E.g.",
-            "targetRectangle" : {
-              "y" : 391.10842895507812,
-              "x" : 41,
-              "width" : 59.602000000000004,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "?",
-            "targetRectangle" : {
-              "y" : 122.65264892578125,
-              "x" : 968.88079833984375,
-              "width" : 18.563999999999965,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Compare Data",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 220.70400000000001,
-              "height" : 48.400146484375
-            }
-          },
-          {
             "text" : "Problem: Securely compare two data items ",
             "targetRectangle" : {
               "y" : 175.24711608886719,
@@ -572,39 +622,12 @@ local_slide( {
             }
           },
           {
-            "text" : "ic_action_lock_closed.png",
+            "text" : "* Soundex - but choose whatever normalisation works for you",
             "targetRectangle" : {
-              "y" : 141.26483345031738,
-              "x" : 809.53539276123047,
-              "width" : 37.958965301513672,
-              "height" : 37.958965301513672
-            }
-          },
-          {
-            "text" : "*",
-            "targetRectangle" : {
-              "y" : 386.59619140625,
-              "x" : 605,
-              "width" : 11.08400033032899,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "==",
-            "targetRectangle" : {
-              "y" : 122.65264892578125,
-              "x" : 853.88079833984375,
-              "width" : 45.288000000000011,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
+              "y" : 689.55367983465283,
+              "x" : 14,
+              "width" : 815.42200043254843,
+              "height" : 41.00000032264586
             }
           },
           {
@@ -617,21 +640,30 @@ local_slide( {
             }
           },
           {
-            "text" : "* Soundex - but choose whatever normalisation works for you",
+            "text" : "E.g.",
             "targetRectangle" : {
-              "y" : 716.9071044921875,
-              "x" : 14,
-              "width" : 815.42200043254843,
-              "height" : 41.000000322645974
+              "y" : 391.10842895507812,
+              "x" : 41,
+              "width" : 59.602000000000004,
+              "height" : 46
             }
           },
           {
             "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
-              "y" : 142.79307746887207,
-              "x" : 939.53539276123047,
+              "y" : 141.26483345031738,
+              "x" : 809.53539276123047,
               "width" : 37.958965301513672,
               "height" : 37.958965301513672
+            }
+          },
+          {
+            "text" : "==",
+            "targetRectangle" : {
+              "y" : 122.65264892578125,
+              "x" : 853.88079833984375,
+              "width" : 45.288000000000011,
+              "height" : 46
             }
           },
           {
@@ -644,20 +676,11 @@ local_slide( {
             }
           },
           {
-            "text" : "J. Edgar Hoover",
+            "text" : "Hashing does not increase the entropy! (think of hashed phone numbers)",
             "targetRectangle" : {
-              "y" : 402.49438464641571,
-              "x" : 110.17397809028625,
-              "width" : 150.94800000000004,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "H160, J500 E326",
-            "targetRectangle" : {
-              "y" : 405.09173572063446,
-              "x" : 632.62215375900269,
-              "width" : 140.98000000000002,
+              "y" : 736.64941058126249,
+              "x" : 158.19197708013601,
+              "width" : 707.61600000000021,
               "height" : 28.40008544921875
             }
           }
@@ -1928,10 +1951,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.07660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 25,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -2000,10 +2023,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 15.923399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 25,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -2037,7 +2060,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "802A439374B9BF0818026D4B95878CD2"
+                      "texture" : "8EAED6A2F9F0569DC8CB1101394798E3"
                     }
                   ]
                 }
@@ -2671,7 +2694,7 @@ local_slide( {
                     "scale" : 1,
                     "position" : {
                       "pointX" : 418,
-                      "pointY" : 729.9071044921875
+                      "pointY" : 702.55367983465283
                     },
                     "width" : 816,
                     "sublayerTransform" : [
@@ -2718,7 +2741,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.49800000000000005,
-                        "textBaseline" : 0.73767364501953125,
+                        "textBaseline" : 0.72727880215086438,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -2743,7 +2766,7 @@ local_slide( {
                         "scale" : 1,
                         "position" : {
                           "pointX" : 412,
-                          "pointY" : 26.0928955078125
+                          "pointY" : 26.446320165347174
                         },
                         "width" : 816,
                         "sublayerTransform" : [
@@ -2961,6 +2984,245 @@ local_slide( {
                         }
                       },
                       "texture" : "8E067AB9D34F18DC66C3449E410953DA"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "animations" : [
+
+              ],
+              "initialState" : {
+                "affineTransform" : [
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0
+                ],
+                "masksToBounds" : false,
+                "rotation" : 0,
+                "scale" : 1,
+                "position" : {
+                  "pointX" : 512,
+                  "pointY" : 384
+                },
+                "width" : 1024,
+                "sublayerTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "contentsRect" : {
+                  "y" : 0,
+                  "x" : 0,
+                  "width" : 1,
+                  "height" : 1
+                },
+                "opacity" : 1,
+                "edgeAntialiasingMask" : 251658240,
+                "height" : 768,
+                "hidden" : false,
+                "anchorPoint" : {
+                  "pointX" : 0.5,
+                  "pointY" : 0.5
+                }
+              },
+              "layers" : [
+                {
+                  "animations" : [
+
+                  ],
+                  "initialState" : {
+                    "affineTransform" : [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "masksToBounds" : false,
+                    "rotation" : 0,
+                    "scale" : 1,
+                    "position" : {
+                      "pointX" : 513.52994534185484,
+                      "pointY" : 752.64941058126249
+                    },
+                    "width" : 1028,
+                    "sublayerTransform" : [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "contentsRect" : {
+                      "y" : 0,
+                      "x" : 0,
+                      "width" : 1,
+                      "height" : 1
+                    },
+                    "opacity" : 1,
+                    "edgeAntialiasingMask" : 251658240,
+                    "height" : 40,
+                    "hidden" : false,
+                    "anchorPoint" : {
+                      "pointX" : 0.5,
+                      "pointY" : 0.5
+                    }
+                  },
+                  "layers" : [
+                    {
+                      "animations" : [
+
+                      ],
+                      "layers" : [
+
+                      ],
+                      "texturedRectangle" : {
+                        "singleTextureOpacity" : 1,
+                        "textXHeight" : 0,
+                        "shapePath" : {
+                          "lineWidth" : 1,
+                          "flatness" : 0.59999999999999998,
+                          "lineCapStyle" : 0,
+                          "elements" : [
+                            {
+                              "type" : "MoveToPoint",
+                              "points" : [
+                                [
+                                  1.529945341854879,
+                                  1.6494105812624866
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddLine",
+                              "points" : [
+                                [
+                                  1026.4700545947846,
+                                  1.6494105812624866
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddLine",
+                              "points" : [
+                                [
+                                  1026.4700545947846,
+                                  38.049496268899816
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddLine",
+                              "points" : [
+                                [
+                                  1.529945341854879,
+                                  38.049496268899816
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "CloseSubpath"
+                            },
+                            {
+                              "type" : "MoveToPoint",
+                              "points" : [
+                                [
+                                  1.529945341854879,
+                                  1.6494105812624866
+                                ]
+                              ]
+                            }
+                          ],
+                          "windingRule" : 0,
+                          "lineJoinStyle" : 0,
+                          "miterLimit" : 10
+                        },
+                        "isBackgroundTexture" : true,
+                        "textBaseline" : 0,
+                        "isVerticalText" : false,
+                        "textureType" : 5
+                      },
+                      "initialState" : {
+                        "affineTransform" : [
+                          1,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0
+                        ],
+                        "masksToBounds" : false,
+                        "rotation" : 0,
+                        "scale" : 1,
+                        "position" : {
+                          "pointX" : 512.47005465814516,
+                          "pointY" : 18.350589418737513
+                        },
+                        "width" : 1028,
+                        "sublayerTransform" : [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1
+                        ],
+                        "contentsRect" : {
+                          "y" : 0,
+                          "x" : 0,
+                          "width" : 1,
+                          "height" : 1
+                        },
+                        "opacity" : 1,
+                        "edgeAntialiasingMask" : 0,
+                        "height" : 40,
+                        "hidden" : false,
+                        "anchorPoint" : {
+                          "pointX" : 0.5,
+                          "pointY" : 0.5
+                        }
+                      },
+                      "texture" : "DAE78CB1003906258477AEF3F537D051"
                     }
                   ]
                 }

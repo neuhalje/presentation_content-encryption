@@ -806,30 +806,66 @@
       ],
       "accessibility" : [
         {
-          "text" : "Already migrated?",
+          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
           "targetRectangle" : {
-            "y" : 324.70941054821014,
-            "x" : 392.95578002929688,
-            "width" : 306.74800000000005,
-            "height" : 46
+            "y" : 201.18777465820312,
+            "x" : 488.18505954742432,
+            "width" : 515.33400000000006,
+            "height" : 92
           }
         },
         {
-          "text" : "Hash PWD with\\u2028New Algorithm",
+          "text" : "Login",
           "targetRectangle" : {
-            "y" : 594.45233154296875,
-            "x" : 338.95403802490233,
-            "width" : 149.57600000000002,
-            "height" : 56.720068697930401
+            "y" : 219.69381713867188,
+            "x" : 131.06487990774247,
+            "width" : 52.360000000000014,
+            "height" : 28.40008544921875
           }
         },
         {
-          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "text" : "User login: Migrate passwords",
           "targetRectangle" : {
-            "y" : 693.01855486631393,
-            "x" : 242.38958258056664,
-            "width" : 659.85599999999977,
-            "height" : 33
+            "y" : 125,
+            "x" : 36,
+            "width" : 516.57600000000002,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "*",
+          "targetRectangle" : {
+            "y" : 202.77199167013168,
+            "x" : 85.138126373291016,
+            "width" : 10.359999999999999,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "USER",
+          "targetRectangle" : {
+            "y" : 205.46713256835938,
+            "x" : 229.98117810058594,
+            "width" : 45.584000000000032,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Store new Hash",
+          "targetRectangle" : {
+            "y" : 605.0234375,
+            "x" : 640.73348895263678,
+            "width" : 150.976,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Validate Password",
+          "targetRectangle" : {
+            "y" : 410.98104858398438,
+            "x" : 59.905512608766543,
+            "width" : 180.68400000000003,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -845,35 +881,17 @@
           "text" : "*",
           "targetRectangle" : {
             "y" : 202.77199167013168,
-            "x" : 85.138126373291016,
+            "x" : 66.184950351715088,
             "width" : 10.359999999999999,
             "height" : 28.40008544921875
           }
         },
         {
-          "text" : "User login: Migrate passwords",
+          "text" : "Continue LOGIN",
           "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 516.57600000000002,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Validate Password",
-          "targetRectangle" : {
-            "y" : 410.98104858398438,
-            "x" : 59.905512608766543,
-            "width" : 180.68400000000003,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "USER",
-          "targetRectangle" : {
-            "y" : 205.46713256835938,
-            "x" : 229.98117810058594,
-            "width" : 45.584000000000032,
+            "y" : 417.75927734375,
+            "x" : 644.69129257702832,
+            "width" : 143.05199999999991,
             "height" : 28.40008544921875
           }
         },
@@ -887,39 +905,30 @@
           }
         },
         {
-          "text" : "Login",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
-            "y" : 219.69381713867188,
-            "x" : 131.06487990774247,
-            "width" : 52.360000000000014,
-            "height" : 28.40008544921875
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
           }
         },
         {
-          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
+          "text" : "Hash PWD with\\u2028New Algorithm",
           "targetRectangle" : {
-            "y" : 201.18777465820312,
-            "x" : 488.18505954742432,
-            "width" : 515.33400000000006,
-            "height" : 92
+            "y" : 594.45233154296875,
+            "x" : 338.95403802490233,
+            "width" : 149.57600000000002,
+            "height" : 56.720068697930401
           }
         },
         {
-          "text" : "Continue LOGIN",
+          "text" : "Already migrated?",
           "targetRectangle" : {
-            "y" : 417.75927734375,
-            "x" : 644.69129257702832,
-            "width" : 143.05199999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Store new Hash",
-          "targetRectangle" : {
-            "y" : 605.0234375,
-            "x" : 640.73348895263678,
-            "width" : 150.976,
-            "height" : 28.40008544921875
+            "y" : 324.70941054821014,
+            "x" : 392.95578002929688,
+            "width" : 306.74800000000005,
+            "height" : 46
           }
         },
         {
@@ -932,30 +941,21 @@
           }
         },
         {
-          "text" : "*",
-          "targetRectangle" : {
-            "y" : 202.77199167013168,
-            "x" : 66.184950351715088,
-            "width" : 10.359999999999999,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Password",
           "targetRectangle" : {
             "y" : 237.4359130859375,
             "x" : 227.04116757202149,
             "width" : 96.543999999999983,
             "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "targetRectangle" : {
+            "y" : 693.01855486631393,
+            "x" : 242.38958258056664,
+            "width" : 659.85599999999977,
+            "height" : 33
           }
         }
       ],
@@ -7770,30 +7770,66 @@
       ],
       "accessibility" : [
         {
-          "text" : "Already migrated?",
+          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
           "targetRectangle" : {
-            "y" : 324.70941054821014,
-            "x" : 392.95578002929688,
-            "width" : 306.74800000000005,
-            "height" : 46
+            "y" : 201.18777465820312,
+            "x" : 488.18505954742432,
+            "width" : 515.33400000000006,
+            "height" : 92
           }
         },
         {
-          "text" : "Hash PWD with\\u2028New Algorithm",
+          "text" : "Login",
           "targetRectangle" : {
-            "y" : 594.45233154296875,
-            "x" : 338.95403802490233,
-            "width" : 149.57600000000002,
-            "height" : 56.720068697930401
+            "y" : 219.69381713867188,
+            "x" : 131.06487990774247,
+            "width" : 52.360000000000014,
+            "height" : 28.40008544921875
           }
         },
         {
-          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "text" : "User login: Migrate passwords",
           "targetRectangle" : {
-            "y" : 693.01855486631393,
-            "x" : 242.38958258056664,
-            "width" : 659.85599999999977,
-            "height" : 33
+            "y" : 125,
+            "x" : 36,
+            "width" : 516.57600000000002,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "*",
+          "targetRectangle" : {
+            "y" : 202.77199167013168,
+            "x" : 85.138126373291016,
+            "width" : 10.359999999999999,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "USER",
+          "targetRectangle" : {
+            "y" : 205.46713256835938,
+            "x" : 229.98117810058594,
+            "width" : 45.584000000000032,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Store new Hash",
+          "targetRectangle" : {
+            "y" : 605.0234375,
+            "x" : 640.73348895263678,
+            "width" : 150.976,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Validate Password",
+          "targetRectangle" : {
+            "y" : 410.98104858398438,
+            "x" : 59.905512608766543,
+            "width" : 180.68400000000003,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -7809,35 +7845,17 @@
           "text" : "*",
           "targetRectangle" : {
             "y" : 202.77199167013168,
-            "x" : 85.138126373291016,
+            "x" : 66.184950351715088,
             "width" : 10.359999999999999,
             "height" : 28.40008544921875
           }
         },
         {
-          "text" : "User login: Migrate passwords",
+          "text" : "Continue LOGIN",
           "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 516.57600000000002,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Validate Password",
-          "targetRectangle" : {
-            "y" : 410.98104858398438,
-            "x" : 59.905512608766543,
-            "width" : 180.68400000000003,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "USER",
-          "targetRectangle" : {
-            "y" : 205.46713256835938,
-            "x" : 229.98117810058594,
-            "width" : 45.584000000000032,
+            "y" : 417.75927734375,
+            "x" : 644.69129257702832,
+            "width" : 143.05199999999991,
             "height" : 28.40008544921875
           }
         },
@@ -7851,39 +7869,30 @@
           }
         },
         {
-          "text" : "Login",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
-            "y" : 219.69381713867188,
-            "x" : 131.06487990774247,
-            "width" : 52.360000000000014,
-            "height" : 28.40008544921875
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
           }
         },
         {
-          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
+          "text" : "Hash PWD with\\u2028New Algorithm",
           "targetRectangle" : {
-            "y" : 201.18777465820312,
-            "x" : 488.18505954742432,
-            "width" : 515.33400000000006,
-            "height" : 92
+            "y" : 594.45233154296875,
+            "x" : 338.95403802490233,
+            "width" : 149.57600000000002,
+            "height" : 56.720068697930401
           }
         },
         {
-          "text" : "Continue LOGIN",
+          "text" : "Already migrated?",
           "targetRectangle" : {
-            "y" : 417.75927734375,
-            "x" : 644.69129257702832,
-            "width" : 143.05199999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Store new Hash",
-          "targetRectangle" : {
-            "y" : 605.0234375,
-            "x" : 640.73348895263678,
-            "width" : 150.976,
-            "height" : 28.40008544921875
+            "y" : 324.70941054821014,
+            "x" : 392.95578002929688,
+            "width" : 306.74800000000005,
+            "height" : 46
           }
         },
         {
@@ -7896,30 +7905,21 @@
           }
         },
         {
-          "text" : "*",
-          "targetRectangle" : {
-            "y" : 202.77199167013168,
-            "x" : 66.184950351715088,
-            "width" : 10.359999999999999,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Password",
           "targetRectangle" : {
             "y" : 237.4359130859375,
             "x" : 227.04116757202149,
             "width" : 96.543999999999983,
             "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "targetRectangle" : {
+            "y" : 693.01855486631393,
+            "x" : 242.38958258056664,
+            "width" : 659.85599999999977,
+            "height" : 33
           }
         }
       ],
@@ -14521,30 +14521,66 @@
       ],
       "accessibility" : [
         {
-          "text" : "Already migrated?",
+          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
           "targetRectangle" : {
-            "y" : 324.70941054821014,
-            "x" : 392.95578002929688,
-            "width" : 306.74800000000005,
-            "height" : 46
+            "y" : 201.18777465820312,
+            "x" : 488.18505954742432,
+            "width" : 515.33400000000006,
+            "height" : 92
           }
         },
         {
-          "text" : "Hash PWD with\\u2028New Algorithm",
+          "text" : "Login",
           "targetRectangle" : {
-            "y" : 594.45233154296875,
-            "x" : 338.95403802490233,
-            "width" : 149.57600000000002,
-            "height" : 56.720068697930401
+            "y" : 219.69381713867188,
+            "x" : 131.06487990774247,
+            "width" : 52.360000000000014,
+            "height" : 28.40008544921875
           }
         },
         {
-          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "text" : "User login: Migrate passwords",
           "targetRectangle" : {
-            "y" : 693.01855486631393,
-            "x" : 242.38958258056664,
-            "width" : 659.85599999999977,
-            "height" : 33
+            "y" : 125,
+            "x" : 36,
+            "width" : 516.57600000000002,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "*",
+          "targetRectangle" : {
+            "y" : 202.77199167013168,
+            "x" : 85.138126373291016,
+            "width" : 10.359999999999999,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "USER",
+          "targetRectangle" : {
+            "y" : 205.46713256835938,
+            "x" : 229.98117810058594,
+            "width" : 45.584000000000032,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Store new Hash",
+          "targetRectangle" : {
+            "y" : 605.0234375,
+            "x" : 640.73348895263678,
+            "width" : 150.976,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Validate Password",
+          "targetRectangle" : {
+            "y" : 410.98104858398438,
+            "x" : 59.905512608766543,
+            "width" : 180.68400000000003,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -14560,35 +14596,17 @@
           "text" : "*",
           "targetRectangle" : {
             "y" : 202.77199167013168,
-            "x" : 85.138126373291016,
+            "x" : 66.184950351715088,
             "width" : 10.359999999999999,
             "height" : 28.40008544921875
           }
         },
         {
-          "text" : "User login: Migrate passwords",
+          "text" : "Continue LOGIN",
           "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 516.57600000000002,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Validate Password",
-          "targetRectangle" : {
-            "y" : 410.98104858398438,
-            "x" : 59.905512608766543,
-            "width" : 180.68400000000003,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "USER",
-          "targetRectangle" : {
-            "y" : 205.46713256835938,
-            "x" : 229.98117810058594,
-            "width" : 45.584000000000032,
+            "y" : 417.75927734375,
+            "x" : 644.69129257702832,
+            "width" : 143.05199999999991,
             "height" : 28.40008544921875
           }
         },
@@ -14602,39 +14620,30 @@
           }
         },
         {
-          "text" : "Login",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
-            "y" : 219.69381713867188,
-            "x" : 131.06487990774247,
-            "width" : 52.360000000000014,
-            "height" : 28.40008544921875
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
           }
         },
         {
-          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
+          "text" : "Hash PWD with\\u2028New Algorithm",
           "targetRectangle" : {
-            "y" : 201.18777465820312,
-            "x" : 488.18505954742432,
-            "width" : 515.33400000000006,
-            "height" : 92
+            "y" : 594.45233154296875,
+            "x" : 338.95403802490233,
+            "width" : 149.57600000000002,
+            "height" : 56.720068697930401
           }
         },
         {
-          "text" : "Continue LOGIN",
+          "text" : "Already migrated?",
           "targetRectangle" : {
-            "y" : 417.75927734375,
-            "x" : 644.69129257702832,
-            "width" : 143.05199999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Store new Hash",
-          "targetRectangle" : {
-            "y" : 605.0234375,
-            "x" : 640.73348895263678,
-            "width" : 150.976,
-            "height" : 28.40008544921875
+            "y" : 324.70941054821014,
+            "x" : 392.95578002929688,
+            "width" : 306.74800000000005,
+            "height" : 46
           }
         },
         {
@@ -14647,30 +14656,21 @@
           }
         },
         {
-          "text" : "*",
-          "targetRectangle" : {
-            "y" : 202.77199167013168,
-            "x" : 66.184950351715088,
-            "width" : 10.359999999999999,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Password",
           "targetRectangle" : {
             "y" : 237.4359130859375,
             "x" : 227.04116757202149,
             "width" : 96.543999999999983,
             "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "targetRectangle" : {
+            "y" : 693.01855486631393,
+            "x" : 242.38958258056664,
+            "width" : 659.85599999999977,
+            "height" : 33
           }
         }
       ],
@@ -21272,30 +21272,66 @@
       ],
       "accessibility" : [
         {
-          "text" : "Already migrated?",
+          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
           "targetRectangle" : {
-            "y" : 324.70941054821014,
-            "x" : 392.95578002929688,
-            "width" : 306.74800000000005,
-            "height" : 46
+            "y" : 201.18777465820312,
+            "x" : 488.18505954742432,
+            "width" : 515.33400000000006,
+            "height" : 92
           }
         },
         {
-          "text" : "Hash PWD with\\u2028New Algorithm",
+          "text" : "Login",
           "targetRectangle" : {
-            "y" : 594.45233154296875,
-            "x" : 338.95403802490233,
-            "width" : 149.57600000000002,
-            "height" : 56.720068697930401
+            "y" : 219.69381713867188,
+            "x" : 131.06487990774247,
+            "width" : 52.360000000000014,
+            "height" : 28.40008544921875
           }
         },
         {
-          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "text" : "User login: Migrate passwords",
           "targetRectangle" : {
-            "y" : 693.01855486631393,
-            "x" : 242.38958258056664,
-            "width" : 659.85599999999977,
-            "height" : 33
+            "y" : 125,
+            "x" : 36,
+            "width" : 516.57600000000002,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "*",
+          "targetRectangle" : {
+            "y" : 202.77199167013168,
+            "x" : 85.138126373291016,
+            "width" : 10.359999999999999,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "USER",
+          "targetRectangle" : {
+            "y" : 205.46713256835938,
+            "x" : 229.98117810058594,
+            "width" : 45.584000000000032,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Store new Hash",
+          "targetRectangle" : {
+            "y" : 605.0234375,
+            "x" : 640.73348895263678,
+            "width" : 150.976,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Validate Password",
+          "targetRectangle" : {
+            "y" : 410.98104858398438,
+            "x" : 59.905512608766543,
+            "width" : 180.68400000000003,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -21311,35 +21347,17 @@
           "text" : "*",
           "targetRectangle" : {
             "y" : 202.77199167013168,
-            "x" : 85.138126373291016,
+            "x" : 66.184950351715088,
             "width" : 10.359999999999999,
             "height" : 28.40008544921875
           }
         },
         {
-          "text" : "User login: Migrate passwords",
+          "text" : "Continue LOGIN",
           "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 516.57600000000002,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Validate Password",
-          "targetRectangle" : {
-            "y" : 410.98104858398438,
-            "x" : 59.905512608766543,
-            "width" : 180.68400000000003,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "USER",
-          "targetRectangle" : {
-            "y" : 205.46713256835938,
-            "x" : 229.98117810058594,
-            "width" : 45.584000000000032,
+            "y" : 417.75927734375,
+            "x" : 644.69129257702832,
+            "width" : 143.05199999999991,
             "height" : 28.40008544921875
           }
         },
@@ -21353,39 +21371,30 @@
           }
         },
         {
-          "text" : "Login",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
-            "y" : 219.69381713867188,
-            "x" : 131.06487990774247,
-            "width" : 52.360000000000014,
-            "height" : 28.40008544921875
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
           }
         },
         {
-          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
+          "text" : "Hash PWD with\\u2028New Algorithm",
           "targetRectangle" : {
-            "y" : 201.18777465820312,
-            "x" : 488.18505954742432,
-            "width" : 515.33400000000006,
-            "height" : 92
+            "y" : 594.45233154296875,
+            "x" : 338.95403802490233,
+            "width" : 149.57600000000002,
+            "height" : 56.720068697930401
           }
         },
         {
-          "text" : "Continue LOGIN",
+          "text" : "Already migrated?",
           "targetRectangle" : {
-            "y" : 417.75927734375,
-            "x" : 644.69129257702832,
-            "width" : 143.05199999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Store new Hash",
-          "targetRectangle" : {
-            "y" : 605.0234375,
-            "x" : 640.73348895263678,
-            "width" : 150.976,
-            "height" : 28.40008544921875
+            "y" : 324.70941054821014,
+            "x" : 392.95578002929688,
+            "width" : 306.74800000000005,
+            "height" : 46
           }
         },
         {
@@ -21398,30 +21407,21 @@
           }
         },
         {
-          "text" : "*",
-          "targetRectangle" : {
-            "y" : 202.77199167013168,
-            "x" : 66.184950351715088,
-            "width" : 10.359999999999999,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Password",
           "targetRectangle" : {
             "y" : 237.4359130859375,
             "x" : 227.04116757202149,
             "width" : 96.543999999999983,
             "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "targetRectangle" : {
+            "y" : 693.01855486631393,
+            "x" : 242.38958258056664,
+            "width" : 659.85599999999977,
+            "height" : 33
           }
         }
       ],
@@ -28023,30 +28023,66 @@
       ],
       "accessibility" : [
         {
-          "text" : "Already migrated?",
+          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
           "targetRectangle" : {
-            "y" : 324.70941054821014,
-            "x" : 392.95578002929688,
-            "width" : 306.74800000000005,
-            "height" : 46
+            "y" : 201.18777465820312,
+            "x" : 488.18505954742432,
+            "width" : 515.33400000000006,
+            "height" : 92
           }
         },
         {
-          "text" : "Hash PWD with\\u2028New Algorithm",
+          "text" : "Login",
           "targetRectangle" : {
-            "y" : 594.45233154296875,
-            "x" : 338.95403802490233,
-            "width" : 149.57600000000002,
-            "height" : 56.720068697930401
+            "y" : 219.69381713867188,
+            "x" : 131.06487990774247,
+            "width" : 52.360000000000014,
+            "height" : 28.40008544921875
           }
         },
         {
-          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "text" : "User login: Migrate passwords",
           "targetRectangle" : {
-            "y" : 693.01855486631393,
-            "x" : 242.38958258056664,
-            "width" : 659.85599999999977,
-            "height" : 33
+            "y" : 125,
+            "x" : 36,
+            "width" : 516.57600000000002,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "*",
+          "targetRectangle" : {
+            "y" : 202.77199167013168,
+            "x" : 85.138126373291016,
+            "width" : 10.359999999999999,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "USER",
+          "targetRectangle" : {
+            "y" : 205.46713256835938,
+            "x" : 229.98117810058594,
+            "width" : 45.584000000000032,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Store new Hash",
+          "targetRectangle" : {
+            "y" : 605.0234375,
+            "x" : 640.73348895263678,
+            "width" : 150.976,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Validate Password",
+          "targetRectangle" : {
+            "y" : 410.98104858398438,
+            "x" : 59.905512608766543,
+            "width" : 180.68400000000003,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -28062,35 +28098,17 @@
           "text" : "*",
           "targetRectangle" : {
             "y" : 202.77199167013168,
-            "x" : 85.138126373291016,
+            "x" : 66.184950351715088,
             "width" : 10.359999999999999,
             "height" : 28.40008544921875
           }
         },
         {
-          "text" : "User login: Migrate passwords",
+          "text" : "Continue LOGIN",
           "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 516.57600000000002,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Validate Password",
-          "targetRectangle" : {
-            "y" : 410.98104858398438,
-            "x" : 59.905512608766543,
-            "width" : 180.68400000000003,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "USER",
-          "targetRectangle" : {
-            "y" : 205.46713256835938,
-            "x" : 229.98117810058594,
-            "width" : 45.584000000000032,
+            "y" : 417.75927734375,
+            "x" : 644.69129257702832,
+            "width" : 143.05199999999991,
             "height" : 28.40008544921875
           }
         },
@@ -28104,39 +28122,30 @@
           }
         },
         {
-          "text" : "Login",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
-            "y" : 219.69381713867188,
-            "x" : 131.06487990774247,
-            "width" : 52.360000000000014,
-            "height" : 28.40008544921875
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
           }
         },
         {
-          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
+          "text" : "Hash PWD with\\u2028New Algorithm",
           "targetRectangle" : {
-            "y" : 201.18777465820312,
-            "x" : 488.18505954742432,
-            "width" : 515.33400000000006,
-            "height" : 92
+            "y" : 594.45233154296875,
+            "x" : 338.95403802490233,
+            "width" : 149.57600000000002,
+            "height" : 56.720068697930401
           }
         },
         {
-          "text" : "Continue LOGIN",
+          "text" : "Already migrated?",
           "targetRectangle" : {
-            "y" : 417.75927734375,
-            "x" : 644.69129257702832,
-            "width" : 143.05199999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Store new Hash",
-          "targetRectangle" : {
-            "y" : 605.0234375,
-            "x" : 640.73348895263678,
-            "width" : 150.976,
-            "height" : 28.40008544921875
+            "y" : 324.70941054821014,
+            "x" : 392.95578002929688,
+            "width" : 306.74800000000005,
+            "height" : 46
           }
         },
         {
@@ -28149,30 +28158,21 @@
           }
         },
         {
-          "text" : "*",
-          "targetRectangle" : {
-            "y" : 202.77199167013168,
-            "x" : 66.184950351715088,
-            "width" : 10.359999999999999,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Password",
           "targetRectangle" : {
             "y" : 237.4359130859375,
             "x" : 227.04116757202149,
             "width" : 96.543999999999983,
             "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "targetRectangle" : {
+            "y" : 693.01855486631393,
+            "x" : 242.38958258056664,
+            "width" : 659.85599999999977,
+            "height" : 33
           }
         }
       ],
@@ -34987,30 +34987,66 @@
       ],
       "accessibility" : [
         {
-          "text" : "Already migrated?",
+          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
           "targetRectangle" : {
-            "y" : 324.70941054821014,
-            "x" : 392.95578002929688,
-            "width" : 306.74800000000005,
-            "height" : 46
+            "y" : 201.18777465820312,
+            "x" : 488.18505954742432,
+            "width" : 515.33400000000006,
+            "height" : 92
           }
         },
         {
-          "text" : "Hash PWD with\\u2028New Algorithm",
+          "text" : "Login",
           "targetRectangle" : {
-            "y" : 594.45233154296875,
-            "x" : 338.95403802490233,
-            "width" : 149.57600000000002,
-            "height" : 56.720068697930401
+            "y" : 219.69381713867188,
+            "x" : 131.06487990774247,
+            "width" : 52.360000000000014,
+            "height" : 28.40008544921875
           }
         },
         {
-          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "text" : "User login: Migrate passwords",
           "targetRectangle" : {
-            "y" : 693.01855486631393,
-            "x" : 242.38958258056664,
-            "width" : 659.85599999999977,
-            "height" : 33
+            "y" : 125,
+            "x" : 36,
+            "width" : 516.57600000000002,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "*",
+          "targetRectangle" : {
+            "y" : 202.77199167013168,
+            "x" : 85.138126373291016,
+            "width" : 10.359999999999999,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "USER",
+          "targetRectangle" : {
+            "y" : 205.46713256835938,
+            "x" : 229.98117810058594,
+            "width" : 45.584000000000032,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Store new Hash",
+          "targetRectangle" : {
+            "y" : 605.0234375,
+            "x" : 640.73348895263678,
+            "width" : 150.976,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Validate Password",
+          "targetRectangle" : {
+            "y" : 410.98104858398438,
+            "x" : 59.905512608766543,
+            "width" : 180.68400000000003,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -35026,35 +35062,17 @@
           "text" : "*",
           "targetRectangle" : {
             "y" : 202.77199167013168,
-            "x" : 85.138126373291016,
+            "x" : 66.184950351715088,
             "width" : 10.359999999999999,
             "height" : 28.40008544921875
           }
         },
         {
-          "text" : "User login: Migrate passwords",
+          "text" : "Continue LOGIN",
           "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 516.57600000000002,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Validate Password",
-          "targetRectangle" : {
-            "y" : 410.98104858398438,
-            "x" : 59.905512608766543,
-            "width" : 180.68400000000003,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "USER",
-          "targetRectangle" : {
-            "y" : 205.46713256835938,
-            "x" : 229.98117810058594,
-            "width" : 45.584000000000032,
+            "y" : 417.75927734375,
+            "x" : 644.69129257702832,
+            "width" : 143.05199999999991,
             "height" : 28.40008544921875
           }
         },
@@ -35068,39 +35086,30 @@
           }
         },
         {
-          "text" : "Login",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
-            "y" : 219.69381713867188,
-            "x" : 131.06487990774247,
-            "width" : 52.360000000000014,
-            "height" : 28.40008544921875
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
           }
         },
         {
-          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
+          "text" : "Hash PWD with\\u2028New Algorithm",
           "targetRectangle" : {
-            "y" : 201.18777465820312,
-            "x" : 488.18505954742432,
-            "width" : 515.33400000000006,
-            "height" : 92
+            "y" : 594.45233154296875,
+            "x" : 338.95403802490233,
+            "width" : 149.57600000000002,
+            "height" : 56.720068697930401
           }
         },
         {
-          "text" : "Continue LOGIN",
+          "text" : "Already migrated?",
           "targetRectangle" : {
-            "y" : 417.75927734375,
-            "x" : 644.69129257702832,
-            "width" : 143.05199999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Store new Hash",
-          "targetRectangle" : {
-            "y" : 605.0234375,
-            "x" : 640.73348895263678,
-            "width" : 150.976,
-            "height" : 28.40008544921875
+            "y" : 324.70941054821014,
+            "x" : 392.95578002929688,
+            "width" : 306.74800000000005,
+            "height" : 46
           }
         },
         {
@@ -35113,30 +35122,21 @@
           }
         },
         {
-          "text" : "*",
-          "targetRectangle" : {
-            "y" : 202.77199167013168,
-            "x" : 66.184950351715088,
-            "width" : 10.359999999999999,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Password",
           "targetRectangle" : {
             "y" : 237.4359130859375,
             "x" : 227.04116757202149,
             "width" : 96.543999999999983,
             "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "targetRectangle" : {
+            "y" : 693.01855486631393,
+            "x" : 242.38958258056664,
+            "width" : 659.85599999999977,
+            "height" : 33
           }
         }
       ],
@@ -41649,30 +41649,66 @@
       ],
       "accessibility" : [
         {
-          "text" : "Already migrated?",
+          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
           "targetRectangle" : {
-            "y" : 324.70941054821014,
-            "x" : 392.95578002929688,
-            "width" : 306.74800000000005,
-            "height" : 46
+            "y" : 201.18777465820312,
+            "x" : 488.18505954742432,
+            "width" : 515.33400000000006,
+            "height" : 92
           }
         },
         {
-          "text" : "Hash PWD with\\u2028New Algorithm",
+          "text" : "Login",
           "targetRectangle" : {
-            "y" : 594.45233154296875,
-            "x" : 338.95403802490233,
-            "width" : 149.57600000000002,
-            "height" : 56.720068697930401
+            "y" : 219.69381713867188,
+            "x" : 131.06487990774247,
+            "width" : 52.360000000000014,
+            "height" : 28.40008544921875
           }
         },
         {
-          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "text" : "User login: Migrate passwords",
           "targetRectangle" : {
-            "y" : 693.01855486631393,
-            "x" : 242.38958258056664,
-            "width" : 659.85599999999977,
-            "height" : 33
+            "y" : 125,
+            "x" : 36,
+            "width" : 516.57600000000002,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "*",
+          "targetRectangle" : {
+            "y" : 202.77199167013168,
+            "x" : 85.138126373291016,
+            "width" : 10.359999999999999,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "USER",
+          "targetRectangle" : {
+            "y" : 205.46713256835938,
+            "x" : 229.98117810058594,
+            "width" : 45.584000000000032,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Store new Hash",
+          "targetRectangle" : {
+            "y" : 605.0234375,
+            "x" : 640.73348895263678,
+            "width" : 150.976,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Validate Password",
+          "targetRectangle" : {
+            "y" : 410.98104858398438,
+            "x" : 59.905512608766543,
+            "width" : 180.68400000000003,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -41688,35 +41724,17 @@
           "text" : "*",
           "targetRectangle" : {
             "y" : 202.77199167013168,
-            "x" : 85.138126373291016,
+            "x" : 66.184950351715088,
             "width" : 10.359999999999999,
             "height" : 28.40008544921875
           }
         },
         {
-          "text" : "User login: Migrate passwords",
+          "text" : "Continue LOGIN",
           "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 516.57600000000002,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Validate Password",
-          "targetRectangle" : {
-            "y" : 410.98104858398438,
-            "x" : 59.905512608766543,
-            "width" : 180.68400000000003,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "USER",
-          "targetRectangle" : {
-            "y" : 205.46713256835938,
-            "x" : 229.98117810058594,
-            "width" : 45.584000000000032,
+            "y" : 417.75927734375,
+            "x" : 644.69129257702832,
+            "width" : 143.05199999999991,
             "height" : 28.40008544921875
           }
         },
@@ -41730,39 +41748,30 @@
           }
         },
         {
-          "text" : "Login",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
-            "y" : 219.69381713867188,
-            "x" : 131.06487990774247,
-            "width" : 52.360000000000014,
-            "height" : 28.40008544921875
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
           }
         },
         {
-          "text" : "Online migration of passwords\\u2028to a new hashing scheme",
+          "text" : "Hash PWD with\\u2028New Algorithm",
           "targetRectangle" : {
-            "y" : 201.18777465820312,
-            "x" : 488.18505954742432,
-            "width" : 515.33400000000006,
-            "height" : 92
+            "y" : 594.45233154296875,
+            "x" : 338.95403802490233,
+            "width" : 149.57600000000002,
+            "height" : 56.720068697930401
           }
         },
         {
-          "text" : "Continue LOGIN",
+          "text" : "Already migrated?",
           "targetRectangle" : {
-            "y" : 417.75927734375,
-            "x" : 644.69129257702832,
-            "width" : 143.05199999999991,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Store new Hash",
-          "targetRectangle" : {
-            "y" : 605.0234375,
-            "x" : 640.73348895263678,
-            "width" : 150.976,
-            "height" : 28.40008544921875
+            "y" : 324.70941054821014,
+            "x" : 392.95578002929688,
+            "width" : 306.74800000000005,
+            "height" : 46
           }
         },
         {
@@ -41775,30 +41784,21 @@
           }
         },
         {
-          "text" : "*",
-          "targetRectangle" : {
-            "y" : 202.77199167013168,
-            "x" : 66.184950351715088,
-            "width" : 10.359999999999999,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Password",
           "targetRectangle" : {
             "y" : 237.4359130859375,
             "x" : 227.04116757202149,
             "width" : 96.543999999999983,
             "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Migrate passwords  to new hashing scheme at login time",
+          "targetRectangle" : {
+            "y" : 693.01855486631393,
+            "x" : 242.38958258056664,
+            "width" : 659.85599999999977,
+            "height" : 33
           }
         }
       ],

@@ -16,9 +16,9 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "8980D63898AC40CB7A15C0CEA5F9B322" : {
+      "1A5F0140AA1D61A9269B981DB2110372" : {
         "type" : "texture",
-        "index" : 10,
+        "index" : 7,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -27,8 +27,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/8321C0DC-76D9-475E-8C17-6772E2D96F36.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 859,
+        "height" : 260
       },
       "45A3CD692D994BC48E128F15FFF0E6E7" : {
         "type" : "texture",
@@ -44,9 +44,9 @@ local_slide( {
         "width" : 262,
         "height" : 37
       },
-      "1A5F0140AA1D61A9269B981DB2110372" : {
+      "A0810146192B56EA6781C599DFCF9C26" : {
         "type" : "texture",
-        "index" : 7,
+        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -55,8 +55,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/8321C0DC-76D9-475E-8C17-6772E2D96F36.pdf"
         },
-        "width" : 859,
-        "height" : 260
+        "width" : 37,
+        "height" : 20
       },
       "448C6A2098FFBC5ACE0A852183B242BE" : {
         "type" : "texture",
@@ -86,20 +86,6 @@ local_slide( {
         "width" : 964,
         "height" : 5
       },
-      "B969A5D994065FCC65D6B07B73261A09" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/8321C0DC-76D9-475E-8C17-6772E2D96F36.pdf"
-        },
-        "width" : 26,
-        "height" : 20
-      },
       "A899531FE695449A1FE445D2B5F05CAB" : {
         "type" : "texture",
         "index" : 8,
@@ -113,6 +99,20 @@ local_slide( {
         },
         "width" : 109,
         "height" : 66
+      },
+      "7801F1278E59BE5BCD9E5540730E0572" : {
+        "type" : "texture",
+        "index" : 10,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/8321C0DC-76D9-475E-8C17-6772E2D96F36.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       },
       "C0D78B79BD8C8A86930412C2AE097FA2" : {
         "type" : "texture",
@@ -419,7 +419,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "8980D63898AC40CB7A15C0CEA5F9B322"
+                      "texture" : "7801F1278E59BE5BCD9E5540730E0572"
                     }
                   ]
                 }
@@ -440,11 +440,20 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "￼",
+            "text" : "key_holo_dark.png",
             "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
+              "y" : 114.89883232116699,
+              "x" : 889.9456729888916,
+              "width" : 19.855163060696555,
+              "height" : 19.855163060696555
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
               "height" : 28
             }
           },
@@ -458,15 +467,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Data",
-            "targetRectangle" : {
-              "y" : 158.73831558227539,
-              "x" : 924.04947586059575,
-              "width" : 18.849999999999909,
-              "height" : 13.400039672851562
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
@@ -476,12 +476,30 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
+            "text" : "Access control",
             "targetRectangle" : {
-              "y" : 40,
+              "y" : 125,
               "x" : 36,
-              "width" : 498.60234439373016,
+              "width" : 260.16000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 953.05706703662872,
+              "width" : 34.55859375,
               "height" : 28
+            }
+          },
+          {
+            "text" : "ic_action_lock_closed.png",
+            "targetRectangle" : {
+              "y" : 153.45940399169922,
+              "x" : 965.67934417724609,
+              "width" : 19.855165481567383,
+              "height" : 19.85516357421875
             }
           },
           {
@@ -521,33 +539,6 @@ local_slide( {
             }
           },
           {
-            "text" : "ic_action_lock_closed.png",
-            "targetRectangle" : {
-              "y" : 153.45940399169922,
-              "x" : 965.67934417724609,
-              "width" : 19.855165481567383,
-              "height" : 19.85516357421875
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 114.89883232116699,
-              "x" : 889.9456729888916,
-              "width" : 19.855163060696555,
-              "height" : 19.855163060696555
-            }
-          },
-          {
-            "text" : "Access control",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 260.16000000000003,
-              "height" : 48.400146484375
-            }
-          },
-          {
             "text" : "Problem: Make sure that data can only be accessed by some users",
             "targetRectangle" : {
               "y" : 175.24711608886719,
@@ -563,6 +554,15 @@ local_slide( {
               "x" : 36,
               "width" : 624.0907400000001,
               "height" : 42
+            }
+          },
+          {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 158.73831558227539,
+              "x" : 924.04947586059575,
+              "width" : 18.849999999999909,
+              "height" : 13.400039672851562
             }
           }
         ],
@@ -1645,10 +1645,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.57660043239594,
+                      "pointX" : 966.55706703662872,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 37,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1717,10 +1717,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.423399567604065,
+                          "pointX" : 22.442932963371277,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 37,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1754,7 +1754,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B969A5D994065FCC65D6B07B73261A09"
+                      "texture" : "A0810146192B56EA6781C599DFCF9C26"
                     }
                   ]
                 }

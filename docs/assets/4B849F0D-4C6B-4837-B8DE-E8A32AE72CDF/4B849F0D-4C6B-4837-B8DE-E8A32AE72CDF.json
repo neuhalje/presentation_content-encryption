@@ -480,24 +480,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "(*)  to “non-closed usergroups”  E.g.  public E-Mail services!",
-          "targetRectangle" : {
-            "y" : 745.24023371934891,
-            "x" : 11.823999881744385,
-            "width" : 488.41199999999986,
-            "height" : 25
-          }
-        },
-        {
-          "text" : "§ 109a Daten- und Informationssicherheit\\u2028(1) [...] im Fall einer Verletzung [...] unverzüglich\\u2028[…] BNetzA & BfDI ...] zu benachrichtigen.\\u2028Ist anzunehmen [...]  schutzwürdigen Interessen beeinträchtigt werden, hat der Anbieter […] zusätzlich die Betroffenen unverzüglich von dieser Verletzung zu benachrichtigen. In Fällen, [...] durch geeignete technische Vorkehrungen gesichert, insbesondere [...] Verschlüsselungsverfahrens gespeichert wurden, ist eine Benachrichtigung nicht erforderlich.",
-          "targetRectangle" : {
-            "y" : 258.28515625,
-            "x" : 69.599998950958252,
-            "width" : 607.27296000000013,
-            "height" : 407
-          }
-        },
-        {
           "text" : "Flag_of_Germany.png",
           "targetRectangle" : {
             "y" : 93.972236633300781,
@@ -507,12 +489,12 @@
           }
         },
         {
-          "text" : "Jens Neuhalfen",
+          "text" : "Telekommunikationsgesetz",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
+            "y" : 125,
+            "x" : 36,
+            "width" : 446.15999999999991,
+            "height" : 48.400146484375
           }
         },
         {
@@ -522,6 +504,15 @@
             "x" : 964.57660043239594,
             "width" : 23.0390625,
             "height" : 28
+          }
+        },
+        {
+          "text" : "(*)  to “non-closed usergroups”  E.g.  public E-Mail services!",
+          "targetRectangle" : {
+            "y" : 745.24023371934891,
+            "x" : 11.823999881744385,
+            "width" : 488.41199999999986,
+            "height" : 25
           }
         },
         {
@@ -543,21 +534,30 @@
           }
         },
         {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "§ 109a Daten- und Informationssicherheit\\u2028(1) [...] im Fall einer Verletzung [...] unverzüglich\\u2028[…] BNetzA & BfDI ...] zu benachrichtigen.\\u2028Ist anzunehmen [...]  schutzwürdigen Interessen beeinträchtigt werden, hat der Anbieter […] zusätzlich die Betroffenen unverzüglich von dieser Verletzung zu benachrichtigen. In Fällen, [...] durch geeignete technische Vorkehrungen gesichert, insbesondere [...] Verschlüsselungsverfahrens gespeichert wurden, ist eine Benachrichtigung nicht erforderlich.",
+          "targetRectangle" : {
+            "y" : 258.28515625,
+            "x" : 69.599998950958252,
+            "width" : 607.27296000000013,
+            "height" : 407
+          }
+        },
+        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
             "x" : 36,
             "width" : 498.60234439373016,
             "height" : 28
-          }
-        },
-        {
-          "text" : "Telekommunikationsgesetz",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 446.15999999999991,
-            "height" : 48.400146484375
           }
         },
         {

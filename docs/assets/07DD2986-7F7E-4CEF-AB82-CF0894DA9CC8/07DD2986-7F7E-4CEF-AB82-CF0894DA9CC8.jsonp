@@ -72,6 +72,20 @@ local_slide( {
         "width" : 606,
         "height" : 470
       },
+      "49CF1F419A4D7713C788065F032D6018" : {
+        "type" : "texture",
+        "index" : 9,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/07DD2986-7F7E-4CEF-AB82-CF0894DA9CC8.pdf"
+        },
+        "width" : 26,
+        "height" : 20
+      },
       "BC5C835C1B65F47AEF50D58769420980" : {
         "type" : "texture",
         "index" : 10,
@@ -142,7 +156,7 @@ local_slide( {
         "width" : 58,
         "height" : 21
       },
-      "F360400C374C359B26B73546F148704F" : {
+      "93461FBEADE769A390D2BE1104EB91D3" : {
         "type" : "texture",
         "index" : 33,
         "assetRequest" : {
@@ -169,6 +183,20 @@ local_slide( {
         },
         "width" : 549,
         "height" : 169
+      },
+      "EA9C12EEB30B42A4B51C2C4A19D09C78" : {
+        "type" : "texture",
+        "index" : 34,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/07DD2986-7F7E-4CEF-AB82-CF0894DA9CC8.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       },
       "3F4EC82426C53471BDA13D4E705B8F25" : {
         "type" : "texture",
@@ -197,6 +225,20 @@ local_slide( {
         },
         "width" : 521,
         "height" : 58
+      },
+      "6D5B0D4B5603343D8B9CE3DC6107AEC0" : {
+        "type" : "texture",
+        "index" : 8,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/07DD2986-7F7E-4CEF-AB82-CF0894DA9CC8.pdf"
+        },
+        "width" : 498,
+        "height" : 20
       },
       "9AE00BC2885C52A6179E832ACBEE510C" : {
         "type" : "texture",
@@ -242,7 +284,7 @@ local_slide( {
       },
       "C0D78B79BD8C8A86930412C2AE097FA2" : {
         "type" : "texture",
-        "index" : 8,
+        "index" : 32,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -282,9 +324,9 @@ local_slide( {
         "width" : 67,
         "height" : 31
       },
-      "CDEE696F28D3334DA04ABB58FF2E8748" : {
+      "DD91E9CCC51CC2CF146078B5853B4AE9" : {
         "type" : "texture",
-        "index" : 32,
+        "index" : 23,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -293,8 +335,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/07DD2986-7F7E-4CEF-AB82-CF0894DA9CC8.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 255,
+        "height" : 27
       },
       "0EAE6A7D725C9B44345C70BAF62B4849" : {
         "type" : "texture",
@@ -324,34 +366,6 @@ local_slide( {
         "width" : 964,
         "height" : 5
       },
-      "DD91E9CCC51CC2CF146078B5853B4AE9" : {
-        "type" : "texture",
-        "index" : 23,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/07DD2986-7F7E-4CEF-AB82-CF0894DA9CC8.pdf"
-        },
-        "width" : 255,
-        "height" : 27
-      },
-      "C043762446FAA073F7D61B7BA4751FE4" : {
-        "type" : "texture",
-        "index" : 24,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/07DD2986-7F7E-4CEF-AB82-CF0894DA9CC8.pdf"
-        },
-        "width" : 521,
-        "height" : 59
-      },
       "C96B6565633FF0DCE9F139C64244092D" : {
         "type" : "texture",
         "index" : 31,
@@ -380,6 +394,20 @@ local_slide( {
         "width" : 67,
         "height" : 31
       },
+      "C043762446FAA073F7D61B7BA4751FE4" : {
+        "type" : "texture",
+        "index" : 24,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/07DD2986-7F7E-4CEF-AB82-CF0894DA9CC8.pdf"
+        },
+        "width" : 521,
+        "height" : 59
+      },
       "448C6A2098FFBC5ACE0A852183B242BE" : {
         "type" : "texture",
         "index" : 2,
@@ -392,20 +420,6 @@ local_slide( {
           "native" : "assets\/07DD2986-7F7E-4CEF-AB82-CF0894DA9CC8.pdf"
         },
         "width" : 209,
-        "height" : 20
-      },
-      "388D4E7592E2B1AD4A6D0F37738CEB64" : {
-        "type" : "texture",
-        "index" : 9,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/07DD2986-7F7E-4CEF-AB82-CF0894DA9CC8.pdf"
-        },
-        "width" : 26,
         "height" : 20
       },
       "45D95CAF48DBC23B500E57ECE108D506" : {
@@ -1911,21 +1925,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "User login: Migrate passwords",
+            "text" : "check vs. database",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
+              "y" : 498.10455340147018,
+              "x" : 452.4501953125,
+              "width" : 205.99199999999996,
+              "height" : 33
             }
           },
           {
-            "text" : "hash password w. MD5",
+            "text" : "TIGER",
             "targetRectangle" : {
-              "y" : 362.71432512998581,
-              "x" : 452.4501953125,
-              "width" : 253.34400000000005,
-              "height" : 33
+              "y" : 332.6029052734375,
+              "x" : 198.79064892578126,
+              "width" : 49.22399999999999,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -1938,57 +1952,21 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "check vs. database",
-            "targetRectangle" : {
-              "y" : 498.10455340147018,
-              "x" : 452.4501953125,
-              "width" : 205.99199999999996,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "\/",
-            "targetRectangle" : {
-              "y" : 332.7535400390625,
-              "x" : 181.79464892578125,
-              "width" : 6.2160000000000082,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "SCOTT",
-            "targetRectangle" : {
-              "y" : 332.7535400390625,
-              "x" : 118.59271142578125,
-              "width" : 52.947999999999993,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "SCOTT",
-            "targetRectangle" : {
-              "y" : 332.6029052734375,
-              "x" : 119.92864892578125,
-              "width" : 52.947999999999993,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "User login: Migrate passwords",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
             }
           },
           {
@@ -2010,15 +1988,6 @@ local_slide( {
             }
           },
           {
-            "text" : "TIGER",
-            "targetRectangle" : {
-              "y" : 332.7535400390625,
-              "x" : 197.45471142578126,
-              "width" : 49.22399999999999,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "ValidatePassword",
             "targetRectangle" : {
               "y" : 317.90368670225143,
@@ -2030,10 +1999,55 @@ local_slide( {
           {
             "text" : "TIGER",
             "targetRectangle" : {
-              "y" : 332.6029052734375,
-              "x" : 198.79064892578126,
+              "y" : 332.7535400390625,
+              "x" : 197.45471142578126,
               "width" : 49.22399999999999,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "\/",
+            "targetRectangle" : {
+              "y" : 332.7535400390625,
+              "x" : 181.79464892578125,
+              "width" : 6.2160000000000082,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "hash password w. MD5",
+            "targetRectangle" : {
+              "y" : 362.71432512998581,
+              "x" : 452.4501953125,
+              "width" : 253.34400000000005,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "SCOTT",
+            "targetRectangle" : {
+              "y" : 332.7535400390625,
+              "x" : 118.59271142578125,
+              "width" : 52.947999999999993,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "SCOTT",
+            "targetRectangle" : {
+              "y" : 332.6029052734375,
+              "x" : 119.92864892578125,
+              "width" : 52.947999999999993,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
             }
           }
         ],
@@ -3993,7 +4007,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C0D78B79BD8C8A86930412C2AE097FA2"
+                      "texture" : "6D5B0D4B5603343D8B9CE3DC6107AEC0"
                     }
                   ]
                 }
@@ -4180,7 +4194,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "388D4E7592E2B1AD4A6D0F37738CEB64"
+                      "texture" : "49CF1F419A4D7713C788065F032D6018"
                     }
                   ]
                 }
@@ -11475,21 +11489,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "User login: Migrate passwords",
+            "text" : "check vs. database",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
+              "y" : 498.10455340147018,
+              "x" : 452.4501953125,
+              "width" : 205.99199999999996,
+              "height" : 33
             }
           },
           {
-            "text" : "hash password w. MD5",
+            "text" : "TIGER",
             "targetRectangle" : {
-              "y" : 362.71432512998581,
-              "x" : 452.4501953125,
-              "width" : 253.34400000000005,
-              "height" : 33
+              "y" : 332.6029052734375,
+              "x" : 198.79064892578126,
+              "width" : 49.22399999999999,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -11502,57 +11516,21 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "check vs. database",
-            "targetRectangle" : {
-              "y" : 498.10455340147018,
-              "x" : 452.4501953125,
-              "width" : 205.99199999999996,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "\/",
-            "targetRectangle" : {
-              "y" : 332.7535400390625,
-              "x" : 181.79464892578125,
-              "width" : 6.2160000000000082,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "SCOTT",
-            "targetRectangle" : {
-              "y" : 332.7535400390625,
-              "x" : 118.59271142578125,
-              "width" : 52.947999999999993,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "SCOTT",
-            "targetRectangle" : {
-              "y" : 332.6029052734375,
-              "x" : 119.92864892578125,
-              "width" : 52.947999999999993,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "User login: Migrate passwords",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
             }
           },
           {
@@ -11574,15 +11552,6 @@ local_slide( {
             }
           },
           {
-            "text" : "TIGER",
-            "targetRectangle" : {
-              "y" : 332.7535400390625,
-              "x" : 197.45471142578126,
-              "width" : 49.22399999999999,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "ValidatePassword",
             "targetRectangle" : {
               "y" : 317.90368670225143,
@@ -11594,10 +11563,55 @@ local_slide( {
           {
             "text" : "TIGER",
             "targetRectangle" : {
-              "y" : 332.6029052734375,
-              "x" : 198.79064892578126,
+              "y" : 332.7535400390625,
+              "x" : 197.45471142578126,
               "width" : 49.22399999999999,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "\/",
+            "targetRectangle" : {
+              "y" : 332.7535400390625,
+              "x" : 181.79464892578125,
+              "width" : 6.2160000000000082,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "hash password w. MD5",
+            "targetRectangle" : {
+              "y" : 362.71432512998581,
+              "x" : 452.4501953125,
+              "width" : 253.34400000000005,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "SCOTT",
+            "targetRectangle" : {
+              "y" : 332.7535400390625,
+              "x" : 118.59271142578125,
+              "width" : 52.947999999999993,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "SCOTT",
+            "targetRectangle" : {
+              "y" : 332.6029052734375,
+              "x" : 119.92864892578125,
+              "width" : 52.947999999999993,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
             }
           }
         ],
@@ -13744,7 +13758,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "388D4E7592E2B1AD4A6D0F37738CEB64"
+                      "texture" : "49CF1F419A4D7713C788065F032D6018"
                     }
                   ]
                 }
@@ -20421,21 +20435,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "User login: Migrate passwords",
+            "text" : "check vs. database",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
+              "y" : 498.10455340147018,
+              "x" : 452.4501953125,
+              "width" : 205.99199999999996,
+              "height" : 33
             }
           },
           {
-            "text" : "hash password w. MD5",
+            "text" : "TIGER",
             "targetRectangle" : {
-              "y" : 362.71432512998581,
-              "x" : 452.4501953125,
-              "width" : 253.34400000000005,
-              "height" : 33
+              "y" : 332.6029052734375,
+              "x" : 198.79064892578126,
+              "width" : 49.22399999999999,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -20448,57 +20462,21 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "check vs. database",
-            "targetRectangle" : {
-              "y" : 498.10455340147018,
-              "x" : 452.4501953125,
-              "width" : 205.99199999999996,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "\/",
-            "targetRectangle" : {
-              "y" : 332.7535400390625,
-              "x" : 181.79464892578125,
-              "width" : 6.2160000000000082,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "SCOTT",
-            "targetRectangle" : {
-              "y" : 332.7535400390625,
-              "x" : 118.59271142578125,
-              "width" : 52.947999999999993,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "SCOTT",
-            "targetRectangle" : {
-              "y" : 332.6029052734375,
-              "x" : 119.92864892578125,
-              "width" : 52.947999999999993,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "User login: Migrate passwords",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
             }
           },
           {
@@ -20529,12 +20507,21 @@ local_slide( {
             }
           },
           {
-            "text" : "TIGER",
+            "text" : "\/",
             "targetRectangle" : {
-              "y" : 332.6029052734375,
-              "x" : 198.79064892578126,
-              "width" : 49.22399999999999,
+              "y" : 332.7535400390625,
+              "x" : 181.79464892578125,
+              "width" : 6.2160000000000082,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "hash password w. MD5",
+            "targetRectangle" : {
+              "y" : 362.71432512998581,
+              "x" : 452.4501953125,
+              "width" : 253.34400000000005,
+              "height" : 33
             }
           },
           {
@@ -20544,6 +20531,33 @@ local_slide( {
               "x" : 799.8265873413086,
               "width" : 103.404,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "SCOTT",
+            "targetRectangle" : {
+              "y" : 332.7535400390625,
+              "x" : 118.59271142578125,
+              "width" : 52.947999999999993,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "SCOTT",
+            "targetRectangle" : {
+              "y" : 332.6029052734375,
+              "x" : 119.92864892578125,
+              "width" : 52.947999999999993,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
             }
           }
         ],
@@ -22690,7 +22704,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "388D4E7592E2B1AD4A6D0F37738CEB64"
+                      "texture" : "49CF1F419A4D7713C788065F032D6018"
                     }
                   ]
                 }
@@ -28613,21 +28627,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "User login: Migrate passwords",
+            "text" : "check vs. database",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
+              "y" : 498.10455340147018,
+              "x" : 452.4501953125,
+              "width" : 205.99199999999996,
+              "height" : 33
             }
           },
           {
-            "text" : "hash password w. MD5",
+            "text" : "TIGER",
             "targetRectangle" : {
-              "y" : 362.71432512998581,
-              "x" : 452.4501953125,
-              "width" : 253.34400000000005,
-              "height" : 33
+              "y" : 332.6029052734375,
+              "x" : 198.79064892578126,
+              "width" : 49.22399999999999,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -28640,57 +28654,21 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "check vs. database",
-            "targetRectangle" : {
-              "y" : 498.10455340147018,
-              "x" : 452.4501953125,
-              "width" : 205.99199999999996,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "\/",
-            "targetRectangle" : {
-              "y" : 332.7535400390625,
-              "x" : 181.79464892578125,
-              "width" : 6.2160000000000082,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "SCOTT",
-            "targetRectangle" : {
-              "y" : 332.7535400390625,
-              "x" : 118.59271142578125,
-              "width" : 52.947999999999993,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "SCOTT",
-            "targetRectangle" : {
-              "y" : 332.6029052734375,
-              "x" : 119.92864892578125,
-              "width" : 52.947999999999993,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "User login: Migrate passwords",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
             }
           },
           {
@@ -28721,12 +28699,21 @@ local_slide( {
             }
           },
           {
-            "text" : "TIGER",
+            "text" : "\/",
             "targetRectangle" : {
-              "y" : 332.6029052734375,
-              "x" : 198.79064892578126,
-              "width" : 49.22399999999999,
+              "y" : 332.7535400390625,
+              "x" : 181.79464892578125,
+              "width" : 6.2160000000000082,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "hash password w. MD5",
+            "targetRectangle" : {
+              "y" : 362.71432512998581,
+              "x" : 452.4501953125,
+              "width" : 253.34400000000005,
+              "height" : 33
             }
           },
           {
@@ -28736,6 +28723,33 @@ local_slide( {
               "x" : 799.8265873413086,
               "width" : 103.404,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "SCOTT",
+            "targetRectangle" : {
+              "y" : 332.7535400390625,
+              "x" : 118.59271142578125,
+              "width" : 52.947999999999993,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "SCOTT",
+            "targetRectangle" : {
+              "y" : 332.6029052734375,
+              "x" : 119.92864892578125,
+              "width" : 52.947999999999993,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
             }
           }
         ],
@@ -30882,7 +30896,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "388D4E7592E2B1AD4A6D0F37738CEB64"
+                      "texture" : "49CF1F419A4D7713C788065F032D6018"
                     }
                   ]
                 }
@@ -37787,21 +37801,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "User login: Migrate passwords",
+            "text" : "check vs. database",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
+              "y" : 498.10455340147018,
+              "x" : 452.4501953125,
+              "width" : 205.99199999999996,
+              "height" : 33
             }
           },
           {
-            "text" : "hash password w. MD5",
+            "text" : "TIGER",
             "targetRectangle" : {
-              "y" : 362.71432512998581,
-              "x" : 452.4501953125,
-              "width" : 253.34400000000005,
-              "height" : 33
+              "y" : 332.6029052734375,
+              "x" : 198.79064892578126,
+              "width" : 49.22399999999999,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -37814,57 +37828,21 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "check vs. database",
-            "targetRectangle" : {
-              "y" : 498.10455340147018,
-              "x" : 452.4501953125,
-              "width" : 205.99199999999996,
-              "height" : 33
-            }
-          },
-          {
-            "text" : "\/",
-            "targetRectangle" : {
-              "y" : 332.7535400390625,
-              "x" : 181.79464892578125,
-              "width" : 6.2160000000000082,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "SCOTT",
-            "targetRectangle" : {
-              "y" : 332.7535400390625,
-              "x" : 118.59271142578125,
-              "width" : 52.947999999999993,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "SCOTT",
-            "targetRectangle" : {
-              "y" : 332.6029052734375,
-              "x" : 119.92864892578125,
-              "width" : 52.947999999999993,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "User login: Migrate passwords",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
             }
           },
           {
@@ -37895,12 +37873,21 @@ local_slide( {
             }
           },
           {
-            "text" : "TIGER",
+            "text" : "\/",
             "targetRectangle" : {
-              "y" : 332.6029052734375,
-              "x" : 198.79064892578126,
-              "width" : 49.22399999999999,
+              "y" : 332.7535400390625,
+              "x" : 181.79464892578125,
+              "width" : 6.2160000000000082,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "hash password w. MD5",
+            "targetRectangle" : {
+              "y" : 362.71432512998581,
+              "x" : 452.4501953125,
+              "width" : 253.34400000000005,
+              "height" : 33
             }
           },
           {
@@ -37910,6 +37897,33 @@ local_slide( {
               "x" : 799.8265873413086,
               "width" : 103.404,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "SCOTT",
+            "targetRectangle" : {
+              "y" : 332.7535400390625,
+              "x" : 118.59271142578125,
+              "width" : 52.947999999999993,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "SCOTT",
+            "targetRectangle" : {
+              "y" : 332.6029052734375,
+              "x" : 119.92864892578125,
+              "width" : 52.947999999999993,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
             }
           }
         ],
@@ -40056,7 +40070,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "388D4E7592E2B1AD4A6D0F37738CEB64"
+                      "texture" : "49CF1F419A4D7713C788065F032D6018"
                     }
                   ]
                 }
@@ -45482,7 +45496,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "CDEE696F28D3334DA04ABB58FF2E8748"
+                      "texture" : "93461FBEADE769A390D2BE1104EB91D3"
                     },
                     {
                       "animations" : [
@@ -45563,7 +45577,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "F360400C374C359B26B73546F148704F"
+                      "texture" : "EA9C12EEB30B42A4B51C2C4A19D09C78"
                     }
                   ]
                 }
@@ -45584,21 +45598,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "User login: Migrate passwords",
+            "text" : "check vs. database",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 516.57600000000002,
-              "height" : 48.400146484375
+              "y" : 498.10455340147018,
+              "x" : 452.4501953125,
+              "width" : 205.99199999999996,
+              "height" : 33
             }
           },
           {
-            "text" : "hash password w. MD5",
+            "text" : "TIGER",
             "targetRectangle" : {
-              "y" : 362.71432512998581,
-              "x" : 452.4501953125,
-              "width" : 253.34400000000005,
-              "height" : 33
+              "y" : 332.6029052734375,
+              "x" : 198.79064892578126,
+              "width" : 49.22399999999999,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -45611,47 +45625,11 @@ local_slide( {
             }
           },
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "check vs. database",
-            "targetRectangle" : {
-              "y" : 498.10455340147018,
-              "x" : 452.4501953125,
-              "width" : 205.99199999999996,
-              "height" : 33
-            }
-          },
-          {
             "text" : "PURE Hash considered harmful",
             "targetRectangle" : {
               "y" : 715.0020751953125,
               "x" : 493.05462719726563,
               "width" : 300.66399999999999,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "\/",
-            "targetRectangle" : {
-              "y" : 332.7535400390625,
-              "x" : 181.79464892578125,
-              "width" : 6.2160000000000082,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "SCOTT",
-            "targetRectangle" : {
-              "y" : 332.6029052734375,
-              "x" : 119.92864892578125,
-              "width" : 52.947999999999993,
               "height" : 28.40008544921875
             }
           },
@@ -45662,6 +45640,15 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "User login: Migrate passwords",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 516.57600000000002,
+              "height" : 48.400146484375
             }
           },
           {
@@ -45692,12 +45679,39 @@ local_slide( {
             }
           },
           {
-            "text" : "TIGER",
+            "text" : "\/",
+            "targetRectangle" : {
+              "y" : 332.7535400390625,
+              "x" : 181.79464892578125,
+              "width" : 6.2160000000000082,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "hash password w. MD5",
+            "targetRectangle" : {
+              "y" : 362.71432512998581,
+              "x" : 452.4501953125,
+              "width" : 253.34400000000005,
+              "height" : 33
+            }
+          },
+          {
+            "text" : "SCOTT",
             "targetRectangle" : {
               "y" : 332.6029052734375,
-              "x" : 198.79064892578126,
-              "width" : 49.22399999999999,
+              "x" : 119.92864892578125,
+              "width" : 52.947999999999993,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
             }
           }
         ],
@@ -47845,7 +47859,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "388D4E7592E2B1AD4A6D0F37738CEB64"
+                      "texture" : "49CF1F419A4D7713C788065F032D6018"
                     }
                   ]
                 }

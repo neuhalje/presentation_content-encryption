@@ -466,12 +466,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "Applies to: Everyone - here to Doctors, Lawyers, Health insurance,.. ",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
-            "y" : 172.00000131130219,
-            "x" : 35.315999984741211,
-            "width" : 656.26400000000001,
-            "height" : 76
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
           }
         },
         {
@@ -484,12 +484,21 @@
           }
         },
         {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "Strafgesetzbuch",
           "targetRectangle" : {
-            "y" : 40,
+            "y" : 125,
             "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
+            "width" : 281.42399999999998,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "Applies to: Everyone - here to Doctors, Lawyers, Health insurance,.. ",
+          "targetRectangle" : {
+            "y" : 172.00000131130219,
+            "x" : 35.315999984741211,
+            "width" : 656.26400000000001,
+            "height" : 76
           }
         },
         {
@@ -502,12 +511,12 @@
           }
         },
         {
-          "text" : "Strafgesetzbuch",
+          "text" : "￼",
           "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 281.42399999999998,
-            "height" : 48.400146484375
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
           }
         },
         {
@@ -520,11 +529,11 @@
           }
         },
         {
-          "text" : "Jens Neuhalfen",
+          "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
+            "x" : 36,
+            "width" : 498.60234439373016,
             "height" : 28
           }
         },
@@ -535,15 +544,6 @@
             "x" : 648.16886901855469,
             "width" : 318,
             "height" : 200.0006103515625
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
           }
         }
       ],

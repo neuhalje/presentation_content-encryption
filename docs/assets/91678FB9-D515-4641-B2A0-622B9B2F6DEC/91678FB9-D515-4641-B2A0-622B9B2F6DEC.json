@@ -114,6 +114,20 @@
     },
     "BA78405427425CD740A12509138CA5CF" : {
       "type" : "texture",
+      "index" : 2,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/91678FB9-D515-4641-B2A0-622B9B2F6DEC.pdf"
+      },
+      "width" : 209,
+      "height" : 20
+    },
+    "FBB5DEA59905EE30EF2803B0A74DF992" : {
+      "type" : "texture",
       "index" : 0,
       "assetRequest" : {
         "type" : "slide",
@@ -138,20 +152,6 @@
         "native" : "assets\/91678FB9-D515-4641-B2A0-622B9B2F6DEC.pdf"
       },
       "width" : 498,
-      "height" : 20
-    },
-    "448C6A2098FFBC5ACE0A852183B242BE" : {
-      "type" : "texture",
-      "index" : 2,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/91678FB9-D515-4641-B2A0-622B9B2F6DEC.pdf"
-      },
-      "width" : 209,
       "height" : 20
     },
     "CD28CEA13CE7C223DB856720F40FCE44" : {
@@ -466,12 +466,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "I am  not a lawyer!",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
+            "y" : 715.74996972084045,
+            "x" : 421.68598474121097,
+            "width" : 180.62799999999993,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -484,12 +484,12 @@
           }
         },
         {
-          "text" : "I am  not a lawyer!",
+          "text" : "TMG",
           "targetRectangle" : {
-            "y" : 715.74996972084045,
-            "x" : 421.68598474121097,
-            "width" : 180.62799999999993,
-            "height" : 28.40008544921875
+            "y" : 309.59501647949219,
+            "x" : 675.76886901855471,
+            "width" : 262.79999999999995,
+            "height" : 200.0006103515625
           }
         },
         {
@@ -499,42 +499,6 @@
             "x" : 758.68865966796875,
             "width" : 233.81135559082031,
             "height" : 140.68681335449219
-          }
-        },
-        {
-          "text" : "TeleMEDIENgesetz",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 290.35199999999998,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Applies to: Everyone providing websites for profit",
-          "targetRectangle" : {
-            "y" : 169.99999958276749,
-            "x" : 35.315999984741211,
-            "width" : 680.23199999999997,
-            "height" : 38
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "TMG",
-          "targetRectangle" : {
-            "y" : 309.59501647949219,
-            "x" : 675.76886901855471,
-            "width" : 262.79999999999995,
-            "height" : 200.0006103515625
           }
         },
         {
@@ -553,6 +517,42 @@
             "x" : 59.450000286102295,
             "width" : 520.94644000000017,
             "height" : 111
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "TeleMEDIENgesetz",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 290.35199999999998,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "Applies to: Everyone providing websites for profit",
+          "targetRectangle" : {
+            "y" : 169.99999958276749,
+            "x" : 35.315999984741211,
+            "width" : 680.23199999999997,
+            "height" : 38
           }
         }
       ],
@@ -787,7 +787,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "BA78405427425CD740A12509138CA5CF"
+                    "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
                   }
                 ]
               }
@@ -1183,7 +1183,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "448C6A2098FFBC5ACE0A852183B242BE"
+                    "texture" : "BA78405427425CD740A12509138CA5CF"
                   }
                 ]
               }

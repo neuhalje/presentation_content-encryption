@@ -2,7 +2,7 @@
   "assets" : {
     "D928886C25DBC0B3ECCBFE6CF8D0B362" : {
       "type" : "texture",
-      "index" : 12,
+      "index" : 11,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -42,6 +42,20 @@
       "width" : 964,
       "height" : 5
     },
+    "0C92E733CCC4003D4667E27C079B4581" : {
+      "type" : "texture",
+      "index" : 4,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/E4FC66D6-991C-4BC5-B8DE-AA14F0E6C057.pdf"
+      },
+      "width" : 22,
+      "height" : 20
+    },
     "D3B5ECEB58FC4A9B9A5B2400FE933F94" : {
       "type" : "texture",
       "index" : 5,
@@ -55,6 +69,20 @@
       },
       "width" : 698,
       "height" : 244
+    },
+    "40724B6042659ED1ABCC4312616A9927" : {
+      "type" : "texture",
+      "index" : 12,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/E4FC66D6-991C-4BC5-B8DE-AA14F0E6C057.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     },
     "5AF55A9FF9A4782F691521913F3FB93E" : {
       "type" : "texture",
@@ -84,9 +112,9 @@
       "width" : 1024,
       "height" : 768
     },
-    "C0D78B79BD8C8A86930412C2AE097FA2" : {
+    "183686128D36BA5785A9DF0A603C6B3B" : {
       "type" : "texture",
-      "index" : 3,
+      "index" : 10,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -95,8 +123,8 @@
       "url" : {
         "native" : "assets\/E4FC66D6-991C-4BC5-B8DE-AA14F0E6C057.pdf"
       },
-      "width" : 498,
-      "height" : 20
+      "width" : 984,
+      "height" : 70
     },
     "448C6A2098FFBC5ACE0A852183B242BE" : {
       "type" : "texture",
@@ -112,20 +140,6 @@
       "width" : 209,
       "height" : 20
     },
-    "10C0C3BEEAC2AF3F305876C2514B71E6" : {
-      "type" : "texture",
-      "index" : 11,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/E4FC66D6-991C-4BC5-B8DE-AA14F0E6C057.pdf"
-      },
-      "width" : 984,
-      "height" : 71
-    },
     "B5F6235B426B6CB1AE79AB81746C2708" : {
       "type" : "texture",
       "index" : 7,
@@ -140,7 +154,7 @@
       "width" : 984,
       "height" : 71
     },
-    "F360400C374C359B26B73546F148704F" : {
+    "10C0C3BEEAC2AF3F305876C2514B71E6" : {
       "type" : "texture",
       "index" : 8,
       "assetRequest" : {
@@ -154,9 +168,9 @@
       "width" : 984,
       "height" : 71
     },
-    "183686128D36BA5785A9DF0A603C6B3B" : {
+    "C0D78B79BD8C8A86930412C2AE097FA2" : {
       "type" : "texture",
-      "index" : 10,
+      "index" : 3,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -165,35 +179,7 @@
       "url" : {
         "native" : "assets\/E4FC66D6-991C-4BC5-B8DE-AA14F0E6C057.pdf"
       },
-      "width" : 984,
-      "height" : 70
-    },
-    "FCCB20CF8E4B3622E02A6AE97918223C" : {
-      "type" : "texture",
-      "index" : 13,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/E4FC66D6-991C-4BC5-B8DE-AA14F0E6C057.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
-    "49CF1F419A4D7713C788065F032D6018" : {
-      "type" : "texture",
-      "index" : 4,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/E4FC66D6-991C-4BC5-B8DE-AA14F0E6C057.pdf"
-      },
-      "width" : 26,
+      "width" : 498,
       "height" : 20
     }
   },
@@ -1041,6 +1027,51 @@
       ],
       "accessibility" : [
         {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Screen Shot 2017-09-06 at 08.36.09.png",
+          "targetRectangle" : {
+            "y" : 84.423919677734375,
+            "x" : 164.422607421875,
+            "width" : 695.15478515625,
+            "height" : 241.25959777832031
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Even consumer grade graphic cards calculates giga-hashes (2^30) per second.",
+          "targetRectangle" : {
+            "y" : 315.88516235351562,
+            "x" : 26.165666580200195,
+            "width" : 850.71399999999994,
+            "height" : 92
+          }
+        },
+        {
           "text" : "https:\/\/www.troyhunt.com\/our-password-hashing-has-no-clothes\/ ",
           "targetRectangle" : {
             "y" : 617.70586943626404,
@@ -1083,51 +1114,6 @@
             "x" : 50.574118137359619,
             "width" : 539.63799999999981,
             "height" : 30
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Screen Shot 2017-09-06 at 08.36.09.png",
-          "targetRectangle" : {
-            "y" : 84.423919677734375,
-            "x" : 164.422607421875,
-            "width" : 695.15478515625,
-            "height" : 241.25959777832031
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Even consumer grade graphic cards calculates giga-hashes (2^30) per second.",
-          "targetRectangle" : {
-            "y" : 315.88516235351562,
-            "x" : 26.165666580200195,
-            "width" : 850.71399999999994,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
           }
         }
       ],
@@ -2022,10 +2008,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.57660043239594,
+                    "pointX" : 970.57660043239594,
                     "pointY" : 44
                   },
-                  "width" : 26,
+                  "width" : 22,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -2094,10 +2080,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 16.423399567604065,
+                        "pointX" : 14.423399567604065,
                         "pointY" : 18
                       },
-                      "width" : 26,
+                      "width" : 22,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -2131,7 +2117,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "49CF1F419A4D7713C788065F032D6018"
+                    "texture" : "0C92E733CCC4003D4667E27C079B4581"
                   }
                 ]
               }
@@ -2979,7 +2965,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "F360400C374C359B26B73546F148704F"
+                    "texture" : "10C0C3BEEAC2AF3F305876C2514B71E6"
                   }
                 ]
               }
@@ -3676,7 +3662,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "FCCB20CF8E4B3622E02A6AE97918223C"
+                    "texture" : "40724B6042659ED1ABCC4312616A9927"
                   }
                 ]
               }
@@ -3750,6 +3736,69 @@
           }
         },
         {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Screen Shot 2017-09-06 at 08.36.09.png",
+          "targetRectangle" : {
+            "y" : 84.423919677734375,
+            "x" : 164.422607421875,
+            "width" : 695.15478515625,
+            "height" : 241.25959777832031
+          }
+        },
+        {
+          "text" : "Switch to brute-force proof (== Slower) Algorithms ",
+          "targetRectangle" : {
+            "y" : 495.96249389648438,
+            "x" : 172.6099999999999,
+            "width" : 685.47600000000023,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Hashes - even salted - offer no protection against offline attacks",
+          "targetRectangle" : {
+            "y" : 424.77194213867188,
+            "x" : 92.815999999999633,
+            "width" : 838.36800000000085,
+            "height" : 35.80010986328125
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Even consumer grade graphic cards calculates giga-hashes (2^30) per second.",
+          "targetRectangle" : {
+            "y" : 315.88516235351562,
+            "x" : 26.165666580200195,
+            "width" : 850.71399999999994,
+            "height" : 92
+          }
+        },
+        {
           "text" : "https:\/\/www.troyhunt.com\/our-password-hashing-has-no-clothes\/ ",
           "targetRectangle" : {
             "y" : 617.70586943626404,
@@ -3792,69 +3841,6 @@
             "x" : 50.574118137359619,
             "width" : 539.63799999999981,
             "height" : 30
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Screen Shot 2017-09-06 at 08.36.09.png",
-          "targetRectangle" : {
-            "y" : 84.423919677734375,
-            "x" : 164.422607421875,
-            "width" : 695.15478515625,
-            "height" : 241.25959777832031
-          }
-        },
-        {
-          "text" : "Hashes - even salted - offer no protection against offline attacks",
-          "targetRectangle" : {
-            "y" : 424.77194213867188,
-            "x" : 92.815999999999633,
-            "width" : 838.36800000000085,
-            "height" : 35.80010986328125
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Even consumer grade graphic cards calculates giga-hashes (2^30) per second.",
-          "targetRectangle" : {
-            "y" : 315.88516235351562,
-            "x" : 26.165666580200195,
-            "width" : 850.71399999999994,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Switch to brute-force proof (== Slower) Algorithms ",
-          "targetRectangle" : {
-            "y" : 495.96249389648438,
-            "x" : 172.6099999999999,
-            "width" : 685.47600000000023,
-            "height" : 35.80010986328125
           }
         }
       ],
@@ -4750,10 +4736,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.57660043239594,
+                    "pointX" : 970.57660043239594,
                     "pointY" : 44
                   },
-                  "width" : 26,
+                  "width" : 22,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -4822,10 +4808,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 16.423399567604065,
+                        "pointX" : 14.423399567604065,
                         "pointY" : 18
                       },
-                      "width" : 26,
+                      "width" : 22,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -4859,7 +4845,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "49CF1F419A4D7713C788065F032D6018"
+                    "texture" : "0C92E733CCC4003D4667E27C079B4581"
                   }
                 ]
               }

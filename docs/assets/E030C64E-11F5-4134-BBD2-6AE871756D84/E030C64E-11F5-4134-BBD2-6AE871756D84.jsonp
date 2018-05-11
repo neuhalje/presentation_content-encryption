@@ -476,12 +476,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "EU Datenschutzgrundverordnung",
+            "text" : "DSGVO",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 486.14999999999998,
-              "height" : 41.600128173828125
+              "y" : 309.59501647949219,
+              "x" : 577.74660339355466,
+              "width" : 418.20000000000005,
+              "height" : 200.0006103515625
+            }
+          },
+          {
+            "text" : "Applies to: You (starting May 2018)",
+            "targetRectangle" : {
+              "y" : 169.99999958276749,
+              "x" : 35.315999984741211,
+              "width" : 480.81600000000003,
+              "height" : 38
             }
           },
           {
@@ -539,6 +548,15 @@ local_slide( {
             }
           },
           {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "I am  not a lawyer!",
             "targetRectangle" : {
               "y" : 715.74996972084045,
@@ -557,39 +575,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "DSGVO",
-            "targetRectangle" : {
-              "y" : 309.59501647949219,
-              "x" : 577.74660339355466,
-              "width" : 418.20000000000005,
-              "height" : 200.0006103515625
-            }
-          },
-          {
-            "text" : "Applies to: You (starting May 2018)",
-            "targetRectangle" : {
-              "y" : 169.99999958276749,
-              "x" : 35.315999984741211,
-              "width" : 480.81600000000003,
-              "height" : 38
-            }
-          },
-          {
             "text" : "Flag_of_Europe.png",
             "targetRectangle" : {
               "y" : 93.972236633300781,
               "x" : 758.5,
               "width" : 234,
               "height" : 156.33332824707031
+            }
+          },
+          {
+            "text" : "EU Datenschutzgrundverordnung",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 486.14999999999998,
+              "height" : 41.600128173828125
             }
           }
         ],

@@ -28,6 +28,20 @@
       "width" : 705,
       "height" : 75
     },
+    "735B6D74E21D1C61C970CA44830CF076" : {
+      "type" : "texture",
+      "index" : 11,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/21C6E1CA-0E6E-4C8E-B3A7-324FB3FC6413.pdf"
+      },
+      "width" : 158,
+      "height" : 66
+    },
     "640D5297D59088D46FE63A28D36F2264" : {
       "type" : "texture",
       "index" : 1,
@@ -42,9 +56,9 @@
       "width" : 964,
       "height" : 5
     },
-    "735B6D74E21D1C61C970CA44830CF076" : {
+    "6BAC14D26F3E71D7DDE6035F5DCD8972" : {
       "type" : "texture",
-      "index" : 11,
+      "index" : 14,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -53,8 +67,8 @@
       "url" : {
         "native" : "assets\/21C6E1CA-0E6E-4C8E-B3A7-324FB3FC6413.pdf"
       },
-      "width" : 158,
-      "height" : 66
+      "width" : 1024,
+      "height" : 768
     },
     "9417005C0E7D77377F56291BB6276046" : {
       "type" : "texture",
@@ -111,20 +125,6 @@
       },
       "width" : 209,
       "height" : 20
-    },
-    "AF198BEE9174F45FD6FB8000F47F0E1E" : {
-      "type" : "texture",
-      "index" : 14,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/21C6E1CA-0E6E-4C8E-B3A7-324FB3FC6413.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
     },
     "9106A9A6F4C97665813361F4EE885005" : {
       "type" : "texture",
@@ -510,24 +510,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Problem: Sensitive data can be manipulated.\\u2028 ",
-          "targetRectangle" : {
-            "y" : 171.759521484375,
-            "x" : 36,
-            "width" : 710.73200000000031,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "Data Integrity & association",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 462.19199999999995,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
@@ -537,12 +519,12 @@
           }
         },
         {
-          "text" : "Jens Neuhalfen",
+          "text" : "ic_action_tick.png",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
+            "y" : 124.78334522247314,
+            "x" : 959.30970001220703,
+            "width" : 51.466655731201172,
+            "height" : 51.466655731201172
           }
         },
         {
@@ -552,15 +534,6 @@
             "x" : 486.87992987060545,
             "width" : 72.912000000000035,
             "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_tick.png",
-          "targetRectangle" : {
-            "y" : 124.78334522247314,
-            "x" : 959.30970001220703,
-            "width" : 51.466655731201172,
-            "height" : 51.466655731201172
           }
         },
         {
@@ -582,12 +555,39 @@
           }
         },
         {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
           "text" : "3,141€",
           "targetRectangle" : {
             "y" : 404.28836059570312,
             "x" : 494.69192987060546,
             "width" : 57.288000000000011,
             "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Problem: Sensitive data can be manipulated.\\u2028 ",
+          "targetRectangle" : {
+            "y" : 171.759521484375,
+            "x" : 36,
+            "width" : 710.73200000000031,
+            "height" : 92
+          }
+        },
+        {
+          "text" : "Data Integrity & association",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 462.19199999999995,
+            "height" : 48.400146484375
           }
         }
       ],
@@ -3742,6 +3742,60 @@
       ],
       "accessibility" : [
         {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_tick.png",
+          "targetRectangle" : {
+            "y" : 124.78334522247314,
+            "x" : 959.30970001220703,
+            "width" : 51.466655731201172,
+            "height" : 51.466655731201172
+          }
+        },
+        {
+          "text" : "10,000 €",
+          "targetRectangle" : {
+            "y" : 525.28836059570312,
+            "x" : 486.87992987060545,
+            "width" : 72.912000000000035,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "0x123456…",
+          "targetRectangle" : {
+            "y" : 125.25,
+            "x" : 864.45169110107418,
+            "width" : 111.80400000000009,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "3,141€",
+          "targetRectangle" : {
+            "y" : 404.28836059570312,
+            "x" : 494.69192987060546,
+            "width" : 57.288000000000011,
+            "height" : 28.40008544921875
+          }
+        },
+        {
           "text" : "Problem: Sensitive data can be manipulated.\\u2028 ",
           "targetRectangle" : {
             "y" : 171.759521484375,
@@ -3757,60 +3811,6 @@
             "x" : 36,
             "width" : 462.19199999999995,
             "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "10,000 €",
-          "targetRectangle" : {
-            "y" : 525.28836059570312,
-            "x" : 486.87992987060545,
-            "width" : 72.912000000000035,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_tick.png",
-          "targetRectangle" : {
-            "y" : 124.78334522247314,
-            "x" : 959.30970001220703,
-            "width" : 51.466655731201172,
-            "height" : 51.466655731201172
-          }
-        },
-        {
-          "text" : "0x123456…",
-          "targetRectangle" : {
-            "y" : 125.25,
-            "x" : 864.45169110107418,
-            "width" : 111.80400000000009,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "3,141€",
-          "targetRectangle" : {
-            "y" : 404.28836059570312,
-            "x" : 494.69192987060546,
-            "width" : 57.288000000000011,
-            "height" : 28.40008544921875
           }
         }
       ],
@@ -6872,7 +6872,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "AF198BEE9174F45FD6FB8000F47F0E1E"
+                    "texture" : "6BAC14D26F3E71D7DDE6035F5DCD8972"
                   },
                   {
                     "animations" : [
@@ -6974,24 +6974,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Problem: Sensitive data can be manipulated.\\u2028 ",
-          "targetRectangle" : {
-            "y" : 171.759521484375,
-            "x" : 36,
-            "width" : 710.73200000000031,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "Data Integrity & association",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 462.19199999999995,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
@@ -7001,12 +6983,12 @@
           }
         },
         {
-          "text" : "Jens Neuhalfen",
+          "text" : "ic_action_tick.png",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
+            "y" : 124.78334522247314,
+            "x" : 959.30970001220703,
+            "width" : 51.466655731201172,
+            "height" : 51.466655731201172
           }
         },
         {
@@ -7016,15 +6998,6 @@
             "x" : 486.87992987060545,
             "width" : 72.912000000000035,
             "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_tick.png",
-          "targetRectangle" : {
-            "y" : 124.78334522247314,
-            "x" : 959.30970001220703,
-            "width" : 51.466655731201172,
-            "height" : 51.466655731201172
           }
         },
         {
@@ -7046,12 +7019,39 @@
           }
         },
         {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
           "text" : "3,141€",
           "targetRectangle" : {
             "y" : 404.28836059570312,
             "x" : 494.69192987060546,
             "width" : 57.288000000000011,
             "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Problem: Sensitive data can be manipulated.\\u2028 ",
+          "targetRectangle" : {
+            "y" : 171.759521484375,
+            "x" : 36,
+            "width" : 710.73200000000031,
+            "height" : 92
+          }
+        },
+        {
+          "text" : "Data Integrity & association",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 462.19199999999995,
+            "height" : 48.400146484375
           }
         }
       ],

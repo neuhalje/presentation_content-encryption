@@ -1,5 +1,19 @@
 {
   "assets" : {
+    "028DD3A304DA00EDD99B5F69859527E1" : {
+      "type" : "texture",
+      "index" : 9,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/A5B9840A-4209-4468-BC84-356C2AABADC6.pdf"
+      },
+      "width" : 26,
+      "height" : 20
+    },
     "DD5574795D285B35A950523A9FA41DD3" : {
       "type" : "texture",
       "index" : 5,
@@ -42,6 +56,20 @@
       "width" : 964,
       "height" : 5
     },
+    "0E89AFF7D22A13D87A0D9D4E43C49B26" : {
+      "type" : "texture",
+      "index" : 10,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/A5B9840A-4209-4468-BC84-356C2AABADC6.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
     "2D67943A86D76F9BA6BC7B0F8898ADB5" : {
       "type" : "texture",
       "index" : 8,
@@ -55,34 +83,6 @@
       },
       "width" : 99,
       "height" : 98
-    },
-    "ACF786553AA7F869BEA81144A6AFA178" : {
-      "type" : "texture",
-      "index" : 11,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/A5B9840A-4209-4468-BC84-356C2AABADC6.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
-    "6A75014F098483DD95C044D0284AC0EC" : {
-      "type" : "texture",
-      "index" : 9,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/A5B9840A-4209-4468-BC84-356C2AABADC6.pdf"
-      },
-      "width" : 26,
-      "height" : 20
     },
     "2A38C271C27FBFEA21BB14D045326B86" : {
       "type" : "texture",
@@ -126,6 +126,20 @@
       "width" : 209,
       "height" : 20
     },
+    "3E7DD5496E98C8DF72684008AB8A9766" : {
+      "type" : "texture",
+      "index" : 11,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/A5B9840A-4209-4468-BC84-356C2AABADC6.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
     "C0D78B79BD8C8A86930412C2AE097FA2" : {
       "type" : "texture",
       "index" : 3,
@@ -139,20 +153,6 @@
       },
       "width" : 498,
       "height" : 20
-    },
-    "943B2FDA7F79321767EB3DF379D9F64E" : {
-      "type" : "texture",
-      "index" : 10,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/A5B9840A-4209-4468-BC84-356C2AABADC6.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
     },
     "AFDCE7186437E286C6E6F9BDD6D03DBD" : {
       "type" : "texture",
@@ -350,7 +350,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "943B2FDA7F79321767EB3DF379D9F64E"
+                    "texture" : "0E89AFF7D22A13D87A0D9D4E43C49B26"
                   },
                   {
                     "animations" : [
@@ -431,7 +431,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "ACF786553AA7F869BEA81144A6AFA178"
+                    "texture" : "3E7DD5496E98C8DF72684008AB8A9766"
                   }
                 ]
               }
@@ -452,30 +452,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "ic_action_tick.png",
+          "text" : "ic_action_lock_closed.png",
           "targetRectangle" : {
-            "y" : 333.37240600585938,
-            "x" : 665.12109375,
-            "width" : 96,
-            "height" : 96
-          }
-        },
-        {
-          "text" : "?",
-          "targetRectangle" : {
-            "y" : 202.5444278717041,
-            "x" : 951.21670059967039,
-            "width" : 7.1040000000000418,
-            "height" : 20.160058593749994
-          }
-        },
-        {
-          "text" : "ic_action_tick.png",
-          "targetRectangle" : {
-            "y" : 257.74478149414062,
-            "x" : 665.12109375,
-            "width" : 96,
-            "height" : 96
+            "y" : 267.07207489013672,
+            "x" : 958.27167129516602,
+            "width" : 52.460819244384766,
+            "height" : 52.460807800292969
           }
         },
         {
@@ -488,30 +470,21 @@
           }
         },
         {
-          "text" : "￼",
+          "text" : "?",
           "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
+            "y" : 202.5444278717041,
+            "x" : 951.21670059967039,
+            "width" : 7.1040000000000418,
+            "height" : 20.160058593749994
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
             "height" : 28
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 267.07207489013672,
-            "x" : 958.27167129516602,
-            "width" : 52.460819244384766,
-            "height" : 52.460807800292969
-          }
-        },
-        {
-          "text" : "ic_action_tick.png",
-          "targetRectangle" : {
-            "y" : 182.1171875,
-            "x" : 665.12109375,
-            "width" : 96,
-            "height" : 96
           }
         },
         {
@@ -562,19 +535,46 @@
         {
           "text" : "ic_action_tick.png",
           "targetRectangle" : {
-            "y" : 409,
+            "y" : 257.74478149414062,
             "x" : 665.12109375,
             "width" : 96,
             "height" : 96
           }
         },
         {
-          "text" : "Jens Neuhalfen",
+          "text" : "￼",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
             "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_tick.png",
+          "targetRectangle" : {
+            "y" : 182.1171875,
+            "x" : 665.12109375,
+            "width" : 96,
+            "height" : 96
+          }
+        },
+        {
+          "text" : "ic_action_tick.png",
+          "targetRectangle" : {
+            "y" : 333.37240600585938,
+            "x" : 665.12109375,
+            "width" : 96,
+            "height" : 96
+          }
+        },
+        {
+          "text" : "ic_action_tick.png",
+          "targetRectangle" : {
+            "y" : 409,
+            "x" : 665.12109375,
+            "width" : 96,
+            "height" : 96
           }
         }
       ],
@@ -2671,7 +2671,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6A75014F098483DD95C044D0284AC0EC"
+                    "texture" : "028DD3A304DA00EDD99B5F69859527E1"
                   }
                 ]
               }

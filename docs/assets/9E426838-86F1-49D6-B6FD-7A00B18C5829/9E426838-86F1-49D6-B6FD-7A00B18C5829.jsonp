@@ -2,20 +2,6 @@ local_slide( {
   "name" : "9E426838-86F1-49D6-B6FD-7A00B18C5829",
   "json" : {
     "assets" : {
-      "FBB5DEA59905EE30EF2803B0A74DF992" : {
-        "type" : "texture",
-        "index" : 0,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/9E426838-86F1-49D6-B6FD-7A00B18C5829.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
       "CE631E2946A7F8F69E9EADFC08889CBB" : {
         "type" : "texture",
         "index" : 5,
@@ -29,20 +15,6 @@ local_slide( {
         },
         "width" : 615,
         "height" : 102
-      },
-      "D7B3E082EA73A0AF10D840CDA6A3A7F7" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/9E426838-86F1-49D6-B6FD-7A00B18C5829.pdf"
-        },
-        "width" : 719,
-        "height" : 22
       },
       "48E22998812713BF95032A65A1DF1A05" : {
         "type" : "texture",
@@ -58,6 +30,20 @@ local_slide( {
         "width" : 530,
         "height" : 144
       },
+      "D7B3E082EA73A0AF10D840CDA6A3A7F7" : {
+        "type" : "texture",
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/9E426838-86F1-49D6-B6FD-7A00B18C5829.pdf"
+        },
+        "width" : 719,
+        "height" : 22
+      },
       "29B0191ACF0F49EC971A6BA2D4CCCB4B" : {
         "type" : "texture",
         "index" : 3,
@@ -71,6 +57,20 @@ local_slide( {
         },
         "width" : 1026,
         "height" : 770
+      },
+      "A3F9ECA3F64482C08F37B7CF4F8B21A4" : {
+        "type" : "texture",
+        "index" : 0,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/9E426838-86F1-49D6-B6FD-7A00B18C5829.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       },
       "CB326D4A278A532532D760989199BE5F" : {
         "type" : "texture",
@@ -437,15 +437,6 @@ local_slide( {
         "automaticPlay" : false,
         "hyperlinks" : [
           {
-            "url" : "https:\/\/commons.wikimedia.org\/wiki\/User:Pineapple_fez",
-            "targetRectangle" : {
-              "y" : 664.79998797178268,
-              "x" : 449.84656282424925,
-              "width" : 83.609999999999957,
-              "height" : 18.400054931640625
-            }
-          },
-          {
             "url" : "https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/deed.en",
             "targetRectangle" : {
               "y" : 698.79998779296875,
@@ -453,43 +444,25 @@ local_slide( {
               "width" : 230.97600000000034,
               "height" : 18.400054931640625
             }
+          },
+          {
+            "url" : "https:\/\/commons.wikimedia.org\/wiki\/User:Pineapple_fez",
+            "targetRectangle" : {
+              "y" : 664.79998797178268,
+              "x" : 449.84656282424925,
+              "width" : 83.609999999999957,
+              "height" : 18.400054931640625
+            }
           }
         ],
         "accessibility" : [
           {
-            "text" : "IMAGE: Pineapple fez",
+            "text" : "https:\/\/commons.wikimedia.org\/wiki\/File:Suzuki_alto_body2_-_AIMS.JPG",
             "targetRectangle" : {
-              "y" : 664.79998797178268,
-              "x" : 407.81656282424927,
-              "width" : 125.63999999999993,
+              "y" : 732.79998779296875,
+              "x" : 406.53656950552499,
+              "width" : 453.04200000000014,
               "height" : 18.400054931640625
-            }
-          },
-          {
-            "text" : "Content Encryption is like",
-            "targetRectangle" : {
-              "y" : 250,
-              "x" : 34.975712499999872,
-              "width" : 961.56420000000026,
-              "height" : 104.92032165527343
-            }
-          },
-          {
-            "text" : "What is …?",
-            "targetRectangle" : {
-              "y" : 66,
-              "x" : 30,
-              "width" : 285.6357421875,
-              "height" : 63
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 0,
-              "x" : 0,
-              "width" : 1024,
-              "height" : 768
             }
           },
           {
@@ -502,12 +475,12 @@ local_slide( {
             }
           },
           {
-            "text" : "https:\/\/commons.wikimedia.org\/wiki\/File:Suzuki_alto_body2_-_AIMS.JPG",
+            "text" : "Content Encryption is like",
             "targetRectangle" : {
-              "y" : 732.79998779296875,
-              "x" : 406.53656950552499,
-              "width" : 453.04200000000014,
-              "height" : 18.400054931640625
+              "y" : 250,
+              "x" : 34.975712499999872,
+              "width" : 961.56420000000026,
+              "height" : 104.92032165527343
             }
           },
           {
@@ -535,6 +508,33 @@ local_slide( {
               "x" : 233.47281249999997,
               "width" : 564.57000000000016,
               "height" : 170.00051879882812
+            }
+          },
+          {
+            "text" : "What is …?",
+            "targetRectangle" : {
+              "y" : 66,
+              "x" : 30,
+              "width" : 285.6357421875,
+              "height" : 63
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 0,
+              "x" : 0,
+              "width" : 1024,
+              "height" : 768
+            }
+          },
+          {
+            "text" : "IMAGE: Pineapple fez",
+            "targetRectangle" : {
+              "y" : 664.79998797178268,
+              "x" : 407.81656282424927,
+              "width" : 125.63999999999993,
+              "height" : 18.400054931640625
             }
           }
         ],
@@ -769,7 +769,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
+                      "texture" : "A3F9ECA3F64482C08F37B7CF4F8B21A4"
                     }
                   ]
                 }

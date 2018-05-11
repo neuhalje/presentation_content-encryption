@@ -1,19 +1,5 @@
 {
   "assets" : {
-    "B44C7A64FD040C46D2454C40F2C9806A" : {
-      "type" : "texture",
-      "index" : 14,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/1DC089AF-93CA-41B3-9C50-B0F3D662820C.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
     "708730A7036D7B521B94292330B92B97" : {
       "type" : "texture",
       "index" : 13,
@@ -27,20 +13,6 @@
       },
       "width" : 972,
       "height" : 22
-    },
-    "640D5297D59088D46FE63A28D36F2264" : {
-      "type" : "texture",
-      "index" : 1,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/1DC089AF-93CA-41B3-9C50-B0F3D662820C.pdf"
-      },
-      "width" : 964,
-      "height" : 5
     },
     "393F70B5C7F2C655B7BE2BCFA9B642C7" : {
       "type" : "texture",
@@ -56,9 +28,9 @@
       "width" : 259,
       "height" : 66
     },
-    "1C02E3F822094D7BF4FC3AA0B4F2277D" : {
+    "640D5297D59088D46FE63A28D36F2264" : {
       "type" : "texture",
-      "index" : 6,
+      "index" : 1,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -67,8 +39,8 @@
       "url" : {
         "native" : "assets\/1DC089AF-93CA-41B3-9C50-B0F3D662820C.pdf"
       },
-      "width" : 26,
-      "height" : 20
+      "width" : 964,
+      "height" : 5
     },
     "28C8C284CC22334546A86C15B0C92608" : {
       "type" : "texture",
@@ -182,6 +154,20 @@
       "width" : 498,
       "height" : 20
     },
+    "3F526D6DD7B7742745D2F200C30E1760" : {
+      "type" : "texture",
+      "index" : 6,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/1DC089AF-93CA-41B3-9C50-B0F3D662820C.pdf"
+      },
+      "width" : 26,
+      "height" : 20
+    },
     "F5D4782F272F16B88D15C2A6426F132A" : {
       "type" : "texture",
       "index" : 12,
@@ -196,9 +182,9 @@
       "width" : 918,
       "height" : 339
     },
-    "8E8AB9B740A059F401F8533325BB4396" : {
+    "9F9ACE8D629B6804C854BC04A089650B" : {
       "type" : "texture",
-      "index" : 15,
+      "index" : 14,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -223,6 +209,20 @@
       },
       "width" : 315,
       "height" : 29
+    },
+    "AB1B7A26E1729F4AF2CAE38DD640338A" : {
+      "type" : "texture",
+      "index" : 15,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/1DC089AF-93CA-41B3-9C50-B0F3D662820C.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     }
   },
   "events" : [
@@ -406,7 +406,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "B44C7A64FD040C46D2454C40F2C9806A"
+                    "texture" : "9F9ACE8D629B6804C854BC04A089650B"
                   },
                   {
                     "animations" : [
@@ -487,7 +487,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "8E8AB9B740A059F401F8533325BB4396"
+                    "texture" : "AB1B7A26E1729F4AF2CAE38DD640338A"
                   }
                 ]
               }
@@ -534,12 +534,102 @@
       ],
       "accessibility" : [
         {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 117.23238849639893,
+            "x" : 944.27485656738281,
+            "width" : 47.535213470458984,
+            "height" : 47.535213470458984
+          }
+        },
+        {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "￼",
           "targetRectangle" : {
             "y" : 38,
             "x" : 964.57660043239594,
             "width" : 23.0390625,
             "height" : 28
+          }
+        },
+        {
+          "text" : "password",
+          "targetRectangle" : {
+            "y" : 337.64993286132812,
+            "x" : 186.21249389648438,
+            "width" : 150.48400000000004,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "128 bit key",
+          "targetRectangle" : {
+            "y" : 337.64993286132812,
+            "x" : 701.1783447265625,
+            "width" : 173.23000000000002,
+            "height" : 46
+          }
+        },
+        {
+          "text" : "?",
+          "targetRectangle" : {
+            "y" : 254.822509765625,
+            "x" : 555.98785400390625,
+            "width" : 26.639999999999986,
+            "height" : 71.6002197265625
+          }
+        },
+        {
+          "text" : "(*) Brute force protection: The function is designed to be very slow (up to seconds). This prevents enumeration attacks.",
+          "targetRectangle" : {
+            "y" : 745.24023371934891,
+            "x" : 11.823999881744385,
+            "width" : 969.78600000000029,
+            "height" : 25
+          }
+        },
+        {
+          "text" : "**********",
+          "targetRectangle" : {
+            "y" : 240.27774107456207,
+            "x" : 118.251220703125,
+            "width" : 312.95999999999998,
+            "height" : 87
+          }
+        },
+        {
+          "text" : "Jens Neuhalfen",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "ic_action_key.png",
+          "targetRectangle" : {
+            "y" : 219.77774047851562,
+            "x" : 709.3525390625,
+            "width" : 128,
+            "height" : 128
+          }
+        },
+        {
+          "text" : "From password to key",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 370.27199999999988,
+            "height" : 48.400146484375
           }
         },
         {
@@ -585,96 +675,6 @@
             "x" : 106.66758103426764,
             "width" : 298.88040000000001,
             "height" : 45
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 117.23238849639893,
-            "x" : 944.27485656738281,
-            "width" : 47.535213470458984,
-            "height" : 47.535213470458984
-          }
-        },
-        {
-          "text" : "password",
-          "targetRectangle" : {
-            "y" : 337.64993286132812,
-            "x" : 186.21249389648438,
-            "width" : 150.48400000000004,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "?",
-          "targetRectangle" : {
-            "y" : 254.822509765625,
-            "x" : 555.98785400390625,
-            "width" : 26.639999999999986,
-            "height" : 71.6002197265625
-          }
-        },
-        {
-          "text" : "ic_action_key.png",
-          "targetRectangle" : {
-            "y" : 219.77774047851562,
-            "x" : 709.3525390625,
-            "width" : 128,
-            "height" : 128
-          }
-        },
-        {
-          "text" : "128 bit key",
-          "targetRectangle" : {
-            "y" : 337.64993286132812,
-            "x" : 701.1783447265625,
-            "width" : 173.23000000000002,
-            "height" : 46
-          }
-        },
-        {
-          "text" : "**********",
-          "targetRectangle" : {
-            "y" : 240.27774107456207,
-            "x" : 118.251220703125,
-            "width" : 312.95999999999998,
-            "height" : 87
-          }
-        },
-        {
-          "text" : "(*) Brute force protection: The function is designed to be very slow (up to seconds). This prevents enumeration attacks.",
-          "targetRectangle" : {
-            "y" : 745.24023371934891,
-            "x" : 11.823999881744385,
-            "width" : 969.78600000000029,
-            "height" : 25
-          }
-        },
-        {
-          "text" : "From password to key",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 370.27199999999988,
-            "height" : 48.400146484375
           }
         },
         {
@@ -2065,7 +2065,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "1C02E3F822094D7BF4FC3AA0B4F2277D"
+                    "texture" : "3F526D6DD7B7742745D2F200C30E1760"
                   }
                 ]
               }

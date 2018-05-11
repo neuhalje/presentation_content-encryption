@@ -44,6 +44,20 @@ local_slide( {
         "width" : 964,
         "height" : 5
       },
+      "7E08FD09BD4124B02C042A945DF16098" : {
+        "type" : "texture",
+        "index" : 17,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/14AD4458-8E0D-4D44-81FC-70B1D181F62C.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "ABBBAFC19850371DB36AB572D3E5E6A9" : {
         "type" : "texture",
         "index" : 9,
@@ -72,9 +86,9 @@ local_slide( {
         "width" : 158,
         "height" : 66
       },
-      "370136A4A811DD496E15A39B1512E903" : {
+      "559992BFCDA581BABBC2BAA2ECC72FC3" : {
         "type" : "texture",
-        "index" : 14,
+        "index" : 6,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -83,12 +97,12 @@ local_slide( {
         "url" : {
           "native" : "assets\/14AD4458-8E0D-4D44-81FC-70B1D181F62C.pdf"
         },
-        "width" : 950,
-        "height" : 38
+        "width" : 461,
+        "height" : 37
       },
-      "F02B9F99C7D2F633A99A4F3A62BE8903" : {
+      "08DF2C928DFD45392E4E48C873951910" : {
         "type" : "texture",
-        "index" : 17,
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -97,8 +111,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/14AD4458-8E0D-4D44-81FC-70B1D181F62C.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 914,
+        "height" : 483
       },
       "9417005C0E7D77377F56291BB6276046" : {
         "type" : "texture",
@@ -114,9 +128,9 @@ local_slide( {
         "width" : 249,
         "height" : 103
       },
-      "8CACBF49A3DB227ABEE28B3B796DAC8F" : {
+      "42C9240FA5A90346C1286CD46C6AD7EF" : {
         "type" : "texture",
-        "index" : 16,
+        "index" : 12,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -125,22 +139,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/14AD4458-8E0D-4D44-81FC-70B1D181F62C.pdf"
         },
-        "width" : 1024,
-        "height" : 768
-      },
-      "FBB5DEA59905EE30EF2803B0A74DF992" : {
-        "type" : "texture",
-        "index" : 0,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/14AD4458-8E0D-4D44-81FC-70B1D181F62C.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
+        "width" : 249,
+        "height" : 103
       },
       "C0D78B79BD8C8A86930412C2AE097FA2" : {
         "type" : "texture",
@@ -170,9 +170,9 @@ local_slide( {
         "width" : 209,
         "height" : 20
       },
-      "DF3F8A1C383CB6B1483E1BA828FD7DEC" : {
+      "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
-        "index" : 3,
+        "index" : 16,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -181,8 +181,22 @@ local_slide( {
         "url" : {
           "native" : "assets\/14AD4458-8E0D-4D44-81FC-70B1D181F62C.pdf"
         },
-        "width" : 914,
-        "height" : 483
+        "width" : 1024,
+        "height" : 768
+      },
+      "5A7FB7D5F91F0AE7C7431519E35B9EAC" : {
+        "type" : "texture",
+        "index" : 18,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/14AD4458-8E0D-4D44-81FC-70B1D181F62C.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       },
       "D04866898178AE483E500FD086274FD3" : {
         "type" : "texture",
@@ -198,9 +212,9 @@ local_slide( {
         "width" : 249,
         "height" : 103
       },
-      "42C9240FA5A90346C1286CD46C6AD7EF" : {
+      "370136A4A811DD496E15A39B1512E903" : {
         "type" : "texture",
-        "index" : 12,
+        "index" : 14,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -209,8 +223,22 @@ local_slide( {
         "url" : {
           "native" : "assets\/14AD4458-8E0D-4D44-81FC-70B1D181F62C.pdf"
         },
-        "width" : 249,
-        "height" : 103
+        "width" : 950,
+        "height" : 38
+      },
+      "D06A8271415A6C02EA712ABD76518CD0" : {
+        "type" : "texture",
+        "index" : 0,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/14AD4458-8E0D-4D44-81FC-70B1D181F62C.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       },
       "4CFF891B2FBBD6D326470F9A211860B1" : {
         "type" : "texture",
@@ -225,20 +253,6 @@ local_slide( {
         },
         "width" : 58,
         "height" : 94
-      },
-      "559992BFCDA581BABBC2BAA2ECC72FC3" : {
-        "type" : "texture",
-        "index" : 6,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/14AD4458-8E0D-4D44-81FC-70B1D181F62C.pdf"
-        },
-        "width" : 461,
-        "height" : 37
       },
       "920C1211DEE44F1FA19448B5A29C21C2" : {
         "type" : "texture",
@@ -745,33 +759,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "10,000 €",
-            "targetRectangle" : {
-              "y" : 525.28836059570312,
-              "x" : 486.87992987060545,
-              "width" : 72.912000000000035,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Data Integrity & association",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 462.19199999999995,
-              "height" : 48.400146484375
-            }
-          },
-          {
             "text" : "* Checksum with a secret: hmac, AEAD, public key signatures",
             "targetRectangle" : {
               "y" : 722.52734375,
@@ -790,21 +777,21 @@ local_slide( {
             }
           },
           {
+            "text" : "2,718 €",
+            "targetRectangle" : {
+              "y" : 525.39874267578125,
+              "x" : 492.0879603881836,
+              "width" : 62.496000000000038,
+              "height" : 28.40008544921875
+            }
+          },
+          {
             "text" : "3,141€",
             "targetRectangle" : {
               "y" : 404.28836059570312,
               "x" : 494.69192987060546,
               "width" : 57.288000000000011,
               "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Problem: Sensitive data can be manipulated.\\u2028Solution: Use cryptographic checksums with a secret.  ",
-            "targetRectangle" : {
-              "y" : 171.759521484375,
-              "x" : 36,
-              "width" : 851.22400000000027,
-              "height" : 92
             }
           },
           {
@@ -817,21 +804,48 @@ local_slide( {
             }
           },
           {
-            "text" : "2,718 €",
-            "targetRectangle" : {
-              "y" : 525.39874267578125,
-              "x" : 492.0879603881836,
-              "width" : 62.496000000000038,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Problem: Sensitive data can be manipulated.\\u2028Solution: Use cryptographic checksums with a secret.  ",
+            "targetRectangle" : {
+              "y" : 171.759521484375,
+              "x" : 36,
+              "width" : 851.22400000000027,
+              "height" : 92
+            }
+          },
+          {
+            "text" : "10,000 €",
+            "targetRectangle" : {
+              "y" : 525.28836059570312,
+              "x" : 486.87992987060545,
+              "width" : 72.912000000000035,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Data Integrity & association",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 462.19199999999995,
+              "height" : 48.400146484375
             }
           }
         ],
@@ -1065,7 +1079,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
+                      "texture" : "D06A8271415A6C02EA712ABD76518CD0"
                     }
                   ]
                 }
@@ -1642,7 +1656,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "DF3F8A1C383CB6B1483E1BA828FD7DEC"
+                      "texture" : "08DF2C928DFD45392E4E48C873951910"
                     }
                   ]
                 }
@@ -4355,33 +4369,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "10,000 €",
-            "targetRectangle" : {
-              "y" : 525.28836059570312,
-              "x" : 486.87992987060545,
-              "width" : 72.912000000000035,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Data Integrity & association",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 462.19199999999995,
-              "height" : 48.400146484375
-            }
-          },
-          {
             "text" : "* Checksum with a secret: hmac, AEAD, public key signatures",
             "targetRectangle" : {
               "y" : 722.52734375,
@@ -4409,15 +4396,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Problem: Sensitive data can be manipulated.\\u2028Solution: Use cryptographic checksums with a secret.  ",
-            "targetRectangle" : {
-              "y" : 171.759521484375,
-              "x" : 36,
-              "width" : 851.22400000000027,
-              "height" : 92
-            }
-          },
-          {
             "text" : "ic_action_tick.png",
             "targetRectangle" : {
               "y" : 124.78334522247314,
@@ -4433,6 +4411,42 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Problem: Sensitive data can be manipulated.\\u2028Solution: Use cryptographic checksums with a secret.  ",
+            "targetRectangle" : {
+              "y" : 171.759521484375,
+              "x" : 36,
+              "width" : 851.22400000000027,
+              "height" : 92
+            }
+          },
+          {
+            "text" : "10,000 €",
+            "targetRectangle" : {
+              "y" : 525.28836059570312,
+              "x" : 486.87992987060545,
+              "width" : 72.912000000000035,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Data Integrity & association",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 462.19199999999995,
+              "height" : 48.400146484375
             }
           }
         ],
@@ -5243,7 +5257,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "DF3F8A1C383CB6B1483E1BA828FD7DEC"
+                      "texture" : "08DF2C928DFD45392E4E48C873951910"
                     }
                   ]
                 }
@@ -7863,7 +7877,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "8CACBF49A3DB227ABEE28B3B796DAC8F"
+                      "texture" : "7E08FD09BD4124B02C042A945DF16098"
                     },
                     {
                       "animations" : [
@@ -7944,7 +7958,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "F02B9F99C7D2F633A99A4F3A62BE8903"
+                      "texture" : "5A7FB7D5F91F0AE7C7431519E35B9EAC"
                     }
                   ]
                 }
@@ -7964,33 +7978,6 @@ local_slide( {
 
         ],
         "accessibility" : [
-          {
-            "text" : "10,000 €",
-            "targetRectangle" : {
-              "y" : 525.28836059570312,
-              "x" : 486.87992987060545,
-              "width" : 72.912000000000035,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Data Integrity & association",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 462.19199999999995,
-              "height" : 48.400146484375
-            }
-          },
           {
             "text" : "* Checksum with a secret: hmac, AEAD, public key signatures",
             "targetRectangle" : {
@@ -8019,15 +8006,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Problem: Sensitive data can be manipulated.\\u2028Solution: Use cryptographic checksums with a secret.  ",
-            "targetRectangle" : {
-              "y" : 171.759521484375,
-              "x" : 36,
-              "width" : 851.22400000000027,
-              "height" : 92
-            }
-          },
-          {
             "text" : "ic_action_tick.png",
             "targetRectangle" : {
               "y" : 124.78334522247314,
@@ -8046,11 +8024,47 @@ local_slide( {
             }
           },
           {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "The checksums don’t match, promotion is declined",
             "targetRectangle" : {
               "y" : 621.9104015827179,
               "x" : 105.51995849609375,
               "width" : 835.63199999999995,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Problem: Sensitive data can be manipulated.\\u2028Solution: Use cryptographic checksums with a secret.  ",
+            "targetRectangle" : {
+              "y" : 171.759521484375,
+              "x" : 36,
+              "width" : 851.22400000000027,
+              "height" : 92
+            }
+          },
+          {
+            "text" : "10,000 €",
+            "targetRectangle" : {
+              "y" : 525.28836059570312,
+              "x" : 486.87992987060545,
+              "width" : 72.912000000000035,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Data Integrity & association",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 462.19199999999995,
               "height" : 48.400146484375
             }
           }
@@ -8863,7 +8877,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "DF3F8A1C383CB6B1483E1BA828FD7DEC"
+                      "texture" : "08DF2C928DFD45392E4E48C873951910"
                     }
                   ]
                 }

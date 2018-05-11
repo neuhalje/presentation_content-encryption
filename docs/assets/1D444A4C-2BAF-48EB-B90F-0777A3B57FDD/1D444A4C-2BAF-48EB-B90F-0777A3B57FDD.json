@@ -28,6 +28,20 @@
       "width" : 463,
       "height" : 42
     },
+    "9B8A80CCC6E13BBCAFFDB3B9EEFF7590" : {
+      "type" : "texture",
+      "index" : 7,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/1D444A4C-2BAF-48EB-B90F-0777A3B57FDD.pdf"
+      },
+      "width" : 688,
+      "height" : 371
+    },
     "8E70FBDE9C833FD17D14AD615FF9F0FD" : {
       "type" : "texture",
       "index" : 10,
@@ -55,20 +69,6 @@
       },
       "width" : 209,
       "height" : 20
-    },
-    "640D5297D59088D46FE63A28D36F2264" : {
-      "type" : "texture",
-      "index" : 1,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/1D444A4C-2BAF-48EB-B90F-0777A3B57FDD.pdf"
-      },
-      "width" : 964,
-      "height" : 5
     },
     "D6992664F558F200BB0384F26AB2A958" : {
       "type" : "texture",
@@ -142,7 +142,7 @@
     },
     "049FB2C4DFD5F88379BC21EFB4C70D33" : {
       "type" : "texture",
-      "index" : 7,
+      "index" : 1,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -151,8 +151,8 @@
       "url" : {
         "native" : "assets\/1D444A4C-2BAF-48EB-B90F-0777A3B57FDD.pdf"
       },
-      "width" : 688,
-      "height" : 371
+      "width" : 964,
+      "height" : 5
     }
   },
   "events" : [
@@ -464,12 +464,39 @@
           }
         },
         {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
           "text" : "theguardian.com_1.png",
           "targetRectangle" : {
             "y" : 439.20688471198082,
             "x" : 808.08446025848389,
             "width" : 159.32522614157642,
             "height" : 159.9375
+          }
+        },
+        {
+          "text" : "https:\/\/www.independent.co.uk\/news\/business\/news\/talktalk-fine-data-breach-theft-customers-information-stolen-record-penalty-a7346316.html ",
+          "targetRectangle" : {
+            "y" : 662.3906261920929,
+            "x" : 31.000019073486328,
+            "width" : 988.74000000000001,
+            "height" : 55
+          }
+        },
+        {
+          "text" : "https:\/\/www.theguardian.com\/business\/2016\/feb\/02\/talktalk-cyberattack-costs-customers-leave",
+          "targetRectangle" : {
+            "y" : 717.3906261920929,
+            "x" : 31.000019073486328,
+            "width" : 881.00000000000045,
+            "height" : 27
           }
         },
         {
@@ -497,33 +524,6 @@
             "x" : 146.30311584472656,
             "width" : 684.8800048828125,
             "height" : 368.10736083984375
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "https:\/\/www.independent.co.uk\/news\/business\/news\/talktalk-fine-data-breach-theft-customers-information-stolen-record-penalty-a7346316.html ",
-          "targetRectangle" : {
-            "y" : 662.3906261920929,
-            "x" : 31.000019073486328,
-            "width" : 988.74000000000001,
-            "height" : 55
-          }
-        },
-        {
-          "text" : "https:\/\/www.theguardian.com\/business\/2016\/feb\/02\/talktalk-cyberattack-costs-customers-leave",
-          "targetRectangle" : {
-            "y" : 717.3906261920929,
-            "x" : 31.000019073486328,
-            "width" : 881.00000000000045,
-            "height" : 27
           }
         }
       ],
@@ -967,7 +967,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "640D5297D59088D46FE63A28D36F2264"
+                    "texture" : "049FB2C4DFD5F88379BC21EFB4C70D33"
                   }
                 ]
               }
@@ -2083,7 +2083,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "049FB2C4DFD5F88379BC21EFB4C70D33"
+                    "texture" : "9B8A80CCC6E13BBCAFFDB3B9EEFF7590"
                   }
                 ]
               }

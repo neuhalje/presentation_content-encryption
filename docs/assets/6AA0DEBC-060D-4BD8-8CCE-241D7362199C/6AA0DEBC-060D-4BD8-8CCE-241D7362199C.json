@@ -28,9 +28,9 @@
       "width" : 123,
       "height" : 122
     },
-    "D446106D95D12B67CB0BEFC598C6769E" : {
+    "5B14672C121091937D21E9ED0C6B644C" : {
       "type" : "texture",
-      "index" : 5,
+      "index" : 6,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -42,7 +42,7 @@
       "width" : 1024,
       "height" : 768
     },
-    "37920CF1EAA38AD60A870F69809E1A18" : {
+    "0CAD6691A0A2C623377809300ABB79FB" : {
       "type" : "texture",
       "index" : 2,
       "assetRequest" : {
@@ -53,7 +53,7 @@
       "url" : {
         "native" : "assets\/6AA0DEBC-060D-4BD8-8CCE-241D7362199C.pdf"
       },
-      "width" : 38,
+      "width" : 37,
       "height" : 20
     },
     "EECE57B6ADCD713CAAD44453999B6023" : {
@@ -70,9 +70,9 @@
       "width" : 282,
       "height" : 129
     },
-    "F16089ACA81C76E2DE1D7E2752CF9802" : {
+    "C5085D007168A5E9DDE05A729777C4D6" : {
       "type" : "texture",
-      "index" : 6,
+      "index" : 5,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -280,7 +280,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "D446106D95D12B67CB0BEFC598C6769E"
+                    "texture" : "C5085D007168A5E9DDE05A729777C4D6"
                   },
                   {
                     "animations" : [
@@ -361,7 +361,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "F16089ACA81C76E2DE1D7E2752CF9802"
+                    "texture" : "5B14672C121091937D21E9ED0C6B644C"
                   }
                 ]
               }
@@ -381,30 +381,30 @@
         {
           "url" : "https:\/\/github.com\/neuhalje\/presentation_content-encryption",
           "targetRectangle" : {
-            "y" : 725.44439673423767,
-            "x" : 128.19000244140625,
-            "width" : 982.45115280151367,
-            "height" : 37.000000476837158
-          }
-        },
-        {
-          "url" : "https:\/\/github.com\/neuhalje\/presentation_content-encryption",
-          "targetRectangle" : {
             "y" : 642,
             "x" : 7.5,
             "width" : 120,
             "height" : 120
           }
+        },
+        {
+          "url" : "https:\/\/github.com\/neuhalje\/presentation_content-encryption",
+          "targetRectangle" : {
+            "y" : 725.44439673423767,
+            "x" : 128.19000244140625,
+            "width" : 982.45115280151367,
+            "height" : 37.000000476837158
+          }
         }
       ],
       "accessibility" : [
         {
-          "text" : "￼",
+          "text" : "GitHub-Mark-Light-120px-plus.png",
           "targetRectangle" : {
-            "y" : 38,
-            "x" : 953.05706703662872,
-            "width" : 34.55859375,
-            "height" : 28
+            "y" : 642,
+            "x" : 7.5,
+            "width" : 120,
+            "height" : 120
           }
         },
         {
@@ -417,21 +417,21 @@
           }
         },
         {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 953.05706703662872,
+            "width" : 34.55859375,
+            "height" : 28
+          }
+        },
+        {
           "text" : "Q & A",
           "targetRectangle" : {
             "y" : 579,
             "x" : 690,
             "width" : 286.62,
             "height" : 170.00051879882812
-          }
-        },
-        {
-          "text" : "GitHub-Mark-Light-120px-plus.png",
-          "targetRectangle" : {
-            "y" : 642,
-            "x" : 7.5,
-            "width" : 120,
-            "height" : 120
           }
         }
       ],
@@ -931,10 +931,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 967.05706703662872,
+                    "pointX" : 966.55706703662872,
                     "pointY" : 44
                   },
-                  "width" : 38,
+                  "width" : 37,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -1003,10 +1003,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 22.942932963371277,
+                        "pointX" : 22.442932963371277,
                         "pointY" : 18
                       },
-                      "width" : 38,
+                      "width" : 37,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1040,7 +1040,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "37920CF1EAA38AD60A870F69809E1A18"
+                    "texture" : "0CAD6691A0A2C623377809300ABB79FB"
                   }
                 ]
               }

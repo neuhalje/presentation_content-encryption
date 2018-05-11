@@ -7813,12 +7813,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "(*) I’m going to gloss over the whole cryptography nomenclature in these first slides. Bear with me.",
+            "text" : "TLS",
             "targetRectangle" : {
-              "y" : 745.24023371934891,
-              "x" : 11.823999881744385,
-              "width" : 811.24199999999962,
-              "height" : 25
+              "y" : 259.72468566894531,
+              "x" : 750.48800000000006,
+              "width" : 31.023999999999887,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -7858,74 +7858,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Database",
-            "targetRectangle" : {
-              "y" : 135,
-              "x" : 723.34199999999998,
-              "width" : 85.316000000000031,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Client",
-            "targetRectangle" : {
-              "y" : 632.01953125,
-              "x" : 736.22199999999998,
-              "width" : 59.55600000000004,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Application",
             "targetRectangle" : {
               "y" : 383.259765625,
               "x" : 710.55999999999995,
               "width" : 110.88000000000011,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Data",
-            "targetRectangle" : {
-              "y" : 384.111083984375,
-              "x" : 624.71171875000005,
-              "width" : 40.599999999999909,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Your fathers Crypto (*)",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 385.24800000000005,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "TLS",
-            "targetRectangle" : {
-              "y" : 259.72468566894531,
-              "x" : 750.48800000000006,
-              "width" : 31.023999999999887,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Database",
-            "targetRectangle" : {
-              "y" : 135,
-              "x" : 723.34199999999998,
-              "width" : 85.316000000000031,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "TLS",
-            "targetRectangle" : {
-              "y" : 507.25201416015625,
-              "x" : 750.48800000000006,
-              "width" : 31.023999999999887,
               "height" : 28.40008544921875
             }
           },
@@ -7939,30 +7876,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Application",
-            "targetRectangle" : {
-              "y" : 383,
-              "x" : 710.55999999999995,
-              "width" : 110.88000000000011,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "ic_action_lock_closed.png",
-            "targetRectangle" : {
-              "y" : 373,
-              "x" : 364.138916015625,
-              "width" : 64,
-              "height" : 64
             }
           },
           {
@@ -7984,11 +7903,83 @@ local_slide( {
             }
           },
           {
+            "text" : "Database",
+            "targetRectangle" : {
+              "y" : 135,
+              "x" : 723.34199999999998,
+              "width" : 85.316000000000031,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "ic_action_lock_closed.png",
+            "targetRectangle" : {
+              "y" : 373,
+              "x" : 364.138916015625,
+              "width" : 64,
+              "height" : 64
+            }
+          },
+          {
+            "text" : "Your fathers Crypto (*)",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 385.24800000000005,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Application",
+            "targetRectangle" : {
+              "y" : 383,
+              "x" : 710.55999999999995,
+              "width" : 110.88000000000011,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Client",
+            "targetRectangle" : {
+              "y" : 632.01953125,
+              "x" : 736.22199999999998,
+              "width" : 59.55600000000004,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "(*) I’m going to gloss over the whole cryptography nomenclature in these first slides. Bear with me.",
+            "targetRectangle" : {
+              "y" : 745.24023371934891,
+              "x" : 11.823999881744385,
+              "width" : 811.24199999999962,
+              "height" : 25
+            }
+          },
+          {
             "text" : "TLS",
             "targetRectangle" : {
               "y" : 259.72468566894531,
               "x" : 750.48800000000006,
               "width" : 31.023999999999887,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Database",
+            "targetRectangle" : {
+              "y" : 135,
+              "x" : 723.34199999999998,
+              "width" : 85.316000000000031,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 384.111083984375,
+              "x" : 624.71171875000005,
+              "width" : 40.599999999999909,
               "height" : 28.40008544921875
             }
           },
@@ -7999,6 +7990,15 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "TLS",
+            "targetRectangle" : {
+              "y" : 507.25201416015625,
+              "x" : 750.48800000000006,
+              "width" : 31.023999999999887,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -15541,12 +15541,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "(*) I’m going to gloss over the whole cryptography nomenclature in these first slides. Bear with me.",
+            "text" : "TLS",
             "targetRectangle" : {
-              "y" : 745.24023371934891,
-              "x" : 11.823999881744385,
-              "width" : 811.24199999999962,
-              "height" : 25
+              "y" : 259.72468566894531,
+              "x" : 750.48800000000006,
+              "width" : 31.023999999999887,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -15586,74 +15586,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Database",
-            "targetRectangle" : {
-              "y" : 135,
-              "x" : 723.34199999999998,
-              "width" : 85.316000000000031,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Client",
-            "targetRectangle" : {
-              "y" : 632.01953125,
-              "x" : 736.22199999999998,
-              "width" : 59.55600000000004,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Application",
             "targetRectangle" : {
               "y" : 383.259765625,
               "x" : 710.55999999999995,
               "width" : 110.88000000000011,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Data",
-            "targetRectangle" : {
-              "y" : 384.111083984375,
-              "x" : 624.71171875000005,
-              "width" : 40.599999999999909,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Your fathers Crypto (*)",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 385.24800000000005,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "TLS",
-            "targetRectangle" : {
-              "y" : 259.72468566894531,
-              "x" : 750.48800000000006,
-              "width" : 31.023999999999887,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Database",
-            "targetRectangle" : {
-              "y" : 135,
-              "x" : 723.34199999999998,
-              "width" : 85.316000000000031,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "TLS",
-            "targetRectangle" : {
-              "y" : 507.25201416015625,
-              "x" : 750.48800000000006,
-              "width" : 31.023999999999887,
               "height" : 28.40008544921875
             }
           },
@@ -15667,30 +15604,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Application",
-            "targetRectangle" : {
-              "y" : 383,
-              "x" : 710.55999999999995,
-              "width" : 110.88000000000011,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "ic_action_lock_closed.png",
-            "targetRectangle" : {
-              "y" : 373,
-              "x" : 364.138916015625,
-              "width" : 64,
-              "height" : 64
             }
           },
           {
@@ -15712,11 +15631,83 @@ local_slide( {
             }
           },
           {
+            "text" : "Database",
+            "targetRectangle" : {
+              "y" : 135,
+              "x" : 723.34199999999998,
+              "width" : 85.316000000000031,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "ic_action_lock_closed.png",
+            "targetRectangle" : {
+              "y" : 373,
+              "x" : 364.138916015625,
+              "width" : 64,
+              "height" : 64
+            }
+          },
+          {
+            "text" : "Your fathers Crypto (*)",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 385.24800000000005,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Application",
+            "targetRectangle" : {
+              "y" : 383,
+              "x" : 710.55999999999995,
+              "width" : 110.88000000000011,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Client",
+            "targetRectangle" : {
+              "y" : 632.01953125,
+              "x" : 736.22199999999998,
+              "width" : 59.55600000000004,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "(*) I’m going to gloss over the whole cryptography nomenclature in these first slides. Bear with me.",
+            "targetRectangle" : {
+              "y" : 745.24023371934891,
+              "x" : 11.823999881744385,
+              "width" : 811.24199999999962,
+              "height" : 25
+            }
+          },
+          {
             "text" : "TLS",
             "targetRectangle" : {
               "y" : 259.72468566894531,
               "x" : 750.48800000000006,
               "width" : 31.023999999999887,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Database",
+            "targetRectangle" : {
+              "y" : 135,
+              "x" : 723.34199999999998,
+              "width" : 85.316000000000031,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 384.111083984375,
+              "x" : 624.71171875000005,
+              "width" : 40.599999999999909,
               "height" : 28.40008544921875
             }
           },
@@ -15727,6 +15718,15 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "TLS",
+            "targetRectangle" : {
+              "y" : 507.25201416015625,
+              "x" : 750.48800000000006,
+              "width" : 31.023999999999887,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -23831,21 +23831,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "(*) I’m going to gloss over the whole cryptography nomenclature in these first slides. Bear with me.",
+            "text" : "TLS",
             "targetRectangle" : {
-              "y" : 745.24023371934891,
-              "x" : 11.823999881744385,
-              "width" : 811.24199999999962,
-              "height" : 25
-            }
-          },
-          {
-            "text" : "So, everything is safe?",
-            "targetRectangle" : {
-              "y" : 435.4200451374054,
-              "x" : 74.023988723754883,
-              "width" : 378.43200000000002,
-              "height" : 48.400146484375
+              "y" : 259.72468566894531,
+              "x" : 750.48800000000006,
+              "width" : 31.023999999999887,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -23885,74 +23876,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Database",
-            "targetRectangle" : {
-              "y" : 135,
-              "x" : 723.34199999999998,
-              "width" : 85.316000000000031,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Client",
-            "targetRectangle" : {
-              "y" : 632.01953125,
-              "x" : 736.22199999999998,
-              "width" : 59.55600000000004,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Application",
             "targetRectangle" : {
               "y" : 383.259765625,
               "x" : 710.55999999999995,
               "width" : 110.88000000000011,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Data",
-            "targetRectangle" : {
-              "y" : 384.111083984375,
-              "x" : 624.71171875000005,
-              "width" : 40.599999999999909,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Your fathers Crypto (*)",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 385.24800000000005,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "TLS",
-            "targetRectangle" : {
-              "y" : 259.72468566894531,
-              "x" : 750.48800000000006,
-              "width" : 31.023999999999887,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Database",
-            "targetRectangle" : {
-              "y" : 135,
-              "x" : 723.34199999999998,
-              "width" : 85.316000000000031,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "TLS",
-            "targetRectangle" : {
-              "y" : 507.25201416015625,
-              "x" : 750.48800000000006,
-              "width" : 31.023999999999887,
               "height" : 28.40008544921875
             }
           },
@@ -23966,30 +23894,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Application",
-            "targetRectangle" : {
-              "y" : 383,
-              "x" : 710.55999999999995,
-              "width" : 110.88000000000011,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "ic_action_lock_closed.png",
-            "targetRectangle" : {
-              "y" : 373,
-              "x" : 364.138916015625,
-              "width" : 64,
-              "height" : 64
             }
           },
           {
@@ -24011,11 +23921,92 @@ local_slide( {
             }
           },
           {
+            "text" : "Database",
+            "targetRectangle" : {
+              "y" : 135,
+              "x" : 723.34199999999998,
+              "width" : 85.316000000000031,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "ic_action_lock_closed.png",
+            "targetRectangle" : {
+              "y" : 373,
+              "x" : 364.138916015625,
+              "width" : 64,
+              "height" : 64
+            }
+          },
+          {
+            "text" : "Your fathers Crypto (*)",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 385.24800000000005,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Application",
+            "targetRectangle" : {
+              "y" : 383,
+              "x" : 710.55999999999995,
+              "width" : 110.88000000000011,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Client",
+            "targetRectangle" : {
+              "y" : 632.01953125,
+              "x" : 736.22199999999998,
+              "width" : 59.55600000000004,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "(*) I’m going to gloss over the whole cryptography nomenclature in these first slides. Bear with me.",
+            "targetRectangle" : {
+              "y" : 745.24023371934891,
+              "x" : 11.823999881744385,
+              "width" : 811.24199999999962,
+              "height" : 25
+            }
+          },
+          {
             "text" : "TLS",
             "targetRectangle" : {
               "y" : 259.72468566894531,
               "x" : 750.48800000000006,
               "width" : 31.023999999999887,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "So, everything is safe?",
+            "targetRectangle" : {
+              "y" : 435.4200451374054,
+              "x" : 74.023988723754883,
+              "width" : 378.43200000000002,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Database",
+            "targetRectangle" : {
+              "y" : 135,
+              "x" : 723.34199999999998,
+              "width" : 85.316000000000031,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 384.111083984375,
+              "x" : 624.71171875000005,
+              "width" : 40.599999999999909,
               "height" : 28.40008544921875
             }
           },
@@ -24026,6 +24017,15 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "TLS",
+            "targetRectangle" : {
+              "y" : 507.25201416015625,
+              "x" : 750.48800000000006,
+              "width" : 31.023999999999887,
+              "height" : 28.40008544921875
             }
           }
         ],
@@ -31577,21 +31577,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "(*) I’m going to gloss over the whole cryptography nomenclature in these first slides. Bear with me.",
+            "text" : "TLS",
             "targetRectangle" : {
-              "y" : 745.24023371934891,
-              "x" : 11.823999881744385,
-              "width" : 811.24199999999962,
-              "height" : 25
-            }
-          },
-          {
-            "text" : "So, everything is safe?",
-            "targetRectangle" : {
-              "y" : 435.4200451374054,
-              "x" : 74.023988723754883,
-              "width" : 378.43200000000002,
-              "height" : 48.400146484375
+              "y" : 259.72468566894531,
+              "x" : 750.48800000000006,
+              "width" : 31.023999999999887,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -31631,74 +31622,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Database",
-            "targetRectangle" : {
-              "y" : 135,
-              "x" : 723.34199999999998,
-              "width" : 85.316000000000031,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Client",
-            "targetRectangle" : {
-              "y" : 632.01953125,
-              "x" : 736.22199999999998,
-              "width" : 59.55600000000004,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Application",
             "targetRectangle" : {
               "y" : 383.259765625,
               "x" : 710.55999999999995,
               "width" : 110.88000000000011,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Data",
-            "targetRectangle" : {
-              "y" : 384.111083984375,
-              "x" : 624.71171875000005,
-              "width" : 40.599999999999909,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Your fathers Crypto (*)",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 385.24800000000005,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "TLS",
-            "targetRectangle" : {
-              "y" : 259.72468566894531,
-              "x" : 750.48800000000006,
-              "width" : 31.023999999999887,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Database",
-            "targetRectangle" : {
-              "y" : 135,
-              "x" : 723.34199999999998,
-              "width" : 85.316000000000031,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "TLS",
-            "targetRectangle" : {
-              "y" : 507.25201416015625,
-              "x" : 750.48800000000006,
-              "width" : 31.023999999999887,
               "height" : 28.40008544921875
             }
           },
@@ -31712,30 +31640,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Application",
-            "targetRectangle" : {
-              "y" : 383,
-              "x" : 710.55999999999995,
-              "width" : 110.88000000000011,
-              "height" : 28.40008544921875
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "ic_action_lock_closed.png",
-            "targetRectangle" : {
-              "y" : 373,
-              "x" : 364.138916015625,
-              "width" : 64,
-              "height" : 64
             }
           },
           {
@@ -31757,11 +31667,92 @@ local_slide( {
             }
           },
           {
+            "text" : "Database",
+            "targetRectangle" : {
+              "y" : 135,
+              "x" : 723.34199999999998,
+              "width" : 85.316000000000031,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "ic_action_lock_closed.png",
+            "targetRectangle" : {
+              "y" : 373,
+              "x" : 364.138916015625,
+              "width" : 64,
+              "height" : 64
+            }
+          },
+          {
+            "text" : "Your fathers Crypto (*)",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 385.24800000000005,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Application",
+            "targetRectangle" : {
+              "y" : 383,
+              "x" : 710.55999999999995,
+              "width" : 110.88000000000011,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Client",
+            "targetRectangle" : {
+              "y" : 632.01953125,
+              "x" : 736.22199999999998,
+              "width" : 59.55600000000004,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "(*) I’m going to gloss over the whole cryptography nomenclature in these first slides. Bear with me.",
+            "targetRectangle" : {
+              "y" : 745.24023371934891,
+              "x" : 11.823999881744385,
+              "width" : 811.24199999999962,
+              "height" : 25
+            }
+          },
+          {
             "text" : "TLS",
             "targetRectangle" : {
               "y" : 259.72468566894531,
               "x" : 750.48800000000006,
               "width" : 31.023999999999887,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "So, everything is safe?",
+            "targetRectangle" : {
+              "y" : 435.4200451374054,
+              "x" : 74.023988723754883,
+              "width" : 378.43200000000002,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Database",
+            "targetRectangle" : {
+              "y" : 135,
+              "x" : 723.34199999999998,
+              "width" : 85.316000000000031,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 384.111083984375,
+              "x" : 624.71171875000005,
+              "width" : 40.599999999999909,
               "height" : 28.40008544921875
             }
           },
@@ -31772,6 +31763,15 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "TLS",
+            "targetRectangle" : {
+              "y" : 507.25201416015625,
+              "x" : 750.48800000000006,
+              "width" : 31.023999999999887,
+              "height" : 28.40008544921875
             }
           }
         ],

@@ -1,8 +1,8 @@
 {
   "assets" : {
-    "FBB5DEA59905EE30EF2803B0A74DF992" : {
+    "E1D7FC1481E815567FD82E4479A0655E" : {
       "type" : "texture",
-      "index" : 0,
+      "index" : 10,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -13,62 +13,6 @@
       },
       "width" : 1024,
       "height" : 768
-    },
-    "14520AB7B5C1FED69997775273BB70BE" : {
-      "type" : "texture",
-      "index" : 6,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/1F365AD9-FB51-40C7-8DC4-4E266E7D45D2.pdf"
-      },
-      "width" : 922,
-      "height" : 438
-    },
-    "D3BDC48012E7E3BEECD467B2040CC191" : {
-      "type" : "texture",
-      "index" : 8,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/1F365AD9-FB51-40C7-8DC4-4E266E7D45D2.pdf"
-      },
-      "width" : 25,
-      "height" : 20
-    },
-    "AC373AAD19C0F8B0A021414DF36629D8" : {
-      "type" : "texture",
-      "index" : 7,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/1F365AD9-FB51-40C7-8DC4-4E266E7D45D2.pdf"
-      },
-      "width" : 194,
-      "height" : 64
-    },
-    "8B8B65D93D21AF19C6A82F9522042309" : {
-      "type" : "texture",
-      "index" : 5,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/1F365AD9-FB51-40C7-8DC4-4E266E7D45D2.pdf"
-      },
-      "width" : 894,
-      "height" : 108
     },
     "640D5297D59088D46FE63A28D36F2264" : {
       "type" : "texture",
@@ -84,6 +28,62 @@
       "width" : 964,
       "height" : 5
     },
+    "643626AFE04841D7373B39140FC5E5DA" : {
+      "type" : "texture",
+      "index" : 6,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/1F365AD9-FB51-40C7-8DC4-4E266E7D45D2.pdf"
+      },
+      "width" : 922,
+      "height" : 438
+    },
+    "AC373AAD19C0F8B0A021414DF36629D8" : {
+      "type" : "texture",
+      "index" : 7,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/1F365AD9-FB51-40C7-8DC4-4E266E7D45D2.pdf"
+      },
+      "width" : 194,
+      "height" : 64
+    },
+    "F8420EBEAF494D25775CF3FF4A15B5A1" : {
+      "type" : "texture",
+      "index" : 9,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/1F365AD9-FB51-40C7-8DC4-4E266E7D45D2.pdf"
+      },
+      "width" : 1028,
+      "height" : 40
+    },
+    "FBB5DEA59905EE30EF2803B0A74DF992" : {
+      "type" : "texture",
+      "index" : 0,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/1F365AD9-FB51-40C7-8DC4-4E266E7D45D2.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
     "448C6A2098FFBC5ACE0A852183B242BE" : {
       "type" : "texture",
       "index" : 2,
@@ -98,9 +98,9 @@
       "width" : 209,
       "height" : 20
     },
-    "78E938A3DE4B694875DB57A30054EFBD" : {
+    "02C6A9FB2F75ABA23876E19F3340DA35" : {
       "type" : "texture",
-      "index" : 9,
+      "index" : 5,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -109,12 +109,40 @@
       "url" : {
         "native" : "assets\/1F365AD9-FB51-40C7-8DC4-4E266E7D45D2.pdf"
       },
-      "width" : 1024,
-      "height" : 768
+      "width" : 894,
+      "height" : 108
     },
-    "82DDEE4CA2685955DCE18FA590D1C92C" : {
+    "C0D78B79BD8C8A86930412C2AE097FA2" : {
       "type" : "texture",
-      "index" : 10,
+      "index" : 3,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/1F365AD9-FB51-40C7-8DC4-4E266E7D45D2.pdf"
+      },
+      "width" : 498,
+      "height" : 20
+    },
+    "CC0BCC9CB281368012775BBDFAB17173" : {
+      "type" : "texture",
+      "index" : 8,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/1F365AD9-FB51-40C7-8DC4-4E266E7D45D2.pdf"
+      },
+      "width" : 26,
+      "height" : 20
+    },
+    "64575D14B07246126C26B9FA7B88C37B" : {
+      "type" : "texture",
+      "index" : 11,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -139,20 +167,6 @@
       },
       "width" : 198,
       "height" : 37
-    },
-    "C0D78B79BD8C8A86930412C2AE097FA2" : {
-      "type" : "texture",
-      "index" : 3,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/1F365AD9-FB51-40C7-8DC4-4E266E7D45D2.pdf"
-      },
-      "width" : 498,
-      "height" : 20
     }
   },
   "events" : [
@@ -336,7 +350,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "78E938A3DE4B694875DB57A30054EFBD"
+                    "texture" : "E1D7FC1481E815567FD82E4479A0655E"
                   },
                   {
                     "animations" : [
@@ -417,7 +431,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "82DDEE4CA2685955DCE18FA590D1C92C"
+                    "texture" : "64575D14B07246126C26B9FA7B88C37B"
                   }
                 ]
               }
@@ -626,7 +640,7 @@
                                 "pointY" : 0.5
                               }
                             },
-                            "texture" : "78E938A3DE4B694875DB57A30054EFBD"
+                            "texture" : "E1D7FC1481E815567FD82E4479A0655E"
                           },
                           {
                             "animations" : [
@@ -707,7 +721,7 @@
                                 "pointY" : 0.5
                               }
                             },
-                            "texture" : "82DDEE4CA2685955DCE18FA590D1C92C"
+                            "texture" : "64575D14B07246126C26B9FA7B88C37B"
                           }
                         ]
                       }
@@ -905,7 +919,7 @@
                             "pointY" : 0.5
                           }
                         },
-                        "texture" : "78E938A3DE4B694875DB57A30054EFBD"
+                        "texture" : "E1D7FC1481E815567FD82E4479A0655E"
                       },
                       {
                         "animations" : [
@@ -972,7 +986,7 @@
                             "pointY" : 0.5
                           }
                         },
-                        "texture" : "82DDEE4CA2685955DCE18FA590D1C92C"
+                        "texture" : "64575D14B07246126C26B9FA7B88C37B"
                       }
                     ]
                   }
@@ -989,6 +1003,15 @@
         }
       ],
       "accessibility" : [
+        {
+          "text" : "key_yellow_light.png",
+          "targetRectangle" : {
+            "y" : 117,
+            "x" : 810.3475341796875,
+            "width" : 64,
+            "height" : 64
+          }
+        },
         {
           "text" : "Key refresh",
           "targetRectangle" : {
@@ -1008,30 +1031,21 @@
           }
         },
         {
-          "text" : "key_purple_light.png",
-          "targetRectangle" : {
-            "y" : 117,
-            "x" : 939.47430419921875,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "key_yellow_light.png",
-          "targetRectangle" : {
-            "y" : 117,
-            "x" : 810.3475341796875,
-            "width" : 64,
-            "height" : 64
-          }
-        },
-        {
           "text" : "￼",
           "targetRectangle" : {
             "y" : 38,
             "x" : 964.57660043239594,
             "width" : 23.0390625,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Attention: Reencrypting opens a window of attack",
+          "targetRectangle" : {
+            "y" : 736.64938342571259,
+            "x" : 269.86997708201409,
+            "width" : 484.25999999999999,
+            "height" : 28.40008544921875
           }
         },
         {
@@ -1044,6 +1058,15 @@
           }
         },
         {
+          "text" : "key_purple_light.png",
+          "targetRectangle" : {
+            "y" : 117,
+            "x" : 939.47430419921875,
+            "width" : 64,
+            "height" : 64
+          }
+        },
+        {
           "text" : "Problem: Keys must only be used for a limited amount of data",
           "targetRectangle" : {
             "y" : 175.24711608886719,
@@ -1053,11 +1076,11 @@
           }
         },
         {
-          "text" : "Solution: Design for constant key rollover",
+          "text" : "Solution: Design for (constant but not frequent) key rollover",
           "targetRectangle" : {
             "y" : 243.0071165561676,
             "x" : 36,
-            "width" : 600.1693600000001,
+            "width" : 862.10807999999997,
             "height" : 42
           }
         }
@@ -2250,7 +2273,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "8B8B65D93D21AF19C6A82F9522042309"
+                    "texture" : "02C6A9FB2F75ABA23876E19F3340DA35"
                   }
                 ]
               }
@@ -2328,8 +2351,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 512,
-                    "pointY" : 529
+                    "pointX" : 512.00000003168032,
+                    "pointY" : 511.37989188155103
                   },
                   "width" : 922,
                   "sublayerTransform" : [
@@ -2394,8 +2417,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 461,
-                        "pointY" : 219
+                        "pointX" : 460.99999993663943,
+                        "pointY" : 218.24021623689794
                       },
                       "width" : 922,
                       "sublayerTransform" : [
@@ -2431,7 +2454,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "14520AB7B5C1FED69997775273BB70BE"
+                    "texture" : "643626AFE04841D7373B39140FC5E5DA"
                   }
                 ]
               }
@@ -2690,10 +2713,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 972.07660043239594,
+                    "pointX" : 972.57660043239594,
                     "pointY" : 44
                   },
-                  "width" : 25,
+                  "width" : 26,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -2762,10 +2785,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 15.923399567604065,
+                        "pointX" : 16.423399567604065,
                         "pointY" : 18
                       },
-                      "width" : 25,
+                      "width" : 26,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -2799,7 +2822,246 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "D3BDC48012E7E3BEECD467B2040CC191"
+                    "texture" : "CC0BCC9CB281368012775BBDFAB17173"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations" : [
+
+            ],
+            "initialState" : {
+              "affineTransform" : [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "masksToBounds" : false,
+              "rotation" : 0,
+              "scale" : 1,
+              "position" : {
+                "pointX" : 512,
+                "pointY" : 384
+              },
+              "width" : 1024,
+              "sublayerTransform" : [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+              ],
+              "contentsRect" : {
+                "y" : 0,
+                "x" : 0,
+                "width" : 1,
+                "height" : 1
+              },
+              "opacity" : 1,
+              "edgeAntialiasingMask" : 251658240,
+              "height" : 768,
+              "hidden" : false,
+              "anchorPoint" : {
+                "pointX" : 0.5,
+                "pointY" : 0.5
+              }
+            },
+            "layers" : [
+              {
+                "animations" : [
+
+                ],
+                "initialState" : {
+                  "affineTransform" : [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                  ],
+                  "masksToBounds" : false,
+                  "rotation" : 0,
+                  "scale" : 1,
+                  "position" : {
+                    "pointX" : 513.52994534373283,
+                    "pointY" : 752.64938342571259
+                  },
+                  "width" : 1028,
+                  "sublayerTransform" : [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "contentsRect" : {
+                    "y" : 0,
+                    "x" : 0,
+                    "width" : 1,
+                    "height" : 1
+                  },
+                  "opacity" : 1,
+                  "edgeAntialiasingMask" : 251658240,
+                  "height" : 40,
+                  "hidden" : false,
+                  "anchorPoint" : {
+                    "pointX" : 0.5,
+                    "pointY" : 0.5
+                  }
+                },
+                "layers" : [
+                  {
+                    "animations" : [
+
+                    ],
+                    "layers" : [
+
+                    ],
+                    "texturedRectangle" : {
+                      "singleTextureOpacity" : 1,
+                      "textXHeight" : 0,
+                      "shapePath" : {
+                        "lineWidth" : 1,
+                        "flatness" : 0.59999999999999998,
+                        "lineCapStyle" : 0,
+                        "elements" : [
+                          {
+                            "type" : "MoveToPoint",
+                            "points" : [
+                              [
+                                1.5299453437328339,
+                                1.6493834257125854
+                              ]
+                            ]
+                          },
+                          {
+                            "type" : "AddLine",
+                            "points" : [
+                              [
+                                1026.4700545966625,
+                                1.6493834257125854
+                              ]
+                            ]
+                          },
+                          {
+                            "type" : "AddLine",
+                            "points" : [
+                              [
+                                1026.4700545966625,
+                                38.049469113349915
+                              ]
+                            ]
+                          },
+                          {
+                            "type" : "AddLine",
+                            "points" : [
+                              [
+                                1.5299453437328339,
+                                38.049469113349915
+                              ]
+                            ]
+                          },
+                          {
+                            "type" : "CloseSubpath"
+                          },
+                          {
+                            "type" : "MoveToPoint",
+                            "points" : [
+                              [
+                                1.5299453437328339,
+                                1.6493834257125854
+                              ]
+                            ]
+                          }
+                        ],
+                        "windingRule" : 0,
+                        "lineJoinStyle" : 0,
+                        "miterLimit" : 10
+                      },
+                      "isBackgroundTexture" : true,
+                      "textBaseline" : 0,
+                      "isVerticalText" : false,
+                      "textureType" : 5
+                    },
+                    "initialState" : {
+                      "affineTransform" : [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0
+                      ],
+                      "masksToBounds" : false,
+                      "rotation" : 0,
+                      "scale" : 1,
+                      "position" : {
+                        "pointX" : 512.47005465626717,
+                        "pointY" : 18.350616574287415
+                      },
+                      "width" : 1028,
+                      "sublayerTransform" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                      ],
+                      "contentsRect" : {
+                        "y" : 0,
+                        "x" : 0,
+                        "width" : 1,
+                        "height" : 1
+                      },
+                      "opacity" : 1,
+                      "edgeAntialiasingMask" : 0,
+                      "height" : 40,
+                      "hidden" : false,
+                      "anchorPoint" : {
+                        "pointX" : 0.5,
+                        "pointY" : 0.5
+                      }
+                    },
+                    "texture" : "F8420EBEAF494D25775CF3FF4A15B5A1"
                   }
                 ]
               }

@@ -114,7 +114,7 @@ local_slide( {
         "width" : 498,
         "height" : 20
       },
-      "2D928956E13D2C2DBFBD131838D1B9A5" : {
+      "28D2EF211C57E698772AE3AEEBEAAA20" : {
         "type" : "texture",
         "index" : 7,
         "assetRequest" : {
@@ -310,7 +310,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "2D928956E13D2C2DBFBD131838D1B9A5"
+                      "texture" : "28D2EF211C57E698772AE3AEEBEAAA20"
                     },
                     {
                       "animations" : [
@@ -429,66 +429,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "ic_action_tick.png",
-            "targetRectangle" : {
-              "y" : 99.17388916015625,
-              "x" : 663,
-              "width" : 32,
-              "height" : 32
-            }
-          },
-          {
-            "text" : "Data treatment …",
-            "targetRectangle" : {
-              "y" : 112.31451416015625,
-              "x" : 689.16000017671024,
-              "width" : 121.49015999999995,
-              "height" : 32.319999933242798
-            }
-          },
-          {
-            "text" : "Use existing …",
-            "targetRectangle" : {
-              "y" : 144.63451409339905,
-              "x" : 689.16000017671024,
-              "width" : 101.62328000000002,
-              "height" : 32.319999933242798
-            }
-          },
-          {
-            "text" : "…",
-            "targetRectangle" : {
-              "y" : 176.95451402664185,
-              "x" : 689.16000017671024,
-              "width" : 14.960000000000036,
-              "height" : 20
-            }
-          },
-          {
-            "text" : "ic_action_tick.png",
-            "targetRectangle" : {
-              "y" : 129.17388916015625,
-              "x" : 663,
-              "width" : 32,
-              "height" : 32
             }
           },
           {
@@ -591,12 +537,66 @@ local_slide( {
             }
           },
           {
+            "text" : "Data treatment …",
+            "targetRectangle" : {
+              "y" : 112.31451416015625,
+              "x" : 689.16000017671024,
+              "width" : 121.49015999999995,
+              "height" : 32.319999933242798
+            }
+          },
+          {
+            "text" : "Use existing …",
+            "targetRectangle" : {
+              "y" : 144.63451409339905,
+              "x" : 689.16000017671024,
+              "width" : 101.62328000000002,
+              "height" : 32.319999933242798
+            }
+          },
+          {
+            "text" : "…",
+            "targetRectangle" : {
+              "y" : 176.95451402664185,
+              "x" : 689.16000017671024,
+              "width" : 14.960000000000036,
+              "height" : 20
+            }
+          },
+          {
             "text" : "Crypto Checklist",
             "targetRectangle" : {
               "y" : 125,
               "x" : 36,
               "width" : 282.72000000000003,
               "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "ic_action_tick.png",
+            "targetRectangle" : {
+              "y" : 99.17388916015625,
+              "x" : 663,
+              "width" : 32,
+              "height" : 32
+            }
+          },
+          {
+            "text" : "ic_action_tick.png",
+            "targetRectangle" : {
+              "y" : 129.17388916015625,
+              "x" : 663,
+              "width" : 32,
+              "height" : 32
             }
           },
           {

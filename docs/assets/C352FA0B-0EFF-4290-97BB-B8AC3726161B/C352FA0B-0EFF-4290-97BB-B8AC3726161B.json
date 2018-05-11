@@ -14,7 +14,7 @@
       "width" : 1024,
       "height" : 768
     },
-    "7871A0FBC5728F99C0F24450E7B66F62" : {
+    "3274EB45BB920C035A42BED8B7867C31" : {
       "type" : "texture",
       "index" : 5,
       "assetRequest" : {
@@ -27,20 +27,6 @@
       },
       "width" : 26,
       "height" : 20
-    },
-    "A6176F3CE0C6AD70EB14A9B86F52356A" : {
-      "type" : "texture",
-      "index" : 4,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/C352FA0B-0EFF-4290-97BB-B8AC3726161B.pdf"
-      },
-      "width" : 298,
-      "height" : 297
     },
     "05126AB990E22A5D9AA915EF40526FD3" : {
       "type" : "texture",
@@ -70,9 +56,23 @@
       "width" : 532,
       "height" : 6
     },
-    "6DC0248C1C0A9EA2F21545E7256F4D6C" : {
+    "06CAD0799EE4AEEE27B013BE76FF82C5" : {
       "type" : "texture",
       "index" : 8,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/C352FA0B-0EFF-4290-97BB-B8AC3726161B.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
+    "7801F1278E59BE5BCD9E5540730E0572" : {
+      "type" : "texture",
+      "index" : 7,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -112,9 +112,9 @@
       "width" : 238,
       "height" : 42
     },
-    "8980D63898AC40CB7A15C0CEA5F9B322" : {
+    "A6176F3CE0C6AD70EB14A9B86F52356A" : {
       "type" : "texture",
-      "index" : 7,
+      "index" : 4,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -123,8 +123,8 @@
       "url" : {
         "native" : "assets\/C352FA0B-0EFF-4290-97BB-B8AC3726161B.pdf"
       },
-      "width" : 1024,
-      "height" : 768
+      "width" : 298,
+      "height" : 297
     }
   },
   "events" : [
@@ -308,7 +308,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "8980D63898AC40CB7A15C0CEA5F9B322"
+                    "texture" : "7801F1278E59BE5BCD9E5540730E0572"
                   },
                   {
                     "animations" : [
@@ -389,7 +389,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6DC0248C1C0A9EA2F21545E7256F4D6C"
+                    "texture" : "06CAD0799EE4AEEE27B013BE76FF82C5"
                   }
                 ]
               }
@@ -410,6 +410,69 @@
       ],
       "accessibility" : [
         {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 192.58404541015625,
+            "x" : 198.08695983886719,
+            "width" : 166.83197021484375,
+            "height" : 166.83193969726562
+          }
+        },
+        {
+          "text" : "ic_action_lock_open.png",
+          "targetRectangle" : {
+            "y" : 63.507095336914062,
+            "x" : 67.081069946289062,
+            "width" : 166.84375,
+            "height" : 166.84375
+          }
+        },
+        {
+          "text" : "ic_action_lock_closed.png",
+          "targetRectangle" : {
+            "y" : 250.60851287841797,
+            "x" : 775.4886474609375,
+            "width" : 64.000007629394531,
+            "height" : 64
+          }
+        },
+        {
+          "text" : "Data",
+          "targetRectangle" : {
+            "y" : 268.73088836669922,
+            "x" : 651.38130493164067,
+            "width" : 40.599999999999909,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 965.19220101833344,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
+          "text" : "Access Control",
+          "targetRectangle" : {
+            "y" : 510,
+            "x" : 468,
+            "width" : 288.76199999999994,
+            "height" : 203.28025023460759
+          }
+        },
+        {
+          "text" : "Patterns",
+          "targetRectangle" : {
+            "y" : 411,
+            "x" : 468,
+            "width" : 241.8134765625,
+            "height" : 63
+          }
+        },
+        {
           "text" : "key_holo_dark.png",
           "targetRectangle" : {
             "y" : 126.31456756591797,
@@ -425,69 +488,6 @@
             "x" : 580.80305480957031,
             "width" : 64,
             "height" : 64
-          }
-        },
-        {
-          "text" : "￼",
-          "targetRectangle" : {
-            "y" : 38,
-            "x" : 965.19220101833344,
-            "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 250.60851287841797,
-            "x" : 775.4886474609375,
-            "width" : 64.000007629394531,
-            "height" : 64
-          }
-        },
-        {
-          "text" : "Patterns",
-          "targetRectangle" : {
-            "y" : 411,
-            "x" : 468,
-            "width" : 241.8134765625,
-            "height" : 63
-          }
-        },
-        {
-          "text" : "ic_action_lock_closed.png",
-          "targetRectangle" : {
-            "y" : 192.58404541015625,
-            "x" : 198.08695983886719,
-            "width" : 166.83197021484375,
-            "height" : 166.83193969726562
-          }
-        },
-        {
-          "text" : "Data",
-          "targetRectangle" : {
-            "y" : 268.73088836669922,
-            "x" : 651.38130493164067,
-            "width" : 40.599999999999909,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Access Control",
-          "targetRectangle" : {
-            "y" : 510,
-            "x" : 468,
-            "width" : 288.76199999999994,
-            "height" : 203.28025023460759
-          }
-        },
-        {
-          "text" : "ic_action_lock_open.png",
-          "targetRectangle" : {
-            "y" : 63.507095336914062,
-            "x" : 67.081069946289062,
-            "width" : 166.84375,
-            "height" : 166.84375
           }
         }
       ],
@@ -1673,7 +1673,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "7871A0FBC5728F99C0F24450E7B66F62"
+                    "texture" : "3274EB45BB920C035A42BED8B7867C31"
                   }
                 ]
               }

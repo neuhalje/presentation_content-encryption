@@ -2,6 +2,20 @@ local_slide( {
   "name" : "23244B16-BB6D-4341-AAEF-B39387770A9B",
   "json" : {
     "assets" : {
+      "EEFC8BCA26F769757CBD69466C12E686" : {
+        "type" : "texture",
+        "index" : 6,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/23244B16-BB6D-4341-AAEF-B39387770A9B.pdf"
+        },
+        "width" : 183,
+        "height" : 380
+      },
       "C3697465049BF78CE2BA2266E9A15E7B" : {
         "type" : "texture",
         "index" : 5,
@@ -58,7 +72,7 @@ local_slide( {
         "width" : 559,
         "height" : 203
       },
-      "FB01FCFC984D73CF1BE3AFAF0722E2F9" : {
+      "2300324FFE33F9ADDCF218D89012428F" : {
         "type" : "texture",
         "index" : 4,
         "assetRequest" : {
@@ -69,22 +83,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/23244B16-BB6D-4341-AAEF-B39387770A9B.pdf"
         },
-        "width" : 22,
+        "width" : 26,
         "height" : 20
-      },
-      "117332C44215C805BB6859D1B3EA290F" : {
-        "type" : "texture",
-        "index" : 14,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/23244B16-BB6D-4341-AAEF-B39387770A9B.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       },
       "8E067AB9D34F18DC66C3449E410953DA" : {
         "type" : "texture",
@@ -170,9 +170,23 @@ local_slide( {
         "width" : 498,
         "height" : 20
       },
-      "0C131E3FE47040E4976470CD7E95EAE9" : {
+      "4D16409AA512BDB2971BCF5852D9EA74" : {
         "type" : "texture",
         "index" : 15,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/23244B16-BB6D-4341-AAEF-B39387770A9B.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
+      "2E48C5C222DF4E0E2EAD585780491776" : {
+        "type" : "texture",
+        "index" : 14,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -211,20 +225,6 @@ local_slide( {
         },
         "width" : 1028,
         "height" : 40
-      },
-      "EEFC8BCA26F769757CBD69466C12E686" : {
-        "type" : "texture",
-        "index" : 6,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/23244B16-BB6D-4341-AAEF-B39387770A9B.pdf"
-        },
-        "width" : 183,
-        "height" : 380
       }
     },
     "events" : [
@@ -408,7 +408,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "117332C44215C805BB6859D1B3EA290F"
+                      "texture" : "2E48C5C222DF4E0E2EAD585780491776"
                     },
                     {
                       "animations" : [
@@ -489,7 +489,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "0C131E3FE47040E4976470CD7E95EAE9"
+                      "texture" : "4D16409AA512BDB2971BCF5852D9EA74"
                     }
                   ]
                 }
@@ -510,21 +510,30 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "?",
-            "targetRectangle" : {
-              "y" : 122.65264892578125,
-              "x" : 968.88079833984375,
-              "width" : 18.563999999999965,
-              "height" : 46
-            }
-          },
-          {
             "text" : "Hi Alice do you know this one?",
             "targetRectangle" : {
               "y" : 276.5,
               "x" : 339.96377563476562,
               "width" : 426.34367999999995,
               "height" : 39
+            }
+          },
+          {
+            "text" : "Compare Data",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 220.70400000000001,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Yes, I already have that one!",
+            "targetRectangle" : {
+              "y" : 481.3489990234375,
+              "x" : 344.92327563476562,
+              "width" : 386.20600000000007,
+              "height" : 92
             }
           },
           {
@@ -546,51 +555,6 @@ local_slide( {
             }
           },
           {
-            "text" : " ",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 8.9279999999999973,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "No confidential data exchanged.",
-            "targetRectangle" : {
-              "y" : 736.80532824993134,
-              "x" : 356.13801239776615,
-              "width" : 311.72400000000005,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Compare Data",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 220.70400000000001,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
             "text" : "af7abc231….",
             "targetRectangle" : {
               "y" : 329.65228259563446,
@@ -609,21 +573,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Yes, I already have that one!",
+            "text" : "No confidential data exchanged.",
             "targetRectangle" : {
-              "y" : 481.3489990234375,
-              "x" : 344.92327563476562,
-              "width" : 386.20600000000007,
-              "height" : 92
-            }
-          },
-          {
-            "text" : "==",
-            "targetRectangle" : {
-              "y" : 122.65264892578125,
-              "x" : 853.88079833984375,
-              "width" : 45.288000000000011,
-              "height" : 46
+              "y" : 736.80532824993134,
+              "x" : 356.13801239776615,
+              "width" : 311.72400000000005,
+              "height" : 28.40008544921875
             }
           },
           {
@@ -633,6 +588,51 @@ local_slide( {
               "x" : 939.53539276123047,
               "width" : 37.958965301513672,
               "height" : 37.958965301513672
+            }
+          },
+          {
+            "text" : " ",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 8.9279999999999973,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "?",
+            "targetRectangle" : {
+              "y" : 122.65264892578125,
+              "x" : 968.88079833984375,
+              "width" : 18.563999999999965,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "==",
+            "targetRectangle" : {
+              "y" : 122.65264892578125,
+              "x" : 853.88079833984375,
+              "width" : 45.288000000000011,
+              "height" : 46
             }
           }
         ],
@@ -1643,10 +1643,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 970.57660043239594,
+                      "pointX" : 972.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 22,
+                    "width" : 26,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1715,10 +1715,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 14.423399567604065,
+                          "pointX" : 16.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 22,
+                        "width" : 26,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1752,7 +1752,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "FB01FCFC984D73CF1BE3AFAF0722E2F9"
+                      "texture" : "2300324FFE33F9ADDCF218D89012428F"
                     }
                   ]
                 }

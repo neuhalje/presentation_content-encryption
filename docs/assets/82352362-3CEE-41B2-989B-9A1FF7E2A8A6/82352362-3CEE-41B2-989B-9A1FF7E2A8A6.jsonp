@@ -100,9 +100,9 @@ local_slide( {
         "width" : 776,
         "height" : 84
       },
-      "4CFF891B2FBBD6D326470F9A211860B1" : {
+      "E1E0A33E569AD26A5C8AC58679911664" : {
         "type" : "texture",
-        "index" : 8,
+        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -111,12 +111,12 @@ local_slide( {
         "url" : {
           "native" : "assets\/82352362-3CEE-41B2-989B-9A1FF7E2A8A6.pdf"
         },
-        "width" : 58,
-        "height" : 94
+        "width" : 249,
+        "height" : 103
       },
-      "559992BFCDA581BABBC2BAA2ECC72FC3" : {
+      "3BC0EAB9022ED095E83116F4A86617A2" : {
         "type" : "texture",
-        "index" : 7,
+        "index" : 18,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -125,10 +125,10 @@ local_slide( {
         "url" : {
           "native" : "assets\/82352362-3CEE-41B2-989B-9A1FF7E2A8A6.pdf"
         },
-        "width" : 461,
-        "height" : 37
+        "width" : 1024,
+        "height" : 768
       },
-      "2154F7E98097545CE700B7BEE4BB9830" : {
+      "05677288316F93FB5D647798501408EA" : {
         "type" : "texture",
         "index" : 3,
         "assetRequest" : {
@@ -240,9 +240,9 @@ local_slide( {
         "width" : 109,
         "height" : 79
       },
-      "DDE33FE1698706F0ACDFE304A189E80F" : {
+      "4CFF891B2FBBD6D326470F9A211860B1" : {
         "type" : "texture",
-        "index" : 18,
+        "index" : 8,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -251,12 +251,12 @@ local_slide( {
         "url" : {
           "native" : "assets\/82352362-3CEE-41B2-989B-9A1FF7E2A8A6.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 58,
+        "height" : 94
       },
-      "E1E0A33E569AD26A5C8AC58679911664" : {
+      "559992BFCDA581BABBC2BAA2ECC72FC3" : {
         "type" : "texture",
-        "index" : 5,
+        "index" : 7,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -265,8 +265,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/82352362-3CEE-41B2-989B-9A1FF7E2A8A6.pdf"
         },
-        "width" : 249,
-        "height" : 103
+        "width" : 461,
+        "height" : 37
       }
     },
     "events" : [
@@ -1931,12 +1931,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "0x123456…",
+            "text" : "2,718€",
             "targetRectangle" : {
-              "y" : 125.25,
-              "x" : 864.45169110107418,
-              "width" : 111.80400000000009,
-              "height" : 28.40008544921875
+              "y" : 521.28836059570312,
+              "x" : 486.50792987060549,
+              "width" : 73.655999999999949,
+              "height" : 35.80010986328125
             }
           },
           {
@@ -1949,15 +1949,6 @@ local_slide( {
             }
           },
           {
-            "text" : "2,718€",
-            "targetRectangle" : {
-              "y" : 521.28836059570312,
-              "x" : 486.50792987060549,
-              "width" : 73.655999999999949,
-              "height" : 35.80010986328125
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
@@ -1967,39 +1958,12 @@ local_slide( {
             }
           },
           {
-            "text" : "ic_action_tick.png",
-            "targetRectangle" : {
-              "y" : 124.78334522247314,
-              "x" : 959.30970001220703,
-              "width" : 51.466655731201172,
-              "height" : 51.466655731201172
-            }
-          },
-          {
             "text" : "3,141€",
             "targetRectangle" : {
               "y" : 400.28836059570312,
               "x" : 486.50796038818362,
               "width" : 73.655999999999949,
               "height" : 35.80010986328125
-            }
-          },
-          {
-            "text" : "Data Integrity & association",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 462.19199999999995,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "* including the username in the hash\/hmac",
-            "targetRectangle" : {
-              "y" : 705.52734375,
-              "x" : 36,
-              "width" : 667.69200000000012,
-              "height" : 46
             }
           },
           {
@@ -2018,6 +1982,42 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Data Integrity & association",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 462.19199999999995,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "0x123456…",
+            "targetRectangle" : {
+              "y" : 125.25,
+              "x" : 864.45169110107418,
+              "width" : 111.80400000000009,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "* including the username in the hash\/hmac",
+            "targetRectangle" : {
+              "y" : 705.52734375,
+              "x" : 36,
+              "width" : 667.69200000000012,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "ic_action_tick.png",
+            "targetRectangle" : {
+              "y" : 124.78334522247314,
+              "x" : 959.30970001220703,
+              "width" : 51.466655731201172,
+              "height" : 51.466655731201172
             }
           }
         ],
@@ -2828,7 +2828,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "2154F7E98097545CE700B7BEE4BB9830"
+                      "texture" : "05677288316F93FB5D647798501408EA"
                     }
                   ]
                 }
@@ -6385,12 +6385,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "0x123456…",
+            "text" : "2,718€",
             "targetRectangle" : {
-              "y" : 125.25,
-              "x" : 864.45169110107418,
-              "width" : 111.80400000000009,
-              "height" : 28.40008544921875
+              "y" : 521.28836059570312,
+              "x" : 486.50792987060549,
+              "width" : 73.655999999999949,
+              "height" : 35.80010986328125
             }
           },
           {
@@ -6403,39 +6403,12 @@ local_slide( {
             }
           },
           {
-            "text" : "2,718€",
-            "targetRectangle" : {
-              "y" : 521.28836059570312,
-              "x" : 486.50792987060549,
-              "width" : 73.655999999999949,
-              "height" : 35.80010986328125
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "ic_action_tick.png",
-            "targetRectangle" : {
-              "y" : 124.78334522247314,
-              "x" : 959.30970001220703,
-              "width" : 51.466655731201172,
-              "height" : 51.466655731201172
-            }
-          },
-          {
-            "text" : "3,141€",
-            "targetRectangle" : {
-              "y" : 400.28836059570312,
-              "x" : 486.50796038818362,
-              "width" : 73.655999999999949,
-              "height" : 35.80010986328125
             }
           },
           {
@@ -6448,21 +6421,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Data Integrity & association",
+            "text" : "3,141€",
             "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 462.19199999999995,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "* including the username in the hash\/hmac",
-            "targetRectangle" : {
-              "y" : 705.52734375,
-              "x" : 36,
-              "width" : 667.69200000000012,
-              "height" : 46
+              "y" : 400.28836059570312,
+              "x" : 486.50796038818362,
+              "width" : 73.655999999999949,
+              "height" : 35.80010986328125
             }
           },
           {
@@ -6481,6 +6445,42 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Data Integrity & association",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 462.19199999999995,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "0x123456…",
+            "targetRectangle" : {
+              "y" : 125.25,
+              "x" : 864.45169110107418,
+              "width" : 111.80400000000009,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "* including the username in the hash\/hmac",
+            "targetRectangle" : {
+              "y" : 705.52734375,
+              "x" : 36,
+              "width" : 667.69200000000012,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "ic_action_tick.png",
+            "targetRectangle" : {
+              "y" : 124.78334522247314,
+              "x" : 959.30970001220703,
+              "width" : 51.466655731201172,
+              "height" : 51.466655731201172
             }
           }
         ],
@@ -7291,7 +7291,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "2154F7E98097545CE700B7BEE4BB9830"
+                      "texture" : "05677288316F93FB5D647798501408EA"
                     }
                   ]
                 }
@@ -10420,7 +10420,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "DDE33FE1698706F0ACDFE304A189E80F"
+                      "texture" : "3BC0EAB9022ED095E83116F4A86617A2"
                     }
                   ]
                 }
@@ -10441,21 +10441,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "0x123456…",
+            "text" : "2,718€",
             "targetRectangle" : {
-              "y" : 125.25,
-              "x" : 864.45169110107418,
-              "width" : 111.80400000000009,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "+",
-            "targetRectangle" : {
-              "y" : 478.28833246231079,
-              "x" : 306.89785766601562,
-              "width" : 59.274000000000001,
-              "height" : 122
+              "y" : 521.28836059570312,
+              "x" : 486.50792987060549,
+              "width" : 73.655999999999949,
+              "height" : 35.80010986328125
             }
           },
           {
@@ -10468,39 +10459,12 @@ local_slide( {
             }
           },
           {
-            "text" : "2,718€",
-            "targetRectangle" : {
-              "y" : 521.28836059570312,
-              "x" : 486.50792987060549,
-              "width" : 73.655999999999949,
-              "height" : 35.80010986328125
-            }
-          },
-          {
             "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
               "height" : 28
-            }
-          },
-          {
-            "text" : "ic_action_tick.png",
-            "targetRectangle" : {
-              "y" : 124.78334522247314,
-              "x" : 959.30970001220703,
-              "width" : 51.466655731201172,
-              "height" : 51.466655731201172
-            }
-          },
-          {
-            "text" : "3,141€",
-            "targetRectangle" : {
-              "y" : 400.28836059570312,
-              "x" : 486.50796038818362,
-              "width" : 73.655999999999949,
-              "height" : 35.80010986328125
             }
           },
           {
@@ -10513,30 +10477,12 @@ local_slide( {
             }
           },
           {
-            "text" : "The checksums don’t match, promotion is declined",
+            "text" : "3,141€",
             "targetRectangle" : {
-              "y" : 621.9104015827179,
-              "x" : 105.51995849609375,
-              "width" : 835.63199999999995,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Data Integrity & association",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 462.19199999999995,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "* including the username in the hash\/hmac",
-            "targetRectangle" : {
-              "y" : 705.52734375,
-              "x" : 36,
-              "width" : 667.69200000000012,
-              "height" : 46
+              "y" : 400.28836059570312,
+              "x" : 486.50796038818362,
+              "width" : 73.655999999999949,
+              "height" : 35.80010986328125
             }
           },
           {
@@ -10555,6 +10501,60 @@ local_slide( {
               "x" : 36,
               "width" : 498.60234439373016,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Data Integrity & association",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 462.19199999999995,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "0x123456…",
+            "targetRectangle" : {
+              "y" : 125.25,
+              "x" : 864.45169110107418,
+              "width" : 111.80400000000009,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "+",
+            "targetRectangle" : {
+              "y" : 478.28833246231079,
+              "x" : 306.89785766601562,
+              "width" : 59.274000000000001,
+              "height" : 122
+            }
+          },
+          {
+            "text" : "* including the username in the hash\/hmac",
+            "targetRectangle" : {
+              "y" : 705.52734375,
+              "x" : 36,
+              "width" : 667.69200000000012,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "ic_action_tick.png",
+            "targetRectangle" : {
+              "y" : 124.78334522247314,
+              "x" : 959.30970001220703,
+              "width" : 51.466655731201172,
+              "height" : 51.466655731201172
+            }
+          },
+          {
+            "text" : "The checksums don’t match, promotion is declined",
+            "targetRectangle" : {
+              "y" : 621.9104015827179,
+              "x" : 105.51995849609375,
+              "width" : 835.63199999999995,
+              "height" : 48.400146484375
             }
           }
         ],
@@ -11366,7 +11366,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "2154F7E98097545CE700B7BEE4BB9830"
+                      "texture" : "05677288316F93FB5D647798501408EA"
                     }
                   ]
                 }

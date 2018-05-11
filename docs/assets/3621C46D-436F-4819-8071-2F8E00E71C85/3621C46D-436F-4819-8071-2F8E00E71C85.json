@@ -637,15 +637,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Your data",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 158.49600000000004,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
@@ -670,6 +661,15 @@
             "x" : 976.09613084793091,
             "width" : 11.51953125,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Your data",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 158.49600000000004,
+            "height" : 48.400146484375
           }
         }
       ],
@@ -3720,15 +3720,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Your data",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 158.49600000000004,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
@@ -3753,6 +3744,15 @@
             "x" : 976.09613084793091,
             "width" : 11.51953125,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Your data",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 158.49600000000004,
+            "height" : 48.400146484375
           }
         }
       ],
@@ -6937,15 +6937,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Your data",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 158.49600000000004,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
@@ -6970,6 +6961,15 @@
             "x" : 976.09613084793091,
             "width" : 11.51953125,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Your data",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 158.49600000000004,
+            "height" : 48.400146484375
           }
         }
       ],
@@ -10221,15 +10221,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Your data",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 158.49600000000004,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
@@ -10254,6 +10245,15 @@
             "x" : 976.09613084793091,
             "width" : 11.51953125,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Your data",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 158.49600000000004,
+            "height" : 48.400146484375
           }
         }
       ],
@@ -13505,15 +13505,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Your data",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 158.49600000000004,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
@@ -13538,6 +13529,15 @@
             "x" : 976.09613084793091,
             "width" : 11.51953125,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Your data",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 158.49600000000004,
+            "height" : 48.400146484375
           }
         }
       ],
@@ -17806,15 +17806,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Your data",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 158.49600000000004,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
@@ -17839,6 +17830,15 @@
             "x" : 976.09613084793091,
             "width" : 11.51953125,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Your data",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 158.49600000000004,
+            "height" : 48.400146484375
           }
         }
       ],
@@ -21090,15 +21090,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Your data",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 158.49600000000004,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
@@ -21123,6 +21114,15 @@
             "x" : 976.09613084793091,
             "width" : 11.51953125,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Your data",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 158.49600000000004,
+            "height" : 48.400146484375
           }
         }
       ],
@@ -24307,15 +24307,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Your data",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 158.49600000000004,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
@@ -24340,6 +24331,15 @@
             "x" : 976.09613084793091,
             "width" : 11.51953125,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Your data",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 158.49600000000004,
+            "height" : 48.400146484375
           }
         }
       ],

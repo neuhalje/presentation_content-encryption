@@ -1199,6 +1199,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
@@ -1214,15 +1223,6 @@ local_slide( {
               "x" : 36,
               "width" : 516.57600000000002,
               "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
             }
           }
         ],
@@ -3787,6 +3787,24 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "How to migrate passwords of users that\\u2028do not login frequently?",
+            "targetRectangle" : {
+              "y" : 629.71514892578125,
+              "x" : 241.13073825836182,
+              "width" : 660.41200000000003,
+              "height" : 92
+            }
+          },
+          {
             "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
@@ -3802,24 +3820,6 @@ local_slide( {
               "x" : 36,
               "width" : 516.57600000000002,
               "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "How to migrate passwords of users that\\u2028do not login frequently?",
-            "targetRectangle" : {
-              "y" : 629.71514892578125,
-              "x" : 241.13073825836182,
-              "width" : 660.41200000000003,
-              "height" : 92
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
             }
           }
         ],

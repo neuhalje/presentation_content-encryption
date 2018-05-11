@@ -30,20 +30,6 @@ local_slide( {
         "width" : 221,
         "height" : 37
       },
-      "8EAED6A2F9F0569DC8CB1101394798E3" : {
-        "type" : "texture",
-        "index" : 6,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/E0A30241-13D8-4AFE-9E37-6C0EE87AAB42.pdf"
-        },
-        "width" : 26,
-        "height" : 20
-      },
       "FA9DD2FCC8D4341379518F958337D289" : {
         "type" : "texture",
         "index" : 8,
@@ -58,9 +44,9 @@ local_slide( {
         "width" : 976,
         "height" : 73
       },
-      "4AF1C990E13F882E2D8872B1D139C5BF" : {
+      "832B6D222673AC9B39611AE3EF809126" : {
         "type" : "texture",
-        "index" : 9,
+        "index" : 11,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -69,8 +55,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/E0A30241-13D8-4AFE-9E37-6C0EE87AAB42.pdf"
         },
-        "width" : 192,
-        "height" : 117
+        "width" : 1024,
+        "height" : 768
       },
       "FBB5DEA59905EE30EF2803B0A74DF992" : {
         "type" : "texture",
@@ -100,34 +86,6 @@ local_slide( {
         "width" : 209,
         "height" : 20
       },
-      "8F7285290DB7FB67C6F88BC319A2A969" : {
-        "type" : "texture",
-        "index" : 3,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/E0A30241-13D8-4AFE-9E37-6C0EE87AAB42.pdf"
-        },
-        "width" : 968,
-        "height" : 437
-      },
-      "B4BAB41FABF991018A9203B5BCA8DE72" : {
-        "type" : "texture",
-        "index" : 10,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/E0A30241-13D8-4AFE-9E37-6C0EE87AAB42.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
       "EAAE4E4D17425324CEEB17566C2F88BD" : {
         "type" : "texture",
         "index" : 7,
@@ -142,9 +100,9 @@ local_slide( {
         "width" : 755,
         "height" : 31
       },
-      "96EBAB6D9AD9FE759706316D5A75B3F5" : {
+      "8F7285290DB7FB67C6F88BC319A2A969" : {
         "type" : "texture",
-        "index" : 11,
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -153,8 +111,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/E0A30241-13D8-4AFE-9E37-6C0EE87AAB42.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 968,
+        "height" : 437
       },
       "C0D78B79BD8C8A86930412C2AE097FA2" : {
         "type" : "texture",
@@ -168,6 +126,48 @@ local_slide( {
           "native" : "assets\/E0A30241-13D8-4AFE-9E37-6C0EE87AAB42.pdf"
         },
         "width" : 498,
+        "height" : 20
+      },
+      "4AF1C990E13F882E2D8872B1D139C5BF" : {
+        "type" : "texture",
+        "index" : 9,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/E0A30241-13D8-4AFE-9E37-6C0EE87AAB42.pdf"
+        },
+        "width" : 192,
+        "height" : 117
+      },
+      "161B9402701D783A676AC8A76ED56AA0" : {
+        "type" : "texture",
+        "index" : 10,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/E0A30241-13D8-4AFE-9E37-6C0EE87AAB42.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
+      "9E599849A6CB07ECE440182CC108411C" : {
+        "type" : "texture",
+        "index" : 6,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/E0A30241-13D8-4AFE-9E37-6C0EE87AAB42.pdf"
+        },
+        "width" : 26,
         "height" : 20
       }
     },
@@ -352,7 +352,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B4BAB41FABF991018A9203B5BCA8DE72"
+                      "texture" : "161B9402701D783A676AC8A76ED56AA0"
                     },
                     {
                       "animations" : [
@@ -433,7 +433,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "96EBAB6D9AD9FE759706316D5A75B3F5"
+                      "texture" : "832B6D222673AC9B39611AE3EF809126"
                     }
                   ]
                 }
@@ -453,17 +453,17 @@ local_slide( {
           {
             "url" : "https:\/\/posteo.de\/bfdi_pruefbericht.pdf",
             "targetRectangle" : {
-              "y" : 686.74416716332667,
-              "x" : 22.524230997745605,
-              "width" : 337.02387671076076,
+              "y" : 686.744140625,
+              "x" : 22.52423095703125,
+              "width" : 337.0238767107607,
               "height" : 36
             }
           },
           {
             "url" : "https:\/\/posteo.de\/blog\/bnetza-entscheidung-zu-posteo-kryptographisch-bearbeitete-daten-nicht-auskunftspflichtig",
             "targetRectangle" : {
-              "y" : 722.74416716332667,
-              "x" : 22.524230997745605,
+              "y" : 722.744140625,
+              "x" : 22.52423095703125,
               "width" : 972.77901565774005,
               "height" : 36
             }
@@ -471,30 +471,30 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Flag_of_Germany.png",
+            "text" : "Dr. Grace Nacimiento von der Kanzlei KLEINER: „Der Einsatz von Salt-Wert und kryptographischer Hashfunktion durch Posteo sorgt dafür, dass eine vom Kunden eingegebene Mobilfunknummer anonymisiert wird, bevor eine Übermittlung an Posteo erfolgt. Für die bei Posteo allein gespeicherten Hashwerte fehlt es daher an einem Personenbezug […] Die gespeicherten Hashwerte sind daher kein Bestandsdatum im Sinne des § 95 TKG […]” ()",
             "targetRectangle" : {
-              "y" : 84.423917273059487,
-              "x" : 803.0852355957029,
-              "width" : 189.41477966308594,
-              "height" : 114.04886627197266
+              "y" : 214.89669990539551,
+              "x" : 29.537740707397461,
+              "width" : 964.92456054687534,
+              "height" : 294
             }
           },
           {
-            "text" : "https:\/\/posteo.de\/bfdi_pruefbericht.pdf\\u2028https:\/\/posteo.de\/blog\/bnetza-entscheidung-zu-posteo-kryptographisch-bearbeitete-daten-nicht-auskunftspflichtig",
+            "text" : "Bundesdatenschutzbeauftragte Andrea Voßhof:\\u2028„Auch aus meiner Sicht ist der gespeicherte gesaltete Hashwert kein personenbeziehbares Datum. (…) Zusammenfassend stelle ich fest, dass Posteo im Sinne des § 95 TKG keine Bestandsdaten erhebt“.",
             "targetRectangle" : {
-              "y" : 686.74416716332667,
-              "x" : 22.524230997745605,
-              "width" : 972.77901565774005,
-              "height" : 72
+              "y" : 508.89669990539551,
+              "x" : 29.537740707397461,
+              "width" : 964.92456054687545,
+              "height" : 152
             }
           },
           {
-            "text" : "￼",
+            "text" : "Hashed personal data sometimes is longer personal data!",
             "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
+              "y" : 159.77532958984375,
+              "x" : 36,
+              "width" : 756.10559999999975,
+              "height" : 37
             }
           },
           {
@@ -503,6 +503,15 @@ local_slide( {
               "y" : 40,
               "x" : 700.49374979734421,
               "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
             }
           },
@@ -516,12 +525,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Hashed personal data sometimes is longer personal data!",
+            "text" : "https:\/\/posteo.de\/bfdi_pruefbericht.pdf\\u2028https:\/\/posteo.de\/blog\/bnetza-entscheidung-zu-posteo-kryptographisch-bearbeitete-daten-nicht-auskunftspflichtig",
             "targetRectangle" : {
-              "y" : 159.77532788170197,
-              "x" : 36,
-              "width" : 756.10559999999975,
-              "height" : 37
+              "y" : 686.744140625,
+              "x" : 22.52423095703125,
+              "width" : 972.77901565774005,
+              "height" : 72
             }
           },
           {
@@ -534,21 +543,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Dr. Grace Nacimiento von der Kanzlei KLEINER: „Der Einsatz von Salt-Wert und kryptographischer Hashfunktion durch Posteo sorgt dafür, dass eine vom Kunden eingegebene Mobilfunknummer anonymisiert wird, bevor eine Übermittlung an Posteo erfolgt. Für die bei Posteo allein gespeicherten Hashwerte fehlt es daher an einem Personenbezug […] Die gespeicherten Hashwerte sind daher kein Bestandsdatum im Sinne des § 95 TKG […]” ()",
+            "text" : "Flag_of_Germany.png",
             "targetRectangle" : {
-              "y" : 214.89670080897986,
-              "x" : 29.537740784018524,
-              "width" : 964.92456054687523,
-              "height" : 294
-            }
-          },
-          {
-            "text" : "Bundesdatenschutzbeauftragte Andrea Voßhof:\\u2028„Auch aus meiner Sicht ist der gespeicherte gesaltete Hashwert kein personenbeziehbares Datum. (…) Zusammenfassend stelle ich fest, dass Posteo im Sinne des § 95 TKG keine Bestandsdaten erhebt“.",
-            "targetRectangle" : {
-              "y" : 508.89670080897986,
-              "x" : 29.537740784018524,
-              "width" : 964.924560546875,
-              "height" : 152
+              "y" : 84.423919677734375,
+              "x" : 803.085205078125,
+              "width" : 189.41477966308594,
+              "height" : 114.04886627197266
             }
           }
         ],
@@ -1257,8 +1257,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 509.53774078401852,
-                      "pointY" : 429.39670080897986
+                      "pointX" : 509.53774070739746,
+                      "pointY" : 429.39669990539551
                     },
                     "width" : 968,
                     "sublayerTransform" : [
@@ -1305,7 +1305,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.030370709382151029,
-                        "textBaseline" : 0.98775463616542869,
+                        "textBaseline" : 0.98775463409773001,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1329,8 +1329,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 486.46225921598148,
-                          "pointY" : 226.60329919102014
+                          "pointX" : 486.46225929260254,
+                          "pointY" : 226.60330009460449
                         },
                         "width" : 968,
                         "sublayerTransform" : [
@@ -1927,7 +1927,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "8EAED6A2F9F0569DC8CB1101394798E3"
+                      "texture" : "9E599849A6CB07ECE440182CC108411C"
                     }
                   ]
                 }
@@ -2006,7 +2006,7 @@ local_slide( {
                     "scale" : 1,
                     "position" : {
                       "pointX" : 409.5,
-                      "pointY" : 171.27532788170197
+                      "pointY" : 171.27532958984375
                     },
                     "width" : 755,
                     "sublayerTransform" : [
@@ -2053,7 +2053,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.43695483870967738,
-                        "textBaseline" : 0.73613551382506359,
+                        "textBaseline" : 0.7361355689264113,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -2078,7 +2078,7 @@ local_slide( {
                         "scale" : 1,
                         "position" : {
                           "pointX" : 381.5,
-                          "pointY" : 23.724672118298031
+                          "pointY" : 23.72467041015625
                         },
                         "width" : 755,
                         "sublayerTransform" : [
@@ -2192,8 +2192,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 506.52423099774558,
-                      "pointY" : 719.24416716332667
+                      "pointX" : 506.52423095703125,
+                      "pointY" : 719.244140625
                     },
                     "width" : 976,
                     "sublayerTransform" : [
@@ -2240,7 +2240,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.23194520547945208,
-                        "textBaseline" : 0.86523776966278998,
+                        "textBaseline" : 0.86523740612406852,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -2264,8 +2264,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 490.47576900225442,
-                          "pointY" : 39.755832836673335
+                          "pointX" : 490.47576904296875,
+                          "pointY" : 39.755859375
                         },
                         "width" : 976,
                         "sublayerTransform" : [
@@ -2379,8 +2379,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 899.0852355957029,
-                      "pointY" : 142.92391727305949
+                      "pointX" : 899.085205078125,
+                      "pointY" : 142.92391967773438
                     },
                     "width" : 192,
                     "sublayerTransform" : [
@@ -2445,8 +2445,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 94.914764404297102,
-                          "pointY" : 57.076082726940513
+                          "pointX" : 94.914794921875,
+                          "pointY" : 57.076080322265625
                         },
                         "width" : 192,
                         "sublayerTransform" : [

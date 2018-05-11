@@ -74,7 +74,7 @@ local_slide( {
       },
       "03325907A58B04D22EA17B50CC1C0C2D" : {
         "type" : "texture",
-        "index" : 24,
+        "index" : 9,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -184,6 +184,20 @@ local_slide( {
         "width" : 140,
         "height" : 139
       },
+      "CDCF594FA0AA7DBA1CB6DBC59BA2C920" : {
+        "type" : "texture",
+        "index" : 24,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/6FBEC91F-7547-470F-A697-7268A80CA810.pdf"
+        },
+        "width" : 37,
+        "height" : 20
+      },
       "74CD1DE4631E78894EA65F8538F30159" : {
         "type" : "texture",
         "index" : 31,
@@ -196,20 +210,6 @@ local_slide( {
           "native" : "assets\/6FBEC91F-7547-470F-A697-7268A80CA810.pdf"
         },
         "width" : 78,
-        "height" : 147
-      },
-      "6ED567FD4F86C456AF2E89992A4C4082" : {
-        "type" : "texture",
-        "index" : 29,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/6FBEC91F-7547-470F-A697-7268A80CA810.pdf"
-        },
-        "width" : 99,
         "height" : 147
       },
       "307594F9637A532811F2818D269D5938" : {
@@ -226,9 +226,23 @@ local_slide( {
         "width" : 395,
         "height" : 24
       },
+      "6ED567FD4F86C456AF2E89992A4C4082" : {
+        "type" : "texture",
+        "index" : 29,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/6FBEC91F-7547-470F-A697-7268A80CA810.pdf"
+        },
+        "width" : 99,
+        "height" : 147
+      },
       "79639EEE136B181F5B499B9D5F71BCB0" : {
         "type" : "texture",
-        "index" : 39,
+        "index" : 38,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -242,7 +256,7 @@ local_slide( {
       },
       "61333B446D9BB3149B432431F7DAADFF" : {
         "type" : "texture",
-        "index" : 37,
+        "index" : 40,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -354,7 +368,7 @@ local_slide( {
       },
       "BE85E9CD44EAB0A4A1547760B049C7E0" : {
         "type" : "texture",
-        "index" : 38,
+        "index" : 39,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -368,7 +382,7 @@ local_slide( {
       },
       "831D50CF5C07476C0A2EB39A93ACA708" : {
         "type" : "texture",
-        "index" : 40,
+        "index" : 36,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -548,9 +562,9 @@ local_slide( {
         "width" : 117,
         "height" : 147
       },
-      "858EC0436CA64017280574DBE604E70A" : {
+      "45A3CD692D994BC48E128F15FFF0E6E7" : {
         "type" : "texture",
-        "index" : 9,
+        "index" : 7,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -559,8 +573,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/6FBEC91F-7547-470F-A697-7268A80CA810.pdf"
         },
-        "width" : 37,
-        "height" : 20
+        "width" : 262,
+        "height" : 37
       },
       "CD7D7FF1D4163A34727B75DFCD6905BD" : {
         "type" : "texture",
@@ -576,23 +590,9 @@ local_slide( {
         "width" : 158,
         "height" : 139
       },
-      "45A3CD692D994BC48E128F15FFF0E6E7" : {
-        "type" : "texture",
-        "index" : 7,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/6FBEC91F-7547-470F-A697-7268A80CA810.pdf"
-        },
-        "width" : 262,
-        "height" : 37
-      },
       "A8DE6DF5402FA1E81AD06D8F540BB926" : {
         "type" : "texture",
-        "index" : 36,
+        "index" : 37,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -1041,6 +1041,51 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Peter",
+            "targetRectangle" : {
+              "y" : 392.82516372203827,
+              "x" : 485.55191040039062,
+              "width" : 86.700000000000045,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Bob",
+            "targetRectangle" : {
+              "y" : 392.82514846324921,
+              "x" : 631.0279541015625,
+              "width" : 66.504000000000019,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 953.05706703662872,
+              "width" : 34.55859375,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 575.07485961914062,
+              "x" : 94.576179504394531,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Mathilda",
             "targetRectangle" : {
               "y" : 392.82516372203827,
@@ -1050,12 +1095,84 @@ local_slide( {
             }
           },
           {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 158.73831558227539,
+              "x" : 924.04947586059575,
+              "width" : 18.849999999999909,
+              "height" : 13.400039672851562
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 575.07485961914062,
+              "x" : 91.396377563476562,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
+            }
+          },
+          {
+            "text" : "Alice",
+            "targetRectangle" : {
+              "y" : 526.26568496227264,
+              "x" : 79.958305358886719,
+              "width" : 82.348000000000013,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Access control",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 260.16000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 114.89883232116699,
+              "x" : 889.9456729888916,
+              "width" : 19.855163060696555,
+              "height" : 19.855163060696555
+            }
+          },
+          {
+            "text" : "Justus",
+            "targetRectangle" : {
+              "y" : 392.82514846324921,
+              "x" : 345.54119873046875,
+              "width" : 104.48200000000003,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
               "y" : 129.31600570678711,
               "x" : 905.28068542480469,
               "width" : 19.85516357421875,
               "height" : 19.85516357421875
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 578.10358428955078,
+              "x" : 89.081939697265625,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
             }
           },
           {
@@ -1086,129 +1203,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Peter",
-            "targetRectangle" : {
-              "y" : 392.82516372203827,
-              "x" : 485.55191040039062,
-              "width" : 86.700000000000045,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 953.05706703662872,
-              "width" : 34.55859375,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 578.10358428955078,
-              "x" : 89.081939697265625,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Bob",
-            "targetRectangle" : {
-              "y" : 392.82514846324921,
-              "x" : 631.0279541015625,
-              "width" : 66.504000000000019,
-              "height" : 46
-            }
-          },
-          {
             "text" : "key_holo_dark.png",
             "targetRectangle" : {
               "y" : 578.15592288970947,
               "x" : 89.422462463378906,
               "width" : 64.000002731179848,
               "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Data",
-            "targetRectangle" : {
-              "y" : 158.73831558227539,
-              "x" : 924.04947586059575,
-              "width" : 18.849999999999909,
-              "height" : 13.400039672851562
-            }
-          },
-          {
-            "text" : "Justus",
-            "targetRectangle" : {
-              "y" : 392.82514846324921,
-              "x" : 345.54119873046875,
-              "width" : 104.48200000000003,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Access control",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 260.16000000000003,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 575.07485961914062,
-              "x" : 94.576179504394531,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 114.89883232116699,
-              "x" : 889.9456729888916,
-              "width" : 19.855163060696555,
-              "height" : 19.855163060696555
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 575.07485961914062,
-              "x" : 91.396377563476562,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Alice",
-            "targetRectangle" : {
-              "y" : 526.26568496227264,
-              "x" : 79.958305358886719,
-              "width" : 82.348000000000013,
-              "height" : 46
             }
           }
         ],
@@ -3018,10 +3018,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 966.55706703662872,
+                      "pointX" : 967.05706703662872,
                       "pointY" : 44
                     },
-                    "width" : 37,
+                    "width" : 38,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -3090,10 +3090,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 22.442932963371277,
+                          "pointX" : 22.942932963371277,
                           "pointY" : 18
                         },
-                        "width" : 37,
+                        "width" : 38,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -3127,7 +3127,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "858EC0436CA64017280574DBE604E70A"
+                      "texture" : "03325907A58B04D22EA17B50CC1C0C2D"
                     }
                   ]
                 }
@@ -6677,6 +6677,51 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Peter",
+            "targetRectangle" : {
+              "y" : 392.82516372203827,
+              "x" : 485.55191040039062,
+              "width" : 86.700000000000045,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Bob",
+            "targetRectangle" : {
+              "y" : 392.82514846324921,
+              "x" : 631.0279541015625,
+              "width" : 66.504000000000019,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 953.05706703662872,
+              "width" : 34.55859375,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 575.07485961914062,
+              "x" : 94.576179504394531,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Mathilda",
             "targetRectangle" : {
               "y" : 392.82516372203827,
@@ -6686,12 +6731,84 @@ local_slide( {
             }
           },
           {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 158.73831558227539,
+              "x" : 924.04947586059575,
+              "width" : 18.849999999999909,
+              "height" : 13.400039672851562
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 575.07485961914062,
+              "x" : 91.396377563476562,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
+            }
+          },
+          {
+            "text" : "Alice",
+            "targetRectangle" : {
+              "y" : 526.26568496227264,
+              "x" : 79.958305358886719,
+              "width" : 82.348000000000013,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Access control",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 260.16000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 114.89883232116699,
+              "x" : 889.9456729888916,
+              "width" : 19.855163060696555,
+              "height" : 19.855163060696555
+            }
+          },
+          {
+            "text" : "Justus",
+            "targetRectangle" : {
+              "y" : 392.82514846324921,
+              "x" : 345.54119873046875,
+              "width" : 104.48200000000003,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
               "y" : 129.31600570678711,
               "x" : 905.28068542480469,
               "width" : 19.85516357421875,
               "height" : 19.85516357421875
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 578.10358428955078,
+              "x" : 89.081939697265625,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
             }
           },
           {
@@ -6722,33 +6839,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Peter",
-            "targetRectangle" : {
-              "y" : 392.82516372203827,
-              "x" : 485.55191040039062,
-              "width" : 86.700000000000045,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 953.05706703662872,
-              "width" : 34.55859375,
-              "height" : 28
-            }
-          },
-          {
             "text" : "key_holo_dark.png",
             "targetRectangle" : {
               "y" : 576.2518310546875,
@@ -6760,100 +6850,10 @@ local_slide( {
           {
             "text" : "key_holo_dark.png",
             "targetRectangle" : {
-              "y" : 578.10358428955078,
-              "x" : 89.081939697265625,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Bob",
-            "targetRectangle" : {
-              "y" : 392.82514846324921,
-              "x" : 631.0279541015625,
-              "width" : 66.504000000000019,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
               "y" : 578.15592288970947,
               "x" : 89.422462463378906,
               "width" : 64.000002731179848,
               "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Data",
-            "targetRectangle" : {
-              "y" : 158.73831558227539,
-              "x" : 924.04947586059575,
-              "width" : 18.849999999999909,
-              "height" : 13.400039672851562
-            }
-          },
-          {
-            "text" : "Justus",
-            "targetRectangle" : {
-              "y" : 392.82514846324921,
-              "x" : 345.54119873046875,
-              "width" : 104.48200000000003,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Access control",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 260.16000000000003,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 575.07485961914062,
-              "x" : 94.576179504394531,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 114.89883232116699,
-              "x" : 889.9456729888916,
-              "width" : 19.855163060696555,
-              "height" : 19.855163060696555
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 575.07485961914062,
-              "x" : 91.396377563476562,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Alice",
-            "targetRectangle" : {
-              "y" : 526.26568496227264,
-              "x" : 79.958305358886719,
-              "width" : 82.348000000000013,
-              "height" : 46
             }
           }
         ],
@@ -8663,10 +8663,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 966.55706703662872,
+                      "pointX" : 967.05706703662872,
                       "pointY" : 44
                     },
-                    "width" : 37,
+                    "width" : 38,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -8735,10 +8735,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 22.442932963371277,
+                          "pointX" : 22.942932963371277,
                           "pointY" : 18
                         },
-                        "width" : 37,
+                        "width" : 38,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -8772,7 +8772,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "858EC0436CA64017280574DBE604E70A"
+                      "texture" : "03325907A58B04D22EA17B50CC1C0C2D"
                     }
                   ]
                 }
@@ -10942,6 +10942,51 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Peter",
+            "targetRectangle" : {
+              "y" : 392.82516372203827,
+              "x" : 485.55191040039062,
+              "width" : 86.700000000000045,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Bob",
+            "targetRectangle" : {
+              "y" : 392.82514846324921,
+              "x" : 631.0279541015625,
+              "width" : 66.504000000000019,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 953.05706703662872,
+              "width" : 34.55859375,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 575.07485961914062,
+              "x" : 94.576179504394531,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Mathilda",
             "targetRectangle" : {
               "y" : 392.82516372203827,
@@ -10951,12 +10996,84 @@ local_slide( {
             }
           },
           {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 158.73831558227539,
+              "x" : 924.04947586059575,
+              "width" : 18.849999999999909,
+              "height" : 13.400039672851562
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 575.07485961914062,
+              "x" : 91.396377563476562,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
+            }
+          },
+          {
+            "text" : "Alice",
+            "targetRectangle" : {
+              "y" : 526.26568496227264,
+              "x" : 79.958305358886719,
+              "width" : 82.348000000000013,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Access control",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 260.16000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 114.89883232116699,
+              "x" : 889.9456729888916,
+              "width" : 19.855163060696555,
+              "height" : 19.855163060696555
+            }
+          },
+          {
+            "text" : "Justus",
+            "targetRectangle" : {
+              "y" : 392.82514846324921,
+              "x" : 345.54119873046875,
+              "width" : 104.48200000000003,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
               "y" : 129.31600570678711,
               "x" : 905.28068542480469,
               "width" : 19.85516357421875,
               "height" : 19.85516357421875
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 578.10358428955078,
+              "x" : 89.081939697265625,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
             }
           },
           {
@@ -10987,33 +11104,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Peter",
-            "targetRectangle" : {
-              "y" : 392.82516372203827,
-              "x" : 485.55191040039062,
-              "width" : 86.700000000000045,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 953.05706703662872,
-              "width" : 34.55859375,
-              "height" : 28
-            }
-          },
-          {
             "text" : "key_holo_dark.png",
             "targetRectangle" : {
               "y" : 576.2518310546875,
@@ -11025,100 +11115,10 @@ local_slide( {
           {
             "text" : "key_holo_dark.png",
             "targetRectangle" : {
-              "y" : 578.10358428955078,
-              "x" : 89.081939697265625,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Bob",
-            "targetRectangle" : {
-              "y" : 392.82514846324921,
-              "x" : 631.0279541015625,
-              "width" : 66.504000000000019,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
               "y" : 578.15592288970947,
               "x" : 89.422462463378906,
               "width" : 64.000002731179848,
               "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Data",
-            "targetRectangle" : {
-              "y" : 158.73831558227539,
-              "x" : 924.04947586059575,
-              "width" : 18.849999999999909,
-              "height" : 13.400039672851562
-            }
-          },
-          {
-            "text" : "Justus",
-            "targetRectangle" : {
-              "y" : 392.82514846324921,
-              "x" : 345.54119873046875,
-              "width" : 104.48200000000003,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Access control",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 260.16000000000003,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 575.07485961914062,
-              "x" : 94.576179504394531,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 114.89883232116699,
-              "x" : 889.9456729888916,
-              "width" : 19.855163060696555,
-              "height" : 19.855163060696555
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 575.07485961914062,
-              "x" : 91.396377563476562,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Alice",
-            "targetRectangle" : {
-              "y" : 526.26568496227264,
-              "x" : 79.958305358886719,
-              "width" : 82.348000000000013,
-              "height" : 46
             }
           }
         ],
@@ -12928,10 +12928,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 966.55706703662872,
+                      "pointX" : 967.05706703662872,
                       "pointY" : 44
                     },
-                    "width" : 37,
+                    "width" : 38,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -13000,10 +13000,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 22.442932963371277,
+                          "pointX" : 22.942932963371277,
                           "pointY" : 18
                         },
-                        "width" : 37,
+                        "width" : 38,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -13037,7 +13037,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "858EC0436CA64017280574DBE604E70A"
+                      "texture" : "03325907A58B04D22EA17B50CC1C0C2D"
                     }
                   ]
                 }
@@ -15418,12 +15418,129 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Peter",
+            "targetRectangle" : {
+              "y" : 392.82516372203827,
+              "x" : 485.55191040039062,
+              "width" : 86.700000000000045,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Bob",
+            "targetRectangle" : {
+              "y" : 392.82514846324921,
+              "x" : 631.0279541015625,
+              "width" : 66.504000000000019,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 953.05706703662872,
+              "width" : 34.55859375,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 575.07485961914062,
+              "x" : 94.576179504394531,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Mathilda",
             "targetRectangle" : {
               "y" : 392.82516372203827,
               "x" : 749.10150146484375,
               "width" : 146.81200000000001,
               "height" : 46
+            }
+          },
+          {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 158.73831558227539,
+              "x" : 924.04947586059575,
+              "width" : 18.849999999999909,
+              "height" : 13.400039672851562
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 575.07485961914062,
+              "x" : 91.396377563476562,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
+            }
+          },
+          {
+            "text" : "Alice",
+            "targetRectangle" : {
+              "y" : 526.26568496227264,
+              "x" : 79.958305358886719,
+              "width" : 82.348000000000013,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Access control",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 260.16000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 114.89883232116699,
+              "x" : 889.9456729888916,
+              "width" : 19.855163060696555,
+              "height" : 19.855163060696555
+            }
+          },
+          {
+            "text" : "Justus",
+            "targetRectangle" : {
+              "y" : 392.82514846324921,
+              "x" : 345.54119873046875,
+              "width" : 104.48200000000003,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Alice trusts her friends only so far. But she thinks it is very unlikely that three of them conspire together against her.",
+            "targetRectangle" : {
+              "y" : 454.40887641906738,
+              "x" : 335.639892578125,
+              "width" : 557.94000000000005,
+              "height" : 184
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
             }
           },
           {
@@ -15436,12 +15553,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Alice trusts her friends only so far. But she thinks it is very unlikely that three of them conspire together against her.",
+            "text" : "key_holo_dark.png",
             "targetRectangle" : {
-              "y" : 454.40887641906738,
-              "x" : 335.639892578125,
-              "width" : 557.94000000000005,
-              "height" : 184
+              "y" : 578.10358428955078,
+              "x" : 89.081939697265625,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
             }
           },
           {
@@ -15472,33 +15589,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Peter",
-            "targetRectangle" : {
-              "y" : 392.82516372203827,
-              "x" : 485.55191040039062,
-              "width" : 86.700000000000045,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 953.05706703662872,
-              "width" : 34.55859375,
-              "height" : 28
-            }
-          },
-          {
             "text" : "key_holo_dark.png",
             "targetRectangle" : {
               "y" : 576.2518310546875,
@@ -15510,100 +15600,10 @@ local_slide( {
           {
             "text" : "key_holo_dark.png",
             "targetRectangle" : {
-              "y" : 578.10358428955078,
-              "x" : 89.081939697265625,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Bob",
-            "targetRectangle" : {
-              "y" : 392.82514846324921,
-              "x" : 631.0279541015625,
-              "width" : 66.504000000000019,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
               "y" : 578.15592288970947,
               "x" : 89.422462463378906,
               "width" : 64.000002731179848,
               "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Data",
-            "targetRectangle" : {
-              "y" : 158.73831558227539,
-              "x" : 924.04947586059575,
-              "width" : 18.849999999999909,
-              "height" : 13.400039672851562
-            }
-          },
-          {
-            "text" : "Justus",
-            "targetRectangle" : {
-              "y" : 392.82514846324921,
-              "x" : 345.54119873046875,
-              "width" : 104.48200000000003,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Access control",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 260.16000000000003,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 575.07485961914062,
-              "x" : 94.576179504394531,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 114.89883232116699,
-              "x" : 889.9456729888916,
-              "width" : 19.855163060696555,
-              "height" : 19.855163060696555
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 575.07485961914062,
-              "x" : 91.396377563476562,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Alice",
-            "targetRectangle" : {
-              "y" : 526.26568496227264,
-              "x" : 79.958305358886719,
-              "width" : 82.348000000000013,
-              "height" : 46
             }
           }
         ],
@@ -17413,10 +17413,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 966.55706703662872,
+                      "pointX" : 967.05706703662872,
                       "pointY" : 44
                     },
-                    "width" : 37,
+                    "width" : 38,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -17485,10 +17485,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 22.442932963371277,
+                          "pointX" : 22.942932963371277,
                           "pointY" : 18
                         },
-                        "width" : 37,
+                        "width" : 38,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -17522,7 +17522,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "858EC0436CA64017280574DBE604E70A"
+                      "texture" : "03325907A58B04D22EA17B50CC1C0C2D"
                     }
                   ]
                 }
@@ -22045,6 +22045,51 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Peter",
+            "targetRectangle" : {
+              "y" : 392.82516372203827,
+              "x" : 485.55191040039062,
+              "width" : 86.700000000000045,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Bob",
+            "targetRectangle" : {
+              "y" : 392.82514846324921,
+              "x" : 631.0279541015625,
+              "width" : 66.504000000000019,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 953.05706703662872,
+              "width" : 34.55859375,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 575.07485961914062,
+              "x" : 94.576179504394531,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Mathilda",
             "targetRectangle" : {
               "y" : 392.82516372203827,
@@ -22054,12 +22099,93 @@ local_slide( {
             }
           },
           {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 158.73831558227539,
+              "x" : 924.04947586059575,
+              "width" : 18.849999999999909,
+              "height" : 13.400039672851562
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 575.07485961914062,
+              "x" : 91.396377563476562,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
+            }
+          },
+          {
+            "text" : "Alice",
+            "targetRectangle" : {
+              "y" : 526.26568496227264,
+              "x" : 79.958305358886719,
+              "width" : 82.348000000000013,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Access control",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 260.16000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 114.89883232116699,
+              "x" : 889.9456729888916,
+              "width" : 19.855163060696555,
+              "height" : 19.855163060696555
+            }
+          },
+          {
+            "text" : "Justus",
+            "targetRectangle" : {
+              "y" : 392.82514846324921,
+              "x" : 345.54119873046875,
+              "width" : 104.48200000000003,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
               "y" : 129.31600570678711,
               "x" : 905.28068542480469,
               "width" : 19.85516357421875,
               "height" : 19.85516357421875
+            }
+          },
+          {
+            "text" : "Alice will split her secret key  (e.g. with Shamir) in such a way, that any three of her four trusted friends can restore the key.",
+            "targetRectangle" : {
+              "y" : 653.99267578125,
+              "x" : 42.743206024169922,
+              "width" : 955.74000000000046,
+              "height" : 92
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 578.10358428955078,
+              "x" : 89.081939697265625,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
             }
           },
           {
@@ -22090,42 +22216,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Alice will split her secret key  (e.g. with Shamir) in such a way, that any three of her four trusted friends can restore the key.",
-            "targetRectangle" : {
-              "y" : 653.99267578125,
-              "x" : 42.743206024169922,
-              "width" : 955.74000000000046,
-              "height" : 92
-            }
-          },
-          {
-            "text" : "Peter",
-            "targetRectangle" : {
-              "y" : 392.82516372203827,
-              "x" : 485.55191040039062,
-              "width" : 86.700000000000045,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 953.05706703662872,
-              "width" : 34.55859375,
-              "height" : 28
-            }
-          },
-          {
             "text" : "key_holo_dark.png",
             "targetRectangle" : {
               "y" : 576.2518310546875,
@@ -22137,100 +22227,10 @@ local_slide( {
           {
             "text" : "key_holo_dark.png",
             "targetRectangle" : {
-              "y" : 578.10358428955078,
-              "x" : 89.081939697265625,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Bob",
-            "targetRectangle" : {
-              "y" : 392.82514846324921,
-              "x" : 631.0279541015625,
-              "width" : 66.504000000000019,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
               "y" : 578.15592288970947,
               "x" : 89.422462463378906,
               "width" : 64.000002731179848,
               "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Data",
-            "targetRectangle" : {
-              "y" : 158.73831558227539,
-              "x" : 924.04947586059575,
-              "width" : 18.849999999999909,
-              "height" : 13.400039672851562
-            }
-          },
-          {
-            "text" : "Justus",
-            "targetRectangle" : {
-              "y" : 392.82514846324921,
-              "x" : 345.54119873046875,
-              "width" : 104.48200000000003,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Access control",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 260.16000000000003,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 575.07485961914062,
-              "x" : 94.576179504394531,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 114.89883232116699,
-              "x" : 889.9456729888916,
-              "width" : 19.855163060696555,
-              "height" : 19.855163060696555
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 575.07485961914062,
-              "x" : 91.396377563476562,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Alice",
-            "targetRectangle" : {
-              "y" : 526.26568496227264,
-              "x" : 79.958305358886719,
-              "width" : 82.348000000000013,
-              "height" : 46
             }
           }
         ],
@@ -24040,10 +24040,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 966.55706703662872,
+                      "pointX" : 967.05706703662872,
                       "pointY" : 44
                     },
-                    "width" : 37,
+                    "width" : 38,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -24112,10 +24112,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 22.442932963371277,
+                          "pointX" : 22.942932963371277,
                           "pointY" : 18
                         },
-                        "width" : 37,
+                        "width" : 38,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -24149,7 +24149,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "858EC0436CA64017280574DBE604E70A"
+                      "texture" : "03325907A58B04D22EA17B50CC1C0C2D"
                     }
                   ]
                 }
@@ -27961,7 +27961,7 @@ local_slide( {
                               "timingFunction" : "EaseInEaseOut",
                               "property" : "transform.scale.x",
                               "to" : {
-                                "scalar" : 1.027027027027027
+                                "scalar" : 0.97368421052631582
                               }
                             },
                             {
@@ -27983,7 +27983,7 @@ local_slide( {
                             {
                               "timeOffset" : 0,
                               "from" : {
-                                "texture" : "858EC0436CA64017280574DBE604E70A"
+                                "texture" : "03325907A58B04D22EA17B50CC1C0C2D"
                               },
                               "beginTime" : 0,
                               "repeatCount" : 0,
@@ -27993,7 +27993,7 @@ local_slide( {
                               "timingFunction" : "EaseInEaseOut",
                               "property" : "contents",
                               "to" : {
-                                "texture" : "03325907A58B04D22EA17B50CC1C0C2D"
+                                "texture" : "CDCF594FA0AA7DBA1CB6DBC59BA2C920"
                               }
                             },
                             {
@@ -28010,7 +28010,7 @@ local_slide( {
                               "timingFunction" : "EaseInEaseOut",
                               "property" : "transform.translation",
                               "to" : {
-                                "pointX" : 0.482063889503479,
+                                "pointX" : -0.46937799767442812,
                                 "pointY" : 0
                               }
                             }
@@ -28053,7 +28053,7 @@ local_slide( {
                           "pointX" : 21.779296875,
                           "pointY" : 18
                         },
-                        "width" : 37,
+                        "width" : 38,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -28083,11 +28083,11 @@ local_slide( {
                         "height" : 20,
                         "hidden" : false,
                         "anchorPoint" : {
-                          "pointX" : 0.482063889503479,
+                          "pointX" : 0.46937799767444011,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "858EC0436CA64017280574DBE604E70A"
+                      "texture" : "03325907A58B04D22EA17B50CC1C0C2D"
                     }
                   ]
                 },
@@ -30669,6 +30669,201 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
+                        "textXHeight" : 0.44557894736842113,
+                        "textBaseline" : 0.72517643476787363,
+                        "isBackgroundTexture" : true,
+                        "isVerticalText" : false,
+                        "textColor" : [
+                          0.51380175352096558,
+                          0.5290953516960144,
+                          0.52940398454666138,
+                          1
+                        ],
+                        "textureType" : 6
+                      },
+                      "initialState" : {
+                        "affineTransform" : [
+                          1,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0
+                        ],
+                        "masksToBounds" : false,
+                        "rotation" : 0,
+                        "scale" : 1,
+                        "position" : {
+                          "pointX" : 374.3985595703125,
+                          "pointY" : 148
+                        },
+                        "width" : 702,
+                        "sublayerTransform" : [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1
+                        ],
+                        "contentsRect" : {
+                          "y" : 0,
+                          "x" : 0,
+                          "width" : 1,
+                          "height" : 1
+                        },
+                        "opacity" : 1,
+                        "edgeAntialiasingMask" : 0,
+                        "height" : 38,
+                        "hidden" : true,
+                        "anchorPoint" : {
+                          "pointX" : 0.5084140266787972,
+                          "pointY" : 3.2368582424364591
+                        }
+                      },
+                      "texture" : "831D50CF5C07476C0A2EB39A93ACA708"
+                    }
+                  ]
+                },
+                {
+                  "animations" : [
+                    {
+                      "timeOffset" : 0,
+                      "beginTime" : 0,
+                      "repeatCount" : 0,
+                      "animations" : [
+                        {
+                          "timeOffset" : 0,
+                          "from" : {
+                            "scalar" : 0.023
+                          },
+                          "beginTime" : 0,
+                          "repeatCount" : 0,
+                          "fillMode" : "both",
+                          "duration" : 0.80000001192092896,
+                          "autoreverses" : false,
+                          "timingFunction" : "EaseInEaseOut",
+                          "property" : "zPosition",
+                          "to" : {
+                            "scalar" : 0.023
+                          }
+                        }
+                      ],
+                      "fillMode" : "both",
+                      "autoreverses" : false,
+                      "duration" : 0.80000001192092896
+                    }
+                  ],
+                  "initialState" : {
+                    "affineTransform" : [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "masksToBounds" : false,
+                    "rotation" : 0,
+                    "scale" : 1,
+                    "position" : {
+                      "pointX" : 601.90664768218994,
+                      "pointY" : 530.0006103515625
+                    },
+                    "width" : 748.79712104797363,
+                    "sublayerTransform" : [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "contentsRect" : {
+                      "y" : 0,
+                      "x" : 0,
+                      "width" : 1,
+                      "height" : 1
+                    },
+                    "opacity" : 1,
+                    "edgeAntialiasingMask" : 251658240,
+                    "height" : 295.9999942779541,
+                    "hidden" : false,
+                    "anchorPoint" : {
+                      "pointX" : 0.5,
+                      "pointY" : 0.5
+                    }
+                  },
+                  "layers" : [
+                    {
+                      "animations" : [
+                        {
+                          "timeOffset" : 0,
+                          "beginTime" : 0,
+                          "repeatCount" : 0,
+                          "animations" : [
+                            {
+                              "timeOffset" : 0,
+                              "from" : {
+                                "scalar" : 0
+                              },
+                              "beginTime" : 0.53336000794768335,
+                              "repeatCount" : 0,
+                              "fillMode" : "both",
+                              "duration" : 0.26664000397324561,
+                              "autoreverses" : false,
+                              "timingFunction" : "EaseInEaseOut",
+                              "property" : "opacity",
+                              "to" : {
+                                "scalar" : 1
+                              }
+                            },
+                            {
+                              "timeOffset" : 0,
+                              "from" : {
+                                "scalar" : false
+                              },
+                              "beginTime" : 0.53336000794768335,
+                              "repeatCount" : 0,
+                              "fillMode" : "forwards",
+                              "property" : "hidden",
+                              "autoreverses" : false,
+                              "duration" : 0.26664000397324561,
+                              "to" : {
+                                "scalar" : false
+                              }
+                            }
+                          ],
+                          "fillMode" : "both",
+                          "autoreverses" : false,
+                          "duration" : 0.80000001192092896
+                        }
+                      ],
+                      "layers" : [
+
+                      ],
+                      "texturedRectangle" : {
+                        "singleTextureOpacity" : 1,
                         "textXHeight" : 0.49800000000000005,
                         "textBaseline" : 0.81049130944644698,
                         "isBackgroundTexture" : true,
@@ -30745,201 +30940,6 @@ local_slide( {
                         {
                           "timeOffset" : 0,
                           "from" : {
-                            "scalar" : 0.023
-                          },
-                          "beginTime" : 0,
-                          "repeatCount" : 0,
-                          "fillMode" : "both",
-                          "duration" : 0.80000001192092896,
-                          "autoreverses" : false,
-                          "timingFunction" : "EaseInEaseOut",
-                          "property" : "zPosition",
-                          "to" : {
-                            "scalar" : 0.023
-                          }
-                        }
-                      ],
-                      "fillMode" : "both",
-                      "autoreverses" : false,
-                      "duration" : 0.80000001192092896
-                    }
-                  ],
-                  "initialState" : {
-                    "affineTransform" : [
-                      1,
-                      0,
-                      0,
-                      1,
-                      0,
-                      0
-                    ],
-                    "masksToBounds" : false,
-                    "rotation" : 0,
-                    "scale" : 1,
-                    "position" : {
-                      "pointX" : 601.90664768218994,
-                      "pointY" : 530.0006103515625
-                    },
-                    "width" : 748.79712104797363,
-                    "sublayerTransform" : [
-                      1,
-                      0,
-                      0,
-                      0,
-                      0,
-                      1,
-                      0,
-                      0,
-                      0,
-                      0,
-                      1,
-                      0,
-                      0,
-                      0,
-                      0,
-                      1
-                    ],
-                    "contentsRect" : {
-                      "y" : 0,
-                      "x" : 0,
-                      "width" : 1,
-                      "height" : 1
-                    },
-                    "opacity" : 1,
-                    "edgeAntialiasingMask" : 251658240,
-                    "height" : 295.9999942779541,
-                    "hidden" : false,
-                    "anchorPoint" : {
-                      "pointX" : 0.5,
-                      "pointY" : 0.5
-                    }
-                  },
-                  "layers" : [
-                    {
-                      "animations" : [
-                        {
-                          "timeOffset" : 0,
-                          "beginTime" : 0,
-                          "repeatCount" : 0,
-                          "animations" : [
-                            {
-                              "timeOffset" : 0,
-                              "from" : {
-                                "scalar" : 0
-                              },
-                              "beginTime" : 0.53336000794768335,
-                              "repeatCount" : 0,
-                              "fillMode" : "both",
-                              "duration" : 0.26664000397324561,
-                              "autoreverses" : false,
-                              "timingFunction" : "EaseInEaseOut",
-                              "property" : "opacity",
-                              "to" : {
-                                "scalar" : 1
-                              }
-                            },
-                            {
-                              "timeOffset" : 0,
-                              "from" : {
-                                "scalar" : false
-                              },
-                              "beginTime" : 0.53336000794768335,
-                              "repeatCount" : 0,
-                              "fillMode" : "forwards",
-                              "property" : "hidden",
-                              "autoreverses" : false,
-                              "duration" : 0.26664000397324561,
-                              "to" : {
-                                "scalar" : false
-                              }
-                            }
-                          ],
-                          "fillMode" : "both",
-                          "autoreverses" : false,
-                          "duration" : 0.80000001192092896
-                        }
-                      ],
-                      "layers" : [
-
-                      ],
-                      "texturedRectangle" : {
-                        "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.44557894736842113,
-                        "textBaseline" : 0.72517643476787363,
-                        "isBackgroundTexture" : true,
-                        "isVerticalText" : false,
-                        "textColor" : [
-                          0.51380175352096558,
-                          0.5290953516960144,
-                          0.52940398454666138,
-                          1
-                        ],
-                        "textureType" : 6
-                      },
-                      "initialState" : {
-                        "affineTransform" : [
-                          1,
-                          0,
-                          0,
-                          1,
-                          0,
-                          0
-                        ],
-                        "masksToBounds" : false,
-                        "rotation" : 0,
-                        "scale" : 1,
-                        "position" : {
-                          "pointX" : 374.3985595703125,
-                          "pointY" : 148
-                        },
-                        "width" : 592,
-                        "sublayerTransform" : [
-                          1,
-                          0,
-                          0,
-                          0,
-                          0,
-                          1,
-                          0,
-                          0,
-                          0,
-                          0,
-                          1,
-                          0,
-                          0,
-                          0,
-                          0,
-                          1
-                        ],
-                        "contentsRect" : {
-                          "y" : 0,
-                          "x" : 0,
-                          "width" : 1,
-                          "height" : 1
-                        },
-                        "opacity" : 1,
-                        "edgeAntialiasingMask" : 0,
-                        "height" : 38,
-                        "hidden" : true,
-                        "anchorPoint" : {
-                          "pointX" : 0.60119366001438446,
-                          "pointY" : 0.8158056108575118
-                        }
-                      },
-                      "texture" : "61333B446D9BB3149B432431F7DAADFF"
-                    }
-                  ]
-                },
-                {
-                  "animations" : [
-                    {
-                      "timeOffset" : 0,
-                      "beginTime" : 0,
-                      "repeatCount" : 0,
-                      "animations" : [
-                        {
-                          "timeOffset" : 0,
-                          "from" : {
                             "scalar" : 0.024
                           },
                           "beginTime" : 0,
@@ -30951,201 +30951,6 @@ local_slide( {
                           "property" : "zPosition",
                           "to" : {
                             "scalar" : 0.024
-                          }
-                        }
-                      ],
-                      "fillMode" : "both",
-                      "autoreverses" : false,
-                      "duration" : 0.80000001192092896
-                    }
-                  ],
-                  "initialState" : {
-                    "affineTransform" : [
-                      1,
-                      0,
-                      0,
-                      1,
-                      0,
-                      0
-                    ],
-                    "masksToBounds" : false,
-                    "rotation" : 0,
-                    "scale" : 1,
-                    "position" : {
-                      "pointX" : 601.90664768218994,
-                      "pointY" : 530.0006103515625
-                    },
-                    "width" : 748.79712104797363,
-                    "sublayerTransform" : [
-                      1,
-                      0,
-                      0,
-                      0,
-                      0,
-                      1,
-                      0,
-                      0,
-                      0,
-                      0,
-                      1,
-                      0,
-                      0,
-                      0,
-                      0,
-                      1
-                    ],
-                    "contentsRect" : {
-                      "y" : 0,
-                      "x" : 0,
-                      "width" : 1,
-                      "height" : 1
-                    },
-                    "opacity" : 1,
-                    "edgeAntialiasingMask" : 251658240,
-                    "height" : 295.9999942779541,
-                    "hidden" : false,
-                    "anchorPoint" : {
-                      "pointX" : 0.5,
-                      "pointY" : 0.5
-                    }
-                  },
-                  "layers" : [
-                    {
-                      "animations" : [
-                        {
-                          "timeOffset" : 0,
-                          "beginTime" : 0,
-                          "repeatCount" : 0,
-                          "animations" : [
-                            {
-                              "timeOffset" : 0,
-                              "from" : {
-                                "scalar" : 0
-                              },
-                              "beginTime" : 0.53336000794768335,
-                              "repeatCount" : 0,
-                              "fillMode" : "both",
-                              "duration" : 0.26664000397324561,
-                              "autoreverses" : false,
-                              "timingFunction" : "EaseInEaseOut",
-                              "property" : "opacity",
-                              "to" : {
-                                "scalar" : 1
-                              }
-                            },
-                            {
-                              "timeOffset" : 0,
-                              "from" : {
-                                "scalar" : false
-                              },
-                              "beginTime" : 0.53336000794768335,
-                              "repeatCount" : 0,
-                              "fillMode" : "forwards",
-                              "property" : "hidden",
-                              "autoreverses" : false,
-                              "duration" : 0.26664000397324561,
-                              "to" : {
-                                "scalar" : false
-                              }
-                            }
-                          ],
-                          "fillMode" : "both",
-                          "autoreverses" : false,
-                          "duration" : 0.80000001192092896
-                        }
-                      ],
-                      "layers" : [
-
-                      ],
-                      "texturedRectangle" : {
-                        "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.44557894736842113,
-                        "textBaseline" : 0.72517643476787363,
-                        "isBackgroundTexture" : true,
-                        "isVerticalText" : false,
-                        "textColor" : [
-                          0.51380175352096558,
-                          0.5290953516960144,
-                          0.52940398454666138,
-                          1
-                        ],
-                        "textureType" : 6
-                      },
-                      "initialState" : {
-                        "affineTransform" : [
-                          1,
-                          0,
-                          0,
-                          1,
-                          0,
-                          0
-                        ],
-                        "masksToBounds" : false,
-                        "rotation" : 0,
-                        "scale" : 1,
-                        "position" : {
-                          "pointX" : 374.3985595703125,
-                          "pointY" : 148
-                        },
-                        "width" : 591,
-                        "sublayerTransform" : [
-                          1,
-                          0,
-                          0,
-                          0,
-                          0,
-                          1,
-                          0,
-                          0,
-                          0,
-                          0,
-                          1,
-                          0,
-                          0,
-                          0,
-                          0,
-                          1
-                        ],
-                        "contentsRect" : {
-                          "y" : 0,
-                          "x" : 0,
-                          "width" : 1,
-                          "height" : 1
-                        },
-                        "opacity" : 1,
-                        "edgeAntialiasingMask" : 0,
-                        "height" : 38,
-                        "hidden" : true,
-                        "anchorPoint" : {
-                          "pointX" : 0.60390295554740381,
-                          "pointY" : -1.1315628101951198
-                        }
-                      },
-                      "texture" : "BE85E9CD44EAB0A4A1547760B049C7E0"
-                    }
-                  ]
-                },
-                {
-                  "animations" : [
-                    {
-                      "timeOffset" : 0,
-                      "beginTime" : 0,
-                      "repeatCount" : 0,
-                      "animations" : [
-                        {
-                          "timeOffset" : 0,
-                          "from" : {
-                            "scalar" : 0.025000000000000001
-                          },
-                          "beginTime" : 0,
-                          "repeatCount" : 0,
-                          "fillMode" : "both",
-                          "duration" : 0.80000001192092896,
-                          "autoreverses" : false,
-                          "timingFunction" : "EaseInEaseOut",
-                          "property" : "zPosition",
-                          "to" : {
-                            "scalar" : 0.025000000000000001
                           }
                         }
                       ],
@@ -31330,6 +31135,201 @@ local_slide( {
                         {
                           "timeOffset" : 0,
                           "from" : {
+                            "scalar" : 0.025000000000000001
+                          },
+                          "beginTime" : 0,
+                          "repeatCount" : 0,
+                          "fillMode" : "both",
+                          "duration" : 0.80000001192092896,
+                          "autoreverses" : false,
+                          "timingFunction" : "EaseInEaseOut",
+                          "property" : "zPosition",
+                          "to" : {
+                            "scalar" : 0.025000000000000001
+                          }
+                        }
+                      ],
+                      "fillMode" : "both",
+                      "autoreverses" : false,
+                      "duration" : 0.80000001192092896
+                    }
+                  ],
+                  "initialState" : {
+                    "affineTransform" : [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "masksToBounds" : false,
+                    "rotation" : 0,
+                    "scale" : 1,
+                    "position" : {
+                      "pointX" : 601.90664768218994,
+                      "pointY" : 530.0006103515625
+                    },
+                    "width" : 748.79712104797363,
+                    "sublayerTransform" : [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "contentsRect" : {
+                      "y" : 0,
+                      "x" : 0,
+                      "width" : 1,
+                      "height" : 1
+                    },
+                    "opacity" : 1,
+                    "edgeAntialiasingMask" : 251658240,
+                    "height" : 295.9999942779541,
+                    "hidden" : false,
+                    "anchorPoint" : {
+                      "pointX" : 0.5,
+                      "pointY" : 0.5
+                    }
+                  },
+                  "layers" : [
+                    {
+                      "animations" : [
+                        {
+                          "timeOffset" : 0,
+                          "beginTime" : 0,
+                          "repeatCount" : 0,
+                          "animations" : [
+                            {
+                              "timeOffset" : 0,
+                              "from" : {
+                                "scalar" : 0
+                              },
+                              "beginTime" : 0.53336000794768335,
+                              "repeatCount" : 0,
+                              "fillMode" : "both",
+                              "duration" : 0.26664000397324561,
+                              "autoreverses" : false,
+                              "timingFunction" : "EaseInEaseOut",
+                              "property" : "opacity",
+                              "to" : {
+                                "scalar" : 1
+                              }
+                            },
+                            {
+                              "timeOffset" : 0,
+                              "from" : {
+                                "scalar" : false
+                              },
+                              "beginTime" : 0.53336000794768335,
+                              "repeatCount" : 0,
+                              "fillMode" : "forwards",
+                              "property" : "hidden",
+                              "autoreverses" : false,
+                              "duration" : 0.26664000397324561,
+                              "to" : {
+                                "scalar" : false
+                              }
+                            }
+                          ],
+                          "fillMode" : "both",
+                          "autoreverses" : false,
+                          "duration" : 0.80000001192092896
+                        }
+                      ],
+                      "layers" : [
+
+                      ],
+                      "texturedRectangle" : {
+                        "singleTextureOpacity" : 1,
+                        "textXHeight" : 0.44557894736842113,
+                        "textBaseline" : 0.72517643476787363,
+                        "isBackgroundTexture" : true,
+                        "isVerticalText" : false,
+                        "textColor" : [
+                          0.51380175352096558,
+                          0.5290953516960144,
+                          0.52940398454666138,
+                          1
+                        ],
+                        "textureType" : 6
+                      },
+                      "initialState" : {
+                        "affineTransform" : [
+                          1,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0
+                        ],
+                        "masksToBounds" : false,
+                        "rotation" : 0,
+                        "scale" : 1,
+                        "position" : {
+                          "pointX" : 374.3985595703125,
+                          "pointY" : 148
+                        },
+                        "width" : 591,
+                        "sublayerTransform" : [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1
+                        ],
+                        "contentsRect" : {
+                          "y" : 0,
+                          "x" : 0,
+                          "width" : 1,
+                          "height" : 1
+                        },
+                        "opacity" : 1,
+                        "edgeAntialiasingMask" : 0,
+                        "height" : 38,
+                        "hidden" : true,
+                        "anchorPoint" : {
+                          "pointX" : 0.60390295554740381,
+                          "pointY" : -1.1315628101951198
+                        }
+                      },
+                      "texture" : "BE85E9CD44EAB0A4A1547760B049C7E0"
+                    }
+                  ]
+                },
+                {
+                  "animations" : [
+                    {
+                      "timeOffset" : 0,
+                      "beginTime" : 0,
+                      "repeatCount" : 0,
+                      "animations" : [
+                        {
+                          "timeOffset" : 0,
+                          "from" : {
                             "scalar" : 0.026000000000000002
                           },
                           "beginTime" : 0,
@@ -31477,7 +31477,7 @@ local_slide( {
                           "pointX" : 374.3985595703125,
                           "pointY" : 148
                         },
-                        "width" : 702,
+                        "width" : 592,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -31507,11 +31507,11 @@ local_slide( {
                         "height" : 38,
                         "hidden" : true,
                         "anchorPoint" : {
-                          "pointX" : 0.5084140266787972,
-                          "pointY" : 3.2368582424364591
+                          "pointX" : 0.60119366001438446,
+                          "pointY" : 0.8158056108575118
                         }
                       },
-                      "texture" : "831D50CF5C07476C0A2EB39A93ACA708"
+                      "texture" : "61333B446D9BB3149B432431F7DAADFF"
                     }
                   ]
                 },
@@ -32424,6 +32424,51 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Peter",
+            "targetRectangle" : {
+              "y" : 392.82516372203827,
+              "x" : 485.55191040039062,
+              "width" : 86.700000000000045,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Bob",
+            "targetRectangle" : {
+              "y" : 392.82514846324921,
+              "x" : 631.0279541015625,
+              "width" : 66.504000000000019,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 953.05706703662872,
+              "width" : 34.55859375,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 575.07485961914062,
+              "x" : 94.576179504394531,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Mathilda",
             "targetRectangle" : {
               "y" : 392.82516372203827,
@@ -32433,12 +32478,93 @@ local_slide( {
             }
           },
           {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 158.73831558227539,
+              "x" : 924.04947586059575,
+              "width" : 18.849999999999909,
+              "height" : 13.400039672851562
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 575.07485961914062,
+              "x" : 91.396377563476562,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
+            }
+          },
+          {
+            "text" : "Alice",
+            "targetRectangle" : {
+              "y" : 526.26568496227264,
+              "x" : 79.958305358886719,
+              "width" : 82.348000000000013,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Access control",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 260.16000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 114.89883232116699,
+              "x" : 889.9456729888916,
+              "width" : 19.855163060696555,
+              "height" : 19.855163060696555
+            }
+          },
+          {
+            "text" : "Justus",
+            "targetRectangle" : {
+              "y" : 392.82514846324921,
+              "x" : 345.54119873046875,
+              "width" : 104.48200000000003,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
             "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
               "y" : 129.31600570678711,
               "x" : 905.28068542480469,
               "width" : 19.85516357421875,
               "height" : 19.85516357421875
+            }
+          },
+          {
+            "text" : "Alice will split her secret key  (e.g. with Shamir) in such a way, that any three of her four trusted friends can restore the key.",
+            "targetRectangle" : {
+              "y" : 653.99267578125,
+              "x" : 42.743206024169922,
+              "width" : 955.74000000000046,
+              "height" : 92
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 578.10358428955078,
+              "x" : 89.081939697265625,
+              "width" : 64.000002731179848,
+              "height" : 64.000002731179848
             }
           },
           {
@@ -32469,42 +32595,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Alice will split her secret key  (e.g. with Shamir) in such a way, that any three of her four trusted friends can restore the key.",
-            "targetRectangle" : {
-              "y" : 653.99267578125,
-              "x" : 42.743206024169922,
-              "width" : 955.74000000000046,
-              "height" : 92
-            }
-          },
-          {
-            "text" : "Peter",
-            "targetRectangle" : {
-              "y" : 392.82516372203827,
-              "x" : 485.55191040039062,
-              "width" : 86.700000000000045,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 953.05706703662872,
-              "width" : 34.55859375,
-              "height" : 28
-            }
-          },
-          {
             "text" : "key_holo_dark.png",
             "targetRectangle" : {
               "y" : 576.2518310546875,
@@ -32516,100 +32606,10 @@ local_slide( {
           {
             "text" : "key_holo_dark.png",
             "targetRectangle" : {
-              "y" : 578.10358428955078,
-              "x" : 89.081939697265625,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Bob",
-            "targetRectangle" : {
-              "y" : 392.82514846324921,
-              "x" : 631.0279541015625,
-              "width" : 66.504000000000019,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
               "y" : 578.15592288970947,
               "x" : 89.422462463378906,
               "width" : 64.000002731179848,
               "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Data",
-            "targetRectangle" : {
-              "y" : 158.73831558227539,
-              "x" : 924.04947586059575,
-              "width" : 18.849999999999909,
-              "height" : 13.400039672851562
-            }
-          },
-          {
-            "text" : "Justus",
-            "targetRectangle" : {
-              "y" : 392.82514846324921,
-              "x" : 345.54119873046875,
-              "width" : 104.48200000000003,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Access control",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 260.16000000000003,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 575.07485961914062,
-              "x" : 94.576179504394531,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 114.89883232116699,
-              "x" : 889.9456729888916,
-              "width" : 19.855163060696555,
-              "height" : 19.855163060696555
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 575.07485961914062,
-              "x" : 91.396377563476562,
-              "width" : 64.000002731179848,
-              "height" : 64.000002731179848
-            }
-          },
-          {
-            "text" : "Alice",
-            "targetRectangle" : {
-              "y" : 526.26568496227264,
-              "x" : 79.958305358886719,
-              "width" : 82.348000000000013,
-              "height" : 46
             }
           }
         ],
@@ -34416,10 +34416,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 966.55706703662872,
+                      "pointX" : 967.05706703662872,
                       "pointY" : 44
                     },
-                    "width" : 37,
+                    "width" : 38,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -34488,10 +34488,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 22.442932963371277,
+                          "pointX" : 22.942932963371277,
                           "pointY" : 18
                         },
-                        "width" : 37,
+                        "width" : 38,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -34525,7 +34525,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "858EC0436CA64017280574DBE604E70A"
+                      "texture" : "03325907A58B04D22EA17B50CC1C0C2D"
                     }
                   ]
                 }

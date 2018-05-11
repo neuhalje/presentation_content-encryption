@@ -14,9 +14,9 @@
       "width" : 1024,
       "height" : 768
     },
-    "8DB5D6DBF4FA358ADCC96467C12F11BF" : {
+    "F1605CDFC6B4CE62F0AB8C1CEA4F40DE" : {
       "type" : "texture",
-      "index" : 9,
+      "index" : 7,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -25,8 +25,8 @@
       "url" : {
         "native" : "assets\/20527C8E-6140-4A60-99BA-3D05AEF8C7C3.pdf"
       },
-      "width" : 1024,
-      "height" : 768
+      "width" : 26,
+      "height" : 20
     },
     "DD5574795D285B35A950523A9FA41DD3" : {
       "type" : "texture",
@@ -41,6 +41,20 @@
       },
       "width" : 97,
       "height" : 217
+    },
+    "C34340EBAEF2104D59353E7DB3E8FF47" : {
+      "type" : "texture",
+      "index" : 8,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/20527C8E-6140-4A60-99BA-3D05AEF8C7C3.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     },
     "6616422E6097E8D2F48FA4A0548DA62B" : {
       "type" : "texture",
@@ -70,20 +84,6 @@
       "width" : 388,
       "height" : 37
     },
-    "640D5297D59088D46FE63A28D36F2264" : {
-      "type" : "texture",
-      "index" : 1,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/20527C8E-6140-4A60-99BA-3D05AEF8C7C3.pdf"
-      },
-      "width" : 964,
-      "height" : 5
-    },
     "448C6A2098FFBC5ACE0A852183B242BE" : {
       "type" : "texture",
       "index" : 2,
@@ -97,6 +97,20 @@
       },
       "width" : 209,
       "height" : 20
+    },
+    "FA20C1F7224619443625047B61E7B6B5" : {
+      "type" : "texture",
+      "index" : 1,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/20527C8E-6140-4A60-99BA-3D05AEF8C7C3.pdf"
+      },
+      "width" : 964,
+      "height" : 5
     },
     "C0D78B79BD8C8A86930412C2AE097FA2" : {
       "type" : "texture",
@@ -112,23 +126,9 @@
       "width" : 498,
       "height" : 20
     },
-    "C1921AB0B66E7A41E7C316BB942EDEC9" : {
+    "80799AA301C44C2CA23A1C68F6B0E45D" : {
       "type" : "texture",
-      "index" : 7,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/20527C8E-6140-4A60-99BA-3D05AEF8C7C3.pdf"
-      },
-      "width" : 26,
-      "height" : 20
-    },
-    "C9680691AE51F1866984222E662AF3AE" : {
-      "type" : "texture",
-      "index" : 8,
+      "index" : 9,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -322,7 +322,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "C9680691AE51F1866984222E662AF3AE"
+                    "texture" : "C34340EBAEF2104D59353E7DB3E8FF47"
                   },
                   {
                     "animations" : [
@@ -403,7 +403,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "8DB5D6DBF4FA358ADCC96467C12F11BF"
+                    "texture" : "80799AA301C44C2CA23A1C68F6B0E45D"
                   }
                 ]
               }
@@ -505,20 +505,20 @@
           }
         },
         {
+          "text" : "?",
+          "targetRectangle" : {
+            "y" : 202.5444278717041,
+            "x" : 951.21670059967039,
+            "width" : 7.1040000000000418,
+            "height" : 20.160058593749994
+          }
+        },
+        {
           "text" : "￼",
           "targetRectangle" : {
             "y" : 38,
             "x" : 964.57660043239594,
             "width" : 23.0390625,
-            "height" : 28
-          }
-        },
-        {
-          "text" : "Jens Neuhalfen",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 700.49374979734421,
-            "width" : 208.70625025033951,
             "height" : 28
           }
         },
@@ -550,12 +550,12 @@
           }
         },
         {
-          "text" : "?",
+          "text" : "Jens Neuhalfen",
           "targetRectangle" : {
-            "y" : 202.5444278717041,
-            "x" : 951.21670059967039,
-            "width" : 7.1040000000000418,
-            "height" : 20.160058593749994
+            "y" : 40,
+            "x" : 700.49374979734421,
+            "width" : 208.70625025033951,
+            "height" : 28
           }
         }
       ],
@@ -999,7 +999,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "640D5297D59088D46FE63A28D36F2264"
+                    "texture" : "FA20C1F7224619443625047B61E7B6B5"
                   }
                 ]
               }
@@ -2115,7 +2115,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "C1921AB0B66E7A41E7C316BB942EDEC9"
+                    "texture" : "F1605CDFC6B4CE62F0AB8C1CEA4F40DE"
                   }
                 ]
               }

@@ -466,39 +466,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "You know when it applies!",
-          "targetRectangle" : {
-            "y" : 220,
-            "x" : 71,
-            "width" : 335.86000000000001,
-            "height" : 38
-          }
-        },
-        {
-          "text" : "Sozialgesetzbuch",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 291.26400000000001,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Flag_of_Germany.png",
           "targetRectangle" : {
             "y" : 93.972236633300781,
             "x" : 758.68865966796875,
             "width" : 233.81135559082031,
             "height" : 140.68681335449219
-          }
-        },
-        {
-          "text" : "SGB",
-          "targetRectangle" : {
-            "y" : 309.59501647949219,
-            "x" : 681.36886901855473,
-            "width" : 251.59999999999991,
-            "height" : 200.0006103515625
           }
         },
         {
@@ -520,12 +493,12 @@
           }
         },
         {
-          "text" : "￼",
+          "text" : "SGB",
           "targetRectangle" : {
-            "y" : 38,
-            "x" : 964.57660043239594,
-            "width" : 23.0390625,
-            "height" : 28
+            "y" : 309.59501647949219,
+            "x" : 681.36886901855473,
+            "width" : 251.59999999999991,
+            "height" : 200.0006103515625
           }
         },
         {
@@ -538,12 +511,39 @@
           }
         },
         {
+          "text" : "You know when it applies!",
+          "targetRectangle" : {
+            "y" : 220,
+            "x" : 71,
+            "width" : 335.86000000000001,
+            "height" : 38
+          }
+        },
+        {
+          "text" : "￼",
+          "targetRectangle" : {
+            "y" : 38,
+            "x" : 964.57660043239594,
+            "width" : 23.0390625,
+            "height" : 28
+          }
+        },
+        {
           "text" : "Applies to: Everyone working with social data",
           "targetRectangle" : {
             "y" : 169.99999958276749,
             "x" : 35.315999984741211,
             "width" : 622.86000000000001,
             "height" : 38
+          }
+        },
+        {
+          "text" : "Sozialgesetzbuch",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 291.26400000000001,
+            "height" : 48.400146484375
           }
         }
       ],

@@ -44,9 +44,9 @@ local_slide( {
         "width" : 964,
         "height" : 5
       },
-      "71F2B854D3F7C1C59476E6B64B6E2111" : {
+      "80DEAA210B39E5E846120D8A7CA3457C" : {
         "type" : "texture",
-        "index" : 15,
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -55,8 +55,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/D7648A2F-CE08-4937-9423-6D99C8CBD13C.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 221,
+        "height" : 37
       },
       "08F081744BF04E7012FF692AC75E43FD" : {
         "type" : "texture",
@@ -72,9 +72,9 @@ local_slide( {
         "width" : 559,
         "height" : 203
       },
-      "80DEAA210B39E5E846120D8A7CA3457C" : {
+      "FB01FCFC984D73CF1BE3AFAF0722E2F9" : {
         "type" : "texture",
-        "index" : 3,
+        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -83,8 +83,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/D7648A2F-CE08-4937-9423-6D99C8CBD13C.pdf"
         },
-        "width" : 221,
-        "height" : 37
+        "width" : 22,
+        "height" : 20
       },
       "8E067AB9D34F18DC66C3449E410953DA" : {
         "type" : "texture",
@@ -184,7 +184,7 @@ local_slide( {
         "width" : 379,
         "height" : 84
       },
-      "0C131E3FE47040E4976470CD7E95EAE9" : {
+      "4D16409AA512BDB2971BCF5852D9EA74" : {
         "type" : "texture",
         "index" : 14,
         "assetRequest" : {
@@ -198,9 +198,9 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "80BAA8A288772D5CD020DDEEECD68A96" : {
+      "AD9F921BF918703057460F3D6789EFE1" : {
         "type" : "texture",
-        "index" : 5,
+        "index" : 15,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -209,8 +209,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/D7648A2F-CE08-4937-9423-6D99C8CBD13C.pdf"
         },
-        "width" : 26,
-        "height" : 20
+        "width" : 1024,
+        "height" : 768
       },
       "B23B5DC38DF7FFD3FE793C04B3C11242" : {
         "type" : "texture",
@@ -408,7 +408,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "0C131E3FE47040E4976470CD7E95EAE9"
+                      "texture" : "4D16409AA512BDB2971BCF5852D9EA74"
                     },
                     {
                       "animations" : [
@@ -489,7 +489,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "71F2B854D3F7C1C59476E6B64B6E2111"
+                      "texture" : "AD9F921BF918703057460F3D6789EFE1"
                     }
                   ]
                 }
@@ -510,6 +510,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Hi Alice do you know this one?",
+            "targetRectangle" : {
+              "y" : 276.5,
+              "x" : 339.96377563476562,
+              "width" : 426.34367999999995,
+              "height" : 39
+            }
+          },
+          {
             "text" : "?",
             "targetRectangle" : {
               "y" : 122.65264892578125,
@@ -528,57 +537,12 @@ local_slide( {
             }
           },
           {
-            "text" : " ",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 8.9279999999999973,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "ic_action_lock_closed.png",
-            "targetRectangle" : {
-              "y" : 142.79307746887207,
-              "x" : 939.53539276123047,
-              "width" : 37.958965301513672,
-              "height" : 37.958965301513672
-            }
-          },
-          {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
             "text" : "Compare Data",
             "targetRectangle" : {
               "y" : 125,
               "x" : 36,
               "width" : 220.70400000000001,
               "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "confidential data exchanged!",
-            "targetRectangle" : {
-              "y" : 736.80532824993134,
-              "x" : 370.16601239776611,
-              "width" : 283.66800000000006,
-              "height" : 28.40008544921875
             }
           },
           {
@@ -591,24 +555,6 @@ local_slide( {
             }
           },
           {
-            "text" : "==",
-            "targetRectangle" : {
-              "y" : 122.65264892578125,
-              "x" : 853.88079833984375,
-              "width" : 45.288000000000011,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Hi Alice do you know this one?",
-            "targetRectangle" : {
-              "y" : 276.5,
-              "x" : 339.96377563476562,
-              "width" : 426.34367999999995,
-              "height" : 39
-            }
-          },
-          {
             "text" : "Peter Tester, born 1971-03-12",
             "targetRectangle" : {
               "y" : 329.65228259563446,
@@ -618,12 +564,66 @@ local_slide( {
             }
           },
           {
+            "text" : " ",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 8.9279999999999973,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
+              "height" : 28
+            }
+          },
+          {
             "text" : "Problem: Securely compare two data items ",
             "targetRectangle" : {
               "y" : 175.24711608886719,
               "x" : 36,
               "width" : 630.01048000000014,
               "height" : 67.760000467300415
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "confidential data exchanged!",
+            "targetRectangle" : {
+              "y" : 736.80532824993134,
+              "x" : 370.16601239776611,
+              "width" : 283.66800000000006,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "ic_action_lock_closed.png",
+            "targetRectangle" : {
+              "y" : 142.79307746887207,
+              "x" : 939.53539276123047,
+              "width" : 37.958965301513672,
+              "height" : 37.958965301513672
+            }
+          },
+          {
+            "text" : "==",
+            "targetRectangle" : {
+              "y" : 122.65264892578125,
+              "x" : 853.88079833984375,
+              "width" : 45.288000000000011,
+              "height" : 46
             }
           },
           {
@@ -1830,10 +1830,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 972.57660043239594,
+                      "pointX" : 970.57660043239594,
                       "pointY" : 44
                     },
-                    "width" : 26,
+                    "width" : 22,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1902,10 +1902,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 16.423399567604065,
+                          "pointX" : 14.423399567604065,
                           "pointY" : 18
                         },
-                        "width" : 26,
+                        "width" : 22,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1939,7 +1939,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "80BAA8A288772D5CD020DDEEECD68A96"
+                      "texture" : "FB01FCFC984D73CF1BE3AFAF0722E2F9"
                     }
                   ]
                 }

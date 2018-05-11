@@ -84,9 +84,9 @@
       "width" : 307,
       "height" : 123
     },
-    "F02B9F99C7D2F633A99A4F3A62BE8903" : {
+    "08DF2C928DFD45392E4E48C873951910" : {
       "type" : "texture",
-      "index" : 8,
+      "index" : 3,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -95,22 +95,8 @@
       "url" : {
         "native" : "assets\/C75EFF7C-C2EA-49D1-AB16-D2FD931A7E67.pdf"
       },
-      "width" : 58,
-      "height" : 94
-    },
-    "763F6BDE085393F2B379F6C87E0299F6" : {
-      "type" : "texture",
-      "index" : 15,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/C75EFF7C-C2EA-49D1-AB16-D2FD931A7E67.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
+      "width" : 914,
+      "height" : 483
     },
     "FBB5DEA59905EE30EF2803B0A74DF992" : {
       "type" : "texture",
@@ -126,20 +112,6 @@
       "width" : 1024,
       "height" : 768
     },
-    "448C6A2098FFBC5ACE0A852183B242BE" : {
-      "type" : "texture",
-      "index" : 2,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/C75EFF7C-C2EA-49D1-AB16-D2FD931A7E67.pdf"
-      },
-      "width" : 209,
-      "height" : 20
-    },
     "9106A9A6F4C97665813361F4EE885005" : {
       "type" : "texture",
       "index" : 10,
@@ -153,6 +125,20 @@
       },
       "width" : 513,
       "height" : 60
+    },
+    "448C6A2098FFBC5ACE0A852183B242BE" : {
+      "type" : "texture",
+      "index" : 2,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/C75EFF7C-C2EA-49D1-AB16-D2FD931A7E67.pdf"
+      },
+      "width" : 209,
+      "height" : 20
     },
     "C0D78B79BD8C8A86930412C2AE097FA2" : {
       "type" : "texture",
@@ -168,9 +154,9 @@
       "width" : 498,
       "height" : 20
     },
-    "DF3F8A1C383CB6B1483E1BA828FD7DEC" : {
+    "48FB8840C33386446FB92B9FCF73C175" : {
       "type" : "texture",
-      "index" : 3,
+      "index" : 14,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -179,12 +165,12 @@
       "url" : {
         "native" : "assets\/C75EFF7C-C2EA-49D1-AB16-D2FD931A7E67.pdf"
       },
-      "width" : 914,
-      "height" : 483
+      "width" : 1024,
+      "height" : 768
     },
-    "3E4E80F18A4DB9FC75A1AA11765EA551" : {
+    "A0EDDC40736D443403E19855E19DCFBC" : {
       "type" : "texture",
-      "index" : 16,
+      "index" : 15,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -212,7 +198,7 @@
     },
     "4CFF891B2FBBD6D326470F9A211860B1" : {
       "type" : "texture",
-      "index" : 14,
+      "index" : 8,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -1904,53 +1890,8 @@
           "text" : "3,141€",
           "targetRectangle" : {
             "y" : 404.28836059570312,
-            "x" : 494.69196038818359,
-            "width" : 57.288000000000011,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "0x123456…",
-          "targetRectangle" : {
-            "y" : 125.25,
-            "x" : 864.45169110107418,
-            "width" : 111.80400000000009,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Problem: Protected data can be “replayed”.\\u2028 ",
-          "targetRectangle" : {
-            "y" : 171.759521484375,
-            "x" : 36,
-            "width" : 687.81600000000014,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "3,141€",
-          "targetRectangle" : {
-            "y" : 404.28836059570312,
             "x" : 494.69192987060546,
             "width" : 57.288000000000011,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_tick.png",
-          "targetRectangle" : {
-            "y" : 124.78334522247314,
-            "x" : 959.30970001220703,
-            "width" : 51.466655731201172,
-            "height" : 51.466655731201172
-          }
-        },
-        {
-          "text" : "2,718 €",
-          "targetRectangle" : {
-            "y" : 525.28836059570312,
-            "x" : 492.08792987060548,
-            "width" : 62.496000000000038,
             "height" : 28.40008544921875
           }
         },
@@ -1979,6 +1920,51 @@
             "x" : 36,
             "width" : 462.19199999999995,
             "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "ic_action_tick.png",
+          "targetRectangle" : {
+            "y" : 124.78334522247314,
+            "x" : 959.30970001220703,
+            "width" : 51.466655731201172,
+            "height" : 51.466655731201172
+          }
+        },
+        {
+          "text" : "3,141€",
+          "targetRectangle" : {
+            "y" : 404.28836059570312,
+            "x" : 494.69196038818359,
+            "width" : 57.288000000000011,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "0x123456…",
+          "targetRectangle" : {
+            "y" : 125.25,
+            "x" : 864.45169110107418,
+            "width" : 111.80400000000009,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Problem: Protected data can be “replayed”.\\u2028 ",
+          "targetRectangle" : {
+            "y" : 171.759521484375,
+            "x" : 36,
+            "width" : 687.81600000000014,
+            "height" : 92
+          }
+        },
+        {
+          "text" : "2,718 €",
+          "targetRectangle" : {
+            "y" : 525.28836059570312,
+            "x" : 492.08792987060548,
+            "width" : 62.496000000000038,
+            "height" : 28.40008544921875
           }
         }
       ],
@@ -2789,7 +2775,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "DF3F8A1C383CB6B1483E1BA828FD7DEC"
+                    "texture" : "08DF2C928DFD45392E4E48C873951910"
                   }
                 ]
               }
@@ -3822,7 +3808,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "F02B9F99C7D2F633A99A4F3A62BE8903"
+                    "texture" : "4CFF891B2FBBD6D326470F9A211860B1"
                   }
                 ]
               }
@@ -5376,53 +5362,8 @@
           "text" : "3,141€",
           "targetRectangle" : {
             "y" : 404.28836059570312,
-            "x" : 494.69196038818359,
-            "width" : 57.288000000000011,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "0x123456…",
-          "targetRectangle" : {
-            "y" : 125.25,
-            "x" : 864.45169110107418,
-            "width" : 111.80400000000009,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Problem: Protected data can be “replayed”.\\u2028 ",
-          "targetRectangle" : {
-            "y" : 171.759521484375,
-            "x" : 36,
-            "width" : 687.81600000000014,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "3,141€",
-          "targetRectangle" : {
-            "y" : 404.28836059570312,
             "x" : 494.69192987060546,
             "width" : 57.288000000000011,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_tick.png",
-          "targetRectangle" : {
-            "y" : 124.78334522247314,
-            "x" : 959.30970001220703,
-            "width" : 51.466655731201172,
-            "height" : 51.466655731201172
-          }
-        },
-        {
-          "text" : "2,718 €",
-          "targetRectangle" : {
-            "y" : 525.28836059570312,
-            "x" : 492.08792987060548,
-            "width" : 62.496000000000038,
             "height" : 28.40008544921875
           }
         },
@@ -5460,6 +5401,51 @@
             "x" : 36,
             "width" : 462.19199999999995,
             "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "ic_action_tick.png",
+          "targetRectangle" : {
+            "y" : 124.78334522247314,
+            "x" : 959.30970001220703,
+            "width" : 51.466655731201172,
+            "height" : 51.466655731201172
+          }
+        },
+        {
+          "text" : "3,141€",
+          "targetRectangle" : {
+            "y" : 404.28836059570312,
+            "x" : 494.69196038818359,
+            "width" : 57.288000000000011,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "0x123456…",
+          "targetRectangle" : {
+            "y" : 125.25,
+            "x" : 864.45169110107418,
+            "width" : 111.80400000000009,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Problem: Protected data can be “replayed”.\\u2028 ",
+          "targetRectangle" : {
+            "y" : 171.759521484375,
+            "x" : 36,
+            "width" : 687.81600000000014,
+            "height" : 92
+          }
+        },
+        {
+          "text" : "2,718 €",
+          "targetRectangle" : {
+            "y" : 525.28836059570312,
+            "x" : 492.08792987060548,
+            "width" : 62.496000000000038,
+            "height" : 28.40008544921875
           }
         }
       ],
@@ -6270,7 +6256,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "DF3F8A1C383CB6B1483E1BA828FD7DEC"
+                    "texture" : "08DF2C928DFD45392E4E48C873951910"
                   }
                 ]
               }
@@ -8761,7 +8747,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "763F6BDE085393F2B379F6C87E0299F6"
+                    "texture" : "48FB8840C33386446FB92B9FCF73C175"
                   },
                   {
                     "animations" : [
@@ -8842,7 +8828,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "3E4E80F18A4DB9FC75A1AA11765EA551"
+                    "texture" : "A0EDDC40736D443403E19855E19DCFBC"
                   }
                 ]
               }
@@ -8866,62 +8852,8 @@
           "text" : "3,141€",
           "targetRectangle" : {
             "y" : 404.28836059570312,
-            "x" : 494.69196038818359,
-            "width" : 57.288000000000011,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "0x123456…",
-          "targetRectangle" : {
-            "y" : 125.25,
-            "x" : 864.45169110107418,
-            "width" : 111.80400000000009,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "Problem: Protected data can be “replayed”.\\u2028 ",
-          "targetRectangle" : {
-            "y" : 171.759521484375,
-            "x" : 36,
-            "width" : 687.81600000000014,
-            "height" : 92
-          }
-        },
-        {
-          "text" : "3,141€",
-          "targetRectangle" : {
-            "y" : 404.28836059570312,
             "x" : 494.69192987060546,
             "width" : 57.288000000000011,
-            "height" : 28.40008544921875
-          }
-        },
-        {
-          "text" : "ic_action_tick.png",
-          "targetRectangle" : {
-            "y" : 124.78334522247314,
-            "x" : 959.30970001220703,
-            "width" : 51.466655731201172,
-            "height" : 51.466655731201172
-          }
-        },
-        {
-          "text" : "Eve gets an instant promotion",
-          "targetRectangle" : {
-            "y" : 621.9104015827179,
-            "x" : 273.13594436645508,
-            "width" : 500.39999999999986,
-            "height" : 48.400146484375
-          }
-        },
-        {
-          "text" : "2,718 €",
-          "targetRectangle" : {
-            "y" : 525.28836059570312,
-            "x" : 492.08792987060548,
-            "width" : 62.496000000000038,
             "height" : 28.40008544921875
           }
         },
@@ -8959,6 +8891,60 @@
             "x" : 36,
             "width" : 462.19199999999995,
             "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "ic_action_tick.png",
+          "targetRectangle" : {
+            "y" : 124.78334522247314,
+            "x" : 959.30970001220703,
+            "width" : 51.466655731201172,
+            "height" : 51.466655731201172
+          }
+        },
+        {
+          "text" : "Eve gets an instant promotion",
+          "targetRectangle" : {
+            "y" : 621.9104015827179,
+            "x" : 273.13594436645508,
+            "width" : 500.39999999999986,
+            "height" : 48.400146484375
+          }
+        },
+        {
+          "text" : "3,141€",
+          "targetRectangle" : {
+            "y" : 404.28836059570312,
+            "x" : 494.69196038818359,
+            "width" : 57.288000000000011,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "0x123456…",
+          "targetRectangle" : {
+            "y" : 125.25,
+            "x" : 864.45169110107418,
+            "width" : 111.80400000000009,
+            "height" : 28.40008544921875
+          }
+        },
+        {
+          "text" : "Problem: Protected data can be “replayed”.\\u2028 ",
+          "targetRectangle" : {
+            "y" : 171.759521484375,
+            "x" : 36,
+            "width" : 687.81600000000014,
+            "height" : 92
+          }
+        },
+        {
+          "text" : "2,718 €",
+          "targetRectangle" : {
+            "y" : 525.28836059570312,
+            "x" : 492.08792987060548,
+            "width" : 62.496000000000038,
+            "height" : 28.40008544921875
           }
         }
       ],
@@ -9770,7 +9756,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "DF3F8A1C383CB6B1483E1BA828FD7DEC"
+                    "texture" : "08DF2C928DFD45392E4E48C873951910"
                   }
                 ]
               }

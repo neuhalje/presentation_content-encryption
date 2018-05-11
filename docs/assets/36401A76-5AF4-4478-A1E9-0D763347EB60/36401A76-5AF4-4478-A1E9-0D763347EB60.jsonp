@@ -603,12 +603,39 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 642.288330078125,
+              "x" : 195.07303924560546,
+              "width" : 40.600000000000023,
+              "height" : 28.40008544921875
+            }
+          },
+          {
             "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
-              "y" : 153.45940399169922,
-              "x" : 965.67934417724609,
-              "width" : 19.855165481567383,
+              "y" : 129.31600570678711,
+              "x" : 905.28068542480469,
+              "width" : 19.85516357421875,
               "height" : 19.85516357421875
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
             }
           },
           {
@@ -617,6 +644,15 @@ local_slide( {
               "y" : 349.23176467418671,
               "x" : 304.591552734375,
               "width" : 59.771999999999991,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "ACL",
+            "targetRectangle" : {
+              "y" : 561.21417129039764,
+              "x" : 391.54501342773438,
+              "width" : 65.72199999999998,
               "height" : 46
             }
           },
@@ -630,6 +666,51 @@ local_slide( {
             }
           },
           {
+            "text" : "ic_action_lock_closed.png",
+            "targetRectangle" : {
+              "y" : 153.45940399169922,
+              "x" : 965.67934417724609,
+              "width" : 19.855165481567383,
+              "height" : 19.85516357421875
+            }
+          },
+          {
+            "text" : "NO",
+            "targetRectangle" : {
+              "y" : 566.288330078125,
+              "x" : 199.71303924560547,
+              "width" : 31.319999999999993,
+              "height" : 35.80010986328125
+            }
+          },
+          {
+            "text" : "YES",
+            "targetRectangle" : {
+              "y" : 566.288330078125,
+              "x" : 79.421043060302736,
+              "width" : 41.903999999999996,
+              "height" : 35.80010986328125
+            }
+          },
+          {
+            "text" : "Access control",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 260.16000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 114.89883232116699,
+              "x" : 889.9456729888916,
+              "width" : 19.855163060696555,
+              "height" : 19.855163060696555
+            }
+          },
+          {
             "text" : "Data",
             "targetRectangle" : {
               "y" : 158.73831558227539,
@@ -639,12 +720,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Data",
+            "text" : "NO",
             "targetRectangle" : {
-              "y" : 642.288330078125,
-              "x" : 195.07303924560546,
-              "width" : 40.600000000000023,
-              "height" : 28.40008544921875
+              "y" : 566.288330078125,
+              "x" : 314.7130392456055,
+              "width" : 31.319999999999936,
+              "height" : 35.80010986328125
             }
           },
           {
@@ -675,69 +756,6 @@ local_slide( {
             }
           },
           {
-            "text" : "NO",
-            "targetRectangle" : {
-              "y" : 566.288330078125,
-              "x" : 199.71303924560547,
-              "width" : 31.319999999999993,
-              "height" : 35.80010986328125
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "YES",
-            "targetRectangle" : {
-              "y" : 566.288330078125,
-              "x" : 79.421043060302736,
-              "width" : 41.903999999999996,
-              "height" : 35.80010986328125
-            }
-          },
-          {
-            "text" : "ACL",
-            "targetRectangle" : {
-              "y" : 561.21417129039764,
-              "x" : 391.54501342773438,
-              "width" : 65.72199999999998,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "NO",
-            "targetRectangle" : {
-              "y" : 566.288330078125,
-              "x" : 314.7130392456055,
-              "width" : 31.319999999999936,
-              "height" : 35.80010986328125
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Alice",
-            "targetRectangle" : {
-              "y" : 347.43215835094452,
-              "x" : 82.711021423339844,
-              "width" : 82.348000000000013,
-              "height" : 46
-            }
-          },
-          {
             "text" : "Your application",
             "targetRectangle" : {
               "y" : 711.43664568662643,
@@ -747,38 +765,20 @@ local_slide( {
             }
           },
           {
-            "text" : "Access control",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 260.16000000000003,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 114.89883232116699,
-              "x" : 889.9456729888916,
-              "width" : 19.855163060696555,
-              "height" : 19.855163060696555
-            }
-          },
-          {
-            "text" : "ic_action_lock_closed.png",
-            "targetRectangle" : {
-              "y" : 129.31600570678711,
-              "x" : 905.28068542480469,
-              "width" : 19.85516357421875,
-              "height" : 19.85516357421875
-            }
-          },
-          {
             "text" : "Bob",
             "targetRectangle" : {
               "y" : 347.43217360973358,
               "x" : 195.92929077148438,
               "width" : 66.504000000000019,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Alice",
+            "targetRectangle" : {
+              "y" : 347.43215835094452,
+              "x" : 82.711021423339844,
+              "width" : 82.348000000000013,
               "height" : 46
             }
           }
@@ -6050,12 +6050,39 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 642.288330078125,
+              "x" : 195.07303924560546,
+              "width" : 40.600000000000023,
+              "height" : 28.40008544921875
+            }
+          },
+          {
             "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
-              "y" : 153.45940399169922,
-              "x" : 965.67934417724609,
-              "width" : 19.855165481567383,
+              "y" : 129.31600570678711,
+              "x" : 905.28068542480469,
+              "width" : 19.85516357421875,
               "height" : 19.85516357421875
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
             }
           },
           {
@@ -6064,6 +6091,15 @@ local_slide( {
               "y" : 349.23176467418671,
               "x" : 304.591552734375,
               "width" : 59.771999999999991,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "ACL",
+            "targetRectangle" : {
+              "y" : 561.21417129039764,
+              "x" : 391.54501342773438,
+              "width" : 65.72199999999998,
               "height" : 46
             }
           },
@@ -6077,21 +6113,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Data",
+            "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
-              "y" : 158.73831558227539,
-              "x" : 924.04947586059575,
-              "width" : 18.849999999999909,
-              "height" : 13.400039672851562
-            }
-          },
-          {
-            "text" : "Data",
-            "targetRectangle" : {
-              "y" : 642.288330078125,
-              "x" : 195.07303924560546,
-              "width" : 40.600000000000023,
-              "height" : 28.40008544921875
+              "y" : 153.45940399169922,
+              "x" : 965.67934417724609,
+              "width" : 19.855165481567383,
+              "height" : 19.85516357421875
             }
           },
           {
@@ -6104,66 +6131,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "YES",
             "targetRectangle" : {
               "y" : 566.288330078125,
               "x" : 79.421043060302736,
               "width" : 41.903999999999996,
               "height" : 35.80010986328125
-            }
-          },
-          {
-            "text" : "ACL",
-            "targetRectangle" : {
-              "y" : 561.21417129039764,
-              "x" : 391.54501342773438,
-              "width" : 65.72199999999998,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "NO",
-            "targetRectangle" : {
-              "y" : 566.288330078125,
-              "x" : 314.7130392456055,
-              "width" : 31.319999999999936,
-              "height" : 35.80010986328125
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Alice",
-            "targetRectangle" : {
-              "y" : 347.43215835094452,
-              "x" : 82.711021423339844,
-              "width" : 82.348000000000013,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Your application",
-            "targetRectangle" : {
-              "y" : 711.43664568662643,
-              "x" : 292.4815673828125,
-              "width" : 179.27999999999997,
-              "height" : 33
             }
           },
           {
@@ -6185,12 +6158,30 @@ local_slide( {
             }
           },
           {
-            "text" : "ic_action_lock_closed.png",
+            "text" : "Data",
             "targetRectangle" : {
-              "y" : 129.31600570678711,
-              "x" : 905.28068542480469,
-              "width" : 19.85516357421875,
-              "height" : 19.85516357421875
+              "y" : 158.73831558227539,
+              "x" : 924.04947586059575,
+              "width" : 18.849999999999909,
+              "height" : 13.400039672851562
+            }
+          },
+          {
+            "text" : "NO",
+            "targetRectangle" : {
+              "y" : 566.288330078125,
+              "x" : 314.7130392456055,
+              "width" : 31.319999999999936,
+              "height" : 35.80010986328125
+            }
+          },
+          {
+            "text" : "Your application",
+            "targetRectangle" : {
+              "y" : 711.43664568662643,
+              "x" : 292.4815673828125,
+              "width" : 179.27999999999997,
+              "height" : 33
             }
           },
           {
@@ -6199,6 +6190,15 @@ local_slide( {
               "y" : 347.43217360973358,
               "x" : 195.92929077148438,
               "width" : 66.504000000000019,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Alice",
+            "targetRectangle" : {
+              "y" : 347.43215835094452,
+              "x" : 82.711021423339844,
+              "width" : 82.348000000000013,
               "height" : 46
             }
           }
@@ -11471,12 +11471,39 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 642.288330078125,
+              "x" : 195.07303924560546,
+              "width" : 40.600000000000023,
+              "height" : 28.40008544921875
+            }
+          },
+          {
             "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
-              "y" : 153.45940399169922,
-              "x" : 965.67934417724609,
-              "width" : 19.855165481567383,
+              "y" : 129.31600570678711,
+              "x" : 905.28068542480469,
+              "width" : 19.85516357421875,
               "height" : 19.85516357421875
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
             }
           },
           {
@@ -11485,6 +11512,15 @@ local_slide( {
               "y" : 349.23176467418671,
               "x" : 304.591552734375,
               "width" : 59.771999999999991,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "ACL",
+            "targetRectangle" : {
+              "y" : 561.21417129039764,
+              "x" : 391.54501342773438,
+              "width" : 65.72199999999998,
               "height" : 46
             }
           },
@@ -11498,39 +11534,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Data",
+            "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
-              "y" : 158.73831558227539,
-              "x" : 924.04947586059575,
-              "width" : 18.849999999999909,
-              "height" : 13.400039672851562
-            }
-          },
-          {
-            "text" : "Data",
-            "targetRectangle" : {
-              "y" : 642.288330078125,
-              "x" : 195.07303924560546,
-              "width" : 40.600000000000023,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Alice tries to read data",
-            "targetRectangle" : {
-              "y" : 257.2978515625,
-              "x" : 555.89608860015869,
-              "width" : 351.18599999999992,
-              "height" : 74
-            }
-          },
-          {
-            "text" : "Application validates ACL",
-            "targetRectangle" : {
-              "y" : 331.2978515625,
-              "x" : 555.89608860015869,
-              "width" : 399.97600000000011,
-              "height" : 74
+              "y" : 153.45940399169922,
+              "x" : 965.67934417724609,
+              "width" : 19.855165481567383,
+              "height" : 19.85516357421875
             }
           },
           {
@@ -11543,66 +11552,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
             "text" : "YES",
             "targetRectangle" : {
               "y" : 566.288330078125,
               "x" : 79.421043060302736,
               "width" : 41.903999999999996,
               "height" : 35.80010986328125
-            }
-          },
-          {
-            "text" : "ACL",
-            "targetRectangle" : {
-              "y" : 561.21417129039764,
-              "x" : 391.54501342773438,
-              "width" : 65.72199999999998,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "NO",
-            "targetRectangle" : {
-              "y" : 566.288330078125,
-              "x" : 314.7130392456055,
-              "width" : 31.319999999999936,
-              "height" : 35.80010986328125
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Alice",
-            "targetRectangle" : {
-              "y" : 347.43215835094452,
-              "x" : 82.711021423339844,
-              "width" : 82.348000000000013,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Your application",
-            "targetRectangle" : {
-              "y" : 711.43664568662643,
-              "x" : 292.4815673828125,
-              "width" : 179.27999999999997,
-              "height" : 33
             }
           },
           {
@@ -11624,12 +11579,48 @@ local_slide( {
             }
           },
           {
-            "text" : "ic_action_lock_closed.png",
+            "text" : "Data",
             "targetRectangle" : {
-              "y" : 129.31600570678711,
-              "x" : 905.28068542480469,
-              "width" : 19.85516357421875,
-              "height" : 19.85516357421875
+              "y" : 158.73831558227539,
+              "x" : 924.04947586059575,
+              "width" : 18.849999999999909,
+              "height" : 13.400039672851562
+            }
+          },
+          {
+            "text" : "NO",
+            "targetRectangle" : {
+              "y" : 566.288330078125,
+              "x" : 314.7130392456055,
+              "width" : 31.319999999999936,
+              "height" : 35.80010986328125
+            }
+          },
+          {
+            "text" : "Alice tries to read data",
+            "targetRectangle" : {
+              "y" : 257.2978515625,
+              "x" : 555.89608860015869,
+              "width" : 351.18599999999992,
+              "height" : 74
+            }
+          },
+          {
+            "text" : "Application validates ACL",
+            "targetRectangle" : {
+              "y" : 331.2978515625,
+              "x" : 555.89608860015869,
+              "width" : 399.97600000000011,
+              "height" : 74
+            }
+          },
+          {
+            "text" : "Your application",
+            "targetRectangle" : {
+              "y" : 711.43664568662643,
+              "x" : 292.4815673828125,
+              "width" : 179.27999999999997,
+              "height" : 33
             }
           },
           {
@@ -11638,6 +11629,15 @@ local_slide( {
               "y" : 347.43217360973358,
               "x" : 195.92929077148438,
               "width" : 66.504000000000019,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Alice",
+            "targetRectangle" : {
+              "y" : 347.43215835094452,
+              "x" : 82.711021423339844,
+              "width" : 82.348000000000013,
               "height" : 46
             }
           }
@@ -16574,12 +16574,39 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Data",
+            "targetRectangle" : {
+              "y" : 642.288330078125,
+              "x" : 195.07303924560546,
+              "width" : 40.600000000000023,
+              "height" : 28.40008544921875
+            }
+          },
+          {
             "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
-              "y" : 153.45940399169922,
-              "x" : 965.67934417724609,
-              "width" : 19.855165481567383,
+              "y" : 129.31600570678711,
+              "x" : 905.28068542480469,
+              "width" : 19.85516357421875,
               "height" : 19.85516357421875
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
             }
           },
           {
@@ -16588,6 +16615,15 @@ local_slide( {
               "y" : 349.23176467418671,
               "x" : 304.591552734375,
               "width" : 59.771999999999991,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "ACL",
+            "targetRectangle" : {
+              "y" : 561.21417129039764,
+              "x" : 391.54501342773438,
+              "width" : 65.72199999999998,
               "height" : 46
             }
           },
@@ -16601,6 +16637,51 @@ local_slide( {
             }
           },
           {
+            "text" : "ic_action_lock_closed.png",
+            "targetRectangle" : {
+              "y" : 153.45940399169922,
+              "x" : 965.67934417724609,
+              "width" : 19.855165481567383,
+              "height" : 19.85516357421875
+            }
+          },
+          {
+            "text" : "NO",
+            "targetRectangle" : {
+              "y" : 566.288330078125,
+              "x" : 199.71303924560547,
+              "width" : 31.319999999999993,
+              "height" : 35.80010986328125
+            }
+          },
+          {
+            "text" : "YES",
+            "targetRectangle" : {
+              "y" : 566.288330078125,
+              "x" : 79.421043060302736,
+              "width" : 41.903999999999996,
+              "height" : 35.80010986328125
+            }
+          },
+          {
+            "text" : "Access control",
+            "targetRectangle" : {
+              "y" : 125,
+              "x" : 36,
+              "width" : 260.16000000000003,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "key_holo_dark.png",
+            "targetRectangle" : {
+              "y" : 114.89883232116699,
+              "x" : 889.9456729888916,
+              "width" : 19.855163060696555,
+              "height" : 19.855163060696555
+            }
+          },
+          {
             "text" : "Data",
             "targetRectangle" : {
               "y" : 158.73831558227539,
@@ -16610,12 +16691,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Data",
+            "text" : "NO",
             "targetRectangle" : {
-              "y" : 642.288330078125,
-              "x" : 195.07303924560546,
-              "width" : 40.600000000000023,
-              "height" : 28.40008544921875
+              "y" : 566.288330078125,
+              "x" : 314.7130392456055,
+              "width" : 31.319999999999936,
+              "height" : 35.80010986328125
             }
           },
           {
@@ -16646,69 +16727,6 @@ local_slide( {
             }
           },
           {
-            "text" : "NO",
-            "targetRectangle" : {
-              "y" : 566.288330078125,
-              "x" : 199.71303924560547,
-              "width" : 31.319999999999993,
-              "height" : 35.80010986328125
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "YES",
-            "targetRectangle" : {
-              "y" : 566.288330078125,
-              "x" : 79.421043060302736,
-              "width" : 41.903999999999996,
-              "height" : 35.80010986328125
-            }
-          },
-          {
-            "text" : "ACL",
-            "targetRectangle" : {
-              "y" : 561.21417129039764,
-              "x" : 391.54501342773438,
-              "width" : 65.72199999999998,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "NO",
-            "targetRectangle" : {
-              "y" : 566.288330078125,
-              "x" : 314.7130392456055,
-              "width" : 31.319999999999936,
-              "height" : 35.80010986328125
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Alice",
-            "targetRectangle" : {
-              "y" : 347.43215835094452,
-              "x" : 82.711021423339844,
-              "width" : 82.348000000000013,
-              "height" : 46
-            }
-          },
-          {
             "text" : "Your application",
             "targetRectangle" : {
               "y" : 711.43664568662643,
@@ -16718,38 +16736,20 @@ local_slide( {
             }
           },
           {
-            "text" : "Access control",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 260.16000000000003,
-              "height" : 48.400146484375
-            }
-          },
-          {
-            "text" : "key_holo_dark.png",
-            "targetRectangle" : {
-              "y" : 114.89883232116699,
-              "x" : 889.9456729888916,
-              "width" : 19.855163060696555,
-              "height" : 19.855163060696555
-            }
-          },
-          {
-            "text" : "ic_action_lock_closed.png",
-            "targetRectangle" : {
-              "y" : 129.31600570678711,
-              "x" : 905.28068542480469,
-              "width" : 19.85516357421875,
-              "height" : 19.85516357421875
-            }
-          },
-          {
             "text" : "Bob",
             "targetRectangle" : {
               "y" : 347.43217360973358,
               "x" : 195.92929077148438,
               "width" : 66.504000000000019,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Alice",
+            "targetRectangle" : {
+              "y" : 347.43215835094452,
+              "x" : 82.711021423339844,
+              "width" : 82.348000000000013,
               "height" : 46
             }
           }

@@ -2,20 +2,6 @@ local_slide( {
   "name" : "EC7E602C-BE70-4CB0-9CC7-1754E654D582",
   "json" : {
     "assets" : {
-      "FBB5DEA59905EE30EF2803B0A74DF992" : {
-        "type" : "texture",
-        "index" : 0,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/EC7E602C-BE70-4CB0-9CC7-1754E654D582.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
       "2779E1F74AEBD192A28E4EE9148DC82D" : {
         "type" : "texture",
         "index" : 4,
@@ -29,20 +15,6 @@ local_slide( {
         },
         "width" : 396,
         "height" : 37
-      },
-      "ACF786553AA7F869BEA81144A6AFA178" : {
-        "type" : "texture",
-        "index" : 9,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/EC7E602C-BE70-4CB0-9CC7-1754E654D582.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       },
       "78A428F99E3C1C3216F2898914D85BA3" : {
         "type" : "texture",
@@ -72,9 +44,9 @@ local_slide( {
         "width" : 97,
         "height" : 217
       },
-      "448C6A2098FFBC5ACE0A852183B242BE" : {
+      "C34340EBAEF2104D59353E7DB3E8FF47" : {
         "type" : "texture",
-        "index" : 2,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -83,8 +55,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/EC7E602C-BE70-4CB0-9CC7-1754E654D582.pdf"
         },
-        "width" : 209,
-        "height" : 20
+        "width" : 1024,
+        "height" : 768
       },
       "640D5297D59088D46FE63A28D36F2264" : {
         "type" : "texture",
@@ -100,9 +72,9 @@ local_slide( {
         "width" : 964,
         "height" : 5
       },
-      "28125ABE8709E5B26D7DA703988471D3" : {
+      "448C6A2098FFBC5ACE0A852183B242BE" : {
         "type" : "texture",
-        "index" : 8,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -111,7 +83,7 @@ local_slide( {
         "url" : {
           "native" : "assets\/EC7E602C-BE70-4CB0-9CC7-1754E654D582.pdf"
         },
-        "width" : 26,
+        "width" : 209,
         "height" : 20
       },
       "A3C55B4FF6C5EDAB408824870766C9A4" : {
@@ -128,6 +100,20 @@ local_slide( {
         "width" : 758,
         "height" : 188
       },
+      "3E7DD5496E98C8DF72684008AB8A9766" : {
+        "type" : "texture",
+        "index" : 9,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/EC7E602C-BE70-4CB0-9CC7-1754E654D582.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "C0D78B79BD8C8A86930412C2AE097FA2" : {
         "type" : "texture",
         "index" : 3,
@@ -142,7 +128,21 @@ local_slide( {
         "width" : 498,
         "height" : 20
       },
-      "81EF4F9DE15BA1D3FC9A7BD1F35DAA90" : {
+      "6A75014F098483DD95C044D0284AC0EC" : {
+        "type" : "texture",
+        "index" : 8,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/EC7E602C-BE70-4CB0-9CC7-1754E654D582.pdf"
+        },
+        "width" : 26,
+        "height" : 20
+      },
+      "770DEF606F510849676C3E66199C4DFD" : {
         "type" : "texture",
         "index" : 10,
         "assetRequest" : {
@@ -338,7 +338,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "ACF786553AA7F869BEA81144A6AFA178"
+                      "texture" : "3E7DD5496E98C8DF72684008AB8A9766"
                     },
                     {
                       "animations" : [
@@ -419,7 +419,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "81EF4F9DE15BA1D3FC9A7BD1F35DAA90"
+                      "texture" : "770DEF606F510849676C3E66199C4DFD"
                     }
                   ]
                 }
@@ -440,33 +440,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Longer story: write a cryptography & security concept",
-            "targetRectangle" : {
-              "y" : 735.74996972084045,
-              "x" : 242.33198474121093,
-              "width" : 539.33600000000001,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "ic_action_lock_closed.png",
-            "targetRectangle" : {
-              "y" : 267.07207489013672,
-              "x" : 958.27167129516602,
-              "width" : 52.460819244384766,
-              "height" : 52.460807800292969
-            }
-          },
-          {
-            "text" : "3 - Implementation Plan",
-            "targetRectangle" : {
-              "y" : 125,
-              "x" : 36,
-              "width" : 396.43199999999996,
-              "height" : 48.400146484375
-            }
-          },
-          {
             "text" : "?",
             "targetRectangle" : {
               "y" : 202.5444278717041,
@@ -476,11 +449,11 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
+            "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
               "height" : 28
             }
           },
@@ -512,6 +485,15 @@ local_slide( {
             }
           },
           {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
@@ -521,12 +503,30 @@ local_slide( {
             }
           },
           {
-            "text" : "Jens Neuhalfen",
+            "text" : "3 - Implementation Plan",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
+              "y" : 125,
+              "x" : 36,
+              "width" : 396.43199999999996,
+              "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "Longer story: write a cryptography & security concept",
+            "targetRectangle" : {
+              "y" : 735.74996972084045,
+              "x" : 242.33198474121093,
+              "width" : 539.33600000000001,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "ic_action_lock_closed.png",
+            "targetRectangle" : {
+              "y" : 267.07207489013672,
+              "x" : 958.27167129516602,
+              "width" : 52.460819244384766,
+              "height" : 52.460807800292969
             }
           }
         ],
@@ -761,7 +761,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
+                      "texture" : "C34340EBAEF2104D59353E7DB3E8FF47"
                     }
                   ]
                 }
@@ -2325,7 +2325,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "28125ABE8709E5B26D7DA703988471D3"
+                      "texture" : "6A75014F098483DD95C044D0284AC0EC"
                     }
                   ]
                 }

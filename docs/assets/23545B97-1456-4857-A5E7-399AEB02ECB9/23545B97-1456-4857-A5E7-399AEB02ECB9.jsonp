@@ -44,6 +44,20 @@ local_slide( {
         "width" : 298,
         "height" : 297
       },
+      "ED883E0CE0AE19EC838081D1E256A25E" : {
+        "type" : "texture",
+        "index" : 7,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/23545B97-1456-4857-A5E7-399AEB02ECB9.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "B4E078681ACB7A0AF0EF5631BCEC2FB7" : {
         "type" : "texture",
         "index" : 6,
@@ -86,7 +100,7 @@ local_slide( {
         "width" : 514,
         "height" : 84
       },
-      "12154970A881768114121162E3F2D1E5" : {
+      "F87472870AE041B82329E445BA19BC50" : {
         "type" : "texture",
         "index" : 5,
         "assetRequest" : {
@@ -100,21 +114,7 @@ local_slide( {
         "width" : 26,
         "height" : 20
       },
-      "38A380C457A14D946C2122A8F8398BD0" : {
-        "type" : "texture",
-        "index" : 7,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/23545B97-1456-4857-A5E7-399AEB02ECB9.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
-      "72424E553FED32E132956EAE469278A9" : {
+      "279564AEEE8EEAAA86E676D777D4EFA0" : {
         "type" : "texture",
         "index" : 8,
         "assetRequest" : {
@@ -310,7 +310,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "38A380C457A14D946C2122A8F8398BD0"
+                      "texture" : "ED883E0CE0AE19EC838081D1E256A25E"
                     },
                     {
                       "animations" : [
@@ -391,7 +391,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "72424E553FED32E132956EAE469278A9"
+                      "texture" : "279564AEEE8EEAAA86E676D777D4EFA0"
                     }
                   ]
                 }
@@ -412,21 +412,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Threat Model",
+            "text" : "Patterns",
             "targetRectangle" : {
-              "y" : 510,
+              "y" : 411,
               "x" : 468,
-              "width" : 512.97839999999997,
-              "height" : 111.56034240722659
-            }
-          },
-          {
-            "text" : "ic_action_lock_closed.png",
-            "targetRectangle" : {
-              "y" : 192.58404541015625,
-              "x" : 198.08695983886719,
-              "width" : 166.83197021484375,
-              "height" : 166.83193969726562
+              "width" : 241.8134765625,
+              "height" : 63
             }
           },
           {
@@ -448,12 +439,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Patterns",
+            "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
-              "y" : 411,
+              "y" : 192.58404541015625,
+              "x" : 198.08695983886719,
+              "width" : 166.83197021484375,
+              "height" : 166.83193969726562
+            }
+          },
+          {
+            "text" : "Threat Model",
+            "targetRectangle" : {
+              "y" : 510,
               "x" : 468,
-              "width" : 241.8134765625,
-              "height" : 63
+              "width" : 512.97839999999997,
+              "height" : 111.56034240722659
             }
           }
         ],
@@ -1639,7 +1639,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "12154970A881768114121162E3F2D1E5"
+                      "texture" : "F87472870AE041B82329E445BA19BC50"
                     }
                   ]
                 }

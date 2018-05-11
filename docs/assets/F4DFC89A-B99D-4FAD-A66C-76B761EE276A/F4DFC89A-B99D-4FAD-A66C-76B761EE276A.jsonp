@@ -58,6 +58,20 @@ local_slide( {
         "width" : 209,
         "height" : 20
       },
+      "06CAD0799EE4AEEE27B013BE76FF82C5" : {
+        "type" : "texture",
+        "index" : 7,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/F4DFC89A-B99D-4FAD-A66C-76B761EE276A.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "640D5297D59088D46FE63A28D36F2264" : {
         "type" : "texture",
         "index" : 1,
@@ -71,20 +85,6 @@ local_slide( {
         },
         "width" : 964,
         "height" : 5
-      },
-      "6DC0248C1C0A9EA2F21545E7256F4D6C" : {
-        "type" : "texture",
-        "index" : 7,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/F4DFC89A-B99D-4FAD-A66C-76B761EE276A.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       },
       "8AD5E1741498917B5C8BD706F817875E" : {
         "type" : "texture",
@@ -310,7 +310,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "6DC0248C1C0A9EA2F21545E7256F4D6C"
+                      "texture" : "06CAD0799EE4AEEE27B013BE76FF82C5"
                     },
                     {
                       "animations" : [
@@ -429,30 +429,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
             "text" : "Entropy",
             "targetRectangle" : {
               "y" : 125,
               "x" : 36,
               "width" : 134.06399999999999,
               "height" : 48.400146484375
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 115.61112976074219,
+              "x" : 816.49993896484375,
+              "width" : 177.77781677246094,
+              "height" : 64
             }
           },
           {
@@ -501,12 +492,21 @@ local_slide( {
             }
           },
           {
-            "text" : "pasted-image.tiff",
+            "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
-              "y" : 115.61112976074219,
-              "x" : 816.49993896484375,
-              "width" : 177.77781677246094,
-              "height" : 64
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
             }
           }
         ],

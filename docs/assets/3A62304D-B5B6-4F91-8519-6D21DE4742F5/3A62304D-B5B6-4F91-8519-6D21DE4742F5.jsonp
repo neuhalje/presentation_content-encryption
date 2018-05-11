@@ -2,6 +2,20 @@ local_slide( {
   "name" : "3A62304D-B5B6-4F91-8519-6D21DE4742F5",
   "json" : {
     "assets" : {
+      "6CCAB7C18A82F7C0E3DF3D07F1C7B3CE" : {
+        "type" : "texture",
+        "index" : 19,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/3A62304D-B5B6-4F91-8519-6D21DE4742F5.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "DC3298A4FDB85E08FCD57182B759E9DB" : {
         "type" : "texture",
         "index" : 8,
@@ -15,20 +29,6 @@ local_slide( {
         },
         "width" : 137,
         "height" : 84
-      },
-      "A17781C2F9711F3457CF2C7A0C7885B3" : {
-        "type" : "texture",
-        "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/3A62304D-B5B6-4F91-8519-6D21DE4742F5.pdf"
-        },
-        "width" : 26,
-        "height" : 20
       },
       "C0D78B79BD8C8A86930412C2AE097FA2" : {
         "type" : "texture",
@@ -72,9 +72,9 @@ local_slide( {
         "width" : 209,
         "height" : 20
       },
-      "FBDC7A7D7F41F96F469B5FF9E9463E17" : {
+      "041760E38CE5BF947EEDEB3024EC7C1F" : {
         "type" : "texture",
-        "index" : 19,
+        "index" : 13,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -83,8 +83,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/3A62304D-B5B6-4F91-8519-6D21DE4742F5.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 55,
+        "height" : 123
       },
       "4B288DE16ECB20123F7F0192AEB3F896" : {
         "type" : "texture",
@@ -100,20 +100,6 @@ local_slide( {
         "width" : 463,
         "height" : 103
       },
-      "041760E38CE5BF947EEDEB3024EC7C1F" : {
-        "type" : "texture",
-        "index" : 13,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/3A62304D-B5B6-4F91-8519-6D21DE4742F5.pdf"
-        },
-        "width" : 55,
-        "height" : 123
-      },
       "C8DDAB6DDFBD74EC0BEA99428F45F98F" : {
         "type" : "texture",
         "index" : 16,
@@ -127,20 +113,6 @@ local_slide( {
         },
         "width" : 94,
         "height" : 110
-      },
-      "00911F6A15962C8C4F8553E004F99ECD" : {
-        "type" : "texture",
-        "index" : 18,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/3A62304D-B5B6-4F91-8519-6D21DE4742F5.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       },
       "57A0B64C41237617222F7F1FB4984346" : {
         "type" : "texture",
@@ -226,9 +198,9 @@ local_slide( {
         "width" : 49,
         "height" : 73
       },
-      "745C4C1C86858BD45DBA13B52128B0AE" : {
+      "041487B834188B2D7C834F73E6377638" : {
         "type" : "texture",
-        "index" : 6,
+        "index" : 18,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -237,8 +209,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/3A62304D-B5B6-4F91-8519-6D21DE4742F5.pdf"
         },
-        "width" : 957,
-        "height" : 179
+        "width" : 1024,
+        "height" : 768
       },
       "16B44769BBCEA7D7F937A636E7717AC8" : {
         "type" : "texture",
@@ -267,6 +239,34 @@ local_slide( {
         },
         "width" : 55,
         "height" : 123
+      },
+      "9D508B017A6C136D76F92794F61D9535" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/3A62304D-B5B6-4F91-8519-6D21DE4742F5.pdf"
+        },
+        "width" : 26,
+        "height" : 20
+      },
+      "745C4C1C86858BD45DBA13B52128B0AE" : {
+        "type" : "texture",
+        "index" : 6,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/3A62304D-B5B6-4F91-8519-6D21DE4742F5.pdf"
+        },
+        "width" : 957,
+        "height" : 179
       },
       "7482AB7FD2A4AF1562527293F028FBD8" : {
         "type" : "texture",
@@ -876,12 +876,75 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Application",
+            "targetRectangle" : {
+              "y" : 375.62199401855469,
+              "x" : 214.48091751098633,
+              "width" : 110.88,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Your Company",
+            "targetRectangle" : {
+              "y" : 223.81233215332031,
+              "x" : 200.9914260864258,
+              "width" : 135.79999999999995,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 197.61233520507812,
+              "x" : 354.82037353515625,
+              "width" : 134,
+              "height" : 80.400001525878906
+            }
+          },
+          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
               "x" : 964.57660043239594,
               "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Cloud Provider",
+            "targetRectangle" : {
+              "y" : 493.11529541015625,
+              "x" : 195.51091751098633,
+              "width" : 148.81999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 446.05596923828125,
+              "x" : 354.82037353515625,
+              "width" : 134,
+              "height" : 70.517501831054688
             }
           },
           {
@@ -909,69 +972,6 @@ local_slide( {
               "x" : 55.786430358886719,
               "width" : 953.15600000000063,
               "height" : 46
-            }
-          },
-          {
-            "text" : "Your Company",
-            "targetRectangle" : {
-              "y" : 223.81233215332031,
-              "x" : 200.9914260864258,
-              "width" : 135.79999999999995,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 446.05596923828125,
-              "x" : 354.82037353515625,
-              "width" : 134,
-              "height" : 70.517501831054688
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 197.61233520507812,
-              "x" : 354.82037353515625,
-              "width" : 134,
-              "height" : 80.400001525878906
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Application",
-            "targetRectangle" : {
-              "y" : 375.62199401855469,
-              "x" : 214.48091751098633,
-              "width" : 110.88,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Cloud Provider",
-            "targetRectangle" : {
-              "y" : 493.11529541015625,
-              "x" : 195.51091751098633,
-              "width" : 148.81999999999996,
-              "height" : 28.40008544921875
             }
           }
         ],
@@ -1975,7 +1975,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A17781C2F9711F3457CF2C7A0C7885B3"
+                      "texture" : "9D508B017A6C136D76F92794F61D9535"
                     }
                   ]
                 }
@@ -7797,12 +7797,75 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Application",
+            "targetRectangle" : {
+              "y" : 375.62199401855469,
+              "x" : 214.48091751098633,
+              "width" : 110.88,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Your Company",
+            "targetRectangle" : {
+              "y" : 223.81233215332031,
+              "x" : 200.9914260864258,
+              "width" : 135.79999999999995,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 197.61233520507812,
+              "x" : 354.82037353515625,
+              "width" : 134,
+              "height" : 80.400001525878906
+            }
+          },
+          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
               "x" : 964.57660043239594,
               "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Cloud Provider",
+            "targetRectangle" : {
+              "y" : 493.11529541015625,
+              "x" : 195.51091751098633,
+              "width" : 148.81999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 446.05596923828125,
+              "x" : 354.82037353515625,
+              "width" : 134,
+              "height" : 70.517501831054688
             }
           },
           {
@@ -7830,69 +7893,6 @@ local_slide( {
               "x" : 55.786430358886719,
               "width" : 953.15600000000063,
               "height" : 46
-            }
-          },
-          {
-            "text" : "Your Company",
-            "targetRectangle" : {
-              "y" : 223.81233215332031,
-              "x" : 200.9914260864258,
-              "width" : 135.79999999999995,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 446.05596923828125,
-              "x" : 354.82037353515625,
-              "width" : 134,
-              "height" : 70.517501831054688
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 197.61233520507812,
-              "x" : 354.82037353515625,
-              "width" : 134,
-              "height" : 80.400001525878906
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Application",
-            "targetRectangle" : {
-              "y" : 375.62199401855469,
-              "x" : 214.48091751098633,
-              "width" : 110.88,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Cloud Provider",
-            "targetRectangle" : {
-              "y" : 493.11529541015625,
-              "x" : 195.51091751098633,
-              "width" : 148.81999999999996,
-              "height" : 28.40008544921875
             }
           }
         ],
@@ -8896,7 +8896,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A17781C2F9711F3457CF2C7A0C7885B3"
+                      "texture" : "9D508B017A6C136D76F92794F61D9535"
                     }
                   ]
                 }
@@ -14887,83 +14887,11 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Watch for legal compulsions of your providers",
-            "targetRectangle" : {
-              "y" : 544.33648443222046,
-              "x" : 55.786430358886719,
-              "width" : 759.62800000000016,
-              "height" : 47
-            }
-          },
-          {
-            "text" : "A warrant can include all data — including keys",
-            "targetRectangle" : {
-              "y" : 591.33648443222046,
-              "x" : 55.786430358886719,
-              "width" : 762.4499999999997,
-              "height" : 47
-            }
-          },
-          {
-            "text" : "PS: You will most likely never know that your keys are lost",
-            "targetRectangle" : {
-              "y" : 685.33648443222046,
-              "x" : 55.786430358886719,
-              "width" : 953.15600000000063,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "?",
-            "targetRectangle" : {
-              "y" : 397.52813732624054,
-              "x" : 588.22320556640625,
-              "width" : 34.398000000000025,
-              "height" : 86
-            }
-          },
-          {
-            "text" : "Your Company",
-            "targetRectangle" : {
-              "y" : 223.81233215332031,
-              "x" : 200.9914260864258,
-              "width" : 135.79999999999995,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 446.05596923828125,
-              "x" : 354.82037353515625,
-              "width" : 134,
-              "height" : 70.517501831054688
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 197.61233520507812,
-              "x" : 354.82037353515625,
-              "width" : 134,
-              "height" : 80.400001525878906
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
+            "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
               "height" : 28
             }
           },
@@ -14995,11 +14923,38 @@ local_slide( {
             }
           },
           {
-            "text" : "Jens Neuhalfen",
+            "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Your Company",
+            "targetRectangle" : {
+              "y" : 223.81233215332031,
+              "x" : 200.9914260864258,
+              "width" : 135.79999999999995,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 197.61233520507812,
+              "x" : 354.82037353515625,
+              "width" : 134,
+              "height" : 80.400001525878906
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
             }
           },
@@ -15010,6 +14965,51 @@ local_slide( {
               "x" : 195.51091751098633,
               "width" : 148.81999999999996,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "?",
+            "targetRectangle" : {
+              "y" : 397.52813732624054,
+              "x" : 588.22320556640625,
+              "width" : 34.398000000000025,
+              "height" : 86
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 446.05596923828125,
+              "x" : 354.82037353515625,
+              "width" : 134,
+              "height" : 70.517501831054688
+            }
+          },
+          {
+            "text" : "Watch for legal compulsions of your providers",
+            "targetRectangle" : {
+              "y" : 544.33648443222046,
+              "x" : 55.786430358886719,
+              "width" : 759.62800000000016,
+              "height" : 47
+            }
+          },
+          {
+            "text" : "A warrant can include all data — including keys",
+            "targetRectangle" : {
+              "y" : 591.33648443222046,
+              "x" : 55.786430358886719,
+              "width" : 762.4499999999997,
+              "height" : 47
+            }
+          },
+          {
+            "text" : "PS: You will most likely never know that your keys are lost",
+            "targetRectangle" : {
+              "y" : 685.33648443222046,
+              "x" : 55.786430358886719,
+              "width" : 953.15600000000063,
+              "height" : 46
             }
           }
         ],
@@ -16013,7 +16013,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A17781C2F9711F3457CF2C7A0C7885B3"
+                      "texture" : "9D508B017A6C136D76F92794F61D9535"
                     }
                   ]
                 }
@@ -21057,12 +21057,84 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Jens Neuhalfen",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Application",
+            "targetRectangle" : {
+              "y" : 375.62199401855469,
+              "x" : 214.48091751098633,
+              "width" : 110.88,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "Who owns the key?",
+            "targetRectangle" : {
+              "y" : 181.45477294921875,
+              "x" : 773.46895551681519,
+              "width" : 223.20000000000005,
+              "height" : 108
+            }
+          },
+          {
+            "text" : "Sleep Better with Content Encryption",
+            "targetRectangle" : {
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Your Company",
+            "targetRectangle" : {
+              "y" : 223.81233215332031,
+              "x" : 200.9914260864258,
+              "width" : 135.79999999999995,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 197.61233520507812,
+              "x" : 354.82037353515625,
+              "width" : 134,
+              "height" : 80.400001525878906
+            }
+          },
+          {
             "text" : "￼",
             "targetRectangle" : {
               "y" : 38,
               "x" : 964.57660043239594,
               "width" : 23.0390625,
               "height" : 28
+            }
+          },
+          {
+            "text" : "Cloud Provider",
+            "targetRectangle" : {
+              "y" : 493.11529541015625,
+              "x" : 195.51091751098633,
+              "width" : 148.81999999999996,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 446.05596923828125,
+              "x" : 354.82037353515625,
+              "width" : 134,
+              "height" : 70.517501831054688
             }
           },
           {
@@ -21090,78 +21162,6 @@ local_slide( {
               "x" : 55.786430358886719,
               "width" : 953.15600000000063,
               "height" : 46
-            }
-          },
-          {
-            "text" : "Your Company",
-            "targetRectangle" : {
-              "y" : 223.81233215332031,
-              "x" : 200.9914260864258,
-              "width" : 135.79999999999995,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 446.05596923828125,
-              "x" : 354.82037353515625,
-              "width" : 134,
-              "height" : 70.517501831054688
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 197.61233520507812,
-              "x" : 354.82037353515625,
-              "width" : 134,
-              "height" : 80.400001525878906
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Application",
-            "targetRectangle" : {
-              "y" : 375.62199401855469,
-              "x" : 214.48091751098633,
-              "width" : 110.88,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "Who owns the key?",
-            "targetRectangle" : {
-              "y" : 181.45477294921875,
-              "x" : 773.46895551681519,
-              "width" : 223.20000000000005,
-              "height" : 108
-            }
-          },
-          {
-            "text" : "Jens Neuhalfen",
-            "targetRectangle" : {
-              "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Cloud Provider",
-            "targetRectangle" : {
-              "y" : 493.11529541015625,
-              "x" : 195.51091751098633,
-              "width" : 148.81999999999996,
-              "height" : 28.40008544921875
             }
           }
         ],
@@ -22165,7 +22165,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A17781C2F9711F3457CF2C7A0C7885B3"
+                      "texture" : "9D508B017A6C136D76F92794F61D9535"
                     }
                   ]
                 }
@@ -28531,74 +28531,11 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Watch for legal compulsions of your providers",
-            "targetRectangle" : {
-              "y" : 544.33648443222046,
-              "x" : 55.786430358886719,
-              "width" : 759.62800000000016,
-              "height" : 47
-            }
-          },
-          {
-            "text" : "A warrant can include all data — including keys",
-            "targetRectangle" : {
-              "y" : 591.33648443222046,
-              "x" : 55.786430358886719,
-              "width" : 762.4499999999997,
-              "height" : 47
-            }
-          },
-          {
-            "text" : "PS: You will most likely never know that your keys are lost",
-            "targetRectangle" : {
-              "y" : 685.33648443222046,
-              "x" : 55.786430358886719,
-              "width" : 953.15600000000063,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Your Company",
-            "targetRectangle" : {
-              "y" : 223.81233215332031,
-              "x" : 200.9914260864258,
-              "width" : 135.79999999999995,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 446.05596923828125,
-              "x" : 354.82037353515625,
-              "width" : 134,
-              "height" : 70.517501831054688
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 197.61233520507812,
-              "x" : 354.82037353515625,
-              "width" : 134,
-              "height" : 80.400001525878906
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
+            "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
               "height" : 28
             }
           },
@@ -28630,11 +28567,38 @@ local_slide( {
             }
           },
           {
-            "text" : "Jens Neuhalfen",
+            "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Your Company",
+            "targetRectangle" : {
+              "y" : 223.81233215332031,
+              "x" : 200.9914260864258,
+              "width" : 135.79999999999995,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 197.61233520507812,
+              "x" : 354.82037353515625,
+              "width" : 134,
+              "height" : 80.400001525878906
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
             }
           },
@@ -28645,6 +28609,42 @@ local_slide( {
               "x" : 195.51091751098633,
               "width" : 148.81999999999996,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 446.05596923828125,
+              "x" : 354.82037353515625,
+              "width" : 134,
+              "height" : 70.517501831054688
+            }
+          },
+          {
+            "text" : "Watch for legal compulsions of your providers",
+            "targetRectangle" : {
+              "y" : 544.33648443222046,
+              "x" : 55.786430358886719,
+              "width" : 759.62800000000016,
+              "height" : 47
+            }
+          },
+          {
+            "text" : "A warrant can include all data — including keys",
+            "targetRectangle" : {
+              "y" : 591.33648443222046,
+              "x" : 55.786430358886719,
+              "width" : 762.4499999999997,
+              "height" : 47
+            }
+          },
+          {
+            "text" : "PS: You will most likely never know that your keys are lost",
+            "targetRectangle" : {
+              "y" : 685.33648443222046,
+              "x" : 55.786430358886719,
+              "width" : 953.15600000000063,
+              "height" : 46
             }
           }
         ],
@@ -29648,7 +29648,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A17781C2F9711F3457CF2C7A0C7885B3"
+                      "texture" : "9D508B017A6C136D76F92794F61D9535"
                     }
                   ]
                 }
@@ -34563,7 +34563,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "00911F6A15962C8C4F8553E004F99ECD"
+                      "texture" : "041487B834188B2D7C834F73E6377638"
                     },
                     {
                       "animations" : [
@@ -34644,7 +34644,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "FBDC7A7D7F41F96F469B5FF9E9463E17"
+                      "texture" : "6CCAB7C18A82F7C0E3DF3D07F1C7B3CE"
                     }
                   ]
                 }
@@ -34665,74 +34665,11 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "￼",
-            "targetRectangle" : {
-              "y" : 38,
-              "x" : 964.57660043239594,
-              "width" : 23.0390625,
-              "height" : 28
-            }
-          },
-          {
-            "text" : "Watch for legal compulsions of your providers",
-            "targetRectangle" : {
-              "y" : 544.33648443222046,
-              "x" : 55.786430358886719,
-              "width" : 759.62800000000016,
-              "height" : 47
-            }
-          },
-          {
-            "text" : "A warrant can include all data — including keys",
-            "targetRectangle" : {
-              "y" : 591.33648443222046,
-              "x" : 55.786430358886719,
-              "width" : 762.4499999999997,
-              "height" : 47
-            }
-          },
-          {
-            "text" : "PS: You will most likely never know that your keys are lost",
-            "targetRectangle" : {
-              "y" : 685.33648443222046,
-              "x" : 55.786430358886719,
-              "width" : 953.15600000000063,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Your Company",
-            "targetRectangle" : {
-              "y" : 223.81233215332031,
-              "x" : 200.9914260864258,
-              "width" : 135.79999999999995,
-              "height" : 28.40008544921875
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 446.05596923828125,
-              "x" : 354.82037353515625,
-              "width" : 134,
-              "height" : 70.517501831054688
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : 197.61233520507812,
-              "x" : 354.82037353515625,
-              "width" : 134,
-              "height" : 80.400001525878906
-            }
-          },
-          {
-            "text" : "Sleep Better with Content Encryption",
+            "text" : "Jens Neuhalfen",
             "targetRectangle" : {
               "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
+              "x" : 700.49374979734421,
+              "width" : 208.70625025033951,
               "height" : 28
             }
           },
@@ -34764,11 +34701,38 @@ local_slide( {
             }
           },
           {
-            "text" : "Jens Neuhalfen",
+            "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
               "y" : 40,
-              "x" : 700.49374979734421,
-              "width" : 208.70625025033951,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
+            }
+          },
+          {
+            "text" : "Your Company",
+            "targetRectangle" : {
+              "y" : 223.81233215332031,
+              "x" : 200.9914260864258,
+              "width" : 135.79999999999995,
+              "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 197.61233520507812,
+              "x" : 354.82037353515625,
+              "width" : 134,
+              "height" : 80.400001525878906
+            }
+          },
+          {
+            "text" : "￼",
+            "targetRectangle" : {
+              "y" : 38,
+              "x" : 964.57660043239594,
+              "width" : 23.0390625,
               "height" : 28
             }
           },
@@ -34779,6 +34743,42 @@ local_slide( {
               "x" : 195.51091751098633,
               "width" : 148.81999999999996,
               "height" : 28.40008544921875
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 446.05596923828125,
+              "x" : 354.82037353515625,
+              "width" : 134,
+              "height" : 70.517501831054688
+            }
+          },
+          {
+            "text" : "Watch for legal compulsions of your providers",
+            "targetRectangle" : {
+              "y" : 544.33648443222046,
+              "x" : 55.786430358886719,
+              "width" : 759.62800000000016,
+              "height" : 47
+            }
+          },
+          {
+            "text" : "A warrant can include all data — including keys",
+            "targetRectangle" : {
+              "y" : 591.33648443222046,
+              "x" : 55.786430358886719,
+              "width" : 762.4499999999997,
+              "height" : 47
+            }
+          },
+          {
+            "text" : "PS: You will most likely never know that your keys are lost",
+            "targetRectangle" : {
+              "y" : 685.33648443222046,
+              "x" : 55.786430358886719,
+              "width" : 953.15600000000063,
+              "height" : 46
             }
           }
         ],
@@ -35783,7 +35783,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A17781C2F9711F3457CF2C7A0C7885B3"
+                      "texture" : "9D508B017A6C136D76F92794F61D9535"
                     }
                   ]
                 }

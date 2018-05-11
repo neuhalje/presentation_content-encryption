@@ -16,7 +16,7 @@
     },
     "91F944AD40FC7D9C349E50C78B4AE375" : {
       "type" : "texture",
-      "index" : 13,
+      "index" : 12,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -56,20 +56,6 @@
       "width" : 863,
       "height" : 510
     },
-    "E4018B19409D81DB3CA57499E63B6446" : {
-      "type" : "texture",
-      "index" : 0,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/99835FA5-6C15-4DB5-8FC0-DF37A0ABEA74.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
     "4703BB1A48BA8F6555947DEB7EC4542C" : {
       "type" : "texture",
       "index" : 6,
@@ -86,7 +72,7 @@
     },
     "FBB5DEA59905EE30EF2803B0A74DF992" : {
       "type" : "texture",
-      "index" : 11,
+      "index" : 0,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -125,6 +111,20 @@
       },
       "width" : 209,
       "height" : 20
+    },
+    "049FB2C4DFD5F88379BC21EFB4C70D33" : {
+      "type" : "texture",
+      "index" : 11,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/99835FA5-6C15-4DB5-8FC0-DF37A0ABEA74.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     },
     "EEB371D286D398848698ED0D0E3793D6" : {
       "type" : "texture",
@@ -181,20 +181,6 @@
       },
       "width" : 463,
       "height" : 42
-    },
-    "049FB2C4DFD5F88379BC21EFB4C70D33" : {
-      "type" : "texture",
-      "index" : 12,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/99835FA5-6C15-4DB5-8FC0-DF37A0ABEA74.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
     }
   },
   "events" : [
@@ -488,12 +474,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "Dido Harding (here still) CEO of Talk Talk",
+          "text" : "Screen Shot 2018-04-25 at 09.05.58.png",
           "targetRectangle" : {
-            "y" : 675.22924834489822,
-            "x" : 324.579345703125,
-            "width" : 393.33999999999969,
-            "height" : 27
+            "y" : 163.04391479492188,
+            "x" : 91.4986572265625,
+            "width" : 860.5013427734375,
+            "height" : 507.9056396484375
           }
         },
         {
@@ -524,21 +510,21 @@
           }
         },
         {
-          "text" : "Ask the competition  Pt. 1 (A)",
-          "targetRectangle" : {
-            "y" : 125,
-            "x" : 36,
-            "width" : 463.05599999999993,
-            "height" : 48.400146484375
-          }
-        },
-        {
           "text" : "Sleep Better with Content Encryption",
           "targetRectangle" : {
             "y" : 40,
             "x" : 36,
             "width" : 498.60234439373016,
             "height" : 28
+          }
+        },
+        {
+          "text" : "Ask the competition  Pt. 1 (A)",
+          "targetRectangle" : {
+            "y" : 125,
+            "x" : 36,
+            "width" : 463.05599999999993,
+            "height" : 48.400146484375
           }
         },
         {
@@ -551,12 +537,12 @@
           }
         },
         {
-          "text" : "Screen Shot 2018-04-25 at 09.05.58.png",
+          "text" : "Dido Harding (here still) CEO of Talk Talk",
           "targetRectangle" : {
-            "y" : 163.04391479492188,
-            "x" : 91.4986572265625,
-            "width" : 860.5013427734375,
-            "height" : 507.9056396484375
+            "y" : 675.22924834489822,
+            "x" : 324.579345703125,
+            "width" : 393.33999999999969,
+            "height" : 27
           }
         }
       ],
@@ -790,7 +776,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "E4018B19409D81DB3CA57499E63B6446"
+                    "texture" : "FBB5DEA59905EE30EF2803B0A74DF992"
                   }
                 ]
               }
@@ -3081,12 +3067,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "Dido Harding (here still) CEO of Talk Talk",
+          "text" : "Screen Shot 2018-04-25 at 09.05.58.png",
           "targetRectangle" : {
-            "y" : 675.22924834489822,
-            "x" : 324.579345703125,
-            "width" : 393.33999999999969,
-            "height" : 27
+            "y" : 163.04391479492188,
+            "x" : 91.4986572265625,
+            "width" : 860.5013427734375,
+            "height" : 507.9056396484375
           }
         },
         {
@@ -3117,6 +3103,15 @@
           }
         },
         {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "Ask the competition  Pt. 1 (A)",
           "targetRectangle" : {
             "y" : 125,
@@ -3144,15 +3139,6 @@
           }
         },
         {
-          "text" : "Sleep Better with Content Encryption",
-          "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
-          }
-        },
-        {
           "text" : "Jens Neuhalfen",
           "targetRectangle" : {
             "y" : 40,
@@ -3162,12 +3148,12 @@
           }
         },
         {
-          "text" : "Screen Shot 2018-04-25 at 09.05.58.png",
+          "text" : "Dido Harding (here still) CEO of Talk Talk",
           "targetRectangle" : {
-            "y" : 163.04391479492188,
-            "x" : 91.4986572265625,
-            "width" : 860.5013427734375,
-            "height" : 507.9056396484375
+            "y" : 675.22924834489822,
+            "x" : 324.579345703125,
+            "width" : 393.33999999999969,
+            "height" : 27
           }
         }
       ],
@@ -5701,21 +5687,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "And you will want a happy CEO :-)",
+          "text" : "Screen Shot 2018-04-25 at 09.05.58.png",
           "targetRectangle" : {
-            "y" : 415.67112543910065,
-            "x" : 78.192584577269415,
-            "width" : 902.92424199021571,
-            "height" : 326.67327466437445
-          }
-        },
-        {
-          "text" : "Dido Harding (here still) CEO of Talk Talk",
-          "targetRectangle" : {
-            "y" : 675.22924834489822,
-            "x" : 324.579345703125,
-            "width" : 393.33999999999969,
-            "height" : 27
+            "y" : 163.04391479492188,
+            "x" : 91.4986572265625,
+            "width" : 860.5013427734375,
+            "height" : 507.9056396484375
           }
         },
         {
@@ -5746,6 +5723,15 @@
           }
         },
         {
+          "text" : "Sleep Better with Content Encryption",
+          "targetRectangle" : {
+            "y" : 40,
+            "x" : 36,
+            "width" : 498.60234439373016,
+            "height" : 28
+          }
+        },
+        {
           "text" : "Ask the competition  Pt. 1 (A)",
           "targetRectangle" : {
             "y" : 125,
@@ -5773,12 +5759,12 @@
           }
         },
         {
-          "text" : "Sleep Better with Content Encryption",
+          "text" : "And you will want a happy CEO :-)",
           "targetRectangle" : {
-            "y" : 40,
-            "x" : 36,
-            "width" : 498.60234439373016,
-            "height" : 28
+            "y" : 415.67112543910065,
+            "x" : 78.192584577269415,
+            "width" : 902.92424199021571,
+            "height" : 326.67327466437445
           }
         },
         {
@@ -5791,12 +5777,12 @@
           }
         },
         {
-          "text" : "Screen Shot 2018-04-25 at 09.05.58.png",
+          "text" : "Dido Harding (here still) CEO of Talk Talk",
           "targetRectangle" : {
-            "y" : 163.04391479492188,
-            "x" : 91.4986572265625,
-            "width" : 860.5013427734375,
-            "height" : 507.9056396484375
+            "y" : 675.22924834489822,
+            "x" : 324.579345703125,
+            "width" : 393.33999999999969,
+            "height" : 27
           }
         }
       ],

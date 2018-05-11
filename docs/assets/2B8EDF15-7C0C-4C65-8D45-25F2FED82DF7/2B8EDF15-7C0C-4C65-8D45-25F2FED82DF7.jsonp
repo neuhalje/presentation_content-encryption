@@ -30,9 +30,9 @@ local_slide( {
         "width" : 892,
         "height" : 278
       },
-      "865114B479321761EECC88AD99A0CB16" : {
+      "63A52A8A028687ADD56F71207C816542" : {
         "type" : "texture",
-        "index" : 8,
+        "index" : 9,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -58,7 +58,7 @@ local_slide( {
         "width" : 209,
         "height" : 20
       },
-      "1B7297C360CC2F1D0514CDFEC60D0538" : {
+      "A40A48E128456F894DA2E3C11F0F3DD3" : {
         "type" : "texture",
         "index" : 6,
         "assetRequest" : {
@@ -128,9 +128,9 @@ local_slide( {
         "width" : 498,
         "height" : 20
       },
-      "E423EE99F42C10B23CDCBB2A86752687" : {
+      "9DC49DFBF5D7F4C9CAA4E48AA066AE4A" : {
         "type" : "texture",
-        "index" : 9,
+        "index" : 8,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -324,7 +324,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "865114B479321761EECC88AD99A0CB16"
+                      "texture" : "9DC49DFBF5D7F4C9CAA4E48AA066AE4A"
                     },
                     {
                       "animations" : [
@@ -405,7 +405,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "E423EE99F42C10B23CDCBB2A86752687"
+                      "texture" : "63A52A8A028687ADD56F71207C816542"
                     }
                   ]
                 }
@@ -444,12 +444,12 @@ local_slide( {
             }
           },
           {
-            "text" : "ic_action_lock_closed.png",
+            "text" : "Sleep Better with Content Encryption",
             "targetRectangle" : {
-              "y" : 163.95150756835938,
-              "x" : 907.19384002685547,
-              "width" : 83.725074768066406,
-              "height" : 83.725067138671875
+              "y" : 40,
+              "x" : 36,
+              "width" : 498.60234439373016,
+              "height" : 28
             }
           },
           {
@@ -507,12 +507,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Sleep Better with Content Encryption",
+            "text" : "ic_action_lock_closed.png",
             "targetRectangle" : {
-              "y" : 40,
-              "x" : 36,
-              "width" : 498.60234439373016,
-              "height" : 28
+              "y" : 163.95150756835938,
+              "x" : 907.19384002685547,
+              "width" : 83.725074768066406,
+              "height" : 83.725067138671875
             }
           }
         ],
@@ -1937,7 +1937,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "1B7297C360CC2F1D0514CDFEC60D0538"
+                      "texture" : "A40A48E128456F894DA2E3C11F0F3DD3"
                     }
                   ]
                 }
