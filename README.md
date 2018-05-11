@@ -25,7 +25,7 @@ Where
 Slides
 ==========
 
-Here are some example slides. The whole presentation (Keynote) can be found [here](./slides/Neuhalfen_Content-Encryption.key). A [pdf export](./_exports/Neuhalfen_Content-Encryption.pdf) is also available. You can view the slides [in your browser](https://neuhalje.github.io/presentation_content-encryption/).
+Here are some example slides. The whole presentation (Keynote) can be found [here](./slides/Neuhalfen_Content-Encryption.key). A [pdf export](./Neuhalfen_Content-Encryption.pdf) is also available. You can view the slides [in your browser](https://neuhalje.github.io/presentation_content-encryption/).
 
 
 ![Topic Slide](README.inc/Neuhalfen_Content-Encryption.001.jpeg)
