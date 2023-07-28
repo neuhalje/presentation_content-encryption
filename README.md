@@ -3,14 +3,14 @@
 Sleep Better With Content Encryption
 ======================================
 
-Content encryption can secure data even when the database has left the company. Effective content encryption not only makes attackers life harder, it also provides sound sleep for management, OPs, and everybody else responsible for data.
+Cryptography can secure data even when the database has left the company. Effective cryptography not only makes attackers life harder, it also provides sound sleep for management, OPs, and everybody else responsible for data.
 
 But there is another, equally important side:
 Microservices, Big Data, Machine Learning — these are the buzzwords that make a developers eye gleam.
 
 In reality these are often replaced by _Integrating legacy systems_, _file based data exchange via ftp_, and _laws & compliance_.
 
-Content encryption and other cryptographic measures can help bring together technology and the ugly side of business. Though they are not for the careless to implement. This slide deck will give you a very short introduction into the why and how of implementing cryptography into your applications.
+Encryption and other cryptographic measures can help bring together technology and the ugly side of business. Though they are not for the careless to implement. This slide deck will give you a very short introduction into the why and how of implementing cryptography into your applications.
 
 You might even push _snooze_ on your alarm clock when the next _Heartbleed_ hits the news.
 
